@@ -46,7 +46,7 @@ for (let name of Object.keys(mods)) {
                 }
             })
         }
-    ));
+    ,"","\t"));
 
     source.mods.push({
         name,
@@ -56,4 +56,4 @@ for (let name of Object.keys(mods)) {
 }
 
 
-writeFileSync("./BeatModsSource/beatmods.lithium.source.json",JSON.stringify(source))
+writeFileSync("./BeatModsSource/beatmods.lithium.source.json",JSON.stringify(source,"","\t"))
