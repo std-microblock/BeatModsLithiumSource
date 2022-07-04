@@ -1,1 +1,17 @@
-{"name":"Harmony","author":"Kyle 1413","description":"This entry exists only for dependencies. The library actually exists in BSIPA.","versions":[{"version":"1.2.1","downloads":{"universal":"https://beatmods.com//uploads/5cfe54cd0a8c00640fb97069/universal/Harmony-1.2.1.zip"},"requiredGameVersion":"~1.1.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.13"}}]}
+{
+	"name": "Harmony",
+	"author": "Kyle 1413",
+	"description": "This entry exists only for dependencies. The library actually exists in BSIPA.",
+	"versions": [
+		{
+			"version": "1.2.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5cfe54cd0a8c00640fb97069/universal/Harmony-1.2.1.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.13"
+			}
+		}
+	]
+}

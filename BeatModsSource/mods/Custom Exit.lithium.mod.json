@@ -1,1 +1,30 @@
-{"name":"Custom Exit","author":"Shoko84","description":"Displays a panel to confirm that you really really want to exit Beat Saber.","versions":[{"version":"1.2.3","downloads":{"universal":"https://beatmods.com//uploads/5e8064a003dce96ca6cf0d6b/universal/Custom Exit-1.2.3.zip"},"requiredGameVersion":"~1.8.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.2.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.4"}},{"version":"1.2.2","downloads":{"universal":"https://beatmods.com//uploads/5e17f340e7c24e19d5cc7d58/universal/Custom Exit-1.2.2.zip"},"requiredGameVersion":"~1.6.1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.13.7","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.1.2"}}]}
+{
+	"name": "Custom Exit",
+	"author": "Shoko84",
+	"description": "Displays a panel to confirm that you really really want to exit Beat Saber.",
+	"versions": [
+		{
+			"version": "1.2.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e8064a003dce96ca6cf0d6b/universal/Custom Exit-1.2.3.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.2.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.4"
+			}
+		},
+		{
+			"version": "1.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e17f340e7c24e19d5cc7d58/universal/Custom Exit-1.2.2.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.13.7",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.1.2"
+			}
+		}
+	]
+}

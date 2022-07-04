@@ -1,1 +1,882 @@
-{"name":"BeatMods","author":"vanZeben and contributors","mods":[{"name":"Arcgap","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Arcgap.lithium.mod.json"},{"name":"BSIPA","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"},{"name":"SongCore","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"},{"name":"Camera2","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Camera2.lithium.mod.json"},{"name":"ScoreSaber","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaber.lithium.mod.json"},{"name":"MorePlaylists","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MorePlaylists.lithium.mod.json"},{"name":"BeatSaverUpdater","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverUpdater.lithium.mod.json"},{"name":"PlaylistManager","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PlaylistManager.lithium.mod.json"},{"name":"BeatSaverDownloader","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverDownloader.lithium.mod.json"},{"name":"BeatSaverVoting","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverVoting.lithium.mod.json"},{"name":"ModelDownloader","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ModelDownloader.lithium.mod.json"},{"name":"CameraPlus","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraPlus.lithium.mod.json"},{"name":"SiraLocalizer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraLocalizer.lithium.mod.json"},{"name":"PlaylistLoaderLite","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PlaylistLoaderLite.lithium.mod.json"},{"name":"BSIPA Mod List","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA Mod List.lithium.mod.json"},{"name":"SongLoader","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"},{"name":"HighlightBombs","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HighlightBombs.lithium.mod.json"},{"name":"Cinema","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Cinema.lithium.mod.json"},{"name":"Custom Platforms","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Platforms.lithium.mod.json"},{"name":"MenuSaberColors","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MenuSaberColors.lithium.mod.json"},{"name":"MenuPillars","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MenuPillars.lithium.mod.json"},{"name":"Nya","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nya.lithium.mod.json"},{"name":"Greetings","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Greetings.lithium.mod.json"},{"name":"AdBlocker","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AdBlocker.lithium.mod.json"},{"name":"ImageFactory","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageFactory.lithium.mod.json"},{"name":"Custom Avatars","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Avatars.lithium.mod.json"},{"name":"Custom Notes","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Notes.lithium.mod.json"},{"name":"Particle Overdrive","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Particle Overdrive.lithium.mod.json"},{"name":"Custom Walls","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Walls.lithium.mod.json"},{"name":"Saber Factory","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Saber Factory.lithium.mod.json"},{"name":"BeatSaberPresence","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPresence.lithium.mod.json"},{"name":"Custom Energy Bars","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Energy Bars.lithium.mod.json"},{"name":"CustomBanners","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomBanners.lithium.mod.json"},{"name":"DiSounds","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiSounds.lithium.mod.json"},{"name":"SpectroSaber","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SpectroSaber.lithium.mod.json"},{"name":"Music Video Player","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Music Video Player.lithium.mod.json"},{"name":"Custom Sabers","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Sabers.lithium.mod.json"},{"name":"CustomWalls","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomWalls.lithium.mod.json"},{"name":"CustomMenuPointers","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMenuPointers.lithium.mod.json"},{"name":"Yeet Debris","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Yeet Debris.lithium.mod.json"},{"name":"Note Cut Minimizer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Note Cut Minimizer.lithium.mod.json"},{"name":"Bloom Mod","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Bloom Mod.lithium.mod.json"},{"name":"CustomMenuText","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMenuText.lithium.mod.json"},{"name":"Scoreboard Stylist","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Scoreboard Stylist.lithium.mod.json"},{"name":"Random Sabers","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Random Sabers.lithium.mod.json"},{"name":"Custom Colors","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Colors.lithium.mod.json"},{"name":"MusicEscape","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MusicEscape.lithium.mod.json"},{"name":"NoodleExtensions","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoodleExtensions.lithium.mod.json"},{"name":"MappingExtensions","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MappingExtensions.lithium.mod.json"},{"name":"Claws","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Claws.lithium.mod.json"},{"name":"360fyer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/360fyer.lithium.mod.json"},{"name":"Custom Campaigns","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Campaigns.lithium.mod.json"},{"name":"InstaFailAccuracy","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/InstaFailAccuracy.lithium.mod.json"},{"name":"Alternative Play","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Alternative Play.lithium.mod.json"},{"name":"BailOutMode","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BailOutMode.lithium.mod.json"},{"name":"TrickSaber","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TrickSaber.lithium.mod.json"},{"name":"RandomSongPlayer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/RandomSongPlayer.lithium.mod.json"},{"name":"DarthMaul","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DarthMaul.lithium.mod.json"},{"name":"NoArrowsRandom","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoArrowsRandom.lithium.mod.json"},{"name":"BeatSpearSupport","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSpearSupport.lithium.mod.json"},{"name":"EndlessMode","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EndlessMode.lithium.mod.json"},{"name":"Nova's Fuckery","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nova's Fuckery.lithium.mod.json"},{"name":"GameplayModifiersPlus","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/GameplayModifiersPlus.lithium.mod.json"},{"name":"GameplayRestrictionsPlus","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/GameplayRestrictionsPlus.lithium.mod.json"},{"name":"Hidden Blocks","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hidden Blocks.lithium.mod.json"},{"name":"CustomJSONData","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"},{"name":"BeatSaberMarkupLanguage","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"},{"name":"yt-dlp","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"},{"name":"CatCore","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"},{"name":"_Heck","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"},{"name":"BeatSaberPlaylistsLib","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"},{"name":"bHaptics","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHaptics.lithium.mod.json"},{"name":"LookupID","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LookupID.lithium.mod.json"},{"name":"SiraUtil","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"},{"name":"SongDetailsCache","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"},{"name":"ImageSharp","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageSharp.lithium.mod.json"},{"name":"BeatSaverSharp","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverSharp.lithium.mod.json"},{"name":"BS Utils","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"},{"name":"DiscordCore","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordCore.lithium.mod.json"},{"name":"DiscordGameSDK","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordGameSDK.lithium.mod.json"},{"name":"LeaderboardCore","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardCore.lithium.mod.json"},{"name":"SongDataCore","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"},{"name":"Ini Parser","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"},{"name":"CustomCampaignLeaderboardLibrary","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"},{"name":"youtube-dl","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/youtube-dl.lithium.mod.json"},{"name":"protobuf-net","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"},{"name":"FFmpeg","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FFmpeg.lithium.mod.json"},{"name":"DynamicOpenVR","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DynamicOpenVR.lithium.mod.json"},{"name":"Noodle Extensions","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Noodle Extensions.lithium.mod.json"},{"name":"websocket-sharp","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/websocket-sharp.lithium.mod.json"},{"name":"ChatCore","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ChatCore.lithium.mod.json"},{"name":"YamlDotNet","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/YamlDotNet.lithium.mod.json"},{"name":"ScoreSaberSharp","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaberSharp.lithium.mod.json"},{"name":"libSkiaSharp","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/libSkiaSharp.lithium.mod.json"},{"name":"SkiaSharp","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SkiaSharp.lithium.mod.json"},{"name":"LibConf","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json"},{"name":"CustomUI","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"},{"name":"BSML","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json"},{"name":"Nett","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nett.lithium.mod.json"},{"name":"Harmony","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"},{"name":"Stream Core","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json"},{"name":"Chroma","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Chroma.lithium.mod.json"},{"name":"Technicolor","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Technicolor.lithium.mod.json"},{"name":"BetterStaticLights","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterStaticLights.lithium.mod.json"},{"name":"PiFix","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PiFix.lithium.mod.json"},{"name":"DiColors","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiColors.lithium.mod.json"},{"name":"JustRainbowLights","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/JustRainbowLights.lithium.mod.json"},{"name":"ChromaLite","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ChromaLite.lithium.mod.json"},{"name":"MultiplayerExtensions","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerExtensions.lithium.mod.json"},{"name":"ServerBrowser","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ServerBrowser.lithium.mod.json"},{"name":"BeatTogether","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatTogether.lithium.mod.json"},{"name":"Versus","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Versus.lithium.mod.json"},{"name":"BeatSaberMultiplayer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMultiplayer.lithium.mod.json"},{"name":"bHapticsMusical","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsMusical.lithium.mod.json"},{"name":"bHapticsFunctional","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsFunctional.lithium.mod.json"},{"name":"BeatFollower","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatFollower.lithium.mod.json"},{"name":"Hitbloq","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hitbloq.lithium.mod.json"},{"name":"EnvironmentMinifier","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EnvironmentMinifier.lithium.mod.json"},{"name":"LastFmScrobbler","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LastFmScrobbler.lithium.mod.json"},{"name":"PauseMenuRotationFix","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PauseMenuRotationFix.lithium.mod.json"},{"name":"NoFailCheck","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoFailCheck.lithium.mod.json"},{"name":"BSMOTD Plus","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSMOTD Plus.lithium.mod.json"},{"name":"Discord Presence","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Discord Presence.lithium.mod.json"},{"name":"LeaderboardInSong","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardInSong.lithium.mod.json"},{"name":"PracticePlugin","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PracticePlugin.lithium.mod.json"},{"name":"Intro Skip","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Intro Skip.lithium.mod.json"},{"name":"YUR Fit Calorie Tracker","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/YUR Fit Calorie Tracker.lithium.mod.json"},{"name":"I Forgor","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/I Forgor.lithium.mod.json"},{"name":"SliceDetails","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SliceDetails.lithium.mod.json"},{"name":"HitScoreVisualizer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HitScoreVisualizer.lithium.mod.json"},{"name":"ScoreRequirement","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreRequirement.lithium.mod.json"},{"name":"SpeedyPractice","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SpeedyPractice.lithium.mod.json"},{"name":"TransparentWall","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TransparentWall.lithium.mod.json"},{"name":"PerfectionDisplay","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PerfectionDisplay.lithium.mod.json"},{"name":"StepBackWall","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/StepBackWall.lithium.mod.json"},{"name":"Perfection Display","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Perfection Display.lithium.mod.json"},{"name":"Deviation Counter","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Deviation Counter.lithium.mod.json"},{"name":"FCDisplay","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FCDisplay.lithium.mod.json"},{"name":"Link","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Link.lithium.mod.json"},{"name":"MultiCode-inator","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiCode-inator.lithium.mod.json"},{"name":"HTTP Status","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HTTP Status.lithium.mod.json"},{"name":"Enhanced Stream Chat","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Enhanced Stream Chat.lithium.mod.json"},{"name":"Song Request Manager","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Song Request Manager.lithium.mod.json"},{"name":"AlphaTwitch","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AlphaTwitch.lithium.mod.json"},{"name":"TwitchPlus","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TwitchPlus.lithium.mod.json"},{"name":"CustomFailText","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"},{"name":"CustomMissText","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMissText.lithium.mod.json"},{"name":"SmartSongSuggest","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SmartSongSuggest.lithium.mod.json"},{"name":"BetterSongSearch","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"},{"name":"HitsoundTweaks","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HitsoundTweaks.lithium.mod.json"},{"name":"OverrideEnvironmentFix","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/OverrideEnvironmentFix.lithium.mod.json"},{"name":"SmoothCamPlus","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SmoothCamPlus.lithium.mod.json"},{"name":"DataPuller","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DataPuller.lithium.mod.json"},{"name":"SoundReplacer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SoundReplacer.lithium.mod.json"},{"name":"BeatSaviorData","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaviorData.lithium.mod.json"},{"name":"EasyOffset","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EasyOffset.lithium.mod.json"},{"name":"AutoPauseStealth","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPauseStealth.lithium.mod.json"},{"name":"PlayFirst(SubmitLater)","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PlayFirst(SubmitLater).lithium.mod.json"},{"name":"JDFixer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/JDFixer.lithium.mod.json"},{"name":"Tweaks55","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Tweaks55.lithium.mod.json"},{"name":"SaberTailor","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SaberTailor.lithium.mod.json"},{"name":"Music Spatializer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Music Spatializer.lithium.mod.json"},{"name":"ControllerTweaks","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ControllerTweaks.lithium.mod.json"},{"name":"OcuFix","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/OcuFix.lithium.mod.json"},{"name":"FastFail","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FastFail.lithium.mod.json"},{"name":"BadCutType","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BadCutType.lithium.mod.json"},{"name":"LevelTweaks","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LevelTweaks.lithium.mod.json"},{"name":"Burnout","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Burnout.lithium.mod.json"},{"name":"CampaignObjectiveParticleDisabler","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CampaignObjectiveParticleDisabler.lithium.mod.json"},{"name":"SearchByMapperName","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SearchByMapperName.lithium.mod.json"},{"name":"FireworksDisabler","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FireworksDisabler.lithium.mod.json"},{"name":"Enhancements","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Enhancements.lithium.mod.json"},{"name":"ExtendedColorSchemes","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ExtendedColorSchemes.lithium.mod.json"},{"name":"NoBuzz","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoBuzz.lithium.mod.json"},{"name":"NoBoom","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoBoom.lithium.mod.json"},{"name":"RumbleMod","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/RumbleMod.lithium.mod.json"},{"name":"NoteSpawnEffectRemover","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoteSpawnEffectRemover.lithium.mod.json"},{"name":"AdaptiveSFXRemover","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AdaptiveSFXRemover.lithium.mod.json"},{"name":"SnapTurn","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SnapTurn.lithium.mod.json"},{"name":"SongInfoViewer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongInfoViewer.lithium.mod.json"},{"name":"SmoothCameraUnlimiter","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SmoothCameraUnlimiter.lithium.mod.json"},{"name":"Custom Menu Music","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Menu Music.lithium.mod.json"},{"name":"TheTrashMan","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TheTrashMan.lithium.mod.json"},{"name":"Particular","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Particular.lithium.mod.json"},{"name":"osusaber","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/osusaber.lithium.mod.json"},{"name":"BeatSaberTweaks","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberTweaks.lithium.mod.json"},{"name":"Rumble Enhancer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Rumble Enhancer.lithium.mod.json"},{"name":"AutoPause","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"},{"name":"PerformanceMeter","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PerformanceMeter.lithium.mod.json"},{"name":"BetterSort.LastPlayed","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSort.LastPlayed.lithium.mod.json"},{"name":"SongChartVisualizer","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongChartVisualizer.lithium.mod.json"},{"name":"FCPercentage","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FCPercentage.lithium.mod.json"},{"name":"TakeMeToResults","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TakeMeToResults.lithium.mod.json"},{"name":"SearchFixes","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SearchFixes.lithium.mod.json"},{"name":"DrinkWater","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DrinkWater.lithium.mod.json"},{"name":"UITweaks","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"},{"name":"FasterScroll","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FasterScroll.lithium.mod.json"},{"name":"Counters+","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Counters+.lithium.mod.json"},{"name":"ScorePercentage","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScorePercentage.lithium.mod.json"},{"name":"BetterSongList","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongList.lithium.mod.json"},{"name":"Small Menu","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Small Menu.lithium.mod.json"},{"name":"SongBrowser","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongBrowser.lithium.mod.json"},{"name":"SongPlayHistoryContinued","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistoryContinued.lithium.mod.json"},{"name":"DiTails","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiTails.lithium.mod.json"},{"name":"ImageCoverExpander","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageCoverExpander.lithium.mod.json"},{"name":"NoMissText","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoMissText.lithium.mod.json"},{"name":"SongPlayHistory","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistory.lithium.mod.json"},{"name":"Level Pack Panel Mover","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Level Pack Panel Mover.lithium.mod.json"},{"name":"Enhanced Search And Filters","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Enhanced Search And Filters.lithium.mod.json"},{"name":"Custom Exit","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Exit.lithium.mod.json"},{"name":"Drink Water","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Drink Water.lithium.mod.json"},{"name":"EnhancedSearchAndFilters","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EnhancedSearchAndFilters.lithium.mod.json"},{"name":"BS-RefreshButtons","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS-RefreshButtons.lithium.mod.json"},{"name":"Song Refresh Button","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Song Refresh Button.lithium.mod.json"},{"name":"FPS Counter","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FPS Counter.lithium.mod.json"},{"name":"BeatSaberDrinkWater","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberDrinkWater.lithium.mod.json"},{"name":"BeatSaberCustomExit","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberCustomExit.lithium.mod.json"},{"name":"BeatSinger","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSinger.lithium.mod.json"},{"name":"NotesLeftCounter","detail":"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NotesLeftCounter.lithium.mod.json"}]}
+{
+	"name": "BeatMods",
+	"author": "vanZeben and contributors",
+	"mods": [
+		{
+			"name": "Arcgap",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Arcgap.lithium.mod.json"
+		},
+		{
+			"name": "BSIPA",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+		},
+		{
+			"name": "SongCore",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+		},
+		{
+			"name": "Camera2",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Camera2.lithium.mod.json"
+		},
+		{
+			"name": "ScoreSaber",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaber.lithium.mod.json"
+		},
+		{
+			"name": "MorePlaylists",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MorePlaylists.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaverUpdater",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverUpdater.lithium.mod.json"
+		},
+		{
+			"name": "PlaylistManager",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PlaylistManager.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaverDownloader",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverDownloader.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaverVoting",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverVoting.lithium.mod.json"
+		},
+		{
+			"name": "ModelDownloader",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ModelDownloader.lithium.mod.json"
+		},
+		{
+			"name": "CameraPlus",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraPlus.lithium.mod.json"
+		},
+		{
+			"name": "SiraLocalizer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraLocalizer.lithium.mod.json"
+		},
+		{
+			"name": "PlaylistLoaderLite",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PlaylistLoaderLite.lithium.mod.json"
+		},
+		{
+			"name": "BSIPA Mod List",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA Mod List.lithium.mod.json"
+		},
+		{
+			"name": "SongLoader",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+		},
+		{
+			"name": "HighlightBombs",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HighlightBombs.lithium.mod.json"
+		},
+		{
+			"name": "Cinema",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Cinema.lithium.mod.json"
+		},
+		{
+			"name": "Custom Platforms",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Platforms.lithium.mod.json"
+		},
+		{
+			"name": "MenuSaberColors",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MenuSaberColors.lithium.mod.json"
+		},
+		{
+			"name": "MenuPillars",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MenuPillars.lithium.mod.json"
+		},
+		{
+			"name": "Nya",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nya.lithium.mod.json"
+		},
+		{
+			"name": "Greetings",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Greetings.lithium.mod.json"
+		},
+		{
+			"name": "AdBlocker",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AdBlocker.lithium.mod.json"
+		},
+		{
+			"name": "ImageFactory",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageFactory.lithium.mod.json"
+		},
+		{
+			"name": "Custom Avatars",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Avatars.lithium.mod.json"
+		},
+		{
+			"name": "Custom Notes",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Notes.lithium.mod.json"
+		},
+		{
+			"name": "Particle Overdrive",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Particle Overdrive.lithium.mod.json"
+		},
+		{
+			"name": "Custom Walls",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Walls.lithium.mod.json"
+		},
+		{
+			"name": "Saber Factory",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Saber Factory.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaberPresence",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPresence.lithium.mod.json"
+		},
+		{
+			"name": "Custom Energy Bars",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Energy Bars.lithium.mod.json"
+		},
+		{
+			"name": "CustomBanners",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomBanners.lithium.mod.json"
+		},
+		{
+			"name": "DiSounds",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiSounds.lithium.mod.json"
+		},
+		{
+			"name": "SpectroSaber",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SpectroSaber.lithium.mod.json"
+		},
+		{
+			"name": "Music Video Player",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Music Video Player.lithium.mod.json"
+		},
+		{
+			"name": "Custom Sabers",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Sabers.lithium.mod.json"
+		},
+		{
+			"name": "CustomWalls",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomWalls.lithium.mod.json"
+		},
+		{
+			"name": "CustomMenuPointers",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMenuPointers.lithium.mod.json"
+		},
+		{
+			"name": "Yeet Debris",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Yeet Debris.lithium.mod.json"
+		},
+		{
+			"name": "Note Cut Minimizer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Note Cut Minimizer.lithium.mod.json"
+		},
+		{
+			"name": "Bloom Mod",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Bloom Mod.lithium.mod.json"
+		},
+		{
+			"name": "CustomMenuText",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMenuText.lithium.mod.json"
+		},
+		{
+			"name": "Scoreboard Stylist",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Scoreboard Stylist.lithium.mod.json"
+		},
+		{
+			"name": "Random Sabers",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Random Sabers.lithium.mod.json"
+		},
+		{
+			"name": "Custom Colors",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Colors.lithium.mod.json"
+		},
+		{
+			"name": "MusicEscape",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MusicEscape.lithium.mod.json"
+		},
+		{
+			"name": "NoodleExtensions",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoodleExtensions.lithium.mod.json"
+		},
+		{
+			"name": "MappingExtensions",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MappingExtensions.lithium.mod.json"
+		},
+		{
+			"name": "Claws",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Claws.lithium.mod.json"
+		},
+		{
+			"name": "360fyer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/360fyer.lithium.mod.json"
+		},
+		{
+			"name": "Custom Campaigns",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Campaigns.lithium.mod.json"
+		},
+		{
+			"name": "InstaFailAccuracy",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/InstaFailAccuracy.lithium.mod.json"
+		},
+		{
+			"name": "Alternative Play",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Alternative Play.lithium.mod.json"
+		},
+		{
+			"name": "BailOutMode",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BailOutMode.lithium.mod.json"
+		},
+		{
+			"name": "TrickSaber",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TrickSaber.lithium.mod.json"
+		},
+		{
+			"name": "RandomSongPlayer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/RandomSongPlayer.lithium.mod.json"
+		},
+		{
+			"name": "DarthMaul",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DarthMaul.lithium.mod.json"
+		},
+		{
+			"name": "NoArrowsRandom",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoArrowsRandom.lithium.mod.json"
+		},
+		{
+			"name": "BeatSpearSupport",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSpearSupport.lithium.mod.json"
+		},
+		{
+			"name": "EndlessMode",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EndlessMode.lithium.mod.json"
+		},
+		{
+			"name": "Nova's Fuckery",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nova's Fuckery.lithium.mod.json"
+		},
+		{
+			"name": "GameplayModifiersPlus",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/GameplayModifiersPlus.lithium.mod.json"
+		},
+		{
+			"name": "GameplayRestrictionsPlus",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/GameplayRestrictionsPlus.lithium.mod.json"
+		},
+		{
+			"name": "Hidden Blocks",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hidden Blocks.lithium.mod.json"
+		},
+		{
+			"name": "CustomJSONData",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaberMarkupLanguage",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+		},
+		{
+			"name": "yt-dlp",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
+		},
+		{
+			"name": "CatCore",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
+		},
+		{
+			"name": "_Heck",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaberPlaylistsLib",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
+		},
+		{
+			"name": "bHaptics",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHaptics.lithium.mod.json"
+		},
+		{
+			"name": "LookupID",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LookupID.lithium.mod.json"
+		},
+		{
+			"name": "SiraUtil",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+		},
+		{
+			"name": "SongDetailsCache",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+		},
+		{
+			"name": "ImageSharp",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageSharp.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaverSharp",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverSharp.lithium.mod.json"
+		},
+		{
+			"name": "BS Utils",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+		},
+		{
+			"name": "DiscordCore",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordCore.lithium.mod.json"
+		},
+		{
+			"name": "DiscordGameSDK",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordGameSDK.lithium.mod.json"
+		},
+		{
+			"name": "LeaderboardCore",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardCore.lithium.mod.json"
+		},
+		{
+			"name": "SongDataCore",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+		},
+		{
+			"name": "Ini Parser",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
+		},
+		{
+			"name": "CustomCampaignLeaderboardLibrary",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+		},
+		{
+			"name": "youtube-dl",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/youtube-dl.lithium.mod.json"
+		},
+		{
+			"name": "protobuf-net",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+		},
+		{
+			"name": "FFmpeg",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FFmpeg.lithium.mod.json"
+		},
+		{
+			"name": "DynamicOpenVR",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DynamicOpenVR.lithium.mod.json"
+		},
+		{
+			"name": "Noodle Extensions",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Noodle Extensions.lithium.mod.json"
+		},
+		{
+			"name": "websocket-sharp",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/websocket-sharp.lithium.mod.json"
+		},
+		{
+			"name": "ChatCore",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ChatCore.lithium.mod.json"
+		},
+		{
+			"name": "YamlDotNet",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/YamlDotNet.lithium.mod.json"
+		},
+		{
+			"name": "ScoreSaberSharp",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaberSharp.lithium.mod.json"
+		},
+		{
+			"name": "libSkiaSharp",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/libSkiaSharp.lithium.mod.json"
+		},
+		{
+			"name": "SkiaSharp",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SkiaSharp.lithium.mod.json"
+		},
+		{
+			"name": "LibConf",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json"
+		},
+		{
+			"name": "CustomUI",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+		},
+		{
+			"name": "BSML",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json"
+		},
+		{
+			"name": "Nett",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nett.lithium.mod.json"
+		},
+		{
+			"name": "Harmony",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+		},
+		{
+			"name": "Stream Core",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json"
+		},
+		{
+			"name": "Chroma",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Chroma.lithium.mod.json"
+		},
+		{
+			"name": "Technicolor",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Technicolor.lithium.mod.json"
+		},
+		{
+			"name": "BetterStaticLights",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterStaticLights.lithium.mod.json"
+		},
+		{
+			"name": "PiFix",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PiFix.lithium.mod.json"
+		},
+		{
+			"name": "DiColors",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiColors.lithium.mod.json"
+		},
+		{
+			"name": "JustRainbowLights",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/JustRainbowLights.lithium.mod.json"
+		},
+		{
+			"name": "ChromaLite",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ChromaLite.lithium.mod.json"
+		},
+		{
+			"name": "MultiplayerExtensions",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerExtensions.lithium.mod.json"
+		},
+		{
+			"name": "ServerBrowser",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ServerBrowser.lithium.mod.json"
+		},
+		{
+			"name": "BeatTogether",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatTogether.lithium.mod.json"
+		},
+		{
+			"name": "Versus",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Versus.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaberMultiplayer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMultiplayer.lithium.mod.json"
+		},
+		{
+			"name": "bHapticsMusical",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsMusical.lithium.mod.json"
+		},
+		{
+			"name": "bHapticsFunctional",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsFunctional.lithium.mod.json"
+		},
+		{
+			"name": "BeatFollower",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatFollower.lithium.mod.json"
+		},
+		{
+			"name": "Hitbloq",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hitbloq.lithium.mod.json"
+		},
+		{
+			"name": "EnvironmentMinifier",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EnvironmentMinifier.lithium.mod.json"
+		},
+		{
+			"name": "LastFmScrobbler",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LastFmScrobbler.lithium.mod.json"
+		},
+		{
+			"name": "PauseMenuRotationFix",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PauseMenuRotationFix.lithium.mod.json"
+		},
+		{
+			"name": "NoFailCheck",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoFailCheck.lithium.mod.json"
+		},
+		{
+			"name": "BSMOTD Plus",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSMOTD Plus.lithium.mod.json"
+		},
+		{
+			"name": "Discord Presence",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Discord Presence.lithium.mod.json"
+		},
+		{
+			"name": "LeaderboardInSong",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardInSong.lithium.mod.json"
+		},
+		{
+			"name": "PracticePlugin",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PracticePlugin.lithium.mod.json"
+		},
+		{
+			"name": "Intro Skip",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Intro Skip.lithium.mod.json"
+		},
+		{
+			"name": "YUR Fit Calorie Tracker",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/YUR Fit Calorie Tracker.lithium.mod.json"
+		},
+		{
+			"name": "I Forgor",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/I Forgor.lithium.mod.json"
+		},
+		{
+			"name": "SliceDetails",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SliceDetails.lithium.mod.json"
+		},
+		{
+			"name": "HitScoreVisualizer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HitScoreVisualizer.lithium.mod.json"
+		},
+		{
+			"name": "ScoreRequirement",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreRequirement.lithium.mod.json"
+		},
+		{
+			"name": "SpeedyPractice",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SpeedyPractice.lithium.mod.json"
+		},
+		{
+			"name": "TransparentWall",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TransparentWall.lithium.mod.json"
+		},
+		{
+			"name": "PerfectionDisplay",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PerfectionDisplay.lithium.mod.json"
+		},
+		{
+			"name": "StepBackWall",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/StepBackWall.lithium.mod.json"
+		},
+		{
+			"name": "Perfection Display",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Perfection Display.lithium.mod.json"
+		},
+		{
+			"name": "Deviation Counter",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Deviation Counter.lithium.mod.json"
+		},
+		{
+			"name": "FCDisplay",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FCDisplay.lithium.mod.json"
+		},
+		{
+			"name": "Link",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Link.lithium.mod.json"
+		},
+		{
+			"name": "MultiCode-inator",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiCode-inator.lithium.mod.json"
+		},
+		{
+			"name": "HTTP Status",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HTTP Status.lithium.mod.json"
+		},
+		{
+			"name": "Enhanced Stream Chat",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Enhanced Stream Chat.lithium.mod.json"
+		},
+		{
+			"name": "Song Request Manager",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Song Request Manager.lithium.mod.json"
+		},
+		{
+			"name": "AlphaTwitch",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AlphaTwitch.lithium.mod.json"
+		},
+		{
+			"name": "TwitchPlus",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TwitchPlus.lithium.mod.json"
+		},
+		{
+			"name": "CustomFailText",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
+		},
+		{
+			"name": "CustomMissText",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMissText.lithium.mod.json"
+		},
+		{
+			"name": "SmartSongSuggest",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SmartSongSuggest.lithium.mod.json"
+		},
+		{
+			"name": "BetterSongSearch",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
+		},
+		{
+			"name": "HitsoundTweaks",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HitsoundTweaks.lithium.mod.json"
+		},
+		{
+			"name": "OverrideEnvironmentFix",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/OverrideEnvironmentFix.lithium.mod.json"
+		},
+		{
+			"name": "SmoothCamPlus",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SmoothCamPlus.lithium.mod.json"
+		},
+		{
+			"name": "DataPuller",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DataPuller.lithium.mod.json"
+		},
+		{
+			"name": "SoundReplacer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SoundReplacer.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaviorData",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaviorData.lithium.mod.json"
+		},
+		{
+			"name": "EasyOffset",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EasyOffset.lithium.mod.json"
+		},
+		{
+			"name": "AutoPauseStealth",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPauseStealth.lithium.mod.json"
+		},
+		{
+			"name": "PlayFirst(SubmitLater)",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PlayFirst(SubmitLater).lithium.mod.json"
+		},
+		{
+			"name": "JDFixer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/JDFixer.lithium.mod.json"
+		},
+		{
+			"name": "Tweaks55",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Tweaks55.lithium.mod.json"
+		},
+		{
+			"name": "SaberTailor",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SaberTailor.lithium.mod.json"
+		},
+		{
+			"name": "Music Spatializer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Music Spatializer.lithium.mod.json"
+		},
+		{
+			"name": "ControllerTweaks",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ControllerTweaks.lithium.mod.json"
+		},
+		{
+			"name": "OcuFix",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/OcuFix.lithium.mod.json"
+		},
+		{
+			"name": "FastFail",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FastFail.lithium.mod.json"
+		},
+		{
+			"name": "BadCutType",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BadCutType.lithium.mod.json"
+		},
+		{
+			"name": "LevelTweaks",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LevelTweaks.lithium.mod.json"
+		},
+		{
+			"name": "Burnout",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Burnout.lithium.mod.json"
+		},
+		{
+			"name": "CampaignObjectiveParticleDisabler",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CampaignObjectiveParticleDisabler.lithium.mod.json"
+		},
+		{
+			"name": "SearchByMapperName",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SearchByMapperName.lithium.mod.json"
+		},
+		{
+			"name": "FireworksDisabler",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FireworksDisabler.lithium.mod.json"
+		},
+		{
+			"name": "Enhancements",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Enhancements.lithium.mod.json"
+		},
+		{
+			"name": "ExtendedColorSchemes",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ExtendedColorSchemes.lithium.mod.json"
+		},
+		{
+			"name": "NoBuzz",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoBuzz.lithium.mod.json"
+		},
+		{
+			"name": "NoBoom",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoBoom.lithium.mod.json"
+		},
+		{
+			"name": "RumbleMod",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/RumbleMod.lithium.mod.json"
+		},
+		{
+			"name": "NoteSpawnEffectRemover",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoteSpawnEffectRemover.lithium.mod.json"
+		},
+		{
+			"name": "AdaptiveSFXRemover",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AdaptiveSFXRemover.lithium.mod.json"
+		},
+		{
+			"name": "SnapTurn",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SnapTurn.lithium.mod.json"
+		},
+		{
+			"name": "SongInfoViewer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongInfoViewer.lithium.mod.json"
+		},
+		{
+			"name": "SmoothCameraUnlimiter",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SmoothCameraUnlimiter.lithium.mod.json"
+		},
+		{
+			"name": "Custom Menu Music",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Menu Music.lithium.mod.json"
+		},
+		{
+			"name": "TheTrashMan",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TheTrashMan.lithium.mod.json"
+		},
+		{
+			"name": "Particular",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Particular.lithium.mod.json"
+		},
+		{
+			"name": "osusaber",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/osusaber.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaberTweaks",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberTweaks.lithium.mod.json"
+		},
+		{
+			"name": "Rumble Enhancer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Rumble Enhancer.lithium.mod.json"
+		},
+		{
+			"name": "AutoPause",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"
+		},
+		{
+			"name": "PerformanceMeter",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PerformanceMeter.lithium.mod.json"
+		},
+		{
+			"name": "BetterSort.LastPlayed",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSort.LastPlayed.lithium.mod.json"
+		},
+		{
+			"name": "SongChartVisualizer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongChartVisualizer.lithium.mod.json"
+		},
+		{
+			"name": "FCPercentage",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FCPercentage.lithium.mod.json"
+		},
+		{
+			"name": "TakeMeToResults",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TakeMeToResults.lithium.mod.json"
+		},
+		{
+			"name": "SearchFixes",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SearchFixes.lithium.mod.json"
+		},
+		{
+			"name": "DrinkWater",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DrinkWater.lithium.mod.json"
+		},
+		{
+			"name": "UITweaks",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
+		},
+		{
+			"name": "FasterScroll",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FasterScroll.lithium.mod.json"
+		},
+		{
+			"name": "Counters+",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Counters+.lithium.mod.json"
+		},
+		{
+			"name": "ScorePercentage",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScorePercentage.lithium.mod.json"
+		},
+		{
+			"name": "BetterSongList",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongList.lithium.mod.json"
+		},
+		{
+			"name": "Small Menu",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Small Menu.lithium.mod.json"
+		},
+		{
+			"name": "SongBrowser",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongBrowser.lithium.mod.json"
+		},
+		{
+			"name": "SongPlayHistoryContinued",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistoryContinued.lithium.mod.json"
+		},
+		{
+			"name": "DiTails",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiTails.lithium.mod.json"
+		},
+		{
+			"name": "ImageCoverExpander",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageCoverExpander.lithium.mod.json"
+		},
+		{
+			"name": "NoMissText",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoMissText.lithium.mod.json"
+		},
+		{
+			"name": "SongPlayHistory",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistory.lithium.mod.json"
+		},
+		{
+			"name": "Level Pack Panel Mover",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Level Pack Panel Mover.lithium.mod.json"
+		},
+		{
+			"name": "Enhanced Search And Filters",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Enhanced Search And Filters.lithium.mod.json"
+		},
+		{
+			"name": "Custom Exit",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Exit.lithium.mod.json"
+		},
+		{
+			"name": "Drink Water",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Drink Water.lithium.mod.json"
+		},
+		{
+			"name": "EnhancedSearchAndFilters",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EnhancedSearchAndFilters.lithium.mod.json"
+		},
+		{
+			"name": "BS-RefreshButtons",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS-RefreshButtons.lithium.mod.json"
+		},
+		{
+			"name": "Song Refresh Button",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Song Refresh Button.lithium.mod.json"
+		},
+		{
+			"name": "FPS Counter",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FPS Counter.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaberDrinkWater",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberDrinkWater.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaberCustomExit",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberCustomExit.lithium.mod.json"
+		},
+		{
+			"name": "BeatSinger",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSinger.lithium.mod.json"
+		},
+		{
+			"name": "NotesLeftCounter",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NotesLeftCounter.lithium.mod.json"
+		}
+	]
+}

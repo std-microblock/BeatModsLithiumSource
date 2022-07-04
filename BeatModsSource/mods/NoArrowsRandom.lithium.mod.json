@@ -1,1 +1,67 @@
-{"name":"NoArrowsRandom","author":"Kylon99","description":"Restores the randomized No Arrows mode from previous versions for custom maps as a game modifier. Disables score submission and won't affect One Saber or mapped No Arrows modes.","versions":[{"version":"1.0.5","downloads":{"universal":"https://beatmods.com//uploads/5dda3ebf8ed3a56f6197bc7c/universal/NoArrowsRandom-1.0.5.zip"},"requiredGameVersion":"~1.5.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.7.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.7","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.13.2"}},{"version":"1.0.4","downloads":{"universal":"https://beatmods.com//uploads/5d7a2658be34f5432f209f4c/universal/NoArrowsRandom-1.0.4.zip"},"requiredGameVersion":"~1.3.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.13.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.6.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.5"}},{"version":"1.0.3","downloads":{"universal":"https://beatmods.com//uploads/5d2d549fc26f5e655671e76c/universal/NoArrowsRandom-1.0.3.zip"},"requiredGameVersion":"~1.1.0p1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.9","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.21"}},{"version":"1.0.2","downloads":{"universal":"https://beatmods.com//uploads/5ce4e0a6b29eb364ff1e99fb/universal/NoArrowsRandom-1.0.2.zip"},"requiredGameVersion":"~1.0.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.3","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.8","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.19"}},{"version":"1.0.1","downloads":{"universal":"https://beatmods.com//uploads/5cb27807a703bb65cdf67c55/universal/NoArrowsRandom-1.0.1.zip"},"requiredGameVersion":"~0.13.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.4","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.9","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.2.3"}}]}
+{
+	"name": "NoArrowsRandom",
+	"author": "Kylon99",
+	"description": "Restores the randomized No Arrows mode from previous versions for custom maps as a game modifier. Disables score submission and won't affect One Saber or mapped No Arrows modes.",
+	"versions": [
+		{
+			"version": "1.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5dda3ebf8ed3a56f6197bc7c/universal/NoArrowsRandom-1.0.5.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.7.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.7",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.13.2"
+			}
+		},
+		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d7a2658be34f5432f209f4c/universal/NoArrowsRandom-1.0.4.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.13.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.6.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.5"
+			}
+		},
+		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d2d549fc26f5e655671e76c/universal/NoArrowsRandom-1.0.3.zip"
+			},
+			"requiredGameVersion": "~1.1.0p1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.9",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.21"
+			}
+		},
+		{
+			"version": "1.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5ce4e0a6b29eb364ff1e99fb/universal/NoArrowsRandom-1.0.2.zip"
+			},
+			"requiredGameVersion": "~1.0.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.3",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.8",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.19"
+			}
+		},
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5cb27807a703bb65cdf67c55/universal/NoArrowsRandom-1.0.1.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.4",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.9",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.2.3"
+			}
+		}
+	]
+}

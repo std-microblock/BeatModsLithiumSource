@@ -1,1 +1,31 @@
-{"name":"LastFmScrobbler","author":"Ifropc","description":"This plugin allows you to submit tracks you play in game to last.fm","versions":[{"version":"1.0.4","downloads":{"universal":"https://beatmods.com//uploads/6050083ffd8cd42a0cd12c26/universal/LastFmScrobbler-1.0.4.zip"},"requiredGameVersion":"~1.13.4","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~2.5.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.5.1"}},{"version":"1.0.3","downloads":{"universal":"https://beatmods.com//uploads/601b7bc60eef816aa6d0c230/universal/LastFmScrobbler-1.0.3.zip"},"requiredGameVersion":"~1.13.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~2.5.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.4.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.4"}}]}
+{
+	"name": "LastFmScrobbler",
+	"author": "Ifropc",
+	"description": "This plugin allows you to submit tracks you play in game to last.fm",
+	"versions": [
+		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6050083ffd8cd42a0cd12c26/universal/LastFmScrobbler-1.0.4.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~2.5.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.1"
+			}
+		},
+		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/601b7bc60eef816aa6d0c230/universal/LastFmScrobbler-1.0.3.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~2.5.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.4.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
+			}
+		}
+	]
+}

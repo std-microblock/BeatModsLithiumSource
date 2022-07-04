@@ -1,1 +1,15 @@
-{"name":"CatCore","author":"Eris","description":"CatCore is a high-performance .NET Standard 2.0 library which provides a shared connection to mods for Twitch (and other future streaming platforms).","versions":[{"version":"1.0.0","downloads":{"universal":"https://beatmods.com//uploads/62756e75d384c3394fe535a7/universal/CatCore-1.0.0.zip"},"requiredGameVersion":"~1.21.0","dependencies":{}}]}
+{
+	"name": "CatCore",
+	"author": "Eris",
+	"description": "CatCore is a high-performance .NET Standard 2.0 library which provides a shared connection to mods for Twitch (and other future streaming platforms).",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/62756e75d384c3394fe535a7/universal/CatCore-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": {}
+		}
+	]
+}

@@ -1,1 +1,112 @@
-{"name":"Custom Campaigns","author":"PulseLane","description":"Adds the ability to load custom campaigns into the game. Includes a special campaign to celebrate the 1 year anniversary of the Beat Saber Modding Group.","versions":[{"version":"2.12.0","downloads":{"universal":"https://beatmods.com//uploads/614e4c25d012e8328ad31884/universal/Custom Campaigns-2.12.0.zip"},"requiredGameVersion":"~1.18.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~3.8.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json":"~1.3.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.11.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.5.6"}},{"version":"2.5.3","downloads":{"universal":"https://beatmods.com//uploads/5e17e0b3e7c24e19d5cc7d48/universal/Custom Campaigns-2.5.3.zip"},"requiredGameVersion":"~1.6.1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.7.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json":"~1.1.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.1.2"}},{"version":"2.5.1","downloads":{"universal":"https://beatmods.com//uploads/5dfc156629530a6e1adfee71/universal/Custom Campaigns-2.5.1.zip"},"requiredGameVersion":"~1.6.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.1.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.7.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json":"~1.1.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.0"}},{"version":"2.4.4","downloads":{"universal":"https://beatmods.com//uploads/5dc4bd908ed3a56f6197bb57/universal/Custom Campaigns-2.4.4.zip"},"requiredGameVersion":"~1.5.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json":"~1.0.3","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.0.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.4.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.7"}},{"version":"2.4.1","downloads":{"universal":"https://beatmods.com//uploads/5d6f4009be34f5432f209e9b/universal/Custom Campaigns-2.4.1.zip"},"requiredGameVersion":"~1.3.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json":"~1.0.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.0.10","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json":"~1.0.4","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.5"}},{"version":"2.3.1","downloads":{"universal":"https://beatmods.com//uploads/5d585970c26f5e655671e97f/universal/Custom Campaigns-2.3.1.zip"},"requiredGameVersion":"~1.1.0p1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json":"~1.0.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.10","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json":"~1.2.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.0.10"}},{"version":"2.2.5","downloads":{"universal":"https://beatmods.com//uploads/5cd0d0ebd98de93605481556/universal/Custom Campaigns-2.2.5.zip"},"requiredGameVersion":"~0.13.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json":"~6.12.4","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json":"~1.2.0"}},{"version":"2.6.2","downloads":{"universal":"https://beatmods.com//uploads/5f3acd1a83fe22744157e991/universal/Custom Campaigns-2.6.2.zip"},"requiredGameVersion":"~1.11.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json":"~1.2.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.9.10","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.3.4","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.11"}}]}
+{
+	"name": "Custom Campaigns",
+	"author": "PulseLane",
+	"description": "Adds the ability to load custom campaigns into the game. Includes a special campaign to celebrate the 1 year anniversary of the Beat Saber Modding Group.",
+	"versions": [
+		{
+			"version": "2.12.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/614e4c25d012e8328ad31884/universal/Custom Campaigns-2.12.0.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~3.8.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json": "~1.3.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.11.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.6"
+			}
+		},
+		{
+			"version": "2.5.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e17e0b3e7c24e19d5cc7d48/universal/Custom Campaigns-2.5.3.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.7.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json": "~1.1.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.1.2"
+			}
+		},
+		{
+			"version": "2.5.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5dfc156629530a6e1adfee71/universal/Custom Campaigns-2.5.1.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.1.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.7.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json": "~1.1.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.0"
+			}
+		},
+		{
+			"version": "2.4.4",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5dc4bd908ed3a56f6197bb57/universal/Custom Campaigns-2.4.4.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json": "~1.0.3",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.0.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.4.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.7"
+			}
+		},
+		{
+			"version": "2.4.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d6f4009be34f5432f209e9b/universal/Custom Campaigns-2.4.1.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json": "~1.0.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.0.10",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json": "~1.0.4",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.5"
+			}
+		},
+		{
+			"version": "2.3.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d585970c26f5e655671e97f/universal/Custom Campaigns-2.3.1.zip"
+			},
+			"requiredGameVersion": "~1.1.0p1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json": "~1.0.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.10",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.0.10"
+			}
+		},
+		{
+			"version": "2.2.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5cd0d0ebd98de93605481556/universal/Custom Campaigns-2.2.5.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json": "~6.12.4",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0"
+			}
+		},
+		{
+			"version": "2.6.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5f3acd1a83fe22744157e991/universal/Custom Campaigns-2.6.2.zip"
+			},
+			"requiredGameVersion": "~1.11.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json": "~1.2.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.9.10",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.3.4",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.11"
+			}
+		}
+	]
+}

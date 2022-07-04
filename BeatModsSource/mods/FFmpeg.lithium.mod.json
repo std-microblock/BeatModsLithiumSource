@@ -1,1 +1,15 @@
-{"name":"FFmpeg","author":"Dakari","description":"FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created.","versions":[{"version":"4.3.3","downloads":{"universal":"https://beatmods.com//uploads/6049ebc7fd8cd42a0cd12b09/universal/FFmpeg-4.3.3.zip"},"requiredGameVersion":"~1.13.4","dependencies":{}}]}
+{
+	"name": "FFmpeg",
+	"author": "Dakari",
+	"description": "FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created.",
+	"versions": [
+		{
+			"version": "4.3.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6049ebc7fd8cd42a0cd12b09/universal/FFmpeg-4.3.3.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": {}
+		}
+	]
+}

@@ -1,1 +1,17 @@
-{"name":"Yeet Debris","author":"Steven 🎀","description":"Returns the 'Reduce Debris' option to it's previous behavior of no longer spawning debris at all when enabled.","versions":[{"version":"1.0.0","downloads":{"universal":"https://beatmods.com//uploads/5e81928d03dce96ca6cf0da3/universal/Yeet Debris-1.0.0.zip"},"requiredGameVersion":"~1.8.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.3"}}]}
+{
+	"name": "Yeet Debris",
+	"author": "Steven 🎀",
+	"description": "Returns the 'Reduce Debris' option to it's previous behavior of no longer spawning debris at all when enabled.",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e81928d03dce96ca6cf0da3/universal/Yeet Debris-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.3"
+			}
+		}
+	]
+}

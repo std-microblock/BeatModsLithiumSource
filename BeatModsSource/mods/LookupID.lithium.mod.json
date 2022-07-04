@@ -1,1 +1,23 @@
-{"name":"LookupID","author":"Aeroluna","description":"A single method written in C++ for Chroma because regex in mono is unbelievably slow. Also beatmods sucks.","versions":[{"version":"1.0.1","downloads":{"universal":"https://beatmods.com//uploads/6248b2d13f368d47b27e984e/universal/LookupID-1.0.1.zip"},"requiredGameVersion":"~1.21.0","dependencies":{}},{"version":"1.0.0","downloads":{"universal":"https://beatmods.com//uploads/61a5840ba5ef195865a5b235/universal/LookupID-1.0.0.zip"},"requiredGameVersion":"~1.18.0","dependencies":{}}]}
+{
+	"name": "LookupID",
+	"author": "Aeroluna",
+	"description": "A single method written in C++ for Chroma because regex in mono is unbelievably slow. Also beatmods sucks.",
+	"versions": [
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6248b2d13f368d47b27e984e/universal/LookupID-1.0.1.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": {}
+		},
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/61a5840ba5ef195865a5b235/universal/LookupID-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": {}
+		}
+	]
+}

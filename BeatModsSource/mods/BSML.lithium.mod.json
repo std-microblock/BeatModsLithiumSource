@@ -1,1 +1,17 @@
-{"name":"BSML","author":"monkeymanboy","description":"An XML based UI system.","versions":[{"version":"1.0.5","downloads":{"universal":"https://beatmods.com//uploads/5d858d0d626a455aff495566/universal/BSML-1.0.5.zip"},"requiredGameVersion":"~1.3.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.6"}}]}
+{
+	"name": "BSML",
+	"author": "monkeymanboy",
+	"description": "An XML based UI system.",
+	"versions": [
+		{
+			"version": "1.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d858d0d626a455aff495566/universal/BSML-1.0.5.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.6"
+			}
+		}
+	]
+}

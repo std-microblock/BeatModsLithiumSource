@@ -1,1 +1,18 @@
-{"name":"EnvironmentMinifier","author":"FizzyApple12","description":"Minifies the environment chroma style","versions":[{"version":"1.0.4","downloads":{"universal":"https://beatmods.com//uploads/61ca16a37a2ef528fb65ba21/universal/EnvironmentMinifier-1.0.4.zip"},"requiredGameVersion":"~1.19.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~3.0.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.1"}}]}
+{
+	"name": "EnvironmentMinifier",
+	"author": "FizzyApple12",
+	"description": "Minifies the environment chroma style",
+	"versions": [
+		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/61ca16a37a2ef528fb65ba21/universal/EnvironmentMinifier-1.0.4.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~3.0.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.1"
+			}
+		}
+	]
+}

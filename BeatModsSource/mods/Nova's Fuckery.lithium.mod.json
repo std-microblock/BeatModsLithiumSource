@@ -1,1 +1,40 @@
-{"name":"Nova's Fuckery","author":"ItsNovaHere","description":"A collection of the random shit I come up with.","versions":[{"version":"1.1.1","downloads":{"universal":"https://beatmods.com//uploads/5d684307be34f5432f209d9b/universal/Nova_s Fuckery-1.1.1.zip"},"requiredGameVersion":"~1.3.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.10","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.5"}},{"version":"1.1.0","downloads":{"universal":"https://beatmods.com//uploads/5d5867f9c26f5e655671e98e/universal/Nova_s Fuckery-1.1.0.zip"},"requiredGameVersion":"~1.1.0p1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.10","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.5"}},{"version":"1.0.0","downloads":{"universal":"https://beatmods.com//uploads/5d0d97ceed00193b6ebbabeb/universal/Nova_s Fuckery-1.0.0.zip"},"requiredGameVersion":"~1.1.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.11","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.6"}}]}
+{
+	"name": "Nova's Fuckery",
+	"author": "ItsNovaHere",
+	"description": "A collection of the random shit I come up with.",
+	"versions": [
+		{
+			"version": "1.1.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d684307be34f5432f209d9b/universal/Nova_s Fuckery-1.1.1.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.10",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.5"
+			}
+		},
+		{
+			"version": "1.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d5867f9c26f5e655671e98e/universal/Nova_s Fuckery-1.1.0.zip"
+			},
+			"requiredGameVersion": "~1.1.0p1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.10",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.5"
+			}
+		},
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d0d97ceed00193b6ebbabeb/universal/Nova_s Fuckery-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.11",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.6"
+			}
+		}
+	]
+}

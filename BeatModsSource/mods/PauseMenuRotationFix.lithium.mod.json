@@ -1,1 +1,15 @@
-{"name":"PauseMenuRotationFix","author":"Shadnix","description":"Fixes wrong controller orientation when pausing in 90/360 levels.","versions":[{"version":"1.0.0","downloads":{"universal":"https://beatmods.com//uploads/5df6e1f90f965b56357f1e77/universal/PauseMenuRotationFix-1.0.0.zip"},"requiredGameVersion":"~1.6.0","dependencies":{}}]}
+{
+	"name": "PauseMenuRotationFix",
+	"author": "Shadnix",
+	"description": "Fixes wrong controller orientation when pausing in 90/360 levels.",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5df6e1f90f965b56357f1e77/universal/PauseMenuRotationFix-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
+			"dependencies": {}
+		}
+	]
+}

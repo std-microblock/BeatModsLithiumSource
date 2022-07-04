@@ -1,1 +1,51 @@
-{"name":"NoMissText","author":"CyanSnow","description":"Simple mod that hides the flying text when a note is missed so you can hide how bad you really are.","versions":[{"version":"1.4.7","downloads":{"universal":"https://beatmods.com//uploads/60b278692d008b3daa41e9bf/universal/NoMissText-1.4.7.zip"},"requiredGameVersion":"~1.16.1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.5.3","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.6"}},{"version":"1.4.6","downloads":{"universal":"https://beatmods.com//uploads/60579dbbfd8cd42a0cd12cc5/universal/NoMissText-1.4.6.zip"},"requiredGameVersion":"~1.13.4","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.5.1"}},{"version":"1.4.5","downloads":{"universal":"https://beatmods.com//uploads/600a83fa8384cf2e7ec725ce/universal/NoMissText-1.4.5.zip"},"requiredGameVersion":"~1.13.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.4.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.4"}},{"version":"1.4.4","downloads":{"universal":"https://beatmods.com//uploads/5fbb21128384cf2e7ec72009/universal/NoMissText-1.4.4.zip"},"requiredGameVersion":"~1.12.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.4.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.3"}}]}
+{
+	"name": "NoMissText",
+	"author": "CyanSnow",
+	"description": "Simple mod that hides the flying text when a note is missed so you can hide how bad you really are.",
+	"versions": [
+		{
+			"version": "1.4.7",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/60b278692d008b3daa41e9bf/universal/NoMissText-1.4.7.zip"
+			},
+			"requiredGameVersion": "~1.16.1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.3",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.6"
+			}
+		},
+		{
+			"version": "1.4.6",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/60579dbbfd8cd42a0cd12cc5/universal/NoMissText-1.4.6.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.1"
+			}
+		},
+		{
+			"version": "1.4.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/600a83fa8384cf2e7ec725ce/universal/NoMissText-1.4.5.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.4.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
+			}
+		},
+		{
+			"version": "1.4.4",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5fbb21128384cf2e7ec72009/universal/NoMissText-1.4.4.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.4.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.3"
+			}
+		}
+	]
+}

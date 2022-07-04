@@ -1,1 +1,31 @@
-{"name":"Enhanced Search And Filters","author":"hello","description":"A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen, song filtering, and other basic UI additions.","versions":[{"version":"2.3.4","downloads":{"universal":"https://beatmods.com//uploads/5f3c7d6b83fe22744157ea79/universal/Enhanced Search And Filters-2.3.4.zip"},"requiredGameVersion":"~1.11.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.9.10","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.3.4","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.11"}},{"version":"2.3.3","downloads":{"universal":"https://beatmods.com//uploads/5f0aa2065baf5a5145fef9b2/universal/Enhanced Search And Filters-2.3.3.zip"},"requiredGameVersion":"~1.8.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.10","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.9.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.3.2"}}]}
+{
+	"name": "Enhanced Search And Filters",
+	"author": "hello",
+	"description": "A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen, song filtering, and other basic UI additions.",
+	"versions": [
+		{
+			"version": "2.3.4",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5f3c7d6b83fe22744157ea79/universal/Enhanced Search And Filters-2.3.4.zip"
+			},
+			"requiredGameVersion": "~1.11.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.9.10",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.3.4",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.11"
+			}
+		},
+		{
+			"version": "2.3.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5f0aa2065baf5a5145fef9b2/universal/Enhanced Search And Filters-2.3.3.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.10",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.9.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.3.2"
+			}
+		}
+	]
+}

@@ -1,1 +1,18 @@
-{"name":"BeatSaberCustomExit","author":"Shoko84","description":"This is a mod that displays a panel to confirm that you really really want to exit Beat Saber.","versions":[{"version":"1.1.1","downloads":{"universal":"https://beatmods.com//uploads/5cfa18e20a8c00640fb96ffe/universal/BeatSaberCustomExit-1.1.1.zip"},"requiredGameVersion":"~1.0.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.4.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json":"~1.2.0"}}]}
+{
+	"name": "BeatSaberCustomExit",
+	"author": "Shoko84",
+	"description": "This is a mod that displays a panel to confirm that you really really want to exit Beat Saber.",
+	"versions": [
+		{
+			"version": "1.1.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5cfa18e20a8c00640fb96ffe/universal/BeatSaberCustomExit-1.1.1.zip"
+			},
+			"requiredGameVersion": "~1.0.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.4.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0"
+			}
+		}
+	]
+}

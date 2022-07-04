@@ -1,1 +1,29 @@
-{"name":"BetterStaticLights","author":"Exomanz","description":"Choose which lights you want active when using 'Static Lights'!","versions":[{"version":"1.0.2","downloads":{"universal":"https://beatmods.com//uploads/627efa6fd384c3394fe53634/universal/BetterStaticLights-1.0.2.zip"},"requiredGameVersion":"~1.21.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.6.3","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.2"}},{"version":"0.1.0","downloads":{"universal":"https://beatmods.com//uploads/61536ecbf1166c468bfa2349/universal/BetterStaticLights-0.1.0.zip"},"requiredGameVersion":"~1.18.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.5.9","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.0"}}]}
+{
+	"name": "BetterStaticLights",
+	"author": "Exomanz",
+	"description": "Choose which lights you want active when using 'Static Lights'!",
+	"versions": [
+		{
+			"version": "1.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/627efa6fd384c3394fe53634/universal/BetterStaticLights-1.0.2.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.6.3",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.2"
+			}
+		},
+		{
+			"version": "0.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/61536ecbf1166c468bfa2349/universal/BetterStaticLights-0.1.0.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.9",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
+			}
+		}
+	]
+}

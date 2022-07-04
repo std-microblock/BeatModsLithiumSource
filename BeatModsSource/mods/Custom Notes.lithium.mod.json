@@ -1,1 +1,160 @@
-{"name":"Custom Notes","author":"Bobbie","description":"Adds support for custom notes in beat saber. Major contributions by Kyle1413, Pespiri, Auros, and PixelBoom.","versions":[{"version":"2.6.1","downloads":{"universal":"https://beatmods.com//uploads/624685a03f368d47b27e97bf/universal/Custom Notes-2.6.1.zip"},"requiredGameVersion":"~1.21.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~3.0.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.6.3","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.2"}},{"version":"2.5.1","downloads":{"universal":"https://beatmods.com//uploads/61da73bfe12d6f31e266faf7/universal/Custom Notes-2.5.1.zip"},"requiredGameVersion":"~1.19.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~3.0.3","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.6.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.1"}},{"version":"2.3.1","downloads":{"universal":"https://beatmods.com//uploads/60ff0b0eb1ad095176942e88/universal/Custom Notes-2.3.1.zip"},"requiredGameVersion":"~1.16.3","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~2.5.7","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.5.4","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.0"}},{"version":"2.2.2","downloads":{"universal":"https://beatmods.com//uploads/6049fdd4fd8cd42a0cd12b17/universal/Custom Notes-2.2.2.zip"},"requiredGameVersion":"~1.13.4","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~2.5.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.5.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.4"}},{"version":"2.2.1","downloads":{"universal":"https://beatmods.com//uploads/602471830eef816aa6d0c2f3/universal/Custom Notes-2.2.1.zip"},"requiredGameVersion":"~1.13.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.4.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~2.4.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.4"}},{"version":"2.1.2","downloads":{"universal":"https://beatmods.com//uploads/5ff9e36b8384cf2e7ec723cb/universal/Custom Notes-2.1.2.zip"},"requiredGameVersion":"~1.12.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~2.1.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.4.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.3"}},{"version":"1.6.2","downloads":{"universal":"https://beatmods.com//uploads/5f3b31c883fe22744157ea43/universal/Custom Notes-1.6.2.zip"},"requiredGameVersion":"~1.11.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.3.4","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.11"}},{"version":"1.6.1","downloads":{"universal":"https://beatmods.com//uploads/5e8a35ff03dce96ca6cf0ec4/universal/Custom Notes-1.6.1.zip"},"requiredGameVersion":"~1.8.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.2.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.4"}},{"version":"1.5.0","downloads":{"universal":"https://beatmods.com//uploads/5e31137be7c24e19d5cc7f53/universal/Custom Notes-1.5.0.zip"},"requiredGameVersion":"~1.6.1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.1.2"}},{"version":"1.3.1","downloads":{"universal":"https://beatmods.com//uploads/5dfb83f529530a6e1adfee5f/universal/Custom Notes-1.3.1.zip"},"requiredGameVersion":"~1.6.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.1.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.0"}},{"version":"1.2.2","downloads":{"universal":"https://beatmods.com//uploads/5dc7374f8ed3a56f6197bba6/universal/Custom Notes-1.2.2.zip"},"requiredGameVersion":"~1.5.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.7.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.7","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.13.2"}},{"version":"1.2.1","downloads":{"universal":"https://beatmods.com//uploads/5d6cc60cbe34f5432f209e75/universal/Custom Notes-1.2.1.zip"},"requiredGameVersion":"~1.3.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.22","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.10","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.5"}},{"version":"1.0.3","downloads":{"universal":"https://beatmods.com//uploads/5d085f57ed00193b6ebbab9f/universal/Custom Notes-1.0.3.zip"},"requiredGameVersion":"~1.1.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.11","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.22","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json":"~1.2.0"}}]}
+{
+	"name": "Custom Notes",
+	"author": "Bobbie",
+	"description": "Adds support for custom notes in beat saber. Major contributions by Kyle1413, Pespiri, Auros, and PixelBoom.",
+	"versions": [
+		{
+			"version": "2.6.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/624685a03f368d47b27e97bf/universal/Custom Notes-2.6.1.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~3.0.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.6.3",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.2"
+			}
+		},
+		{
+			"version": "2.5.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/61da73bfe12d6f31e266faf7/universal/Custom Notes-2.5.1.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~3.0.3",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.6.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.1"
+			}
+		},
+		{
+			"version": "2.3.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/60ff0b0eb1ad095176942e88/universal/Custom Notes-2.3.1.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~2.5.7",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.4",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
+			}
+		},
+		{
+			"version": "2.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6049fdd4fd8cd42a0cd12b17/universal/Custom Notes-2.2.2.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~2.5.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
+			}
+		},
+		{
+			"version": "2.2.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/602471830eef816aa6d0c2f3/universal/Custom Notes-2.2.1.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.4.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~2.4.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
+			}
+		},
+		{
+			"version": "2.1.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5ff9e36b8384cf2e7ec723cb/universal/Custom Notes-2.1.2.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~2.1.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.4.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.3"
+			}
+		},
+		{
+			"version": "1.6.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5f3b31c883fe22744157ea43/universal/Custom Notes-1.6.2.zip"
+			},
+			"requiredGameVersion": "~1.11.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.3.4",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.11"
+			}
+		},
+		{
+			"version": "1.6.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e8a35ff03dce96ca6cf0ec4/universal/Custom Notes-1.6.1.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.2.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.4"
+			}
+		},
+		{
+			"version": "1.5.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e31137be7c24e19d5cc7f53/universal/Custom Notes-1.5.0.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.1.2"
+			}
+		},
+		{
+			"version": "1.3.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5dfb83f529530a6e1adfee5f/universal/Custom Notes-1.3.1.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.1.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.0"
+			}
+		},
+		{
+			"version": "1.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5dc7374f8ed3a56f6197bba6/universal/Custom Notes-1.2.2.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.7.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.7",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.13.2"
+			}
+		},
+		{
+			"version": "1.2.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d6cc60cbe34f5432f209e75/universal/Custom Notes-1.2.1.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.22",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.10",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.5"
+			}
+		},
+		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d085f57ed00193b6ebbab9f/universal/Custom Notes-1.0.3.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.11",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.22",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0"
+			}
+		}
+	]
+}

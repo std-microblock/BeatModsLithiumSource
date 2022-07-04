@@ -1,1 +1,18 @@
-{"name":"BSMOTD Plus","author":"auros","description":"Learn more about what's happening in the community! When you launch your game you're prompted with news posts from the community.","versions":[{"version":"1.0.1","downloads":{"universal":"https://beatmods.com//uploads/5d898082626a455aff49559c/universal/BSMOTD Plus-1.0.1.zip"},"requiredGameVersion":"~1.3.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json":"~1.0.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json":"~1.0.0"}}]}
+{
+	"name": "BSMOTD Plus",
+	"author": "auros",
+	"description": "Learn more about what's happening in the community! When you launch your game you're prompted with news posts from the community.",
+	"versions": [
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d898082626a455aff49559c/universal/BSMOTD Plus-1.0.1.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json": "~1.0.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json": "~1.0.0"
+			}
+		}
+	]
+}

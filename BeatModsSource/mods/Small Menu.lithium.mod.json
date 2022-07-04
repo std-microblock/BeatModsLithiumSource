@@ -1,1 +1,19 @@
-{"name":"Small Menu","author":"nicoco007","description":"Makes the main menu smaller & closer, just like it was in Beat Saber 1.13.0.","versions":[{"version":"1.2.0","downloads":{"universal":"https://beatmods.com//uploads/62315a1e6f151827d5d77d2d/universal/Small Menu-1.2.0.zip"},"requiredGameVersion":"~1.20.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.6.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~3.0.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.2"}}]}
+{
+	"name": "Small Menu",
+	"author": "nicoco007",
+	"description": "Makes the main menu smaller & closer, just like it was in Beat Saber 1.13.0.",
+	"versions": [
+		{
+			"version": "1.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/62315a1e6f151827d5d77d2d/universal/Small Menu-1.2.0.zip"
+			},
+			"requiredGameVersion": "~1.20.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.6.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~3.0.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.2"
+			}
+		}
+	]
+}

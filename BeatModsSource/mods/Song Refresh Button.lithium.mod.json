@@ -1,1 +1,53 @@
-{"name":"Song Refresh Button","author":"Alppuccino","description":"Adds various refresh buttons in game.","versions":[{"version":"1.1.1","downloads":{"universal":"https://beatmods.com//uploads/5dd190a38ed3a56f6197bc4a/universal/Song Refresh Button-1.1.1.zip"},"requiredGameVersion":"~1.5.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.4.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.7.1"}},{"version":"1.1.0","downloads":{"universal":"https://beatmods.com//uploads/5cfe9cfc077a503d1075c54f/universal/Song Refresh Button-1.1.0.zip"},"requiredGameVersion":"~1.1.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.0.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.9","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.21"}},{"version":"1.0.5","downloads":{"universal":"https://beatmods.com//uploads/5ce693f2b29eb364ff1e9a42/universal/Song Refresh Button-1.0.5.zip"},"requiredGameVersion":"~1.0.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json":"~7.0.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.8"}},{"version":"1.0.4","downloads":{"universal":"https://beatmods.com//uploads/5cc57db840d65f750b840094/universal/Song Refresh Button-1.0.4.zip"},"requiredGameVersion":"~0.13.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json":"~6.12.4","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.14"}}]}
+{
+	"name": "Song Refresh Button",
+	"author": "Alppuccino",
+	"description": "Adds various refresh buttons in game.",
+	"versions": [
+		{
+			"version": "1.1.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5dd190a38ed3a56f6197bc4a/universal/Song Refresh Button-1.1.1.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.4.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.7.1"
+			}
+		},
+		{
+			"version": "1.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5cfe9cfc077a503d1075c54f/universal/Song Refresh Button-1.1.0.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.0.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.9",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.21"
+			}
+		},
+		{
+			"version": "1.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5ce693f2b29eb364ff1e9a42/universal/Song Refresh Button-1.0.5.zip"
+			},
+			"requiredGameVersion": "~1.0.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json": "~7.0.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.8"
+			}
+		},
+		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5cc57db840d65f750b840094/universal/Song Refresh Button-1.0.4.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json": "~6.12.4",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.14"
+			}
+		}
+	]
+}

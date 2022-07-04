@@ -1,1 +1,64 @@
-{"name":"_Heck","author":"Aeroluna","description":"Library for Aeroluna's mods.","versions":[{"version":"1.3.8","downloads":{"universal":"https://beatmods.com//uploads/62764a6cd384c3394fe535ca/universal/_Heck-1.3.8.zip"},"requiredGameVersion":"~1.21.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.6.4","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json":"~3.0.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json":"~2.3.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.2"}},{"version":"1.3.2","downloads":{"universal":"https://beatmods.com//uploads/61c7383d7a2ef528fb65b9b9/universal/_Heck-1.3.2.zip"},"requiredGameVersion":"~1.19.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json":"~2.0.9","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.1"}},{"version":"1.3.1","downloads":{"universal":"https://beatmods.com//uploads/619fb24ca5ef195865a5b1ff/universal/_Heck-1.3.1.zip"},"requiredGameVersion":"~1.18.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json":"~2.0.8","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.0"}},{"version":"1.2.0","downloads":{"universal":"https://beatmods.com//uploads/6131acb170a9464db367b818/universal/_Heck-1.2.0.zip"},"requiredGameVersion":"~1.17.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json":"~2.0.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.0"}},{"version":"1.1.0","downloads":{"universal":"https://beatmods.com//uploads/60cc8b31af1e3d4577e03677/universal/_Heck-1.1.0.zip"},"requiredGameVersion":"~1.16.1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json":"~2.0.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.6"}}]}
+{
+	"name": "_Heck",
+	"author": "Aeroluna",
+	"description": "Library for Aeroluna's mods.",
+	"versions": [
+		{
+			"version": "1.3.8",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/62764a6cd384c3394fe535ca/universal/_Heck-1.3.8.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.6.4",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~3.0.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json": "~2.3.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.2"
+			}
+		},
+		{
+			"version": "1.3.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/61c7383d7a2ef528fb65b9b9/universal/_Heck-1.3.2.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json": "~2.0.9",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.1"
+			}
+		},
+		{
+			"version": "1.3.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/619fb24ca5ef195865a5b1ff/universal/_Heck-1.3.1.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json": "~2.0.8",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
+			}
+		},
+		{
+			"version": "1.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6131acb170a9464db367b818/universal/_Heck-1.2.0.zip"
+			},
+			"requiredGameVersion": "~1.17.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json": "~2.0.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
+			}
+		},
+		{
+			"version": "1.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/60cc8b31af1e3d4577e03677/universal/_Heck-1.1.0.zip"
+			},
+			"requiredGameVersion": "~1.16.1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json": "~2.0.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.6"
+			}
+		}
+	]
+}

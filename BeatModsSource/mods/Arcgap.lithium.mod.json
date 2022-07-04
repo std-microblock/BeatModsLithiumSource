@@ -1,1 +1,25 @@
-{"name":"Arcgap","author":"Kinsi55","description":"Fixes game softlock / crash on 1.20+","versions":[{"version":"0.0.5","downloads":{"universal":"https://beatmods.com//uploads/6274a4ccd384c3394fe5359d/universal/Arcgap-0.0.5.zip"},"requiredGameVersion":"~1.21.0","dependencies":{}},{"version":"0.0.3","downloads":{"universal":"https://beatmods.com//uploads/6235157c6f151827d5d77ddc/universal/Arcgap-0.0.3.zip"},"requiredGameVersion":"~1.20.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.2"}}]}
+{
+	"name": "Arcgap",
+	"author": "Kinsi55",
+	"description": "Fixes game softlock / crash on 1.20+",
+	"versions": [
+		{
+			"version": "0.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6274a4ccd384c3394fe5359d/universal/Arcgap-0.0.5.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": {}
+		},
+		{
+			"version": "0.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6235157c6f151827d5d77ddc/universal/Arcgap-0.0.3.zip"
+			},
+			"requiredGameVersion": "~1.20.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.2"
+			}
+		}
+	]
+}

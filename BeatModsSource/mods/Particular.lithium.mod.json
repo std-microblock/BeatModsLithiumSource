@@ -1,1 +1,29 @@
-{"name":"Particular","author":"lolpants","description":"Make Beat Saber prettier with P A R T I C L E S","versions":[{"version":"1.0.1","downloads":{"universal":"https://beatmods.com//uploads/5ddc75b88ed3a56f6197bc8e/universal/Particular-1.0.1.zip"},"requiredGameVersion":"~1.5.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json":"~1.0.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.0.6"}},{"version":"1.0.0","downloads":{"universal":"https://beatmods.com//uploads/5d8835c3626a455aff495585/universal/Particular-1.0.0.zip"},"requiredGameVersion":"~1.3.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json":"~1.0.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json":"~1.0.0"}}]}
+{
+	"name": "Particular",
+	"author": "lolpants",
+	"description": "Make Beat Saber prettier with P A R T I C L E S",
+	"versions": [
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5ddc75b88ed3a56f6197bc8e/universal/Particular-1.0.1.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json": "~1.0.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.0.6"
+			}
+		},
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d8835c3626a455aff495585/universal/Particular-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json": "~1.0.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json": "~1.0.0"
+			}
+		}
+	]
+}

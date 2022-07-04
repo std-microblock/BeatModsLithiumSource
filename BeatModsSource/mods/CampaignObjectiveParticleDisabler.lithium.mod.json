@@ -1,1 +1,65 @@
-{"name":"CampaignObjectiveParticleDisabler","author":"PulseLane","description":"Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.","versions":[{"version":"1.0.5","downloads":{"universal":"https://beatmods.com//uploads/614e4bfdd012e8328ad3187b/universal/CampaignObjectiveParticleDisabler-1.0.5.zip"},"requiredGameVersion":"~1.18.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.0"}},{"version":"1.0.4","downloads":{"universal":"https://beatmods.com//uploads/60b151302d008b3daa41e8e7/universal/CampaignObjectiveParticleDisabler-1.0.4.zip"},"requiredGameVersion":"~1.16.1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.6"}},{"version":"1.0.3","downloads":{"universal":"https://beatmods.com//uploads/6048051ffd8cd42a0cd12a46/universal/CampaignObjectiveParticleDisabler-1.0.3.zip"},"requiredGameVersion":"~1.13.4","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.4"}},{"version":"1.0.2","downloads":{"universal":"https://beatmods.com//uploads/600b800b8384cf2e7ec72662/universal/CampaignObjectiveParticleDisabler-1.0.2.zip"},"requiredGameVersion":"~1.13.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.4"}},{"version":"1.0.1","downloads":{"universal":"https://beatmods.com//uploads/5f90d043df35a674dfeca4d8/universal/CampaignObjectiveParticleDisabler-1.0.1.zip"},"requiredGameVersion":"~1.12.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.1.3"}},{"version":"1.0.0","downloads":{"universal":"https://beatmods.com//uploads/5f3add1f83fe22744157e9bb/universal/CampaignObjectiveParticleDisabler-1.0.0.zip"},"requiredGameVersion":"~1.11.0","dependencies":{}}]}
+{
+	"name": "CampaignObjectiveParticleDisabler",
+	"author": "PulseLane",
+	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
+	"versions": [
+		{
+			"version": "1.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/614e4bfdd012e8328ad3187b/universal/CampaignObjectiveParticleDisabler-1.0.5.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
+			}
+		},
+		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/60b151302d008b3daa41e8e7/universal/CampaignObjectiveParticleDisabler-1.0.4.zip"
+			},
+			"requiredGameVersion": "~1.16.1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.6"
+			}
+		},
+		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6048051ffd8cd42a0cd12a46/universal/CampaignObjectiveParticleDisabler-1.0.3.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
+			}
+		},
+		{
+			"version": "1.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/600b800b8384cf2e7ec72662/universal/CampaignObjectiveParticleDisabler-1.0.2.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
+			}
+		},
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5f90d043df35a674dfeca4d8/universal/CampaignObjectiveParticleDisabler-1.0.1.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.3"
+			}
+		},
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5f3add1f83fe22744157e9bb/universal/CampaignObjectiveParticleDisabler-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.11.0",
+			"dependencies": {}
+		}
+	]
+}

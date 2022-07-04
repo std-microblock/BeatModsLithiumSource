@@ -1,1 +1,44 @@
-{"name":"JustRainbowLights","author":"Cycle","description":"Makes the background lighting rainbow, for a more colourful experience.","versions":[{"version":"1.7.5","downloads":{"universal":"https://beatmods.com//uploads/5e86968403dce96ca6cf0e59/universal/JustRainbowLights-1.7.5.zip"},"requiredGameVersion":"~1.8.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json":"~2.9.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.2.2","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.0.2"}},{"version":"1.5.1","downloads":{"universal":"https://beatmods.com//uploads/5e1a4409e7c24e19d5cc7dac/universal/JustRainbowLights-1.5.1.zip"},"requiredGameVersion":"~1.6.1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.13.7","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.1.2"}},{"version":"1.2.5","downloads":{"universal":"https://beatmods.com//uploads/5df9919729530a6e1adfee31/universal/JustRainbowLights-1.2.5.zip"},"requiredGameVersion":"~1.6.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.1.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.4.0","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.13.4"}}]}
+{
+	"name": "JustRainbowLights",
+	"author": "Cycle",
+	"description": "Makes the background lighting rainbow, for a more colourful experience.",
+	"versions": [
+		{
+			"version": "1.7.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e86968403dce96ca6cf0e59/universal/JustRainbowLights-1.7.5.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.9.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.2.2",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.0.2"
+			}
+		},
+		{
+			"version": "1.5.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e1a4409e7c24e19d5cc7dac/universal/JustRainbowLights-1.5.1.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.13.7",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.1.2"
+			}
+		},
+		{
+			"version": "1.2.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5df9919729530a6e1adfee31/universal/JustRainbowLights-1.2.5.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.1.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.0",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.13.4"
+			}
+		}
+	]
+}

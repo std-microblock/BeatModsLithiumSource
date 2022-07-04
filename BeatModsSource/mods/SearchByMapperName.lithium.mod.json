@@ -1,1 +1,17 @@
-{"name":"SearchByMapperName","author":"Bobbie","description":"Super simple mod that makes the base game map search function also search the level author (mapper) field","versions":[{"version":"1.0.1","downloads":{"universal":"https://beatmods.com//uploads/610079049fc0c8070c0e64d6/universal/SearchByMapperName-1.0.1.zip"},"requiredGameVersion":"~1.16.3","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.0"}}]}
+{
+	"name": "SearchByMapperName",
+	"author": "Bobbie",
+	"description": "Super simple mod that makes the base game map search function also search the level author (mapper) field",
+	"versions": [
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/610079049fc0c8070c0e64d6/universal/SearchByMapperName-1.0.1.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
+			}
+		}
+	]
+}

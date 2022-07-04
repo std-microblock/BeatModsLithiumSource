@@ -1,1 +1,51 @@
-{"name":"Ini Parser","author":"Eris","description":"A .NET, Mono and Unity3d compatible(*) library for reading/writing INI data from IO streams, file streams, and strings written in C#. Not made by myself, refer to github link for author.","versions":[{"version":"2.5.9","downloads":{"universal":"https://beatmods.com//uploads/61c1f58f7a2ef528fb65b874/universal/Ini Parser-2.5.9.zip"},"requiredGameVersion":"~1.19.0","dependencies":{}},{"version":"2.5.7","downloads":{"universal":"https://beatmods.com//uploads/5e7ccd1c03dce96ca6cf0c4e/universal/Ini Parser-2.5.7.zip"},"requiredGameVersion":"~1.8.0","dependencies":{}},{"version":"2.5.6","downloads":{"universal":"https://beatmods.com//uploads/5e155b88e7c24e19d5cc7c69/universal/Ini Parser-2.5.6.zip"},"requiredGameVersion":"~1.6.1","dependencies":{}},{"version":"2.5.5","downloads":{"universal":"https://beatmods.com//uploads/5d2d55cdc26f5e655671e781/universal/Ini Parser-2.5.5.zip"},"requiredGameVersion":"~1.1.0p1","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.13"}},{"version":"2.5.3","downloads":{"universal":"https://beatmods.com//uploads/5ce33274b29eb364ff1e991f/universal/Ini Parser-2.5.3.zip"},"requiredGameVersion":"~1.0.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~3.12.13"}}]}
+{
+	"name": "Ini Parser",
+	"author": "Eris",
+	"description": "A .NET, Mono and Unity3d compatible(*) library for reading/writing INI data from IO streams, file streams, and strings written in C#. Not made by myself, refer to github link for author.",
+	"versions": [
+		{
+			"version": "2.5.9",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/61c1f58f7a2ef528fb65b874/universal/Ini Parser-2.5.9.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": {}
+		},
+		{
+			"version": "2.5.7",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e7ccd1c03dce96ca6cf0c4e/universal/Ini Parser-2.5.7.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": {}
+		},
+		{
+			"version": "2.5.6",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e155b88e7c24e19d5cc7c69/universal/Ini Parser-2.5.6.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": {}
+		},
+		{
+			"version": "2.5.5",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5d2d55cdc26f5e655671e781/universal/Ini Parser-2.5.5.zip"
+			},
+			"requiredGameVersion": "~1.1.0p1",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.13"
+			}
+		},
+		{
+			"version": "2.5.3",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5ce33274b29eb364ff1e991f/universal/Ini Parser-2.5.3.zip"
+			},
+			"requiredGameVersion": "~1.0.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.13"
+			}
+		}
+	]
+}

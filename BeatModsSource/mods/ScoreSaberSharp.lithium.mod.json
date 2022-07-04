@@ -1,1 +1,15 @@
-{"name":"ScoreSaberSharp","author":"Umbranox","description":"Official C# Library to interact with the ScoreSaber API","versions":[{"version":"0.1.0","downloads":{"universal":"https://beatmods.com//uploads/5dfeaa9029530a6e1adfee9b/universal/Official C_ Library to interact with the ScoreSaber API-0.1.0.zip"},"requiredGameVersion":"~1.6.0","dependencies":{}}]}
+{
+	"name": "ScoreSaberSharp",
+	"author": "Umbranox",
+	"description": "Official C# Library to interact with the ScoreSaber API",
+	"versions": [
+		{
+			"version": "0.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5dfeaa9029530a6e1adfee9b/universal/Official C_ Library to interact with the ScoreSaber API-0.1.0.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
+			"dependencies": {}
+		}
+	]
+}

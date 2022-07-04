@@ -1,1 +1,29 @@
-{"name":"AutoPause","author":"auros","description":"Will pause your game if it detects a tracking error or an fps drop.","versions":[{"version":"6.0.1","downloads":{"universal":"https://beatmods.com//uploads/5ce4aeffb29eb364ff1e99e7/universal/AutoPause-6.0.1.zip"},"requiredGameVersion":"~1.0.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.5.6","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.3.1"}},{"version":"1.5.2","downloads":{"universal":"https://beatmods.com//uploads/5ca6d69435d1831554693a7b/universal/AutoPause-1.5.2.zip"},"requiredGameVersion":"~0.13.2","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json":"~1.4.1","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json":"~1.2.2"}}]}
+{
+	"name": "AutoPause",
+	"author": "auros",
+	"description": "Will pause your game if it detects a tracking error or an fps drop.",
+	"versions": [
+		{
+			"version": "6.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5ce4aeffb29eb364ff1e99e7/universal/AutoPause-6.0.1.zip"
+			},
+			"requiredGameVersion": "~1.0.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.6",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.1"
+			}
+		},
+		{
+			"version": "1.5.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5ca6d69435d1831554693a7b/universal/AutoPause-1.5.2.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.4.1",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.2.2"
+			}
+		}
+	]
+}

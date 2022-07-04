@@ -1,1 +1,29 @@
-{"name":"BadCutType","author":"Dream Reality","description":"Replace \"X\" bad cut effect with custom text for each bad cut type.","versions":[{"version":"1.2.0","downloads":{"universal":"https://beatmods.com//uploads/6168d5aaeceee62e08a0c883/universal/BadCutType-1.2.0.zip"},"requiredGameVersion":"~1.18.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.5.11","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.0"}},{"version":"1.1.0","downloads":{"universal":"https://beatmods.com//uploads/6135a02670a9464db367b8d7/universal/BadCutType-1.1.0.zip"},"requiredGameVersion":"~1.17.0","dependencies":{"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json":"~1.5.5","https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json":"~4.2.0"}}]}
+{
+	"name": "BadCutType",
+	"author": "Dream Reality",
+	"description": "Replace \"X\" bad cut effect with custom text for each bad cut type.",
+	"versions": [
+		{
+			"version": "1.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6168d5aaeceee62e08a0c883/universal/BadCutType-1.2.0.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.11",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
+			}
+		},
+		{
+			"version": "1.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6135a02670a9464db367b8d7/universal/BadCutType-1.1.0.zip"
+			},
+			"requiredGameVersion": "~1.17.0",
+			"dependencies": {
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.5",
+				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
+			}
+		}
+	]
+}

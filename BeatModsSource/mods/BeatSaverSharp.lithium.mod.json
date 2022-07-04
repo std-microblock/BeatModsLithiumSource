@@ -1,1 +1,71 @@
-{"name":"BeatSaverSharp","author":"auros","description":"A .NET library to interact with the BeatSaver API.","versions":[{"version":"3.4.2","downloads":{"universal":"https://beatmods.com//uploads/623b738b6f151827d5d77e90/universal/BeatSaverSharp-3.4.2.zip"},"requiredGameVersion":"~1.20.0","dependencies":{}},{"version":"3.3.0","downloads":{"universal":"https://beatmods.com//uploads/61f2d47f999a2d79d10aa1c3/universal/BeatSaverSharp-3.3.0.zip"},"requiredGameVersion":"~1.19.0","dependencies":{}},{"version":"3.0.2","downloads":{"universal":"https://beatmods.com//uploads/6130025470a9464db367b7ae/universal/BeatSaverSharp-3.0.2.zip"},"requiredGameVersion":"~1.17.0","dependencies":{}},{"version":"3.0.1","downloads":{"universal":"https://beatmods.com//uploads/61130fb49fc0c8070c0e6653/universal/BeatSaverSharp-3.0.1.zip"},"requiredGameVersion":"~1.16.3","dependencies":{}},{"version":"2.0.1","downloads":{"universal":"https://beatmods.com//uploads/600bff468384cf2e7ec72686/universal/BeatSaverSharp-2.0.1.zip"},"requiredGameVersion":"~1.13.2","dependencies":{}},{"version":"1.6.0","downloads":{"universal":"https://beatmods.com//uploads/5f3ad05583fe22744157e996/universal/BeatSaverSharp-1.6.0.zip"},"requiredGameVersion":"~1.11.0","dependencies":{}},{"version":"1.5.2","downloads":{"universal":"https://beatmods.com//uploads/5e403d6403dce96ca6cf093b/universal/BeatSaverSharp-1.5.2.zip"},"requiredGameVersion":"~1.6.1","dependencies":{}},{"version":"1.0.1","downloads":{"universal":"https://beatmods.com//uploads/5e07decf29530a6e1adfef3c/universal/BeatSaverSharp-1.0.1.zip"},"requiredGameVersion":"~1.6.0","dependencies":{}}]}
+{
+	"name": "BeatSaverSharp",
+	"author": "auros",
+	"description": "A .NET library to interact with the BeatSaver API.",
+	"versions": [
+		{
+			"version": "3.4.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/623b738b6f151827d5d77e90/universal/BeatSaverSharp-3.4.2.zip"
+			},
+			"requiredGameVersion": "~1.20.0",
+			"dependencies": {}
+		},
+		{
+			"version": "3.3.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/61f2d47f999a2d79d10aa1c3/universal/BeatSaverSharp-3.3.0.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": {}
+		},
+		{
+			"version": "3.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/6130025470a9464db367b7ae/universal/BeatSaverSharp-3.0.2.zip"
+			},
+			"requiredGameVersion": "~1.17.0",
+			"dependencies": {}
+		},
+		{
+			"version": "3.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/61130fb49fc0c8070c0e6653/universal/BeatSaverSharp-3.0.1.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": {}
+		},
+		{
+			"version": "2.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/600bff468384cf2e7ec72686/universal/BeatSaverSharp-2.0.1.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": {}
+		},
+		{
+			"version": "1.6.0",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5f3ad05583fe22744157e996/universal/BeatSaverSharp-1.6.0.zip"
+			},
+			"requiredGameVersion": "~1.11.0",
+			"dependencies": {}
+		},
+		{
+			"version": "1.5.2",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e403d6403dce96ca6cf093b/universal/BeatSaverSharp-1.5.2.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": {}
+		},
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com//uploads/5e07decf29530a6e1adfef3c/universal/BeatSaverSharp-1.0.1.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
+			"dependencies": {}
+		}
+	]
+}
