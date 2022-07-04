@@ -1,5 +1,7 @@
-import { writeFileSync } from "fs";
+import { writeFileSync, mkdirSync } from "fs";
 import fetch from "node-fetch"
+
+mkdirSync("./BeatModsSource/mods/",{recursive:true})
 
 console.log("Fetching BeatMods Mods");
 
