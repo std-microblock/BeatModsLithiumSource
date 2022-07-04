@@ -21,7 +21,7 @@ for (let mod of data) {
 }
 
 function toOnlineURL(name) {
-    return `https://xxx/${name}.lithium.mod.json`
+    return `https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/${name}.lithium.mod.json`
 }
 
 for (let name of Object.keys(mods)) {
