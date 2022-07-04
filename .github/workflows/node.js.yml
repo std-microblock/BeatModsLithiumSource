@@ -28,5 +28,7 @@ jobs:
     - run: node main
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.14.1
+      with:
+        commit_message: Port the newest BeatMods mods to lithium format.
     
     
