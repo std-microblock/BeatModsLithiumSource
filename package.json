@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  },
+  "name": "beatmods-to-lithium",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "GPL-3.0-or-later",
+  "author": "MicroBlock",
+  "private": false,
+  "type": "module"
+}
