@@ -1,0 +1,1 @@
+{"name":"HighlightBombs","author":"Meivyn","description":"Adds a slight outline to bombs to make them more visible in the dark.","versions":[{"version":"1.0.1","downloads":{"universal":"https://beatmods.com//uploads/6298c396d384c3394fe53806/universal/HighlightBombs-1.0.1.zip"},"requiredGameVersion":"~1.21.0","dependencies":{"https://xxx/BSIPA.lithium.mod.json":"~4.2.2"}}]}
