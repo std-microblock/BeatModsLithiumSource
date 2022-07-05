@@ -31,6 +31,7 @@ for (let name of Object.keys(mods)) {
             name,
             author: mods[name][0].author.username,
             description: mods[name][0].description,
+            subscribeUrl:"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
             versions: mods[name].map(v => {
                 return {
                     version: v.version,
