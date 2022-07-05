@@ -2,6 +2,7 @@
 	"name": "Link",
 	"author": "auros",
 	"description": "Adds a !link command to your stream which posts the BeatSaver link to the actively played map in your chat. ",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.3",

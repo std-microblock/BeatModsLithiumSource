@@ -2,6 +2,7 @@
 	"name": "HTTP Status",
 	"author": "opl",
 	"description": "Create stream overlays or track your performance using third party programs. This plugin exposes live information about the current game status allowing other programs to visualize it in unique ways.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.20.0",

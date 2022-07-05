@@ -2,6 +2,7 @@
 	"name": "FireworksDisabler",
 	"author": "nate1280",
 	"description": "Are you tired of hearing those annoying fireworks at the end of a song with a new high score? Installing this mod will disable Fireworks, no options to set, it just does it.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.7.0",

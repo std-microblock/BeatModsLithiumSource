@@ -2,6 +2,7 @@
 	"name": "SearchByMapperName",
 	"author": "Bobbie",
 	"description": "Super simple mod that makes the base game map search function also search the level author (mapper) field",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",

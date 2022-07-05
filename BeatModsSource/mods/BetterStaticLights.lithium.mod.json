@@ -2,6 +2,7 @@
 	"name": "BetterStaticLights",
 	"author": "Exomanz",
 	"description": "Choose which lights you want active when using 'Static Lights'!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.2",

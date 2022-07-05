@@ -2,6 +2,7 @@
 	"name": "JDFixer",
 	"author": "zephyr",
 	"description": "Change Jump Distance and Reaction Time, including automation through preferences and thresholds",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "5.0.2",

@@ -2,6 +2,7 @@
 	"name": "TransparentWall",
 	"author": "Pespiri",
 	"description": "Enable transparent walls in VR, or disable them in LIV! (No... It does not affect CameraPlus)",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.6.0",

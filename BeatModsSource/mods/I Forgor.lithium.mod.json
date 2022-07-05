@@ -2,6 +2,7 @@
 	"name": "I Forgor",
 	"author": "ckosmic",
 	"description": "Displays the direction of the last notes you hit and saber angles in the pause menu.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.1",

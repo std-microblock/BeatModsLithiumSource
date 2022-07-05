@@ -2,6 +2,7 @@
 	"name": "BeatSaberPlaylistsLib",
 	"author": "PixelBoom",
 	"description": "A library for reading and writing Beat Saber playlists. Does not do anything by itself.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.6.6",

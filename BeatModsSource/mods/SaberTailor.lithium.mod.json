@@ -2,6 +2,7 @@
 	"name": "SaberTailor",
 	"author": "Shadnix",
 	"description": "Tweak things about your sabers, including grip position/angle, trail appearance and saber length/width. Created by Ruu. Additional contributions by Pespiri.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.5.0",

@@ -2,6 +2,7 @@
 	"name": "CustomMenuText",
 	"author": "arti",
 	"description": "Tired of playing BEAT SABER? Would you rather play BEAT SAMER, YEET SABER, BEAT MYMEAT, or anything else?\r\nWith this plugin, you can change the game's title in the main menu!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.0.1",

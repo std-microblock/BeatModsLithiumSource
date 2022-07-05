@@ -2,6 +2,7 @@
 	"name": "TrickSaber",
 	"author": "Toni Macaroni",
 	"description": "A mod for performing tricks like spinning and throwing your sabers",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.3.1",

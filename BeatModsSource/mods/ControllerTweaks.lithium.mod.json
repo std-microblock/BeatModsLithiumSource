@@ -2,6 +2,7 @@
 	"name": "ControllerTweaks",
 	"author": "PixelBoom",
 	"description": "Remap Oculus Controllers, Enable Controller Swap or change Controller Offsets from Practice!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.0",

@@ -2,6 +2,7 @@
 	"name": "SoundReplacer",
 	"author": "Meivyn",
 	"description": "Allows you to change different in-game sounds like hit sounds, menu music, click sounds, etc.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.0.6",

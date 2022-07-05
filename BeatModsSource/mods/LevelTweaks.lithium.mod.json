@@ -2,6 +2,7 @@
 	"name": "LevelTweaks",
 	"author": "PixelBoom",
 	"description": "Set custom note offset and note jump speed for levels and save them into profiles.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.3.5",

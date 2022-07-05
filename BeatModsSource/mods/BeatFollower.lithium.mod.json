@@ -2,6 +2,7 @@
 	"name": "BeatFollower",
 	"author": "Piercy",
 	"description": "Share song plays and recommendations with your stream. Twitch extension and public profile available at https://www.beatfollower.com . Make sure to login to create your profile!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.5.0",

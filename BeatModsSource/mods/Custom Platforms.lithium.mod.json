@@ -2,6 +2,7 @@
 	"name": "Custom Platforms",
 	"author": "affederaffe",
 	"description": "A plugin to support custom platforms and environments",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "6.1.14",

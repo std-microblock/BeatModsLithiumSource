@@ -2,6 +2,7 @@
 	"name": "BailOutMode",
 	"author": "Zingabopp",
 	"description": "Allows you to continue playing songs without posting a score if you fail, but allows you to post scores if you don't.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.7.1",

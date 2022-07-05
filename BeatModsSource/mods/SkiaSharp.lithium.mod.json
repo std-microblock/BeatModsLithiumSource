@@ -2,6 +2,7 @@
 	"name": "SkiaSharp",
 	"author": "brian",
 	"description": "This is a c# wrapper for the c++ libSkiaSharp library. More info in the libSkiaSharp description.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.68.0",

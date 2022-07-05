@@ -2,6 +2,7 @@
 	"name": "AdBlocker",
 	"author": "JonnyXDA",
 	"description": "This mod simply removes the promo tile from the main menu",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.4",

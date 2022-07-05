@@ -2,6 +2,7 @@
 	"name": "Drink Water",
 	"author": "Shoko84",
 	"description": "Displays a panel to remind you to drink some water after playing for a long time/amount of songs!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.11.2",

@@ -2,6 +2,7 @@
 	"name": "HighlightBombs",
 	"author": "Meivyn",
 	"description": "Adds a slight outline to bombs to make them more visible in the dark.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",

@@ -2,6 +2,7 @@
 	"name": "CustomMissText",
 	"author": "arti",
 	"description": "Random messages whenever you miss a note. Because apparently people like those.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.5",

@@ -2,6 +2,7 @@
 	"name": "Note Cut Minimizer",
 	"author": "CircuitLord",
 	"description": "Tweaks the note debris to make it way less obtrusive on maps with lots of notes. Also makes debris fall in the direction you hit the note.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.1",

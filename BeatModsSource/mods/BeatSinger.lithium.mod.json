@@ -2,6 +2,7 @@
 	"name": "BeatSinger",
 	"author": "Kyle 1413",
 	"description": "Beat Saber plugin for displaying floating lyrics while playing the game.\n",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.9.1",

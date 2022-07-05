@@ -2,6 +2,7 @@
 	"name": "BeatSaberPresence",
 	"author": "FizzyApple12",
 	"description": "Discord Rich Presence for Beat Saber",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.0.13",

@@ -2,6 +2,7 @@
 	"name": "protobuf-net",
 	"author": "Kinsi55",
 	"description": "Provides simple access to fast and efficient \"Protocol Buffers\" serialization from .NET applications",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.0.102",

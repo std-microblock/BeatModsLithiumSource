@@ -2,6 +2,7 @@
 	"name": "BSIPA",
 	"author": "Bobbie",
 	"description": "A mod loader for Beat Saber. Provides a number of useful tools and utilities.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "4.2.2",

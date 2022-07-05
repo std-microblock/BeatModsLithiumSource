@@ -2,6 +2,7 @@
 	"name": "Custom Colors",
 	"author": "Kyle 1413",
 	"description": "Allows you to customize your colors in Beat Saber\n",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.15.1",

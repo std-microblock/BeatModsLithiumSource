@@ -2,6 +2,7 @@
 	"name": "LastFmScrobbler",
 	"author": "Ifropc",
 	"description": "This plugin allows you to submit tracks you play in game to last.fm",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.4",

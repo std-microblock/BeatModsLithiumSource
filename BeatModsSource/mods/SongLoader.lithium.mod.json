@@ -2,6 +2,7 @@
 	"name": "SongLoader",
 	"author": "Kyle 1413",
 	"description": "A plugin for adding custom songs into Beat Saber.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "7.0.0",

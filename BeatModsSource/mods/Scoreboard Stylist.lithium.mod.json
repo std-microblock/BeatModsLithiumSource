@@ -2,6 +2,7 @@
 	"name": "Scoreboard Stylist",
 	"author": "Rolo",
 	"description": "A plugin for managing styling on beat saber leaderboards",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",

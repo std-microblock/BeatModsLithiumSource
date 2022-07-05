@@ -2,6 +2,7 @@
 	"name": "YUR Fit Calorie Tracker",
 	"author": "dilan",
 	"description": "Track YUR calories while playing Beat Saber!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.7.6",

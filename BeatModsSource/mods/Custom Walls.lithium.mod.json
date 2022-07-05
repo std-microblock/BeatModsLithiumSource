@@ -2,6 +2,7 @@
 	"name": "Custom Walls",
 	"author": "Pespiri",
 	"description": "A plugin for custom walls in Beat Saber\r\n",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.6.0",

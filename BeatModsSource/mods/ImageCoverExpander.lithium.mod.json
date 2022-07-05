@@ -2,6 +2,7 @@
 	"name": "ImageCoverExpander",
 	"author": "Spooky232",
 	"description": "Expands the artwork cover of a song! Click \"Mod Info\" for images!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.3.4",

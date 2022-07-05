@@ -2,6 +2,7 @@
 	"name": "ExtendedColorSchemes",
 	"author": "Meivyn",
 	"description": "Adds additional custom slots to color schemes.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.4",

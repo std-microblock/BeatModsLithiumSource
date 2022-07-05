@@ -2,6 +2,7 @@
 	"name": "BeatSaverDownloader",
 	"author": "Top_Cat",
 	"description": "Enables you to download songs from BeatSaver in-game.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "5.8.2",

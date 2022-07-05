@@ -2,6 +2,7 @@
 	"name": "Music Spatializer",
 	"author": "sboys3_dot_com",
 	"description": "Makes the audio 3D when wearing headphones. Also in 360 maps the music will follow the notes.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.11",

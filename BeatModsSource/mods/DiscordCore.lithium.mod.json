@@ -2,6 +2,7 @@
 	"name": "DiscordCore",
 	"author": "FizzyApple12",
 	"description": "A plugin for Discord integration in Beat Saber",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.10",

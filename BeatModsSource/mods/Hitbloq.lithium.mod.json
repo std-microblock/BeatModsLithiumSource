@@ -2,6 +2,7 @@
 	"name": "Hitbloq",
 	"author": "PixelBoom",
 	"description": "A competitive service that allows you to compete on leaderboards from a variety of user-created map pools.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.1",

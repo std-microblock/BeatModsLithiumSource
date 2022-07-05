@@ -2,6 +2,7 @@
 	"name": "SongInfoViewer",
 	"author": "auros",
 	"description": "Allows you to easily look at the BeatSaver song data of the currently selected song.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.0",

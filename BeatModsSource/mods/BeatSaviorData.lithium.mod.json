@@ -2,6 +2,7 @@
 	"name": "BeatSaviorData",
 	"author": "Mystogan",
 	"description": "BeatSaviorData is a Beat Saber plugin that collects and shows a lot of data about your plays, such as per-hand accuracy, speed, distance travelled, overswing percentages, ...",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.1.13",

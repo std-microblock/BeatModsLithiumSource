@@ -2,6 +2,7 @@
 	"name": "NoodleExtensions",
 	"author": "Aeroluna",
 	"description": "This mod lets you see cool things that mappers have put in their maps. Report all issues to Reaxt.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.12",

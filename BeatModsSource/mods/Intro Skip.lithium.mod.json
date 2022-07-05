@@ -2,6 +2,7 @@
 	"name": "Intro Skip",
 	"author": "auros",
 	"description": "Allows you to skip intros and outros of songs that are longer than 5 seconds without any significant objects.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "4.0.3",

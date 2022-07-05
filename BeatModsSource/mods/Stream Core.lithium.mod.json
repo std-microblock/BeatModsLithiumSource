@@ -2,6 +2,7 @@
 	"name": "Stream Core",
 	"author": "brian",
 	"description": "Stream Core is an IPA based mod designed to allow developers to create interactive chat experiences with ease.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.5",

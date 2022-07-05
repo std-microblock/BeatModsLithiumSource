@@ -2,6 +2,7 @@
 	"name": "BeatSaverSharp",
 	"author": "auros",
 	"description": "A .NET library to interact with the BeatSaver API.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.4.2",

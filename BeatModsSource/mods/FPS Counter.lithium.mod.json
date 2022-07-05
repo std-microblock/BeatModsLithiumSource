@@ -2,6 +2,7 @@
 	"name": "FPS Counter",
 	"author": "Steven 🎀",
 	"description": "A Beat Saber mod to show your fps in-game.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",

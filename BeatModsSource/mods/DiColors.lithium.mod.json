@@ -2,6 +2,7 @@
 	"name": "DiColors",
 	"author": "auros",
 	"description": "Allows you to change the colors various in the menu including the menu lights and menu sign!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.6",

@@ -2,6 +2,7 @@
 	"name": "Custom Menu Music",
 	"author": "Steven 🎀",
 	"description": "A mod that adds custom music to your menu! Uses either your CustomSongs library or music of your choosing.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.6.0",

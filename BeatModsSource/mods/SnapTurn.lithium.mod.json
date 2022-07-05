@@ -2,6 +2,7 @@
 	"name": "SnapTurn",
 	"author": "Raemien",
 	"description": "A plugin for rotating the player using controller inputs.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.2",

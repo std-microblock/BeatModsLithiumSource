@@ -2,6 +2,7 @@
 	"name": "Particular",
 	"author": "lolpants",
 	"description": "Make Beat Saber prettier with P A R T I C L E S",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",

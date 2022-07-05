@@ -2,6 +2,7 @@
 	"name": "PlaylistLoaderLite",
 	"author": "PixelBoom",
 	"description": "This plugin uses the official Playlist UI and loads custom playlist files in Beat Saber.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.4",

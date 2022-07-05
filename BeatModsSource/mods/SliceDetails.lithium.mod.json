@@ -2,6 +2,7 @@
 	"name": "SliceDetails",
 	"author": "ckosmic",
 	"description": "A tool that shows your average cut angle and offset per note position/angle to help perfect your accuracy.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.3",

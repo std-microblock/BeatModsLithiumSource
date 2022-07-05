@@ -2,6 +2,7 @@
 	"name": "libSkiaSharp",
 	"author": "brian",
 	"description": "SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a 2D API that can be used across mobile/server/desktop models to render images.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.68.0",

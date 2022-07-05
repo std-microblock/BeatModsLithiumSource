@@ -2,6 +2,7 @@
 	"name": "Nya",
 	"author": "Sirspam",
 	"description": "Beat Saber mod for displaying nya-tastic images from various anime themed web APIs",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.3.4",

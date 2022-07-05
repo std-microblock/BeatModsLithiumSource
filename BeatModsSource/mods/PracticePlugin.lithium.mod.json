@@ -2,6 +2,7 @@
 	"name": "PracticePlugin",
 	"author": "denpadokei",
 	"description": "Plugin for Beat Saber to control playback speed",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "6.0.13",

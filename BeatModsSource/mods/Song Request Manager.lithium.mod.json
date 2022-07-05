@@ -2,6 +2,7 @@
 	"name": "Song Request Manager",
 	"author": "angturil",
 	"description": "Song Request Manager is an integrated, fully Customizable song request bot and Console for BeatSaber. This is an Alpha release for the 1.16.1. Added CPU automtt support",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.16.1",

@@ -2,6 +2,7 @@
 	"name": "Enhanced Search And Filters",
 	"author": "hello",
 	"description": "A mod that helps you quickly find the songs you want to play! Includes an auto-refreshing search screen, song filtering, and other basic UI additions.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.3.4",

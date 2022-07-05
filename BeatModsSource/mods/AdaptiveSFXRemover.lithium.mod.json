@@ -2,6 +2,7 @@
 	"name": "AdaptiveSFXRemover",
 	"author": "Shadnix",
 	"description": "Removes the adaptive volume adjustments of sound effects.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.0",

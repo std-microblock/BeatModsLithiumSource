@@ -2,6 +2,7 @@
 	"name": "BSMOTD Plus",
 	"author": "auros",
 	"description": "Learn more about what's happening in the community! When you launch your game you're prompted with news posts from the community.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",

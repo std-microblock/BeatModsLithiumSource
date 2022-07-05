@@ -2,6 +2,7 @@
 	"name": "BS-RefreshButtons",
 	"author": "Alppuccino",
 	"description": "Adds refresh buttons in the mods panel in game, to refresh your custom songs. Now for BS 1.6.0 and BSML.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.0.0",

@@ -2,6 +2,7 @@
 	"name": "LeaderboardInSong",
 	"author": "Kyle 1413",
 	"description": "Provides an in song leaderboard comparing your score as you play to the scores on the active leaderboard page as of starting the song",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.3",

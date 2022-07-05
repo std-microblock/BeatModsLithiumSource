@@ -2,6 +2,7 @@
 	"name": "BeatSaberTweaks",
 	"author": "Assistant",
 	"description": "Plugin for Beat Saber containing Various Tweaks.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "4.4.4",

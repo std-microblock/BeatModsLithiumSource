@@ -2,6 +2,7 @@
 	"name": "Versus",
 	"author": "nate1280",
 	"description": "Track your scores and watch as you beat your friends, or challenge your favorite streamer! Make playlists and chase down your friend's scores. Link your Twitch at versusmod.com to enable Challenges",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.9",

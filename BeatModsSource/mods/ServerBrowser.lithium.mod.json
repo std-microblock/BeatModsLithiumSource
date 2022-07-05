@@ -2,6 +2,7 @@
 	"name": "ServerBrowser",
 	"author": "LookAtHippo",
 	"description": "Adds a Server Browser to the Online menu, making it easy to share and join multiplayer games.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.6.0",

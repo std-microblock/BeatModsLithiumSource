@@ -2,6 +2,7 @@
 	"name": "DiSounds",
 	"author": "auros",
 	"description": "Customize your sounds! Change the menu music, add intro and outro sounds, custom songs for failing a level or getting a high score, and custom click sounds!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.2",

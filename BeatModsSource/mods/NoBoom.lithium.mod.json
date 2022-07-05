@@ -2,6 +2,7 @@
 	"name": "NoBoom",
 	"author": "Spooky232",
 	"description": "A Simple mod that disables the particle effect when hitting a bomb. Can be toggled through the modifiers menu",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.2",

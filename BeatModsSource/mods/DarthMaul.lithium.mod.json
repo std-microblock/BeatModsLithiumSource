@@ -2,6 +2,7 @@
 	"name": "DarthMaul",
 	"author": "Kylon99",
 	"description": "Adds Darth Maul mode as well as other related features to Beat Saber.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.7.5",

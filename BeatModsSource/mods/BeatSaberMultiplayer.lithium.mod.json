@@ -2,6 +2,7 @@
 	"name": "BeatSaberMultiplayer",
 	"author": "andruzzzhka",
 	"description": "Allows you to play with friends online!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.6.4.2",

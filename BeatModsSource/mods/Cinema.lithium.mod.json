@@ -2,6 +2,7 @@
 	"name": "Cinema",
 	"author": "Dakari",
 	"description": "Add music videos to the background of your maps",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.5.2",

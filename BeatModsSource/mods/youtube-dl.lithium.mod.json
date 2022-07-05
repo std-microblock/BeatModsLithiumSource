@@ -2,6 +2,7 @@
 	"name": "youtube-dl",
 	"author": "Dakari",
 	"description": "youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2021.6.6",

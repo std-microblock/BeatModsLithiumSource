@@ -2,6 +2,7 @@
 	"name": "EndlessMode",
 	"author": "Moon",
 	"description": "Stitches songs together so that your entire playlist plays before you return to the menu",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.1",

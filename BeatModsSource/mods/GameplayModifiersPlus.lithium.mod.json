@@ -2,6 +2,7 @@
 	"name": "GameplayModifiersPlus",
 	"author": "Kyle 1413",
 	"description": "Adds additional modifiers to the game, see More Info for details",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.11.1",

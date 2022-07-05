@@ -2,6 +2,7 @@
 	"name": "PerformanceMeter",
 	"author": "JackMacWindows",
 	"description": "Shows a graph of your energy bar, percentage level, or cut value throughout a map on the end screen.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.1",

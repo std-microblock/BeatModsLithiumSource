@@ -2,6 +2,7 @@
 	"name": "Random Sabers",
 	"author": "Eshel56765",
 	"description": "This mod enables selection of a random saber from the current downloaded pool of sabers, as well as selecting specific sabers for which to enable/disable selection.\n",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.0",

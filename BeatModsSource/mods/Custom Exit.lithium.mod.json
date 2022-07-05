@@ -2,6 +2,7 @@
 	"name": "Custom Exit",
 	"author": "Shoko84",
 	"description": "Displays a panel to confirm that you really really want to exit Beat Saber.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.3",

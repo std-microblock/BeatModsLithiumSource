@@ -2,6 +2,7 @@
 	"name": "Tweaks55",
 	"author": "Kinsi55",
 	"description": "A collection of various tweaks which by themselves are too simple for their own designated mods",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.3.6",

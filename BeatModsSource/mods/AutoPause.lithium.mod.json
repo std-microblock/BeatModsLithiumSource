@@ -2,6 +2,7 @@
 	"name": "AutoPause",
 	"author": "auros",
 	"description": "Will pause your game if it detects a tracking error or an fps drop.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "6.0.1",

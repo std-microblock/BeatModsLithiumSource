@@ -2,6 +2,7 @@
 	"name": "Rumble Enhancer",
 	"author": "Kariko",
 	"description": "A Mod to tweak Rumble Behavior",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.3",

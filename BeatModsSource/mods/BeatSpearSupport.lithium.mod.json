@@ -2,6 +2,7 @@
 	"name": "BeatSpearSupport",
 	"author": "Kylon99",
 	"description": "Beat Spear changes Standard and No Arrows modes into One Color, to support playing with a spear like or two handed sword weapon. Disables scoring submission and will not affect One Saber modes.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.2.2",

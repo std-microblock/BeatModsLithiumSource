@@ -2,6 +2,7 @@
 	"name": "bHaptics",
 	"author": "floh-bhaptics",
 	"description": "A library to interface with the bHaptics Player and play back haptic feedback patterns in the supported gear.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.18",

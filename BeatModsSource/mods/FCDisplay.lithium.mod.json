@@ -2,6 +2,7 @@
 	"name": "FCDisplay",
 	"author": "bigfoot",
 	"description": "Display a ring around the multiplier if you haven't missed yet.\n\nComes with multiple miss animations and the option to disable the vanilla display (the lines above and below the combo counter)",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.0.0",

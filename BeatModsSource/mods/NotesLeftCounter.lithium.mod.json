@@ -2,6 +2,7 @@
 	"name": "NotesLeftCounter",
 	"author": "Kyle 1413",
 	"description": "Adds a counter of how many notes are left in the song in game, can be toggled in Gameplay modifiers panel when selecting songs",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.1",

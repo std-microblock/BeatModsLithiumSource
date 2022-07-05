@@ -2,6 +2,7 @@
 	"name": "Custom Sabers",
 	"author": "Steven 🎀",
 	"description": "A plugin for custom Beat Sabers.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "4.4.2",

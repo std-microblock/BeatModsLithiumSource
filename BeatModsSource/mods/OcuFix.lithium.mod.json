@@ -2,6 +2,7 @@
 	"name": "OcuFix",
 	"author": "otiosum",
 	"description": "Automatically disable ASW and change services/runtime priority ",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.0",

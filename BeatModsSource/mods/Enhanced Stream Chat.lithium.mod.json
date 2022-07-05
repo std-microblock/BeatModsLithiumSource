@@ -2,6 +2,7 @@
 	"name": "Enhanced Stream Chat",
 	"author": "Eris",
 	"description": "Enhanced Stream Chat is a rich text chat integration mod, with full unicode, emote, and emoji support.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.0.2",

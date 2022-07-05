@@ -2,6 +2,7 @@
 	"name": "BS Utils",
 	"author": "Eris",
 	"description": "A basic library for mods to use for common functionality.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.12.0",

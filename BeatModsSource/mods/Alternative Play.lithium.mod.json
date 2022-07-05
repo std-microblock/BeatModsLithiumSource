@@ -2,6 +2,7 @@
 	"name": "Alternative Play",
 	"author": "Kylon99",
 	"description": "DarthMaul, Spear, ReverseSaber, OneColor and many more gameplay options. Mix and match to discover new styles of play!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.3.2",

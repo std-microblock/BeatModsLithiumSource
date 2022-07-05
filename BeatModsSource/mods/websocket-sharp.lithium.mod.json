@@ -2,6 +2,7 @@
 	"name": "websocket-sharp",
 	"author": "Eris",
 	"description": "A C# implementation of the WebSocket protocol client and server",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.4",

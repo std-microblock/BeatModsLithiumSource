@@ -2,6 +2,7 @@
 	"name": "Custom Avatars",
 	"author": "nicoco007",
 	"description": "Allows the use of custom player avatars for in-game body presence.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "5.2.11",

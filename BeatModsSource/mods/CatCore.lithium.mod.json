@@ -2,6 +2,7 @@
 	"name": "CatCore",
 	"author": "Eris",
 	"description": "CatCore is a high-performance .NET Standard 2.0 library which provides a shared connection to mods for Twitch (and other future streaming platforms).",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",

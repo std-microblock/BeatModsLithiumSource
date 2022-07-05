@@ -2,6 +2,7 @@
 	"name": "SmoothCamPlus",
 	"author": "ItsKaitlyn03",
 	"description": "Extra options to configure Beat Saber's Smooth Camera even more, no Cam2 required.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",

@@ -2,6 +2,7 @@
 	"name": "CustomBanners",
 	"author": "Toni Macaroni",
 	"description": "Display images as banners or cycle through them automatically",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.1",

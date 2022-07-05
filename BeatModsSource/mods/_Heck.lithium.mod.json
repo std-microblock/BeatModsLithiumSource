@@ -2,6 +2,7 @@
 	"name": "_Heck",
 	"author": "Aeroluna",
 	"description": "Library for Aeroluna's mods.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.3.8",

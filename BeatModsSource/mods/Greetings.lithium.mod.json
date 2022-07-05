@@ -2,6 +2,7 @@
 	"name": "Greetings",
 	"author": "Sirspam",
 	"description": "Beat Saber mod for playing a video on the game's start up",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.2.4",

@@ -2,6 +2,7 @@
 	"name": "SongPlayHistory",
 	"author": "peperoro",
 	"description": "A score tracker with simple in-game UI.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.5.2",

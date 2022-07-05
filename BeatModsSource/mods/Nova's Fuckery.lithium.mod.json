@@ -2,6 +2,7 @@
 	"name": "Nova's Fuckery",
 	"author": "ItsNovaHere",
 	"description": "A collection of the random shit I come up with.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.1",

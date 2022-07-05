@@ -2,6 +2,7 @@
 	"name": "SpectroSaber",
 	"author": "ckosmic",
 	"description": "SpectroSaber is a mod that adds visualizers onto your sabers! The look of the visualizers can be customized through the mod's settings and is perfect for streaming/recordings or just looking cool.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",

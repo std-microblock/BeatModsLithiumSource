@@ -2,6 +2,7 @@
 	"name": "Harmony",
 	"author": "Kyle 1413",
 	"description": "This entry exists only for dependencies. The library actually exists in BSIPA.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.1",

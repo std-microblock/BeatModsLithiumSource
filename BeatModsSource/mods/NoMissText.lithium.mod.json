@@ -2,6 +2,7 @@
 	"name": "NoMissText",
 	"author": "CyanSnow",
 	"description": "Simple mod that hides the flying text when a note is missed so you can hide how bad you really are.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.7",

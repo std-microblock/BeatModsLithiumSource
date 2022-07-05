@@ -2,6 +2,7 @@
 	"name": "SongPlayHistoryContinued",
 	"author": "Shadnix",
 	"description": "A local score tracker with simple in-game UI. Created by peperoro.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.6.1",

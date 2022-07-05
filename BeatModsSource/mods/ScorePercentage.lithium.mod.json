@@ -2,6 +2,7 @@
 	"name": "ScorePercentage",
 	"author": "Idlebob",
 	"description": "Adds score percentage, percentage difference and score difference to results screen and score percentage to song info.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.12",

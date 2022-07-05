@@ -2,6 +2,7 @@
 	"name": "Small Menu",
 	"author": "nicoco007",
 	"description": "Makes the main menu smaller & closer, just like it was in Beat Saber 1.13.0.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.0",

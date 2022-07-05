@@ -2,6 +2,7 @@
 	"name": "YamlDotNet",
 	"author": "lolpants",
 	"description": "YamlDotNet is a .NET library for YAML",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "8.0.0",

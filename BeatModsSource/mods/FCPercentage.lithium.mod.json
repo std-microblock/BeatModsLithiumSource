@@ -2,6 +2,7 @@
 	"name": "FCPercentage",
 	"author": "ChirpyMisha",
 	"description": "Show your accuracy as a percentage without drops from misses or a lowered combo multiplier. Optional Counters+ custom counter available.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.1",

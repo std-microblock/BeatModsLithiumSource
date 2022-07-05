@@ -2,6 +2,7 @@
 	"name": "LibConf",
 	"author": "lolpants",
 	"description": ".NET framework configuration library that's somehow cooler than the rest",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",

@@ -2,6 +2,7 @@
 	"name": "Custom Energy Bars",
 	"author": "ckosmic",
 	"description": "Adds support for custom energy bars to the game.  Click \"Mod Info\" to learn how to make your own!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.4",

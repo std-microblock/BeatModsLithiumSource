@@ -2,6 +2,7 @@
 	"name": "BeatSaberMarkupLanguage",
 	"author": "Meivyn",
 	"description": "An XML based UI system.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.6.6",

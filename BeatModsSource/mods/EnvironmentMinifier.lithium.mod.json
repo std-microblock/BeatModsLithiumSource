@@ -2,6 +2,7 @@
 	"name": "EnvironmentMinifier",
 	"author": "FizzyApple12",
 	"description": "Minifies the environment chroma style",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.4",

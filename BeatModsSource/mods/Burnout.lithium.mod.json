@@ -2,6 +2,7 @@
 	"name": "Burnout",
 	"author": "Raemien",
 	"description": "A Beat Saber plugin for customizing saber burn marks.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.2",

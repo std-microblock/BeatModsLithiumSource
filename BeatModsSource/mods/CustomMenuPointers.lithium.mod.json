@@ -2,6 +2,7 @@
 	"name": "CustomMenuPointers",
 	"author": "Kylon99",
 	"description": "Use a custom pointer or saber in the menu and the pause menu!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.2.0",

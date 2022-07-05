@@ -2,6 +2,7 @@
 	"name": "BadCutType",
 	"author": "Dream Reality",
 	"description": "Replace \"X\" bad cut effect with custom text for each bad cut type.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.0",

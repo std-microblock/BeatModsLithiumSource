@@ -2,6 +2,7 @@
 	"name": "SongCore",
 	"author": "Umbranox",
 	"description": "A plugin for handling custom songs in Beat Saber, and converting old libraries into the new format",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.7.5",

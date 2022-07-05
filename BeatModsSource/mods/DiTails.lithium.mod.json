@@ -2,6 +2,7 @@
 	"name": "DiTails",
 	"author": "auros",
 	"description": "View extra details about a map by clicking the cover image!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",

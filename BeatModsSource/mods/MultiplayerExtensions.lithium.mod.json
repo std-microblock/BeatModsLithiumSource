@@ -2,6 +2,7 @@
 	"name": "MultiplayerExtensions",
 	"author": "Goobie",
 	"description": "Expands the functionality of Beat Saber Multiplayer. Adds custom song support and a variety of other features.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.5.4",

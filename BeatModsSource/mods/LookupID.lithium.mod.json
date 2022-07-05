@@ -2,6 +2,7 @@
 	"name": "LookupID",
 	"author": "Aeroluna",
 	"description": "A single method written in C++ for Chroma because regex in mono is unbelievably slow. Also beatmods sucks.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",

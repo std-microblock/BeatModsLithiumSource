@@ -2,6 +2,7 @@
 	"name": "SiraLocalizer",
 	"author": "nicoco007",
 	"description": "Adds community translations to the game. Currently supports Chinese (Simplified), French, German, Italian, Korean, Portuguese (Brazilian), and Russian.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.0",

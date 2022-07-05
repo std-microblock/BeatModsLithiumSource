@@ -2,6 +2,7 @@
 	"name": "MusicEscape",
 	"author": "squeaksies",
 	"description": "Music Escape lets you escape your music with \"escape\"",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",

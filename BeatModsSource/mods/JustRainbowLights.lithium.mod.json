@@ -2,6 +2,7 @@
 	"name": "JustRainbowLights",
 	"author": "Cycle",
 	"description": "Makes the background lighting rainbow, for a more colourful experience.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.7.5",

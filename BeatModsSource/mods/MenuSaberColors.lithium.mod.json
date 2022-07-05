@@ -2,6 +2,7 @@
 	"name": "MenuSaberColors",
 	"author": "Exomanz",
 	"description": "Allows your menu pointers to be the same colors as your current color scheme!",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.4",

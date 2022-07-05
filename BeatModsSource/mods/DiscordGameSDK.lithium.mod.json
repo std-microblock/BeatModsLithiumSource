@@ -2,6 +2,7 @@
 	"name": "DiscordGameSDK",
 	"author": "FizzyApple12",
 	"description": "Discord's Game SDK",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.5.10",

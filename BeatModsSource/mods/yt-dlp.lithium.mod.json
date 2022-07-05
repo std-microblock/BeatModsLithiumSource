@@ -2,6 +2,7 @@
 	"name": "yt-dlp",
 	"author": "Dakari",
 	"description": "A youtube-dl fork with additional features and fixes",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2022.4.8",
