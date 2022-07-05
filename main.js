@@ -46,7 +46,7 @@ for (let name of Object.keys(mods)) {
                             version:cur.version,
                             url:toOnlineURL(cur.name)
                         }
-                    },{})
+                    })
                 }
             })
         }
