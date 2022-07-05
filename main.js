@@ -40,7 +40,7 @@ for (let name of Object.keys(mods)) {
                         return pre;
                     }, {}),
                     requiredGameVersion: "~" + v.gameVersion,
-                    dependencies: v.dependencies.map(v => {
+                    dependencies: v.dependencies.map(cur => {
                         return {
                             id:cur.name,
                             version:cur.version,
