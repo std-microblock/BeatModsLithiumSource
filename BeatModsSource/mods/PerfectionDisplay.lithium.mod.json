@@ -10,10 +10,18 @@
 				"universal": "https://beatmods.com//uploads/5f3accc983fe22744157e98b/universal/PerfectionDisplay-1.9.0.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.3.4",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.11"
-			}
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.4.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.8.0",
@@ -21,10 +29,18 @@
 				"universal": "https://beatmods.com//uploads/5df400770f965b56357f1e0f/universal/PerfectionDisplay-1.8.0.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.1.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.0"
-			}
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.1.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.7.2",
@@ -32,10 +48,18 @@
 				"universal": "https://beatmods.com//uploads/5dc4bd6d8ed3a56f6197bb51/universal/PerfectionDisplay-1.7.2.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.0.6",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.7"
-			}
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.0.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

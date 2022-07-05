@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/5cbe8e87d142a72a4a73ac86/universal/Stream Core-1.0.5.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "2.2.4",
@@ -18,7 +18,7 @@
 				"universal": "https://beatmods.com//uploads/5e06321d29530a6e1adfef1b/universal/Stream Core-2.2.4.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "2.2.3",
@@ -26,7 +26,7 @@
 				"universal": "https://beatmods.com//uploads/5dc6d3508ed3a56f6197bb9a/universal/Stream Core-2.2.3.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }

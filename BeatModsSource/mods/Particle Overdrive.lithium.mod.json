@@ -10,11 +10,23 @@
 				"universal": "https://beatmods.com//uploads/6245ff533f368d47b27e9760/universal/Particle Overdrive-1.12.0.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.12.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.6.3",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.2"
-			}
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.12.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.11.1",
@@ -22,11 +34,23 @@
 				"universal": "https://beatmods.com//uploads/60b586832d008b3daa41ea49/universal/Particle Overdrive-1.11.1.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.10.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.3",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.6"
-			}
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.10.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.10.0",
@@ -34,11 +58,23 @@
 				"universal": "https://beatmods.com//uploads/60480bf3fd8cd42a0cd12a56/universal/Particle Overdrive-1.10.0.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.1",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.8.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
-			}
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.8.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.9.0",
@@ -46,11 +82,23 @@
 				"universal": "https://beatmods.com//uploads/600a90308384cf2e7ec725e3/universal/Particle Overdrive-1.9.0.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.7.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.4.5",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
-			}
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.7.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.4.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.7.0",
@@ -58,11 +106,23 @@
 				"universal": "https://beatmods.com//uploads/5f90a409df35a674dfeca4b1/universal/Particle Overdrive-1.7.0.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.3",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.4.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.5.0"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.5.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.0",
@@ -70,11 +130,23 @@
 				"universal": "https://beatmods.com//uploads/5f58224583fe22744157ec31/universal/Particle Overdrive-1.4.0.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.0.5",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.3.4",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.11"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.0.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.4.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.2.0",
@@ -82,10 +154,18 @@
 				"universal": "https://beatmods.com//uploads/5e7cf16803dce96ca6cf0ca4/universal/Particle Overdrive-1.2.0.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.2.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.4.4"
-			}
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.4.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "0.5.1",
@@ -93,11 +173,23 @@
 				"universal": "https://beatmods.com//uploads/5d2d51abc26f5e655671e74b/universal/Particle Overdrive-0.5.1.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.11",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.6",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.19"
-			}
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "3.12.19",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "0.4.1",
@@ -105,10 +197,18 @@
 				"universal": "https://beatmods.com//uploads/5cf5b9e20a8c00640fb96fc1/universal/Particle Overdrive-0.4.1.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.8",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0"
-			}
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

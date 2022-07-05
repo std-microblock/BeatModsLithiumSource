@@ -10,9 +10,13 @@
 				"universal": "https://beatmods.com//uploads/624686c33f368d47b27e97c2/universal/PiFix-2.37.7.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.2"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

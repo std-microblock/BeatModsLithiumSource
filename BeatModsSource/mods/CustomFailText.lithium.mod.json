@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/5e7bcf9703dce96ca6cf0c26/universal/CustomFailText-1.0.5.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "1.0.4",
@@ -18,9 +18,13 @@
 				"universal": "https://beatmods.com//uploads/5d2d5ca8c26f5e655671e7a8/universal/CustomFailText-1.0.4.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.21"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "3.12.21",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

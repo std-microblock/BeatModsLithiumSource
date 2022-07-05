@@ -10,9 +10,13 @@
 				"universal": "https://beatmods.com//uploads/62813ef8d384c3394fe53645/universal/HitsoundTweaks-1.0.4.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.2"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

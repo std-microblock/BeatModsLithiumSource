@@ -10,10 +10,18 @@
 				"universal": "https://beatmods.com//uploads/5d6bf028be34f5432f209e5a/universal/Random Sabers-1.2.0.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Sabers.lithium.mod.json": "~3.1.1",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.6.0"
-			}
+			"dependencies": [
+				{
+					"id": "Custom Sabers",
+					"version": "3.1.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Sabers.lithium.mod.json"
+				},
+				{
+					"id": "CustomUI",
+					"version": "1.6.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.1.6",
@@ -21,10 +29,18 @@
 				"universal": "https://beatmods.com//uploads/5d2d517cc26f5e655671e748/universal/Random Sabers-1.1.6.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.11",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Sabers.lithium.mod.json": "~2.9.1"
-			}
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "Custom Sabers",
+					"version": "2.9.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Sabers.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

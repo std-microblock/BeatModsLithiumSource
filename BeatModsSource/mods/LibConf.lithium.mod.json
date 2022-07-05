@@ -10,11 +10,23 @@
 				"universal": "https://beatmods.com//uploads/5ddc25598ed3a56f6197bc88/universal/LibConf-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nett.lithium.mod.json": "~0.13.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/YamlDotNet.lithium.mod.json": "~6.1.2",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json": "~2.5.5"
-			}
+			"dependencies": [
+				{
+					"id": "Nett",
+					"version": "0.13.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nett.lithium.mod.json"
+				},
+				{
+					"id": "YamlDotNet",
+					"version": "6.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/YamlDotNet.lithium.mod.json"
+				},
+				{
+					"id": "Ini Parser",
+					"version": "2.5.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.0.0",
@@ -22,11 +34,23 @@
 				"universal": "https://beatmods.com//uploads/5d815bfe626a455aff49554e/universal/LibConf-1.0.0.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/YamlDotNet.lithium.mod.json": "~6.1.3",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nett.lithium.mod.json": "~0.13.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json": "~2.5.5"
-			}
+			"dependencies": [
+				{
+					"id": "YamlDotNet",
+					"version": "6.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/YamlDotNet.lithium.mod.json"
+				},
+				{
+					"id": "Nett",
+					"version": "0.13.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nett.lithium.mod.json"
+				},
+				{
+					"id": "Ini Parser",
+					"version": "2.5.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

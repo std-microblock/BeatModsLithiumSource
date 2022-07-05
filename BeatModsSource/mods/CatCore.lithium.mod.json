@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/62756e75d384c3394fe535a7/universal/CatCore-1.0.0.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }

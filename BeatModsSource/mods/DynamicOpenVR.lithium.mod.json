@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/60482e9bfd8cd42a0cd12a8d/universal/DynamicOpenVR-0.4.0.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "0.3.5",
@@ -18,7 +18,7 @@
 				"universal": "https://beatmods.com//uploads/600a61e68384cf2e7ec725a3/universal/DynamicOpenVR-0.3.5.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "0.3.3",
@@ -26,7 +26,7 @@
 				"universal": "https://beatmods.com//uploads/5f9733dedf35a674dfeca621/universal/DynamicOpenVR-0.3.3.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "0.3.0",
@@ -34,7 +34,7 @@
 				"universal": "https://beatmods.com//uploads/5f3b30fc83fe22744157ea3d/universal/DynamicOpenVR-0.3.0.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }

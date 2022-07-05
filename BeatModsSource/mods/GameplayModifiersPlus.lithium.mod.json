@@ -10,12 +10,28 @@
 				"universal": "https://beatmods.com//uploads/5cfe55ad0a8c00640fb97075/universal/GameplayModifiersPlus-1.11.1.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json": "~1.0.4",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.4.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.2.2"
-			}
+			"dependencies": [
+				{
+					"id": "Stream Core",
+					"version": "1.0.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json"
+				},
+				{
+					"id": "CustomUI",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.11.0",
@@ -23,11 +39,23 @@
 				"universal": "https://beatmods.com//uploads/5ce33743b29eb364ff1e993f/universal/GameplayModifiersPlus-1.11.0.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.4.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.2.2"
-			}
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.10.4",
@@ -35,11 +63,23 @@
 				"universal": "https://beatmods.com//uploads/5cbe85b6d142a72a4a73ac7b/universal/GameplayModifiersPlus-1.10.4.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.4.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.2.2"
-			}
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/6049ebc7fd8cd42a0cd12b09/universal/FFmpeg-4.3.3.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }

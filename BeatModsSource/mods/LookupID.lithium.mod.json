@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/6248b2d13f368d47b27e984e/universal/LookupID-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "1.0.0",
@@ -18,7 +18,7 @@
 				"universal": "https://beatmods.com//uploads/61a5840ba5ef195865a5b235/universal/LookupID-1.0.0.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }

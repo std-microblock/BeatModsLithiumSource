@@ -10,15 +10,43 @@
 				"universal": "https://beatmods.com//uploads/61c358597a2ef528fb65b91c/universal/SongBrowser-6.3.3.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.4.6",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json": "~1.5.1",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~3.0.1",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.1",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.11.1",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.6.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~3.9.0"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.4.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberPlaylistsLib",
+					"version": "1.5.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.0.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.11.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.9.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.3.2",
@@ -26,14 +54,38 @@
 				"universal": "https://beatmods.com//uploads/6150b9a0f1166c468bfa22d5/universal/SongBrowser-6.3.2.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json": "~1.5.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.9",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.11.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~2.5.8",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~3.8.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.4.4"
-			}
+			"dependencies": [
+				{
+					"id": "BeatSaberPlaylistsLib",
+					"version": "1.5.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.11.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "2.5.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.8.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "SongDataCore",
+					"version": "1.4.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.3.1",
@@ -41,15 +93,43 @@
 				"universal": "https://beatmods.com//uploads/6136548470a9464db367b8ed/universal/SongBrowser-6.3.1.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json": "~1.4.1",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.4.3",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~3.7.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.5",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.11.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json": "~2.5.8"
-			}
+			"dependencies": [
+				{
+					"id": "BeatSaberPlaylistsLib",
+					"version": "1.4.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
+				},
+				{
+					"id": "SongDataCore",
+					"version": "1.4.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.7.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.11.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "2.5.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.2.2",
@@ -57,14 +137,38 @@
 				"universal": "https://beatmods.com//uploads/60f8bc3db1ad095176942d97/universal/SongBrowser-6.2.2.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.4.1",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json": "~1.4.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~3.5.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.4",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.11.0"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.4.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberPlaylistsLib",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.5.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.11.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.2.1",
@@ -72,13 +176,33 @@
 				"universal": "https://beatmods.com//uploads/60ce47d9af1e3d4577e03696/universal/SongBrowser-6.2.1.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json": "~1.5.3",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json": "~1.3.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.10.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~3.4.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.3.8"
-			}
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberPlaylistsLib",
+					"version": "1.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.10.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "SongDataCore",
+					"version": "1.3.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.1.6",
@@ -86,11 +210,23 @@
 				"universal": "https://beatmods.com//uploads/606902aa54bb0e1d077e2af4/universal/SongBrowser-6.1.6.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~3.3.1",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.6",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.3.7"
-			}
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.3.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "SongDataCore",
+					"version": "1.3.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.1.4",
@@ -98,10 +234,18 @@
 				"universal": "https://beatmods.com//uploads/600dad040eef816aa6d0c081/universal/SongBrowser-6.1.4.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.3.6",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~3.0.3"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.3.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.0.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.1.2",
@@ -109,10 +253,18 @@
 				"universal": "https://beatmods.com//uploads/5fc263438384cf2e7ec72095/universal/SongBrowser-6.1.2.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.3.5",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~3.0.0"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.0.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.0.7",
@@ -120,10 +272,18 @@
 				"universal": "https://beatmods.com//uploads/5f3c5fae83fe22744157ea69/universal/SongBrowser-6.0.7.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.3.4",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.9.10"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.9.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.0.6",
@@ -131,10 +291,18 @@
 				"universal": "https://beatmods.com//uploads/5ee566585baf5a5145fef85d/universal/SongBrowser-6.0.6.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.9.5",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.3.3"
-			}
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "2.9.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "SongDataCore",
+					"version": "1.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.0.4",
@@ -142,10 +310,18 @@
 				"universal": "https://beatmods.com//uploads/5e38c5ec03dce96ca6cf08dd/universal/SongBrowser-6.0.4.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.3.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.7.5"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.7.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "6.0.2",
@@ -153,10 +329,18 @@
 				"universal": "https://beatmods.com//uploads/5e0ba36dc7db000caca5a681/universal/SongBrowser-6.0.2.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.2.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.7.2"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.7.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "5.5.2",
@@ -164,10 +348,18 @@
 				"universal": "https://beatmods.com//uploads/5dc5b4408ed3a56f6197bb73/universal/SongBrowser-5.5.2.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.1.4",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.4.1"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.4.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "5.5.1",
@@ -175,10 +367,18 @@
 				"universal": "https://beatmods.com//uploads/5d6ad5c6be34f5432f209e45/universal/SongBrowser-5.5.1.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.1.3",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.1.0"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.1.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "5.4.0",
@@ -186,10 +386,18 @@
 				"universal": "https://beatmods.com//uploads/5d38f1f5c26f5e655671e89f/universal/SongBrowser-5.4.0.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.1.2",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.0.10"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.0.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "5.3.1",
@@ -197,10 +405,18 @@
 				"universal": "https://beatmods.com//uploads/5d2934a6ed00193b6ebbad4d/universal/SongBrowser-5.3.1.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json": "~1.1.0",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json": "~2.0.10"
-			}
+			"dependencies": [
+				{
+					"id": "SongDataCore",
+					"version": "1.1.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.0.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "4.1.0",
@@ -208,9 +424,13 @@
 				"universal": "https://beatmods.com//uploads/5cead9070a8c00640fb96edc/universal/SongBrowser-4.1.0.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json": "~7.0.0"
-			}
+			"dependencies": [
+				{
+					"id": "SongLoader",
+					"version": "7.0.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "3.0.6",
@@ -218,9 +438,13 @@
 				"universal": "https://beatmods.com//uploads/5cd319c7d98de9360548158a/universal/SongBrowser-3.0.6.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json": "~6.12.1"
-			}
+			"dependencies": [
+				{
+					"id": "SongLoader",
+					"version": "6.12.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

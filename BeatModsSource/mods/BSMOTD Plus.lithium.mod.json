@@ -10,10 +10,18 @@
 				"universal": "https://beatmods.com//uploads/5d898082626a455aff49559c/universal/BSMOTD Plus-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json": "~1.0.5",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json": "~1.0.0"
-			}
+			"dependencies": [
+				{
+					"id": "BSML",
+					"version": "1.0.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json"
+				},
+				{
+					"id": "LibConf",
+					"version": "1.0.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LibConf.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

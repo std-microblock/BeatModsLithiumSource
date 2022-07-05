@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/5e7c2ec903dce96ca6cf0c30/universal/CustomMissText-1.0.5.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "1.0.3",
@@ -18,9 +18,13 @@
 				"universal": "https://beatmods.com//uploads/5e3f6adc03dce96ca6cf092c/universal/CustomMissText-1.0.3.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.13.7"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "3.13.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.0.2",
@@ -28,9 +32,13 @@
 				"universal": "https://beatmods.com//uploads/5cd52a2ed98de936054815d9/universal/CustomMissText-1.0.2.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0"
-			}
+			"dependencies": [
+				{
+					"id": "Harmony",
+					"version": "1.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

@@ -10,10 +10,18 @@
 				"universal": "https://beatmods.com//uploads/5ce67441b29eb364ff1e9a3f/universal/Rumble Enhancer-1.4.3.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.8",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json": "~1.2.0"
-			}
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.2",
@@ -21,9 +29,13 @@
 				"universal": "https://beatmods.com//uploads/5cc759e140d65f750b8400d0/universal/Rumble Enhancer-1.4.2.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.4.1"
-			}
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.4.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/6246967b3f368d47b27e97c5/universal/bHaptics-1.4.18.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "1.4.17",
@@ -18,7 +18,7 @@
 				"universal": "https://beatmods.com//uploads/6231a8f16f151827d5d77d43/universal/bHaptics-1.4.17.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }

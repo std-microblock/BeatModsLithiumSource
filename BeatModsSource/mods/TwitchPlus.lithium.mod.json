@@ -10,10 +10,18 @@
 				"universal": "https://beatmods.com//uploads/5ce4afafb29eb364ff1e99ea/universal/TwitchPlus-1.1.2.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.8",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json": "~1.0.4"
-			}
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "Stream Core",
+					"version": "1.0.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

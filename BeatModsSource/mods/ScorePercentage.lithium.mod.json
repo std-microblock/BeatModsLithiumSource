@@ -10,9 +10,13 @@
 				"universal": "https://beatmods.com//uploads/6246ff463f368d47b27e97f2/universal/ScorePercentage-1.4.12.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.2"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.9",
@@ -20,9 +24,13 @@
 				"universal": "https://beatmods.com//uploads/61c2cfa37a2ef528fb65b8d1/universal/ScorePercentage-1.4.9.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.1"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.7",
@@ -30,9 +38,13 @@
 				"universal": "https://beatmods.com//uploads/614ccbe5d012e8328ad3184a/universal/ScorePercentage-1.4.7.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.6",
@@ -40,9 +52,13 @@
 				"universal": "https://beatmods.com//uploads/6132488570a9464db367b82a/universal/ScorePercentage-1.4.6.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.5",
@@ -50,9 +66,13 @@
 				"universal": "https://beatmods.com//uploads/60ff13e8b1ad095176942ea3/universal/ScorePercentage-1.4.5.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.2.0"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.4",
@@ -60,9 +80,13 @@
 				"universal": "https://beatmods.com//uploads/60b23c7f2d008b3daa41e9a9/universal/ScorePercentage-1.4.4.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.6"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.3",
@@ -70,9 +94,13 @@
 				"universal": "https://beatmods.com//uploads/6048eeccfd8cd42a0cd12acb/universal/ScorePercentage-1.4.3.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.1",
@@ -80,9 +108,13 @@
 				"universal": "https://beatmods.com//uploads/600ad8a58384cf2e7ec72614/universal/ScorePercentage-1.4.1.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.4"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.4.0",
@@ -90,9 +122,13 @@
 				"universal": "https://beatmods.com//uploads/5f96ed41df35a674dfeca618/universal/ScorePercentage-1.4.0.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~4.1.3"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.3.2",
@@ -100,7 +136,7 @@
 				"universal": "https://beatmods.com//uploads/5f3ae65283fe22744157e9d2/universal/ScorePercentage-1.3.2.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "1.3.0",
@@ -108,7 +144,7 @@
 				"universal": "https://beatmods.com//uploads/5ea498db2e52866b618032b4/universal/ScorePercentage-1.3.0.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }

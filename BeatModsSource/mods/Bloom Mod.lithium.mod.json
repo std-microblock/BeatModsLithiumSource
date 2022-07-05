@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/5e2c4e68e7c24e19d5cc7f12/universal/Bloom Mod-2.0.0.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }

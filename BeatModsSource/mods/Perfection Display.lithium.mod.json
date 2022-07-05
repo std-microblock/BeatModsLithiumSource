@@ -10,10 +10,18 @@
 				"universal": "https://beatmods.com//uploads/5d6ac2edbe34f5432f209e3e/universal/Perfection Display-1.7.1.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json": "~1.0.3",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json": "~1.3.5"
-			}
+			"dependencies": [
+				{
+					"id": "BSML",
+					"version": "1.0.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.6.1",
@@ -21,10 +29,18 @@
 				"universal": "https://beatmods.com//uploads/5d01b72c7661221f0c4f095c/universal/Perfection Display-1.6.1.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.10",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.21"
-			}
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "3.12.21",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.6.0",
@@ -32,10 +48,18 @@
 				"universal": "https://beatmods.com//uploads/5ce85e7b0a8c00640fb96eaa/universal/Perfection Display-1.6.0.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": {
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json": "~3.12.19",
-				"https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json": "~1.5.4"
-			}
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "3.12.19",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "CustomUI",
+					"version": "1.5.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "1.5.1",
@@ -43,7 +67,7 @@
 				"universal": "https://beatmods.com//uploads/5ca5a1516e53c522fc7f1493/universal/Perfection Display-1.5.1.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }

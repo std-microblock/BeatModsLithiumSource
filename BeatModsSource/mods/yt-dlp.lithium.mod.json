@@ -10,7 +10,7 @@
 				"universal": "https://beatmods.com//uploads/627c144cd384c3394fe53616/universal/yt-dlp-2022.4.8.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "2022.2.4",
@@ -18,7 +18,7 @@
 				"universal": "https://beatmods.com//uploads/622fd6c06f151827d5d77ca1/universal/yt-dlp-2022.2.4.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
-			"dependencies": {}
+			"dependencies": []
 		},
 		{
 			"version": "2021.9.2",
@@ -26,7 +26,7 @@
 				"universal": "https://beatmods.com//uploads/6150768ff1166c468bfa22b4/universal/yt-dlp-2021.9.2.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
-			"dependencies": {}
+			"dependencies": []
 		}
 	]
 }
