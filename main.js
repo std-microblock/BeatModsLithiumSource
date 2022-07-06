@@ -36,7 +36,7 @@ for (let name of Object.keys(mods)) {
                 return {
                     version: v.version,
                     downloads: v.downloads.reduce((pre, cur) => {
-                        pre[cur.type] = "https://beatmods.com/"+cur.url
+                        pre[cur.type] = "https://beatmods.com"+cur.url
                         return pre;
                     }, {}),
                     requiredGameVersion: "~" + v.gameVersion,
