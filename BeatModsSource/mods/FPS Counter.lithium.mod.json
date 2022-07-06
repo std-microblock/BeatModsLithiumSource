@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d3e5fe8c26f5e655671e8d1/universal/FPS Counter-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/5d3e5fe8c26f5e655671e8d1/universal/FPS Counter-1.0.0.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [

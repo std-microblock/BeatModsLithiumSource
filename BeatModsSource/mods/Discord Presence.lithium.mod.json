@@ -7,7 +7,7 @@
 		{
 			"version": "2.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce5b2ccb29eb364ff1e9a0e/universal/Discord Presence-2.2.0.zip"
+				"universal": "https://beatmods.com/uploads/5ce5b2ccb29eb364ff1e9a0e/universal/Discord Presence-2.2.0.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": []
@@ -15,7 +15,7 @@
 		{
 			"version": "2.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cb062077d698c55011dc148/universal/Discord Presence-2.1.1.zip"
+				"universal": "https://beatmods.com/uploads/5cb062077d698c55011dc148/universal/Discord Presence-2.1.1.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": []

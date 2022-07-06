@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5fade5c1df35a674dfeca7a1/universal/RumbleMod-1.0.5.zip"
+				"universal": "https://beatmods.com/uploads/5fade5c1df35a674dfeca7a1/universal/RumbleMod-1.0.5.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f3afe8a83fe22744157e9f4/universal/RumbleMod-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/5f3afe8a83fe22744157e9f4/universal/RumbleMod-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -50,7 +50,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ebfd9b083444256e16b54ce/universal/RumbleMod-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/5ebfd9b083444256e16b54ce/universal/RumbleMod-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [

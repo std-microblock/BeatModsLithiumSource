@@ -7,7 +7,7 @@
 		{
 			"version": "1.3.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5dcccf468ed3a56f6197bc28/universal/BSIPA Mod List-1.3.1.zip"
+				"universal": "https://beatmods.com/uploads/5dcccf468ed3a56f6197bc28/universal/BSIPA Mod List-1.3.1.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
 			"dependencies": [
@@ -21,7 +21,7 @@
 		{
 			"version": "1.3.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d2d5000c26f5e655671e739/universal/BSIPA Mod List-1.3.0.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5000c26f5e655671e739/universal/BSIPA Mod List-1.3.0.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
@@ -40,7 +40,7 @@
 		{
 			"version": "1.2.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce5b675b29eb364ff1e9a14/universal/BSIPA Mod List-1.2.3.zip"
+				"universal": "https://beatmods.com/uploads/5ce5b675b29eb364ff1e9a14/universal/BSIPA Mod List-1.2.3.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
@@ -59,7 +59,7 @@
 		{
 			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cdf3f4076e3310d1070f775/universal/BSIPA Mod List-1.2.1.zip"
+				"universal": "https://beatmods.com/uploads/5cdf3f4076e3310d1070f775/universal/BSIPA Mod List-1.2.1.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

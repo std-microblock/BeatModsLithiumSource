@@ -7,7 +7,7 @@
 		{
 			"version": "6.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce4aeffb29eb364ff1e99e7/universal/AutoPause-6.0.1.zip"
+				"universal": "https://beatmods.com/uploads/5ce4aeffb29eb364ff1e99e7/universal/AutoPause-6.0.1.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.5.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ca6d69435d1831554693a7b/universal/AutoPause-1.5.2.zip"
+				"universal": "https://beatmods.com/uploads/5ca6d69435d1831554693a7b/universal/AutoPause-1.5.2.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

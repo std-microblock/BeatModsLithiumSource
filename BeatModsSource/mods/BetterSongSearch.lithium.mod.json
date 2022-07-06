@@ -7,7 +7,7 @@
 		{
 			"version": "0.7.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62a248fbd384c3394fe53867/universal/BetterSongSearch-0.7.4.zip"
+				"universal": "https://beatmods.com/uploads/62a248fbd384c3394fe53867/universal/BetterSongSearch-0.7.4.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -36,7 +36,7 @@
 		{
 			"version": "0.7.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/623bf4a56f151827d5d77eab/universal/BetterSongSearch-0.7.2.zip"
+				"universal": "https://beatmods.com/uploads/623bf4a56f151827d5d77eab/universal/BetterSongSearch-0.7.2.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
@@ -65,7 +65,7 @@
 		{
 			"version": "0.7.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61eedab8999a2d79d10aa181/universal/BetterSongSearch-0.7.0.zip"
+				"universal": "https://beatmods.com/uploads/61eedab8999a2d79d10aa181/universal/BetterSongSearch-0.7.0.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
@@ -94,7 +94,7 @@
 		{
 			"version": "0.5.6",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/614e4cc2d012e8328ad3188d/universal/BetterSongSearch-0.5.6.zip"
+				"universal": "https://beatmods.com/uploads/614e4cc2d012e8328ad3188d/universal/BetterSongSearch-0.5.6.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -123,7 +123,7 @@
 		{
 			"version": "0.5.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61351f0370a9464db367b89e/universal/BetterSongSearch-0.5.5.zip"
+				"universal": "https://beatmods.com/uploads/61351f0370a9464db367b89e/universal/BetterSongSearch-0.5.5.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [

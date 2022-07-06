@@ -7,7 +7,7 @@
 		{
 			"version": "2.5.9",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61c1f58f7a2ef528fb65b874/universal/Ini Parser-2.5.9.zip"
+				"universal": "https://beatmods.com/uploads/61c1f58f7a2ef528fb65b874/universal/Ini Parser-2.5.9.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": []
@@ -15,7 +15,7 @@
 		{
 			"version": "2.5.7",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e7ccd1c03dce96ca6cf0c4e/universal/Ini Parser-2.5.7.zip"
+				"universal": "https://beatmods.com/uploads/5e7ccd1c03dce96ca6cf0c4e/universal/Ini Parser-2.5.7.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": []
@@ -23,7 +23,7 @@
 		{
 			"version": "2.5.6",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e155b88e7c24e19d5cc7c69/universal/Ini Parser-2.5.6.zip"
+				"universal": "https://beatmods.com/uploads/5e155b88e7c24e19d5cc7c69/universal/Ini Parser-2.5.6.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": []
@@ -31,7 +31,7 @@
 		{
 			"version": "2.5.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d2d55cdc26f5e655671e781/universal/Ini Parser-2.5.5.zip"
+				"universal": "https://beatmods.com/uploads/5d2d55cdc26f5e655671e781/universal/Ini Parser-2.5.5.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
@@ -45,7 +45,7 @@
 		{
 			"version": "2.5.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce33274b29eb364ff1e991f/universal/Ini Parser-2.5.3.zip"
+				"universal": "https://beatmods.com/uploads/5ce33274b29eb364ff1e991f/universal/Ini Parser-2.5.3.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [

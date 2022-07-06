@@ -7,7 +7,7 @@
 		{
 			"version": "0.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f06d7b55baf5a5145fef97e/universal/SnapTurn-0.1.2.zip"
+				"universal": "https://beatmods.com/uploads/5f06d7b55baf5a5145fef97e/universal/SnapTurn-0.1.2.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [

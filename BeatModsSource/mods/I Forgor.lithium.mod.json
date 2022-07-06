@@ -7,7 +7,7 @@
 		{
 			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61da7ac9e12d6f31e266fafa/universal/I Forgor-1.2.1.zip"
+				"universal": "https://beatmods.com/uploads/61da7ac9e12d6f31e266fafa/universal/I Forgor-1.2.1.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6134617470a9464db367b87f/universal/I Forgor-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/6134617470a9464db367b87f/universal/I Forgor-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [

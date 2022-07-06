@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60247ba00eef816aa6d0c2f9/universal/SpectroSaber-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/60247ba00eef816aa6d0c2f9/universal/SpectroSaber-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [

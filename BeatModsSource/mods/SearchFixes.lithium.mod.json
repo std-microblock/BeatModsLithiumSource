@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/624b76033f368d47b27e98bc/universal/SearchFixes-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/624b76033f368d47b27e98bc/universal/SearchFixes-1.0.0.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -21,7 +21,7 @@
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61343b7870a9464db367b870/universal/SearchFixes-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/61343b7870a9464db367b870/universal/SearchFixes-0.1.0.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [

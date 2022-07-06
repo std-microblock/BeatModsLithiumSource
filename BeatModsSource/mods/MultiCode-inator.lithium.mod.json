@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62759827d384c3394fe535b3/universal/MultiCode-inator-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/62759827d384c3394fe535b3/universal/MultiCode-inator-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [

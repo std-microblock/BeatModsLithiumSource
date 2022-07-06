@@ -7,7 +7,7 @@
 		{
 			"version": "0.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/627d733ed384c3394fe5361b/universal/SoundReplacer-0.0.6.zip"
+				"universal": "https://beatmods.com/uploads/627d733ed384c3394fe5361b/universal/SoundReplacer-0.0.6.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [

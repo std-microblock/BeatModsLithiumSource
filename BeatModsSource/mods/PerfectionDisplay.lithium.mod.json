@@ -7,7 +7,7 @@
 		{
 			"version": "1.9.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f3accc983fe22744157e98b/universal/PerfectionDisplay-1.9.0.zip"
+				"universal": "https://beatmods.com/uploads/5f3accc983fe22744157e98b/universal/PerfectionDisplay-1.9.0.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.8.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5df400770f965b56357f1e0f/universal/PerfectionDisplay-1.8.0.zip"
+				"universal": "https://beatmods.com/uploads/5df400770f965b56357f1e0f/universal/PerfectionDisplay-1.8.0.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
 			"dependencies": [
@@ -45,7 +45,7 @@
 		{
 			"version": "1.7.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5dc4bd6d8ed3a56f6197bb51/universal/PerfectionDisplay-1.7.2.zip"
+				"universal": "https://beatmods.com/uploads/5dc4bd6d8ed3a56f6197bb51/universal/PerfectionDisplay-1.7.2.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
 			"dependencies": [

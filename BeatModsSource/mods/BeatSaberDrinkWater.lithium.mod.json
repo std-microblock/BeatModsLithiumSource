@@ -7,7 +7,7 @@
 		{
 			"version": "0.10.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d2d5f30c26f5e655671e7c6/universal/BeatSaberDrinkWater-0.10.1.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5f30c26f5e655671e7c6/universal/BeatSaberDrinkWater-0.10.1.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "0.10.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ca979d7f422c06d3dc346ab/universal/BeatSaberDrinkWater-0.10.0.zip"
+				"universal": "https://beatmods.com/uploads/5ca979d7f422c06d3dc346ab/universal/BeatSaberDrinkWater-0.10.0.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

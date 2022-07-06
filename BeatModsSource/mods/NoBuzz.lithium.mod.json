@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/604a1814fd8cd42a0cd12b2f/universal/NoBuzz-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/604a1814fd8cd42a0cd12b2f/universal/NoBuzz-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [

@@ -7,7 +7,7 @@
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/604e6f52fd8cd42a0cd12be1/universal/DiSounds-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/604e6f52fd8cd42a0cd12be1/universal/DiSounds-1.1.2.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/600a5f528384cf2e7ec72597/universal/DiSounds-1.1.0.zip"
+				"universal": "https://beatmods.com/uploads/600a5f528384cf2e7ec72597/universal/DiSounds-1.1.0.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [

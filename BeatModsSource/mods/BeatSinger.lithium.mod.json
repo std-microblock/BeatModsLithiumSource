@@ -7,7 +7,7 @@
 		{
 			"version": "0.9.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce3363ab29eb364ff1e9936/universal/BeatSinger-0.9.1.zip"
+				"universal": "https://beatmods.com/uploads/5ce3363ab29eb364ff1e9936/universal/BeatSinger-0.9.1.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [

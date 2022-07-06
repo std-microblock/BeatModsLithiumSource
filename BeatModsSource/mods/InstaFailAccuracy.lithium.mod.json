@@ -7,7 +7,7 @@
 		{
 			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/600ce24f8384cf2e7ec726e7/universal/InstaFailAccuracy-1.2.0.zip"
+				"universal": "https://beatmods.com/uploads/600ce24f8384cf2e7ec726e7/universal/InstaFailAccuracy-1.2.0.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [

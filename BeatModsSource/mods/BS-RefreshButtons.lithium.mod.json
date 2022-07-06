@@ -7,7 +7,7 @@
 		{
 			"version": "2.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5df7fa5b0f965b56357f1e91/universal/BS-RefreshButtons-2.0.0.zip"
+				"universal": "https://beatmods.com/uploads/5df7fa5b0f965b56357f1e91/universal/BS-RefreshButtons-2.0.0.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
 			"dependencies": [

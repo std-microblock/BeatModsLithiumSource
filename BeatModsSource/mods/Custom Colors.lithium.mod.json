@@ -7,7 +7,7 @@
 		{
 			"version": "1.15.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cfe55590a8c00640fb9706f/universal/Custom Colors-1.15.1.zip"
+				"universal": "https://beatmods.com/uploads/5cfe55590a8c00640fb9706f/universal/Custom Colors-1.15.1.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.14.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce334d5b29eb364ff1e992c/universal/Custom Colors-1.14.3.zip"
+				"universal": "https://beatmods.com/uploads/5ce334d5b29eb364ff1e992c/universal/Custom Colors-1.14.3.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
@@ -45,7 +45,7 @@
 		{
 			"version": "1.14.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cc4ebd840d65f750b84006b/universal/Custom Colors-1.14.1.zip"
+				"universal": "https://beatmods.com/uploads/5cc4ebd840d65f750b84006b/universal/Custom Colors-1.14.1.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ddc75b88ed3a56f6197bc8e/universal/Particular-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/5ddc75b88ed3a56f6197bc8e/universal/Particular-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d8835c3626a455aff495585/universal/Particular-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/5d8835c3626a455aff495585/universal/Particular-1.0.0.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
 			"dependencies": [

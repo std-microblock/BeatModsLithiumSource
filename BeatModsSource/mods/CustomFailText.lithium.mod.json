@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e7bcf9703dce96ca6cf0c26/universal/CustomFailText-1.0.5.zip"
+				"universal": "https://beatmods.com/uploads/5e7bcf9703dce96ca6cf0c26/universal/CustomFailText-1.0.5.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": []
@@ -15,7 +15,7 @@
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d2d5ca8c26f5e655671e7a8/universal/CustomFailText-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5ca8c26f5e655671e7a8/universal/CustomFailText-1.0.4.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [

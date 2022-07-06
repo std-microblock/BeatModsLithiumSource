@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6050083ffd8cd42a0cd12c26/universal/LastFmScrobbler-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/6050083ffd8cd42a0cd12c26/universal/LastFmScrobbler-1.0.4.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/601b7bc60eef816aa6d0c230/universal/LastFmScrobbler-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/601b7bc60eef816aa6d0c230/universal/LastFmScrobbler-1.0.3.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [

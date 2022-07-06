@@ -7,7 +7,7 @@
 		{
 			"version": "1.5.18",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62aa6963d384c3394fe538c0/universal/SmartSongSuggest-1.5.18.zip"
+				"universal": "https://beatmods.com/uploads/62aa6963d384c3394fe538c0/universal/SmartSongSuggest-1.5.18.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [

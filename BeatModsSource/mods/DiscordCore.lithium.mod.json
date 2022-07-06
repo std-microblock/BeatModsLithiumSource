@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.10",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61ca0b9b7a2ef528fb65ba19/universal/DiscordCore-1.0.10.zip"
+				"universal": "https://beatmods.com/uploads/61ca0b9b7a2ef528fb65ba19/universal/DiscordCore-1.0.10.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60b2ba192d008b3daa41e9e2/universal/DiscordCore-1.0.6.zip"
+				"universal": "https://beatmods.com/uploads/60b2ba192d008b3daa41e9e2/universal/DiscordCore-1.0.6.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/600a59428384cf2e7ec72588/universal/DiscordCore-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/600a59428384cf2e7ec72588/universal/DiscordCore-1.0.4.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [
@@ -74,7 +74,7 @@
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f92f3eddf35a674dfeca589/universal/DiscordCore-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/5f92f3eddf35a674dfeca589/universal/DiscordCore-1.0.3.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": [

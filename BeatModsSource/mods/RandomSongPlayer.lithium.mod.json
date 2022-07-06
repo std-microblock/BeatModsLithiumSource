@@ -7,7 +7,7 @@
 		{
 			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e85159503dce96ca6cf0e38/universal/RandomSongPlayer-1.1.1.zip"
+				"universal": "https://beatmods.com/uploads/5e85159503dce96ca6cf0e38/universal/RandomSongPlayer-1.1.1.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
@@ -36,7 +36,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5de294b0a036a21cbf3e67b9/universal/RandomSongPlayer-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/5de294b0a036a21cbf3e67b9/universal/RandomSongPlayer-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
 			"dependencies": [

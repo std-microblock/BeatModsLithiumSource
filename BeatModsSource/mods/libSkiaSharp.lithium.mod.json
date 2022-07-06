@@ -7,7 +7,7 @@
 		{
 			"version": "1.68.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5df1eeadadad753373e0428d/universal/libSkiaSharp-1.68.0.zip"
+				"universal": "https://beatmods.com/uploads/5df1eeadadad753373e0428d/universal/libSkiaSharp-1.68.0.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
 			"dependencies": []

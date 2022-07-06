@@ -7,7 +7,7 @@
 		{
 			"version": "0.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d8651a2626a455aff49556e/universal/EndlessMode-0.1.1.zip"
+				"universal": "https://beatmods.com/uploads/5d8651a2626a455aff49556e/universal/EndlessMode-0.1.1.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
 			"dependencies": [
@@ -36,7 +36,7 @@
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d2d5432c26f5e655671e766/universal/EndlessMode-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5432c26f5e655671e766/universal/EndlessMode-0.1.0.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
@@ -65,7 +65,7 @@
 		{
 			"version": "0.0.7",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cec2f990a8c00640fb96efe/universal/Stitches songs together so that your entire playlist plays befor.zip"
+				"universal": "https://beatmods.com/uploads/5cec2f990a8c00640fb96efe/universal/Stitches songs together so that your entire playlist plays befor.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [

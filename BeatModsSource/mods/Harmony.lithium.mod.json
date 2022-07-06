@@ -7,7 +7,7 @@
 		{
 			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cfe54cd0a8c00640fb97069/universal/Harmony-1.2.1.zip"
+				"universal": "https://beatmods.com/uploads/5cfe54cd0a8c00640fb97069/universal/Harmony-1.2.1.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
 			"dependencies": [

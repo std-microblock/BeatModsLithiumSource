@@ -7,7 +7,7 @@
 		{
 			"version": "1.2.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e8064a003dce96ca6cf0d6b/universal/Custom Exit-1.2.3.zip"
+				"universal": "https://beatmods.com/uploads/5e8064a003dce96ca6cf0d6b/universal/Custom Exit-1.2.3.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e17f340e7c24e19d5cc7d58/universal/Custom Exit-1.2.2.zip"
+				"universal": "https://beatmods.com/uploads/5e17f340e7c24e19d5cc7d58/universal/Custom Exit-1.2.2.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": [

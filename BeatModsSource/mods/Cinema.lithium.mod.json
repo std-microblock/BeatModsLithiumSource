@@ -7,7 +7,7 @@
 		{
 			"version": "1.5.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62972c0ed384c3394fe537f4/universal/Cinema-1.5.2.zip"
+				"universal": "https://beatmods.com/uploads/62972c0ed384c3394fe537f4/universal/Cinema-1.5.2.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -46,7 +46,7 @@
 		{
 			"version": "1.4.18",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62311b146f151827d5d77cf0/universal/Cinema-1.4.18.zip"
+				"universal": "https://beatmods.com/uploads/62311b146f151827d5d77cf0/universal/Cinema-1.4.18.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
@@ -85,7 +85,7 @@
 		{
 			"version": "1.4.16",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61c3635e7a2ef528fb65b92a/universal/Cinema-1.4.16.zip"
+				"universal": "https://beatmods.com/uploads/61c3635e7a2ef528fb65b92a/universal/Cinema-1.4.16.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
@@ -124,7 +124,7 @@
 		{
 			"version": "1.4.15",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61a5403da5ef195865a5b22c/universal/Cinema-1.4.15.zip"
+				"universal": "https://beatmods.com/uploads/61a5403da5ef195865a5b22c/universal/Cinema-1.4.15.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -163,7 +163,7 @@
 		{
 			"version": "1.4.13",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6137ec9170a9464db367b90e/universal/Cinema-1.4.13.zip"
+				"universal": "https://beatmods.com/uploads/6137ec9170a9464db367b90e/universal/Cinema-1.4.13.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
@@ -202,7 +202,7 @@
 		{
 			"version": "1.4.11",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60f9e918b1ad095176942dd2/universal/Cinema-1.4.11.zip"
+				"universal": "https://beatmods.com/uploads/60f9e918b1ad095176942dd2/universal/Cinema-1.4.11.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
@@ -241,7 +241,7 @@
 		{
 			"version": "1.4.7",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60cbb16faf1e3d4577e03669/universal/Cinema-1.4.7.zip"
+				"universal": "https://beatmods.com/uploads/60cbb16faf1e3d4577e03669/universal/Cinema-1.4.7.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -280,7 +280,7 @@
 		{
 			"version": "1.4.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/608086130e823d315c2b16f3/universal/Cinema-1.4.2.zip"
+				"universal": "https://beatmods.com/uploads/608086130e823d315c2b16f3/universal/Cinema-1.4.2.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [

@@ -7,7 +7,7 @@
 		{
 			"version": "0.6.93",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62863c9dd384c3394fe536a7/universal/Camera2-0.6.93.zip"
+				"universal": "https://beatmods.com/uploads/62863c9dd384c3394fe536a7/universal/Camera2-0.6.93.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "0.6.91",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/623bd74c6f151827d5d77ea5/universal/Camera2-0.6.91.zip"
+				"universal": "https://beatmods.com/uploads/623bd74c6f151827d5d77ea5/universal/Camera2-0.6.91.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
@@ -45,7 +45,7 @@
 		{
 			"version": "0.6.8",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61e231a4e12d6f31e266fbb3/universal/Camera2-0.6.8.zip"
+				"universal": "https://beatmods.com/uploads/61e231a4e12d6f31e266fbb3/universal/Camera2-0.6.8.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
@@ -64,7 +64,7 @@
 		{
 			"version": "0.6.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61a546afa5ef195865a5b231/universal/Camera2-0.6.4.zip"
+				"universal": "https://beatmods.com/uploads/61a546afa5ef195865a5b231/universal/Camera2-0.6.4.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -83,7 +83,7 @@
 		{
 			"version": "0.6.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/612feb9070a9464db367b7a0/universal/Camera2-0.6.0.zip"
+				"universal": "https://beatmods.com/uploads/612feb9070a9464db367b7a0/universal/Camera2-0.6.0.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
@@ -102,7 +102,7 @@
 		{
 			"version": "0.5.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60f743a4b1ad095176942d0b/universal/Camera2-0.5.3.zip"
+				"universal": "https://beatmods.com/uploads/60f743a4b1ad095176942d0b/universal/Camera2-0.5.3.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
@@ -121,7 +121,7 @@
 		{
 			"version": "0.4.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60d3bb60af1e3d4577e036d0/universal/Camera2-0.4.2.zip"
+				"universal": "https://beatmods.com/uploads/60d3bb60af1e3d4577e036d0/universal/Camera2-0.4.2.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -140,7 +140,7 @@
 		{
 			"version": "0.3.32",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6097e0abd993bd74feaf8da3/universal/Camera2-0.3.32.zip"
+				"universal": "https://beatmods.com/uploads/6097e0abd993bd74feaf8da3/universal/Camera2-0.3.32.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [

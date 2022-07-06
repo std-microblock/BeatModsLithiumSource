@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5dda3ebf8ed3a56f6197bc7c/universal/NoArrowsRandom-1.0.5.zip"
+				"universal": "https://beatmods.com/uploads/5dda3ebf8ed3a56f6197bc7c/universal/NoArrowsRandom-1.0.5.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d7a2658be34f5432f209f4c/universal/NoArrowsRandom-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/5d7a2658be34f5432f209f4c/universal/NoArrowsRandom-1.0.4.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d2d549fc26f5e655671e76c/universal/NoArrowsRandom-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/5d2d549fc26f5e655671e76c/universal/NoArrowsRandom-1.0.3.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
@@ -79,7 +79,7 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce4e0a6b29eb364ff1e99fb/universal/NoArrowsRandom-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/5ce4e0a6b29eb364ff1e99fb/universal/NoArrowsRandom-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
@@ -103,7 +103,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cb27807a703bb65cdf67c55/universal/NoArrowsRandom-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/5cb27807a703bb65cdf67c55/universal/NoArrowsRandom-1.0.1.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

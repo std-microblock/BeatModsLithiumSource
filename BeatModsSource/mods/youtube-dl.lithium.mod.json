@@ -7,7 +7,7 @@
 		{
 			"version": "2021.6.6",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60f9e8cab1ad095176942dcf/universal/youtube-dl-2021.6.6.zip"
+				"universal": "https://beatmods.com/uploads/60f9e8cab1ad095176942dcf/universal/youtube-dl-2021.6.6.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
 			"dependencies": []
@@ -15,7 +15,7 @@
 		{
 			"version": "2021.5.16",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60b1242c2d008b3daa41e8ce/universal/youtube-dl-2021.5.16.zip"
+				"universal": "https://beatmods.com/uploads/60b1242c2d008b3daa41e8ce/universal/youtube-dl-2021.5.16.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": []
@@ -23,7 +23,7 @@
 		{
 			"version": "2021.4.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/606519b454bb0e1d077e2a6e/universal/youtube-dl-2021.4.1.zip"
+				"universal": "https://beatmods.com/uploads/606519b454bb0e1d077e2a6e/universal/youtube-dl-2021.4.1.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": []

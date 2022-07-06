@@ -7,7 +7,7 @@
 		{
 			"version": "0.6.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60b399812d008b3daa41ea02/universal/ServerBrowser-0.6.0.zip"
+				"universal": "https://beatmods.com/uploads/60b399812d008b3daa41ea02/universal/ServerBrowser-0.6.0.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "0.5.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/604b9708fd8cd42a0cd12b71/universal/ServerBrowser-v0.5.1.zip"
+				"universal": "https://beatmods.com/uploads/604b9708fd8cd42a0cd12b71/universal/ServerBrowser-v0.5.1.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "0.4.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/600e314e0eef816aa6d0c09e/universal/ServerBrowser-0.4.0.zip"
+				"universal": "https://beatmods.com/uploads/600e314e0eef816aa6d0c09e/universal/ServerBrowser-0.4.0.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [
@@ -84,7 +84,7 @@
 		{
 			"version": "0.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5fb016d4df35a674dfeca7d4/universal/ServerBrowser-0.2.0.zip"
+				"universal": "https://beatmods.com/uploads/5fb016d4df35a674dfeca7d4/universal/ServerBrowser-0.2.0.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": [

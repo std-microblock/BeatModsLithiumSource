@@ -7,7 +7,7 @@
 		{
 			"version": "1.4.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f5822a083fe22744157ec37/universal/AdaptiveSFXRemover-1.4.0.zip"
+				"universal": "https://beatmods.com/uploads/5f5822a083fe22744157ec37/universal/AdaptiveSFXRemover-1.4.0.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e7cf00403dce96ca6cf0c9b/universal/AdaptiveSFXRemover-1.2.0.zip"
+				"universal": "https://beatmods.com/uploads/5e7cf00403dce96ca6cf0c9b/universal/AdaptiveSFXRemover-1.2.0.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
@@ -50,7 +50,7 @@
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e1766cbe7c24e19d5cc7d1d/universal/AdaptiveSFXRemover-1.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5e1766cbe7c24e19d5cc7d1d/universal/AdaptiveSFXRemover-1.1.0.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": [
@@ -69,7 +69,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5df810420f965b56357f1e94/universal/AdaptiveSFXRemover-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/5df810420f965b56357f1e94/universal/AdaptiveSFXRemover-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
 			"dependencies": [

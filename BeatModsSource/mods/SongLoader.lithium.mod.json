@@ -7,7 +7,7 @@
 		{
 			"version": "7.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce335a7b29eb364ff1e9933/universal/SongLoader-7.0.0.zip"
+				"universal": "https://beatmods.com/uploads/5ce335a7b29eb364ff1e9933/universal/SongLoader-7.0.0.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
@@ -41,7 +41,7 @@
 		{
 			"version": "6.12.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cc08f5b4de1f5747ae175ad/universal/SongLoader-6.12.4.zip"
+				"universal": "https://beatmods.com/uploads/5cc08f5b4de1f5747ae175ad/universal/SongLoader-6.12.4.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

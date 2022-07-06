@@ -7,7 +7,7 @@
 		{
 			"version": "0.5.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60bd41f12d008b3daa41eb24/universal/MultiplayerExtensions-0.5.4.zip"
+				"universal": "https://beatmods.com/uploads/60bd41f12d008b3daa41eb24/universal/MultiplayerExtensions-0.5.4.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -41,7 +41,7 @@
 		{
 			"version": "0.4.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/600e23c00eef816aa6d0c09a/universal/MultiplayerExtensions-0.4.3.zip"
+				"universal": "https://beatmods.com/uploads/600e23c00eef816aa6d0c09a/universal/MultiplayerExtensions-0.4.3.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [

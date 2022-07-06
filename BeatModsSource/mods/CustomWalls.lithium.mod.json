@@ -7,7 +7,7 @@
 		{
 			"version": "1.4.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f3b17b483fe22744157ea2c/universal/CustomWalls-1.4.0.zip"
+				"universal": "https://beatmods.com/uploads/5f3b17b483fe22744157ea2c/universal/CustomWalls-1.4.0.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.3.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e8a364503dce96ca6cf0ec7/universal/CustomWalls-1.3.1.zip"
+				"universal": "https://beatmods.com/uploads/5e8a364503dce96ca6cf0ec7/universal/CustomWalls-1.3.1.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
@@ -45,7 +45,7 @@
 		{
 			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e2487f7e7c24e19d5cc7e85/universal/CustomWalls-1.2.0.zip"
+				"universal": "https://beatmods.com/uploads/5e2487f7e7c24e19d5cc7e85/universal/CustomWalls-1.2.0.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": [

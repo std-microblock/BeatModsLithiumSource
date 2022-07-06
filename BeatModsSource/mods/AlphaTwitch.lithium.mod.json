@@ -7,7 +7,7 @@
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d68ad81be34f5432f209dd7/universal/AlphaTwitch-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5d68ad81be34f5432f209dd7/universal/AlphaTwitch-0.1.0.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
 			"dependencies": [

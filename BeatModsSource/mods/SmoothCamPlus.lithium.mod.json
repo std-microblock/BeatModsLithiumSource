@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/628ba3c3d384c3394fe5371a/universal/SmoothCamPlus-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/628ba3c3d384c3394fe5371a/universal/SmoothCamPlus-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61d916ede12d6f31e266fad1/universal/SmoothCamPlus-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/61d916ede12d6f31e266fad1/universal/SmoothCamPlus-1.0.0.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [

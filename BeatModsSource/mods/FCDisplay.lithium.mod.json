@@ -7,7 +7,7 @@
 		{
 			"version": "3.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce49279b29eb364ff1e99db/universal/FCDisplay-3.0.0.zip"
+				"universal": "https://beatmods.com/uploads/5ce49279b29eb364ff1e99db/universal/FCDisplay-3.0.0.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [

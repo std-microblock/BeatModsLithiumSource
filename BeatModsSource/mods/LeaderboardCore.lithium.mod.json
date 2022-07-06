@@ -7,7 +7,7 @@
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61df37cbe12d6f31e266fb6b/universal/LeaderboardCore-1.1.0.zip"
+				"universal": "https://beatmods.com/uploads/61df37cbe12d6f31e266fb6b/universal/LeaderboardCore-1.1.0.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [

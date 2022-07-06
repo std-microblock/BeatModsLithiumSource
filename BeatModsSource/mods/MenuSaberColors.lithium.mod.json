@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62924a7ad384c3394fe53797/universal/MenuSaberColors-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/62924a7ad384c3394fe53797/universal/MenuSaberColors-1.0.4.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/623ceef56f151827d5d77ece/universal/MenuSaberColors-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/623ceef56f151827d5d77ece/universal/MenuSaberColors-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
 			"dependencies": [

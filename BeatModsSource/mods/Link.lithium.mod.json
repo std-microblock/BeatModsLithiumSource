@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62757879d384c3394fe535aa/universal/Link-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/62757879d384c3394fe535aa/universal/Link-1.0.3.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -36,7 +36,7 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6163a564eceee62e08a0c84a/universal/Link-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/6163a564eceee62e08a0c84a/universal/Link-1.0.0.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [

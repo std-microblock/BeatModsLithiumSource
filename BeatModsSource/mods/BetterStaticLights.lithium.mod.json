@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/627efa6fd384c3394fe53634/universal/BetterStaticLights-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/627efa6fd384c3394fe53634/universal/BetterStaticLights-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61536ecbf1166c468bfa2349/universal/BetterStaticLights-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/61536ecbf1166c468bfa2349/universal/BetterStaticLights-0.1.0.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [

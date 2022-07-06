@@ -7,7 +7,7 @@
 		{
 			"version": "0.3.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6150fb8df1166c468bfa22ed/universal/LevelTweaks-0.3.5.zip"
+				"universal": "https://beatmods.com/uploads/6150fb8df1166c468bfa22ed/universal/LevelTweaks-0.3.5.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "0.3.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60f7401db1ad095176942cff/universal/LevelTweaks-0.3.4.zip"
+				"universal": "https://beatmods.com/uploads/60f7401db1ad095176942cff/universal/LevelTweaks-0.3.4.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "0.3.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60b15c072d008b3daa41e930/universal/LevelTweaks-0.3.3.zip"
+				"universal": "https://beatmods.com/uploads/60b15c072d008b3daa41e930/universal/LevelTweaks-0.3.3.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -79,7 +79,7 @@
 		{
 			"version": "0.3.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/604e6f8ffd8cd42a0cd12be4/universal/LevelTweaks-0.3.2.zip"
+				"universal": "https://beatmods.com/uploads/604e6f8ffd8cd42a0cd12be4/universal/LevelTweaks-0.3.2.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
@@ -103,7 +103,7 @@
 		{
 			"version": "0.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/600a5f618384cf2e7ec7259a/universal/LevelTweaks-0.2.1.zip"
+				"universal": "https://beatmods.com/uploads/600a5f618384cf2e7ec7259a/universal/LevelTweaks-0.2.1.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [
@@ -127,7 +127,7 @@
 		{
 			"version": "0.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5fa83868df35a674dfeca730/universal/LevelTweaks-0.2.0.zip"
+				"universal": "https://beatmods.com/uploads/5fa83868df35a674dfeca730/universal/LevelTweaks-0.2.0.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": [
@@ -151,7 +151,7 @@
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e8b3d0b2e52866b61803107/universal/LevelTweaks-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5e8b3d0b2e52866b61803107/universal/LevelTweaks-0.1.0.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [

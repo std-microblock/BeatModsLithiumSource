@@ -7,7 +7,7 @@
 		{
 			"version": "0.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5eaf9ccf83444256e16b540a/universal/CustomMenuPointers-0.2.0.zip"
+				"universal": "https://beatmods.com/uploads/5eaf9ccf83444256e16b540a/universal/CustomMenuPointers-0.2.0.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [

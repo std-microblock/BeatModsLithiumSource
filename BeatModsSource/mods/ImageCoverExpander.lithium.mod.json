@@ -7,7 +7,7 @@
 		{
 			"version": "2.3.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/614fa4f2f1166c468bfa22a0/universal/ImageCoverExpander-2.3.4.zip"
+				"universal": "https://beatmods.com/uploads/614fa4f2f1166c468bfa22a0/universal/ImageCoverExpander-2.3.4.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "2.3.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6136a58470a9464db367b8f3/universal/ImageCoverExpander-2.3.3.zip"
+				"universal": "https://beatmods.com/uploads/6136a58470a9464db367b8f3/universal/ImageCoverExpander-2.3.3.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "2.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/610302629fc0c8070c0e6525/universal/ImageCoverExpander-2.2.2.zip"
+				"universal": "https://beatmods.com/uploads/610302629fc0c8070c0e6525/universal/ImageCoverExpander-2.2.2.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
@@ -79,7 +79,7 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e8064a403dce96ca6cf0d71/universal/ImageCoverExpander-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/5e8064a403dce96ca6cf0d71/universal/ImageCoverExpander-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
@@ -93,7 +93,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e44345103dce96ca6cf0978/universal/ImageCoverExpander-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/5e44345103dce96ca6cf0978/universal/ImageCoverExpander-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": [

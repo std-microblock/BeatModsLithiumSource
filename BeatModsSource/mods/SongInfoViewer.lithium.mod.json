@@ -7,7 +7,7 @@
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ec932eb83444256e16b556a/universal/SongInfoViewer-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5ec932eb83444256e16b556a/universal/SongInfoViewer-0.1.0.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [

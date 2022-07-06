@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.10",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/615edfa7eceee62e08a0c814/universal/ScoreRequirement-1.0.10.zip"
+				"universal": "https://beatmods.com/uploads/615edfa7eceee62e08a0c814/universal/ScoreRequirement-1.0.10.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.0.7",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/613e63cb70a9464db367b98c/universal/ScoreRequirement-1.0.7.zip"
+				"universal": "https://beatmods.com/uploads/613e63cb70a9464db367b98c/universal/ScoreRequirement-1.0.7.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "1.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6126ba9a9fc0c8070c0e6705/universal/ScoreRequirement-1.0.6.zip"
+				"universal": "https://beatmods.com/uploads/6126ba9a9fc0c8070c0e6705/universal/ScoreRequirement-1.0.6.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
 			"dependencies": [

@@ -7,7 +7,7 @@
 		{
 			"version": "2.3.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f3c7d6b83fe22744157ea79/universal/Enhanced Search And Filters-2.3.4.zip"
+				"universal": "https://beatmods.com/uploads/5f3c7d6b83fe22744157ea79/universal/Enhanced Search And Filters-2.3.4.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "2.3.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f0aa2065baf5a5145fef9b2/universal/Enhanced Search And Filters-2.3.3.zip"
+				"universal": "https://beatmods.com/uploads/5f0aa2065baf5a5145fef9b2/universal/Enhanced Search And Filters-2.3.3.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [

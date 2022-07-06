@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "3.0.6",
+			"version": "3.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62466d863f368d47b27e97b6/universal/SiraUtil-3.0.6.zip"
+				"universal": "https://beatmods.com/uploads/62c4e6312dcc1236fc0b5c3d/universal/SiraUtil-3.1.0.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -21,7 +21,7 @@
 		{
 			"version": "3.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6230f0d66f151827d5d77cc1/universal/SiraUtil-3.0.5.zip"
+				"universal": "https://beatmods.com/uploads/6230f0d66f151827d5d77cc1/universal/SiraUtil-3.0.5.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
@@ -35,7 +35,7 @@
 		{
 			"version": "3.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61d3ba0ce12d6f31e266fa51/universal/SiraUtil-3.0.3.zip"
+				"universal": "https://beatmods.com/uploads/61d3ba0ce12d6f31e266fa51/universal/SiraUtil-3.0.3.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
@@ -49,7 +49,7 @@
 		{
 			"version": "2.5.8",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/612e61ff70a9464db367b741/universal/SiraUtil-2.5.8.zip"
+				"universal": "https://beatmods.com/uploads/612e61ff70a9464db367b741/universal/SiraUtil-2.5.8.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
@@ -63,7 +63,7 @@
 		{
 			"version": "2.5.7",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60fedf91b1ad095176942e4c/universal/SiraUtil-2.5.7.zip"
+				"universal": "https://beatmods.com/uploads/60fedf91b1ad095176942e4c/universal/SiraUtil-2.5.7.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
@@ -77,7 +77,7 @@
 		{
 			"version": "2.5.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60b154712d008b3daa41e8ea/universal/SiraUtil-2.5.5.zip"
+				"universal": "https://beatmods.com/uploads/60b154712d008b3daa41e8ea/universal/SiraUtil-2.5.5.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -91,7 +91,7 @@
 		{
 			"version": "2.5.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60651ddd54bb0e1d077e2a73/universal/SiraUtil-2.5.3.zip"
+				"universal": "https://beatmods.com/uploads/60651ddd54bb0e1d077e2a73/universal/SiraUtil-2.5.3.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
@@ -105,7 +105,7 @@
 		{
 			"version": "2.5.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/601b33110eef816aa6d0c224/universal/SiraUtil-2.5.1.zip"
+				"universal": "https://beatmods.com/uploads/601b33110eef816aa6d0c224/universal/SiraUtil-2.5.1.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [
@@ -119,7 +119,7 @@
 		{
 			"version": "2.3.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5fea8f418384cf2e7ec7227f/universal/SiraUtil-2.3.1.zip"
+				"universal": "https://beatmods.com/uploads/5fea8f418384cf2e7ec7227f/universal/SiraUtil-2.3.1.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": [
@@ -133,7 +133,7 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f4ee8f783fe22744157ebba/universal/SiraUtil-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/5f4ee8f783fe22744157ebba/universal/SiraUtil-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -147,7 +147,7 @@
 		{
 			"version": "0.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f217ae05baf5a5145fefa8d/universal/SiraUtil-0.1.1.zip"
+				"universal": "https://beatmods.com/uploads/5f217ae05baf5a5145fefa8d/universal/SiraUtil-0.1.1.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": []

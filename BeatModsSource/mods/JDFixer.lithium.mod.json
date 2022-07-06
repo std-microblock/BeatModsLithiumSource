@@ -7,7 +7,7 @@
 		{
 			"version": "5.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6246ba123f368d47b27e97e6/universal/JDFixer-5.0.2.zip"
+				"universal": "https://beatmods.com/uploads/6246ba123f368d47b27e97e6/universal/JDFixer-5.0.2.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "3.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61dd36dfe12d6f31e266fb4d/universal/JDFixer-3.0.1.zip"
+				"universal": "https://beatmods.com/uploads/61dd36dfe12d6f31e266fb4d/universal/JDFixer-3.0.1.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "2.1.6",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61614809eceee62e08a0c82e/universal/JDFixer-2.1.6.zip"
+				"universal": "https://beatmods.com/uploads/61614809eceee62e08a0c82e/universal/JDFixer-2.1.6.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [

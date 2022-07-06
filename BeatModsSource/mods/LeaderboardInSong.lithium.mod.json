@@ -7,7 +7,7 @@
 		{
 			"version": "1.1.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce337cbb29eb364ff1e9948/universal/LeaderboardInSong-1.1.3.zip"
+				"universal": "https://beatmods.com/uploads/5ce337cbb29eb364ff1e9948/universal/LeaderboardInSong-1.1.3.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.1.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d2d5b62c26f5e655671e799/universal/LeaderboardInSong-1.1.4.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5b62c26f5e655671e799/universal/LeaderboardInSong-1.1.4.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ca6a287317fa3777c3327bd/universal/LeaderboardInSong-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/5ca6a287317fa3777c3327bd/universal/LeaderboardInSong-1.1.2.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

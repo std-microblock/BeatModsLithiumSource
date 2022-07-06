@@ -7,7 +7,7 @@
 		{
 			"version": "3.0.8",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/624b225f3f368d47b27e98a7/universal/UITweaks-3.0.8.zip"
+				"universal": "https://beatmods.com/uploads/624b225f3f368d47b27e98a7/universal/UITweaks-3.0.8.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "3.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62314f836f151827d5d77d21/universal/UITweaks-3.0.6.zip"
+				"universal": "https://beatmods.com/uploads/62314f836f151827d5d77d21/universal/UITweaks-3.0.6.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "2.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61909fcba5ef195865a5b182/universal/UITweaks-2.0.1.zip"
+				"universal": "https://beatmods.com/uploads/61909fcba5ef195865a5b182/universal/UITweaks-2.0.1.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -74,7 +74,7 @@
 		{
 			"version": "1.2.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/610a1cdf9fc0c8070c0e65c9/universal/UITweaks-1.2.3.zip"
+				"universal": "https://beatmods.com/uploads/610a1cdf9fc0c8070c0e65c9/universal/UITweaks-1.2.3.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
 			"dependencies": [

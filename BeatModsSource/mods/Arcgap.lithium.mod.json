@@ -7,7 +7,7 @@
 		{
 			"version": "0.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6274a4ccd384c3394fe5359d/universal/Arcgap-0.0.5.zip"
+				"universal": "https://beatmods.com/uploads/6274a4ccd384c3394fe5359d/universal/Arcgap-0.0.5.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": []
@@ -15,7 +15,7 @@
 		{
 			"version": "0.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6235157c6f151827d5d77ddc/universal/Arcgap-0.0.3.zip"
+				"universal": "https://beatmods.com/uploads/6235157c6f151827d5d77ddc/universal/Arcgap-0.0.3.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
 			"dependencies": [

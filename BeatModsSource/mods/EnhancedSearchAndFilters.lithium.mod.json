@@ -7,7 +7,7 @@
 		{
 			"version": "2.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e38e3d103dce96ca6cf08e0/universal/EnhancedSearchAndFilters-2.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5e38e3d103dce96ca6cf08e0/universal/EnhancedSearchAndFilters-2.1.0.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.6.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5dd0723a8ed3a56f6197bc43/universal/EnhancedSearchAndFilters-1.6.1.zip"
+				"universal": "https://beatmods.com/uploads/5dd0723a8ed3a56f6197bc43/universal/EnhancedSearchAndFilters-1.6.1.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "1.5.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d7c3e76e95673113cb913e8/universal/EnhancedSearchAndFilters-1.5.2.zip"
+				"universal": "https://beatmods.com/uploads/5d7c3e76e95673113cb913e8/universal/EnhancedSearchAndFilters-1.5.2.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
 			"dependencies": [
@@ -79,7 +79,7 @@
 		{
 			"version": "1.3.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d38ed6bc26f5e655671e89c/universal/EnhancedSearchAndFilters-1.3.4.zip"
+				"universal": "https://beatmods.com/uploads/5d38ed6bc26f5e655671e89c/universal/EnhancedSearchAndFilters-1.3.4.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
@@ -103,7 +103,7 @@
 		{
 			"version": "1.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d26800fed00193b6ebbad2e/universal/EnhancedSearchAndFilters-1.2.2.zip"
+				"universal": "https://beatmods.com/uploads/5d26800fed00193b6ebbad2e/universal/EnhancedSearchAndFilters-1.2.2.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
 			"dependencies": [

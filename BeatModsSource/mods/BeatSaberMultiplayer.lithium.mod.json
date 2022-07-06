@@ -7,7 +7,7 @@
 		{
 			"version": "0.6.4.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d12488bed00193b6ebbac3a/universal/BeatSaberMultiplayer-0.6.4.2.zip"
+				"universal": "https://beatmods.com/uploads/5d12488bed00193b6ebbac3a/universal/BeatSaberMultiplayer-0.6.4.2.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
 			"dependencies": [
@@ -46,7 +46,7 @@
 		{
 			"version": "0.6.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cb351eeb0e427026092e397/universal/BeatSaberMultiplayer-0.6.2.1.zip"
+				"universal": "https://beatmods.com/uploads/5cb351eeb0e427026092e397/universal/BeatSaberMultiplayer-0.6.2.1.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

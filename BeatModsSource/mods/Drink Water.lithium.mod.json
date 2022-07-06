@@ -7,7 +7,7 @@
 		{
 			"version": "0.11.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e8064a203dce96ca6cf0d6e/universal/Drink Water-0.11.2.zip"
+				"universal": "https://beatmods.com/uploads/5e8064a203dce96ca6cf0d6e/universal/Drink Water-0.11.2.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "0.11.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e19f9f8e7c24e19d5cc7d99/universal/Drink Water-0.11.1.zip"
+				"universal": "https://beatmods.com/uploads/5e19f9f8e7c24e19d5cc7d99/universal/Drink Water-0.11.1.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": [

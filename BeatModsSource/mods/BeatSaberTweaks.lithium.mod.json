@@ -7,7 +7,7 @@
 		{
 			"version": "4.4.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5d2d5d9fc26f5e655671e7ba/universal/BeatSaberTweaks-4.4.4.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5d9fc26f5e655671e7ba/universal/BeatSaberTweaks-4.4.4.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "4.4.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce33890b29eb364ff1e9957/universal/BeatSaberTweaks-4.4.3.zip"
+				"universal": "https://beatmods.com/uploads/5ce33890b29eb364ff1e9957/universal/BeatSaberTweaks-4.4.3.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "4.4.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cc08f964de1f5747ae175b3/universal/BeatSaberTweaks-4.4.2.zip"
+				"universal": "https://beatmods.com/uploads/5cc08f964de1f5747ae175b3/universal/BeatSaberTweaks-4.4.2.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

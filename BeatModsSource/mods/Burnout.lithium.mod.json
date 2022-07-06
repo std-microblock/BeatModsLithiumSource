@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/614fa72ef1166c468bfa22a3/universal/Burnout-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/614fa72ef1166c468bfa22a3/universal/Burnout-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6130104d70a9464db367b7b8/universal/Burnout-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/6130104d70a9464db367b7b8/universal/Burnout-1.0.1.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [

@@ -7,7 +7,7 @@
 		{
 			"version": "0.3.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f3b6c9c83fe22744157ea4e/universal/Alternative Play-0.3.2.zip"
+				"universal": "https://beatmods.com/uploads/5f3b6c9c83fe22744157ea4e/universal/Alternative Play-0.3.2.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "0.3.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e81024e03dce96ca6cf0d8b/universal/Alternative Play-0.3.1.zip"
+				"universal": "https://beatmods.com/uploads/5e81024e03dce96ca6cf0d8b/universal/Alternative Play-0.3.1.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "0.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e33c38103dce96ca6cf0872/universal/Alternative Play-0.2.2.zip"
+				"universal": "https://beatmods.com/uploads/5e33c38103dce96ca6cf0872/universal/Alternative Play-0.2.2.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": [

@@ -7,7 +7,7 @@
 		{
 			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61e0bf04e12d6f31e266fb87/universal/Hitbloq-1.2.1.zip"
+				"universal": "https://beatmods.com/uploads/61e0bf04e12d6f31e266fb87/universal/Hitbloq-1.2.1.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [

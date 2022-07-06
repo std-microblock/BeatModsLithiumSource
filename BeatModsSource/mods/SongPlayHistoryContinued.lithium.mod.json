@@ -7,7 +7,7 @@
 		{
 			"version": "1.6.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61c3caa67a2ef528fb65b95c/universal/SongPlayHistoryContinued-1.6.1.zip"
+				"universal": "https://beatmods.com/uploads/61c3caa67a2ef528fb65b95c/universal/SongPlayHistoryContinued-1.6.1.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [

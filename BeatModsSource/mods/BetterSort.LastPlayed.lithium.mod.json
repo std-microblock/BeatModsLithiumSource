@@ -7,7 +7,7 @@
 		{
 			"version": "2.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6289c364d384c3394fe536f4/universal/BetterSort.LastPlayed-2.0.3.zip"
+				"universal": "https://beatmods.com/uploads/6289c364d384c3394fe536f4/universal/BetterSort.LastPlayed-2.0.3.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [

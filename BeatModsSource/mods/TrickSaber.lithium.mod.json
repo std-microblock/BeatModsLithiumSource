@@ -7,7 +7,7 @@
 		{
 			"version": "0.3.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ec93edc83444256e16b556d/universal/TrickSaber-0.3.1.zip"
+				"universal": "https://beatmods.com/uploads/5ec93edc83444256e16b556d/universal/TrickSaber-0.3.1.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [

@@ -7,7 +7,7 @@
 		{
 			"version": "2.1.13",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/62555de2d384c3394fe533d0/universal/BeatSaviorData-2.1.13.zip"
+				"universal": "https://beatmods.com/uploads/62555de2d384c3394fe533d0/universal/BeatSaviorData-2.1.13.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "2.1.9",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/6154102ef1166c468bfa235c/universal/BeatSaviorData-2.1.9.zip"
+				"universal": "https://beatmods.com/uploads/6154102ef1166c468bfa235c/universal/BeatSaviorData-2.1.9.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "2.1.6",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60b28eb12d008b3daa41e9cc/universal/BeatSaviorData-2.1.6.zip"
+				"universal": "https://beatmods.com/uploads/60b28eb12d008b3daa41e9cc/universal/BeatSaviorData-2.1.6.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -79,7 +79,7 @@
 		{
 			"version": "2.1.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/604c0ea0fd8cd42a0cd12b88/universal/BeatSaviorData-2.1.5.zip"
+				"universal": "https://beatmods.com/uploads/604c0ea0fd8cd42a0cd12b88/universal/BeatSaviorData-2.1.5.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
@@ -103,7 +103,7 @@
 		{
 			"version": "2.1.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/601c6a560eef816aa6d0c24b/universal/BeatSaviorData-2.1.3.zip"
+				"universal": "https://beatmods.com/uploads/601c6a560eef816aa6d0c24b/universal/BeatSaviorData-2.1.3.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [

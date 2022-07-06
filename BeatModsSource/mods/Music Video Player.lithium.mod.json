@@ -7,7 +7,7 @@
 		{
 			"version": "1.11.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f5c366f83fe22744157ec54/universal/Music Video Player-1.11.1.zip"
+				"universal": "https://beatmods.com/uploads/5f5c366f83fe22744157ec54/universal/Music Video Player-1.11.1.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.3.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cb359f4b0e427026092e3a0/universal/Music Video Player-1.3.0.zip"
+				"universal": "https://beatmods.com/uploads/5cb359f4b0e427026092e3a0/universal/Music Video Player-1.3.0.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

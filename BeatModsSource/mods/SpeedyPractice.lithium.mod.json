@@ -7,7 +7,7 @@
 		{
 			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/604ded77fd8cd42a0cd12bd2/universal/SpeedyPractice-v1.2.0.zip"
+				"universal": "https://beatmods.com/uploads/604ded77fd8cd42a0cd12bd2/universal/SpeedyPractice-v1.2.0.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
@@ -21,7 +21,7 @@
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5fe3a68a8384cf2e7ec7220d/universal/SpeedyPractice-1.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5fe3a68a8384cf2e7ec7220d/universal/SpeedyPractice-1.1.0.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": [

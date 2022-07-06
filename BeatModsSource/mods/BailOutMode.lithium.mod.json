@@ -7,7 +7,7 @@
 		{
 			"version": "1.7.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f3ae66083fe22744157e9d5/universal/BailOutMode-1.7.1.zip"
+				"universal": "https://beatmods.com/uploads/5f3ae66083fe22744157e9d5/universal/BailOutMode-1.7.1.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -26,7 +26,7 @@
 		{
 			"version": "1.7.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5e7d88b503dce96ca6cf0d03/universal/BailOutMode-1.7.0.zip"
+				"universal": "https://beatmods.com/uploads/5e7d88b503dce96ca6cf0d03/universal/BailOutMode-1.7.0.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [

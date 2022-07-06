@@ -7,7 +7,7 @@
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5fc43b0a8384cf2e7ec720da/universal/websocket-sharp-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/5fc43b0a8384cf2e7ec720da/universal/websocket-sharp-1.0.4.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": []

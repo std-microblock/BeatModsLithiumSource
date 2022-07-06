@@ -7,7 +7,7 @@
 		{
 			"version": "1.11.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cfe55ad0a8c00640fb97075/universal/GameplayModifiersPlus-1.11.1.zip"
+				"universal": "https://beatmods.com/uploads/5cfe55ad0a8c00640fb97075/universal/GameplayModifiersPlus-1.11.1.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
 			"dependencies": [
@@ -36,7 +36,7 @@
 		{
 			"version": "1.11.0",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ce33743b29eb364ff1e993f/universal/GameplayModifiersPlus-1.11.0.zip"
+				"universal": "https://beatmods.com/uploads/5ce33743b29eb364ff1e993f/universal/GameplayModifiersPlus-1.11.0.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
@@ -60,7 +60,7 @@
 		{
 			"version": "1.10.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5cbe85b6d142a72a4a73ac7b/universal/GameplayModifiersPlus-1.10.4.zip"
+				"universal": "https://beatmods.com/uploads/5cbe85b6d142a72a4a73ac7b/universal/GameplayModifiersPlus-1.10.4.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

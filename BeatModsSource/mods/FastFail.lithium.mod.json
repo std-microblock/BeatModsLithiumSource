@@ -7,7 +7,7 @@
 		{
 			"version": "2.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/61c299d17a2ef528fb65b895/universal/FastFail-2.0.5.zip"
+				"universal": "https://beatmods.com/uploads/61c299d17a2ef528fb65b895/universal/FastFail-2.0.5.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
@@ -31,7 +31,7 @@
 		{
 			"version": "2.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60b15b372d008b3daa41e919/universal/FastFail-2.0.4.zip"
+				"universal": "https://beatmods.com/uploads/60b15b372d008b3daa41e919/universal/FastFail-2.0.4.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -55,7 +55,7 @@
 		{
 			"version": "2.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/60480517fd8cd42a0cd12a43/universal/FastFail-2.0.3.zip"
+				"universal": "https://beatmods.com/uploads/60480517fd8cd42a0cd12a43/universal/FastFail-2.0.3.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
@@ -79,7 +79,7 @@
 		{
 			"version": "2.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/600b80078384cf2e7ec7265f/universal/FastFail-2.0.2.zip"
+				"universal": "https://beatmods.com/uploads/600b80078384cf2e7ec7265f/universal/FastFail-2.0.2.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [
@@ -103,7 +103,7 @@
 		{
 			"version": "2.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f9f9b1cdf35a674dfeca6a2/universal/FastFail-2.0.1.zip"
+				"universal": "https://beatmods.com/uploads/5f9f9b1cdf35a674dfeca6a2/universal/FastFail-2.0.1.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": [
@@ -127,7 +127,7 @@
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5f3ad31883fe22744157e99f/universal/FastFail-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/5f3ad31883fe22744157e99f/universal/FastFail-1.1.2.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
 			"dependencies": [
@@ -146,7 +146,7 @@
 		{
 			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com//uploads/5ec9112083444256e16b555b/universal/FastFail-1.1.1.zip"
+				"universal": "https://beatmods.com/uploads/5ec9112083444256e16b555b/universal/FastFail-1.1.1.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
