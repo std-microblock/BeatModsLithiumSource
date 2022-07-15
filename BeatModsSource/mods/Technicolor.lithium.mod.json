@@ -1,43 +1,9 @@
 {
 	"name": "Technicolor",
 	"author": "Aeroluna",
-	"description": "Rainbow? To heck with rainbows! Technicolor is where it's at! Technicolor lets you add rainbow colors to your lights, notes, walls, sabers, and even bombs.",
+	"description": "Rainbow? Technicolor is where it's at! Technicolor lets you add rainbow colors to your lights, notes, walls, sabers, and even bombs.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
-		{
-			"version": "1.0.10",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/629600c8d384c3394fe537d4/universal/Technicolor-1.0.10.zip"
-			},
-			"requiredGameVersion": "~1.21.0",
-			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "_Heck",
-					"version": "1.3.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
-				},
-				{
-					"id": "SiraUtil",
-					"version": "3.0.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "Chroma",
-					"version": "2.5.13",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Chroma.lithium.mod.json"
-				}
-			]
-		},
 		{
 			"version": "1.0.7",
 			"downloads": {
