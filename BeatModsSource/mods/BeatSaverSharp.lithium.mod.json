@@ -5,6 +5,14 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "3.4.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/62b5164e2dcc1236fc0b5bad/universal/BeatSaverSharp-3.4.4.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": []
+		},
+		{
 			"version": "3.4.2",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/623b738b6f151827d5d77e90/universal/BeatSaverSharp-3.4.2.zip"

@@ -1,13 +1,13 @@
 {
 	"name": "Arcgap",
 	"author": "Kinsi55",
-	"description": "Fixes game softlock / crash on 1.20+",
+	"description": "Fixes game softlock / crash on 1.20-1.23",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.0.5",
+			"version": "0.0.69",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6274a4ccd384c3394fe5359d/universal/Arcgap-0.0.5.zip"
+				"universal": "https://beatmods.com/uploads/62d1e3282dcc1236fc0b5cfd/universal/Arcgap-v0.0.69.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": []
