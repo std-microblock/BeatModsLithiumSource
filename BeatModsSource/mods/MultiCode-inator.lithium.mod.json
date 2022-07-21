@@ -1,29 +1,29 @@
 {
 	"name": "MultiCode-inator",
 	"author": "Sirspam",
-	"description": "Beat Saber mod that adds a !multicode command to your stream which posts the current multiplayer lobby code into your chat",
+	"description": "Beat Saber mod which adds a !mc command to post the current multiplayer lobby code into your stream chat",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.1",
+			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62759827d384c3394fe535b3/universal/MultiCode-inator-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/62ca36ba2dcc1236fc0b5c9e/universal/MultiCode-inator-1.1.1.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "CatCore",
 					"version": "1.0.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "SiraUtil",
-					"version": "3.0.6",
+					"version": "3.1.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
