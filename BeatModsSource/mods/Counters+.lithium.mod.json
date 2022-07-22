@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.2.7",
+			"version": "2.3.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6248cda43f368d47b27e9860/universal/Counters_-2.2.7.zip"
+				"universal": "https://beatmods.com/uploads/62d99d44fdabde6bb8311337/universal/Counters_-2.3.1.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -20,6 +20,30 @@
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.2.7",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/623118966f151827d5d77ce6/universal/Counters_-2.2.7.zip"
+			},
+			"requiredGameVersion": "~1.20.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.0.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
