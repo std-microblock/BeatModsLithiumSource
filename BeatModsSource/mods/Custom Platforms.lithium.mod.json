@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "6.1.14",
+			"version": "6.1.15",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6297a954d384c3394fe537fe/universal/Custom Platforms-6.1.14.zip"
+				"universal": "https://beatmods.com/uploads/62d9670cfdabde6bb831131b/universal/Custom Platforms-6.1.15.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.0.6",
+					"version": "3.1.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
