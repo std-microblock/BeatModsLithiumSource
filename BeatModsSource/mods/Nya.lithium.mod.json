@@ -5,20 +5,20 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.4.3",
+			"version": "0.5.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62961f29d384c3394fe537da/universal/Nya-0.4.3.zip"
+				"universal": "https://beatmods.com/uploads/63018075fdabde6bb8311535/universal/Nya-0.5.2.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.6",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.0.6",
+					"version": "3.1.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

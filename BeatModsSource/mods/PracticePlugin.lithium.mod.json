@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "6.0.13",
+			"version": "6.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62915330d384c3394fe53785/universal/PracticePlugin-6.0.13.zip"
+				"universal": "https://beatmods.com/uploads/62dd81ebfdabde6bb8311376/universal/PracticePlugin-6.1.1.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [

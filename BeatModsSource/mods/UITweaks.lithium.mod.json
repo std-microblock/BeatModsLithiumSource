@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "3.0.8",
+			"version": "3.0.9",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/624b225f3f368d47b27e98a7/universal/UITweaks-3.0.8.zip"
+				"universal": "https://beatmods.com/uploads/62f6be1afdabde6bb831148f/universal/UITweaks-3.0.9.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [

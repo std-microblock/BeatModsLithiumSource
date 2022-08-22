@@ -5,26 +5,26 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.5.2",
+			"version": "1.6.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62972c0ed384c3394fe537f4/universal/Cinema-1.5.2.zip"
+				"universal": "https://beatmods.com/uploads/630029c5fdabde6bb8311508/universal/Cinema-1.6.1.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
+					"id": "yt-dlp",
+					"version": "2022.8.19",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
+				},
+				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.6",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
 					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "yt-dlp",
-					"version": "2022.4.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
 				},
 				{
 					"id": "SongCore",

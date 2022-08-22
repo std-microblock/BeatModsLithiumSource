@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.7.69",
+			"version": "0.7.72",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62c618682dcc1236fc0b5c52/universal/BetterSongSearch-0.7.69.zip"
+				"universal": "https://beatmods.com/uploads/63014110fdabde6bb831152c/universal/BetterSongSearch-0.7.72.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
