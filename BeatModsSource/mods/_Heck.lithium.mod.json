@@ -5,21 +5,21 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.4.1",
+			"version": "1.4.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62d95ea4fdabde6bb8311310/universal/_Heck-1.4.1.zip"
+				"universal": "https://beatmods.com/uploads/62ff9f4efdabde6bb83114f1/universal/_Heck-1.4.3.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
 					"id": "CustomJSONData",
 					"version": "2.4.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
