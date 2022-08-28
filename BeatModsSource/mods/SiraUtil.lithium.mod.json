@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "3.1.0",
+			"version": "3.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62c4e6312dcc1236fc0b5c3d/universal/SiraUtil-3.1.0.zip"
+				"universal": "https://beatmods.com/uploads/6306e49dfdabde6bb8311581/universal/SiraUtil-3.1.2.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [

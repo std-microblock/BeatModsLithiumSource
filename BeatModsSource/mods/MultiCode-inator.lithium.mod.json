@@ -17,14 +17,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "CatCore",
-					"version": "1.0.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
-				},
-				{
 					"id": "SiraUtil",
 					"version": "3.1.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "CatCore",
+					"version": "1.0.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

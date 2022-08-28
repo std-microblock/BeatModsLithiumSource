@@ -267,6 +267,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hidden Blocks.lithium.mod.json"
 		},
 		{
+			"name": "SiraUtil",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+		},
+		{
 			"name": "_Heck",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
 		},
@@ -293,10 +297,6 @@
 		{
 			"name": "BeatSaverSharp",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverSharp.lithium.mod.json"
-		},
-		{
-			"name": "SiraUtil",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 		},
 		{
 			"name": "CatCore",
