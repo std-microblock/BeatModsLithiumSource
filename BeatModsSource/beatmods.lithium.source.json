@@ -195,10 +195,6 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MusicEscape.lithium.mod.json"
 		},
 		{
-			"name": "NoodleExtensions",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoodleExtensions.lithium.mod.json"
-		},
-		{
 			"name": "Claws",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Claws.lithium.mod.json"
 		},
@@ -209,6 +205,10 @@
 		{
 			"name": "360fyer",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/360fyer.lithium.mod.json"
+		},
+		{
+			"name": "NoodleExtensions",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoodleExtensions.lithium.mod.json"
 		},
 		{
 			"name": "Custom Campaigns",
@@ -271,10 +271,6 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 		},
 		{
-			"name": "_Heck",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
-		},
-		{
 			"name": "LeaderboardCore",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardCore.lithium.mod.json"
 		},
@@ -285,10 +281,6 @@
 		{
 			"name": "BeatSaberMarkupLanguage",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-		},
-		{
-			"name": "CustomJSONData",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
 		},
 		{
 			"name": "SongDataCore",
@@ -333,6 +325,14 @@
 		{
 			"name": "DiscordGameSDK",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordGameSDK.lithium.mod.json"
+		},
+		{
+			"name": "_Heck",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
+		},
+		{
+			"name": "CustomJSONData",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
 		},
 		{
 			"name": "Ini Parser",
@@ -411,20 +411,20 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json"
 		},
 		{
-			"name": "Chroma",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Chroma.lithium.mod.json"
-		},
-		{
-			"name": "Technicolor",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Technicolor.lithium.mod.json"
-		},
-		{
 			"name": "BetterStaticLights",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterStaticLights.lithium.mod.json"
 		},
 		{
 			"name": "PiFix",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PiFix.lithium.mod.json"
+		},
+		{
+			"name": "Technicolor",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Technicolor.lithium.mod.json"
+		},
+		{
+			"name": "Chroma",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Chroma.lithium.mod.json"
 		},
 		{
 			"name": "DiColors",
@@ -771,10 +771,6 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongList.lithium.mod.json"
 		},
 		{
-			"name": "UITweaks",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
-		},
-		{
 			"name": "Counters+",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Counters+.lithium.mod.json"
 		},
@@ -813,6 +809,10 @@
 		{
 			"name": "ScorePercentage",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScorePercentage.lithium.mod.json"
+		},
+		{
+			"name": "UITweaks",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
 		},
 		{
 			"name": "Small Menu",
