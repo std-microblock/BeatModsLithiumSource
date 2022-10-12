@@ -5,25 +5,25 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.4.1",
+			"version": "0.4.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62e1e46afdabde6bb83113bd/universal/BeatLeader-0.4.1.zip"
+				"universal": "https://beatmods.com/uploads/6345c4a122b0de6fabe113a3/universal/BeatLeader-0.4.4.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "LeaderboardCore",
-					"version": "1.2.2",
+					"version": "1.3.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardCore.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.0",
+					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.6",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
