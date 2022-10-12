@@ -1,9 +1,28 @@
 {
 	"name": "CustomMissText",
-	"author": "arti",
-	"description": "Random messages whenever you miss a note. Because apparently people like those.",
+	"author": "Exomanz",
+	"description": "Replaces the \"MISS\" text with a random string!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.1.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/630acb27fdabde6bb83115bb/universal/CustomMissText-1.1.2.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.0.5",
 			"downloads": {

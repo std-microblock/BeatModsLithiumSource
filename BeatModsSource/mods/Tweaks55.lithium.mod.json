@@ -5,18 +5,12 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.3.6",
+			"version": "0.3.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6245ec5a3f368d47b27e9754/universal/Tweaks55-0.3.6.zip"
+				"universal": "https://beatmods.com/uploads/63430f6122b0de6fabe11366/universal/Tweaks55-0.3.8.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "0.3.5",

@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.0",
+			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62ef0cfefdabde6bb831143f/universal/AudioLink-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/6320a31722b0de6fabe11297/universal/AudioLink-1.0.2.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [

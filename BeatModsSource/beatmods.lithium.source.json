@@ -67,6 +67,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
 		},
 		{
+			"name": "AudioLink",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AudioLink.lithium.mod.json"
+		},
+		{
 			"name": "Cinema",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Cinema.lithium.mod.json"
 		},
@@ -77,10 +81,6 @@
 		{
 			"name": "Nya",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nya.lithium.mod.json"
-		},
-		{
-			"name": "AudioLink",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AudioLink.lithium.mod.json"
 		},
 		{
 			"name": "MenuPillars",
@@ -595,12 +595,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TwitchPlus.lithium.mod.json"
 		},
 		{
+			"name": "CustomMissText",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMissText.lithium.mod.json"
+		},
+		{
 			"name": "CustomFailText",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
-			"name": "CustomMissText",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMissText.lithium.mod.json"
+			"name": "Tweaks55",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Tweaks55.lithium.mod.json"
 		},
 		{
 			"name": "HitsoundTweaks",
@@ -653,10 +657,6 @@
 		{
 			"name": "JDFixer",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/JDFixer.lithium.mod.json"
-		},
-		{
-			"name": "Tweaks55",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Tweaks55.lithium.mod.json"
 		},
 		{
 			"name": "SaberTailor",
@@ -767,6 +767,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"
 		},
 		{
+			"name": "BetterSort.LastPlayed",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSort.LastPlayed.lithium.mod.json"
+		},
+		{
 			"name": "UITweaks",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
 		},
@@ -785,10 +789,6 @@
 		{
 			"name": "PerformanceMeter",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PerformanceMeter.lithium.mod.json"
-		},
-		{
-			"name": "BetterSort.LastPlayed",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSort.LastPlayed.lithium.mod.json"
 		},
 		{
 			"name": "SongChartVisualizer",

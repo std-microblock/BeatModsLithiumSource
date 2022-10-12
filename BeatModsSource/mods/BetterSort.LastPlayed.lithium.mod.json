@@ -5,15 +5,15 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.0.3",
+			"version": "2.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6289c364d384c3394fe536f4/universal/BetterSort.LastPlayed-2.0.3.zip"
+				"universal": "https://beatmods.com/uploads/6343c68822b0de6fabe11374/universal/BetterSort.LastPlayed-2.1.0.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "BetterSongList",
-					"version": "0.3.0",
+					"version": "0.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongList.lithium.mod.json"
 				},
 				{
