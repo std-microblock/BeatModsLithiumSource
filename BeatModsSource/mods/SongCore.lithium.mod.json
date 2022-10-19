@@ -24,15 +24,15 @@
 			]
 		},
 		{
-			"version": "3.9.6",
+			"version": "3.9.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62851a50d384c3394fe53683/universal/SongCore-3.9.6.zip"
+				"universal": "https://beatmods.com/uploads/6345d0b722b0de6fabe113a9/universal/SongCore-3.9.7.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.4",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
