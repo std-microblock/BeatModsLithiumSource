@@ -5,26 +5,31 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.6.1",
+			"version": "1.6.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/630029c5fdabde6bb8311508/universal/Cinema-1.6.1.zip"
+				"universal": "https://beatmods.com/uploads/634c882a22b0de6fabe1143c/universal/Cinema-1.6.4.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.9.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
 				{
 					"id": "yt-dlp",
 					"version": "2022.8.19",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "BSIPA",
 					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
@@ -35,11 +40,6 @@
 					"id": "FFmpeg",
 					"version": "4.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FFmpeg.lithium.mod.json"
-				},
-				{
-					"id": "SongCore",
-					"version": "3.9.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				}
 			]
 		},
