@@ -607,6 +607,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "BeatSaviorData",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaviorData.lithium.mod.json"
+		},
+		{
 			"name": "DataPuller",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DataPuller.lithium.mod.json"
 		},
@@ -645,10 +649,6 @@
 		{
 			"name": "SoundReplacer",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SoundReplacer.lithium.mod.json"
-		},
-		{
-			"name": "BeatSaviorData",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaviorData.lithium.mod.json"
 		},
 		{
 			"name": "EasyOffset",
@@ -775,6 +775,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"
 		},
 		{
+			"name": "SongChartVisualizer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongChartVisualizer.lithium.mod.json"
+		},
+		{
 			"name": "FasterScroll",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FasterScroll.lithium.mod.json"
 		},
@@ -801,10 +805,6 @@
 		{
 			"name": "PerformanceMeter",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PerformanceMeter.lithium.mod.json"
-		},
-		{
-			"name": "SongChartVisualizer",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongChartVisualizer.lithium.mod.json"
 		},
 		{
 			"name": "TakeMeToResults",
