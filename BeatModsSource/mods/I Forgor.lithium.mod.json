@@ -5,6 +5,25 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.3.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6365db3d22b0de6fabe114e6/universal/I Forgor-1.3.1.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.2.1",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/61da7ac9e12d6f31e266fafa/universal/I Forgor-1.2.1.zip"
