@@ -1,30 +1,25 @@
 {
 	"name": "SmartSongSuggest",
-	"author": "Taoh",
+	"author": "Assistant",
 	"description": "Can make and update a playlist with ranked song suggestions, based on played and liked songs. Option to ban songs temporary or permanent. Can also make a playlist based on oldest ranked scores.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.5.18",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62aa6963d384c3394fe538c0/universal/SmartSongSuggest-1.5.18.zip"
+				"universal": "https://beatmods.com/uploads/636ae3db0c5c87297d5dac5d/universal/SmartSongSuggest-1.5.18.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
-					"id": "SongCore",
-					"version": "3.9.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+					"id": "BeatSaberPlaylistsLib",
+					"version": "1.6.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
 					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberPlaylistsLib",
-					"version": "1.6.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
@@ -35,6 +30,11 @@
 					"id": "SongDetailsCache",
 					"version": "1.2.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.9.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				}
 			]
 		}

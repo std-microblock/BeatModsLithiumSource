@@ -1,15 +1,15 @@
 {
 	"name": "BetterSort.LastPlayed",
-	"author": "nanikit",
+	"author": "Assistant",
 	"description": "Add last played date sort to BetterSongList.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6343c68822b0de6fabe11374/universal/BetterSort.LastPlayed-2.1.0.zip"
+				"universal": "https://beatmods.com/uploads/636ae3dc0c5c87297d5dac60/universal/BetterSort.LastPlayed-2.1.0.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BetterSongList",

@@ -1,19 +1,19 @@
 {
 	"name": "No Auto-Exposure",
-	"author": "ItsKaitlyn03",
+	"author": "Assistant",
 	"description": "Turns off the auto-exposure added in 1.24.0, no configuration. Just install this plugin, and enjoy!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63488de022b0de6fabe113cd/universal/No Auto-Exposure-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/636ae3c90c5c87297d5dac2d/universal/No Auto-Exposure-1.0.1.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "3.9.6",
+					"version": "3.9.7",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{

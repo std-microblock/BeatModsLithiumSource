@@ -1,15 +1,15 @@
 {
 	"name": "LeaderboardCore",
-	"author": "PixelBoom",
+	"author": "Assistant",
 	"description": "A library for alternative leaderboards.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63010c56fdabde6bb8311527/universal/LeaderboardCore-1.2.3.zip"
+				"universal": "https://beatmods.com/uploads/636ae3920c5c87297d5dabc1/universal/LeaderboardCore-1.2.3.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.0",
+					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

@@ -1,15 +1,15 @@
 {
 	"name": "PerformanceMeter",
-	"author": "JackMacWindows",
+	"author": "Assistant",
 	"description": "Shows a graph of your energy bar, percentage level, or cut value throughout a map on the end screen.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/628c75d4d384c3394fe53724/universal/PerformanceMeter-1.4.1.zip"
+				"universal": "https://beatmods.com/uploads/636ae3b90c5c87297d5dac12/universal/PerformanceMeter-1.4.1.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.3",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

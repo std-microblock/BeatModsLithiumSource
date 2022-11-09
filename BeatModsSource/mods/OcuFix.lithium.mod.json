@@ -1,24 +1,24 @@
 {
 	"name": "OcuFix",
-	"author": "otiosum",
+	"author": "Assistant",
 	"description": "Automatically disable ASW and change services/runtime priority ",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61df0a0ae12d6f31e266fb65/universal/OcuFix-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/636ae3a40c5c87297d5dabdf/universal/OcuFix-0.1.0.zip"
 			},
-			"requiredGameVersion": "~1.19.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.1",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.1",
+					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

@@ -1,15 +1,15 @@
 {
 	"name": "PlayFirst(SubmitLater)",
-	"author": "zephyr",
+	"author": "Assistant",
 	"description": "Decide score submission in pause menu and the end of a map, prevent submission of failed NF scores, based on song duration, or disable all scores.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6246baea3f368d47b27e97e9/universal/PlayFirst_SubmitLater_-1.1.0.zip"
+				"universal": "https://beatmods.com/uploads/636ae3b00c5c87297d5dabfa/universal/PlayFirst_SubmitLater_-1.1.0.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.3",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

@@ -1,24 +1,24 @@
 {
 	"name": "Small Menu",
-	"author": "nicoco007",
+	"author": "Assistant",
 	"description": "Makes the main menu smaller & closer, just like it was in Beat Saber 1.13.0.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62315a1e6f151827d5d77d2d/universal/Small Menu-1.2.0.zip"
+				"universal": "https://beatmods.com/uploads/636ae3be0c5c87297d5dac1e/universal/Small Menu-1.2.0.zip"
 			},
-			"requiredGameVersion": "~1.20.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.2",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.0.5",
+					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

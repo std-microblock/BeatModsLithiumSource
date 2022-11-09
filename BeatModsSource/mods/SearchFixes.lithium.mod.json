@@ -1,15 +1,15 @@
 {
 	"name": "SearchFixes",
-	"author": "PixelBoom",
+	"author": "Assistant",
 	"description": "An improved search algorithm for Beat Saber.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/624b76033f368d47b27e98bc/universal/SearchFixes-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/636ae37b0c5c87297d5dab97/universal/SearchFixes-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

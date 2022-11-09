@@ -1,15 +1,15 @@
 {
 	"name": "YUR Fit Calorie Tracker",
-	"author": "dilan",
+	"author": "Assistant",
 	"description": "Track YUR calories while playing Beat Saber!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.7.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6246f8a13f368d47b27e97ef/universal/YUR Fit Calorie Tracker-2.7.6.zip"
+				"universal": "https://beatmods.com/uploads/636ae39d0c5c87297d5dabcd/universal/YUR Fit Calorie Tracker-2.7.6.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.3",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

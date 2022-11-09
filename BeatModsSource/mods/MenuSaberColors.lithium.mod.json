@@ -1,19 +1,19 @@
 {
 	"name": "MenuSaberColors",
-	"author": "Exomanz",
+	"author": "Assistant",
 	"description": "Allows your menu pointers to be the same colors as your current color scheme!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62924a7ad384c3394fe53797/universal/MenuSaberColors-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/636ae3830c5c87297d5dabac/universal/MenuSaberColors-1.0.4.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.0.6",
+					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
