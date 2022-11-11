@@ -5,6 +5,20 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "2.4.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/636b6f390c5c87297d5dacd2/universal/CustomJSONData-2.4.4.zip"
+			},
+			"requiredGameVersion": "~1.26.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "2.4.3",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/63401ccb22b0de6fabe11343/universal/CustomJSONData-2.4.3.zip"

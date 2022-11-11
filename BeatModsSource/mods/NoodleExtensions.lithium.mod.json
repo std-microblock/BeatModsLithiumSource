@@ -7,9 +7,9 @@
 		{
 			"version": "1.5.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/633f92cb22b0de6fabe1133e/universal/NoodleExtensions-1.5.4.zip"
+				"universal": "https://beatmods.com/uploads/636b6fe60c5c87297d5dacdb/universal/NoodleExtensions-1.5.4.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "_Heck",
@@ -22,18 +22,18 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
-					"id": "SongCore",
-					"version": "3.9.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
 					"id": "SiraUtil",
 					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
+					"id": "SongCore",
+					"version": "3.9.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
 					"id": "CustomJSONData",
-					"version": "2.4.2",
+					"version": "2.4.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
 				}
 			]
