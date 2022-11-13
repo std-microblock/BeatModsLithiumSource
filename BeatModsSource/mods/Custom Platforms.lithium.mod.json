@@ -1,13 +1,13 @@
 {
 	"name": "Custom Platforms",
-	"author": "Assistant",
+	"author": "affederaffe",
 	"description": "A plugin to support custom platforms and environments",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "6.1.16",
+			"version": "6.1.17",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3820c5c87297d5daba6/universal/Custom Platforms-6.1.16.zip"
+				"universal": "https://beatmods.com/uploads/636fbaa20c5c87297d5dad20/universal/Custom Plaforms-6.1.17.zip"
 			},
 			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
@@ -19,6 +19,30 @@
 				{
 					"id": "SiraUtil",
 					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "6.1.16",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6300ea11fdabde6bb831151e/universal/Custom Platforms-6.1.16.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
