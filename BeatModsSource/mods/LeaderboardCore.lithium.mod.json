@@ -36,6 +36,11 @@
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
 				{
+					"id": "ScoreSaber",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaber.lithium.mod.json"
+				},
+				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
@@ -44,11 +49,6 @@
 					"id": "SiraUtil",
 					"version": "3.0.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "ScoreSaber",
-					"version": "3.1.11",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaber.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

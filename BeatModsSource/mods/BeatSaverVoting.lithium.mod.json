@@ -1,13 +1,13 @@
 {
 	"name": "BeatSaverVoting",
-	"author": "Assistant",
+	"author": "Top_Cat",
 	"description": "A plugin for up/downvoting songs on BeatSaver",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.3.5",
+			"version": "2.3.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3c80c5c87297d5dac2a/universal/BeatSaverVoting-2.3.5.zip"
+				"universal": "https://beatmods.com/uploads/636e73570c5c87297d5dad08/universal/BeatSaverVoting-2.3.6.zip"
 			},
 			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
@@ -25,6 +25,35 @@
 					"id": "BS Utils",
 					"version": "1.12.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.3.5",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/624602953f368d47b27e9775/universal/BeatSaverVoting-2.3.5.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.12.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.9.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
