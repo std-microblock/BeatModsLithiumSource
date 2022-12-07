@@ -1,19 +1,43 @@
 {
 	"name": "EasyOffset",
-	"author": "Assistant",
-	"description": "Intuitive controller offset adjustment tool. Includes swing benchmark for config and grip analysis",
+	"author": "Reezonate",
+	"description": "Controller offset adjustment tool. Includes swing benchmark for config and grip analysis",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.0.1",
+			"version": "2.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3ae0c5c87297d5dabf4/universal/EasyOffset-2.0.1.zip"
+				"universal": "https://beatmods.com/uploads/6378a5d64aaa530242e16366/universal/EasyOffset-2.1.1.zip"
 			},
 			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6232f7f46f151827d5d77d9a/universal/EasyOffset-2.0.1.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

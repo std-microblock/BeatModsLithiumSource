@@ -1,19 +1,38 @@
 {
 	"name": "Camera2",
-	"author": "Assistant",
+	"author": "Kinsi55",
 	"description": "Adds a lot of options / tools for creating more advanced desktop viewing experiences with multiple camera angles and much more. See the Github link for more details",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.6.95",
+			"version": "0.6.100",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae37e0c5c87297d5daba0/universal/Camera2-0.6.95.zip"
+				"universal": "https://beatmods.com/uploads/637bcc3ac202ce0b138acb3f/universal/Camera2-0.6.100.zip"
 			},
 			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.6.95",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/63002e43fdabde6bb8311513/universal/Camera2-0.6.95.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
