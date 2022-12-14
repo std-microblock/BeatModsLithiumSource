@@ -1,15 +1,15 @@
 {
 	"name": "Custom Platforms",
-	"author": "affederaffe",
+	"author": "Bloodcloak",
 	"description": "A plugin to support custom platforms and environments",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "6.1.17",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636fbaa20c5c87297d5dad20/universal/Custom Plaforms-6.1.17.zip"
+				"universal": "https://beatmods.com/uploads/63990e060505da399146eff0/universal/Custom Platforms-6.1.17.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

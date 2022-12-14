@@ -1,15 +1,15 @@
 {
 	"name": "MappingExtensions",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "This adds some additional things you can do with your maps as a mapper, and allows you to play said maps as a player. View More Info for details.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.7.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3cd0c5c87297d5dac36/universal/MappingExtensions-1.7.2.zip"
+				"universal": "https://beatmods.com/uploads/63990e2c0505da399146f086/universal/MappingExtensions-1.7.2.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "SongCore",

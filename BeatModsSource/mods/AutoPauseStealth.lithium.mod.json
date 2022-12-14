@@ -1,15 +1,15 @@
 {
 	"name": "AutoPauseStealth",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.17",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3b00c5c87297d5dabf7/universal/AutoPauseStealth-0.1.17.zip"
+				"universal": "https://beatmods.com/uploads/63990e230505da399146f04a/universal/AutoPauseStealth-0.1.17.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
