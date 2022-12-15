@@ -1,15 +1,15 @@
 {
 	"name": "bHapticsFunctional",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "This mod adds haptic feedback in the bhaptics gear for slicing or missing blocks, exploding bombs, and hitting obstacles.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3790c5c87297d5dab91/universal/bHapticsFunctional-1.1.3.zip"
+				"universal": "https://beatmods.com/uploads/63990e020505da399146efde/universal/bHapticsFunctional-1.1.3.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "bHaptics",

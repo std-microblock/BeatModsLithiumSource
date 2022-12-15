@@ -1,15 +1,15 @@
 {
 	"name": "OverrideEnvironmentFix",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "A mod that will override environments by default again since Beat Games took that away.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae37a0c5c87297d5dab94/universal/OverrideEnvironmentFix-1.1.1.zip"
+				"universal": "https://beatmods.com/uploads/63990e030505da399146efe1/universal/OverrideEnvironmentFix-1.1.1.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

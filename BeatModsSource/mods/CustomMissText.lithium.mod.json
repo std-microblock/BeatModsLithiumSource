@@ -1,15 +1,15 @@
 {
 	"name": "CustomMissText",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Replaces the \"MISS\" text with a random string!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3a20c5c87297d5dabd6/universal/CustomMissText-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/63990e1c0505da399146f026/universal/CustomMissText-1.1.2.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

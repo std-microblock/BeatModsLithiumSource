@@ -1,25 +1,25 @@
 {
 	"name": "PerformanceMeter",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Shows a graph of your energy bar, percentage level, or cut value throughout a map on the end screen.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3b90c5c87297d5dac12/universal/PerformanceMeter-1.4.1.zip"
+				"universal": "https://beatmods.com/uploads/63990e260505da399146f062/universal/PerformanceMeter-1.4.1.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "BS Utils",
 					"version": "1.12.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

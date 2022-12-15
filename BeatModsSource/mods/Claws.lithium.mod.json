@@ -1,15 +1,15 @@
 {
 	"name": "Claws",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Play Beat Saber like wolverine - 70% shorter hitboxes means you have to work /hard/. Reduces strain on your wrists significantly! Enable in song select or the multiplayer lobby.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.10.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3cc0c5c87297d5dac33/universal/Claws-1.10.2.zip"
+				"universal": "https://beatmods.com/uploads/63990e2c0505da399146f083/universal/Claws-1.10.2.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
@@ -17,14 +17,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
 					"id": "BS Utils",
 					"version": "1.12.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",

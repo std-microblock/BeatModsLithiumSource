@@ -1,15 +1,15 @@
 {
 	"name": "SongDataCore",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Download and cache database dumps of ScoreSaber and BeatSaver. Map the information by song hash and make available to other plugins.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3cd0c5c87297d5dac39/universal/SongDataCore-1.4.8.zip"
+				"universal": "https://beatmods.com/uploads/63990e2c0505da399146f089/universal/SongDataCore-1.4.8.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "SongCore",

@@ -1,15 +1,15 @@
 {
 	"name": "PracticePlugin",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Plugin for Beat Saber to control playback speed",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "6.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3d20c5c87297d5dac45/universal/PracticePlugin-6.1.1.zip"
+				"universal": "https://beatmods.com/uploads/63990e2f0505da399146f098/universal/PracticePlugin-6.1.1.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
