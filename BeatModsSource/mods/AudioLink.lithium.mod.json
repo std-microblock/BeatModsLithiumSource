@@ -1,15 +1,15 @@
 {
 	"name": "AudioLink",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "VRC AudioLink ported to Beat Saber.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3730c5c87297d5dab76/universal/AudioLink-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/63990dff0505da399146efbd/universal/AudioLink-1.0.2.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

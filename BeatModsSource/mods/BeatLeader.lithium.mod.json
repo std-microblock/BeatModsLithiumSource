@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.5.2",
+			"version": "0.5.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6399223e0505da399146f0c8/universal/BeatLeader-0.5.2.zip"
+				"universal": "https://beatmods.com/uploads/639b86d80505da399146f168/universal/BeatLeader-0.5.4.zip"
 			},
 			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
