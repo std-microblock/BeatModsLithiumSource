@@ -1,0 +1,16 @@
+{
+	"name": "WhyIsThereNoLeaderboard",
+	"author": "Kinsi55",
+	"description": "Stopgap plugin that clarifies why leaderboards on custom songs are not supported.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "0.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/63a636ed4b0db27fe5ef3efc/universal/WhyIsThereNoLeaderboard-0.0.1.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": []
+		}
+	]
+}

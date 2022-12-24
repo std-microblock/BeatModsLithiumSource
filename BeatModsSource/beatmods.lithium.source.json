@@ -11,12 +11,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 		},
 		{
-			"name": "MorePlaylists",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MorePlaylists.lithium.mod.json"
-		},
-		{
 			"name": "BeatSaverDownloader",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverDownloader.lithium.mod.json"
+		},
+		{
+			"name": "WhyIsThereNoLeaderboard",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/WhyIsThereNoLeaderboard.lithium.mod.json"
+		},
+		{
+			"name": "MorePlaylists",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MorePlaylists.lithium.mod.json"
 		},
 		{
 			"name": "BeatSaverVoting",
@@ -265,6 +269,10 @@
 		{
 			"name": "Hidden Blocks",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hidden Blocks.lithium.mod.json"
+		},
+		{
+			"name": "ScoreSaber",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaber.lithium.mod.json"
 		},
 		{
 			"name": "BeatLeader",
