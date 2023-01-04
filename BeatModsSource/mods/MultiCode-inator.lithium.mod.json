@@ -1,15 +1,15 @@
 {
 	"name": "MultiCode-inator",
-	"author": "Sirspam",
+	"author": "Bloodcloak",
 	"description": "Beat Saber mod which adds a !mc command to post the current multiplayer lobby code into your stream chat",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62f7fad4fdabde6bb83114a1/universal/MultiCode-inator-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/63990e180505da399146f020/universal/MultiCode-inator-1.1.2.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.0",
+					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

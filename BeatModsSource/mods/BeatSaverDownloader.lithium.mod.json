@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "5.9.1",
+			"version": "5.9.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63a0f68d4b0db27fe5ef3ecc/universal/BeatSaverDownloader-5.9.1.zip"
+				"universal": "https://beatmods.com/uploads/63a82c454b0db27fe5ef3f21/universal/BeatSaverDownloader-5.9.2.zip"
 			},
 			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
