@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.4.6",
+			"version": "2.4.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/639b70ab0505da399146f165/universal/CustomJSONData-2.4.6.zip"
+				"universal": "https://beatmods.com/uploads/63b96d6f6abe7b160765d8ad/universal/CustomJSONData-2.4.7.zip"
 			},
 			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
