@@ -5,6 +5,30 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "2.5.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/63ea52fa954cff3a17848494/universal/Saber Factory-2.5.2.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "2.5.0",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/61f57990999a2d79d10aa1e3/universal/Saber Factory-2.5.0.zip"
