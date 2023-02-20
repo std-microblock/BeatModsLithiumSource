@@ -5,6 +5,14 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/63f160f6954cff3a1784850c/universal/CatCore-1.0.1.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": []
+		},
+		{
 			"version": "1.0.0",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/62756e75d384c3394fe535a7/universal/CatCore-1.0.0.zip"
