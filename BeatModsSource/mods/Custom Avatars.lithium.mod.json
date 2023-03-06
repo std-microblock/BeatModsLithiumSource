@@ -1,9 +1,38 @@
 {
 	"name": "Custom Avatars",
-	"author": "Bloodcloak",
+	"author": "nicoco007",
 	"description": "Allows the use of custom player avatars for in-game body presence.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "5.3.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6404bb88fdb14f39fb57fdc6/universal/Custom Avatars-5.3.1.zip"
+			},
+			"requiredGameVersion": "~1.28.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "DynamicOpenVR",
+					"version": "0.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DynamicOpenVR.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "5.2.11",
 			"downloads": {

@@ -1,24 +1,24 @@
 {
 	"name": "Particle Overdrive",
-	"author": "Shadnix",
+	"author": "Bloodcloak",
 	"description": "Enable/disable camera noise, and global particle haze, configure note slash/explosion and saber clash particle amount. Created by lolPants with additional contributions by Steven 🎀 and Zingabopp.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.12.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6245ff533f368d47b27e9760/universal/Particle Overdrive-1.12.0.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e95fdb14f39fb57fc28/universal/Particle Overdrive-1.12.0.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
-					"version": "1.12.0",
+					"version": "1.12.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.3",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

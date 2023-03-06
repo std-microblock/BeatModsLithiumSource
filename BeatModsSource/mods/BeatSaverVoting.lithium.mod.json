@@ -1,24 +1,24 @@
 {
 	"name": "BeatSaverVoting",
-	"author": "Top_Cat",
+	"author": "Bloodcloak",
 	"description": "A plugin for up/downvoting songs on BeatSaver",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.4.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63a82c7e4b0db27fe5ef3f24/universal/BeatSaverVoting-2.4.0.zip"
+				"universal": "https://beatmods.com/uploads/63fe8ea9fdb14f39fb57fc88/universal/BeatSaverVoting-2.4.0.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "3.9.7",
+					"version": "3.9.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.12.0",
+					"version": "1.12.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{

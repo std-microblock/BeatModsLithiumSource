@@ -1,9 +1,28 @@
 {
 	"name": "BS Utils",
-	"author": "Dakari",
+	"author": "Eris",
 	"description": "A basic library for mods to use for common functionality.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.12.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6403efd1fdb14f39fb57fd8c/universal/BS Utils-1.12.2.zip"
+			},
+			"requiredGameVersion": "~1.28.0",
+			"dependencies": [
+				{
+					"id": "Ini Parser",
+					"version": "2.5.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.12.1",
 			"downloads": {

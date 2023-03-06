@@ -1,9 +1,23 @@
 {
 	"name": "BeatSaberMarkupLanguage",
-	"author": "Assistant",
+	"author": "Eris",
 	"description": "An XML based UI system.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.6.9",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6403fa42fdb14f39fb57fd9a/universal/BeatSaberMarkupLanguage-1.6.9.zip"
+			},
+			"requiredGameVersion": "~1.28.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.6.8",
 			"downloads": {
