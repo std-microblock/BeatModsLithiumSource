@@ -7,13 +7,13 @@
 		{
 			"version": "3.5.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990e230505da399146f050/universal/SaberTailor-3.5.0.zip"
+				"universal": "https://beatmods.com/uploads/63fe8ea1fdb14f39fb57fc6a/universal/SaberTailor-3.5.0.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
-					"version": "1.12.0",
+					"version": "1.12.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{

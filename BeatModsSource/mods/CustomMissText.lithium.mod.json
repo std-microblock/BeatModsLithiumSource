@@ -7,9 +7,9 @@
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990e1c0505da399146f026/universal/CustomMissText-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e9cfdb14f39fb57fc43/universal/CustomMissText-1.1.2.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

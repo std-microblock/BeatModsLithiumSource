@@ -1,9 +1,33 @@
 {
 	"name": "SongChartVisualizer",
-	"author": "Assistant",
+	"author": "Eris",
 	"description": "Displays an in-game chart with song difficulty information!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.1.9",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6405be7dfdb14f39fb57fe2f/universal/SongChartVisualizer-1.1.9.zip"
+			},
+			"requiredGameVersion": "~1.28.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.1.8",
 			"downloads": {

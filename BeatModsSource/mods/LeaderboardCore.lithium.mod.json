@@ -1,25 +1,25 @@
 {
 	"name": "LeaderboardCore",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "A library for alternative leaderboards.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3920c5c87297d5dabc1/universal/LeaderboardCore-1.2.3.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e96fdb14f39fb57fc2e/universal/LeaderboardCore-1.2.3.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

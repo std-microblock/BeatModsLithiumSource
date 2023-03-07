@@ -1,25 +1,25 @@
 {
 	"name": "PlayFirst(SubmitLater)",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Decide score submission in pause menu and the end of a map, prevent submission of failed NF scores, based on song duration, or disable all scores.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3b00c5c87297d5dabfa/universal/PlayFirst_SubmitLater_-1.1.0.zip"
+				"universal": "https://beatmods.com/uploads/63fe8ea0fdb14f39fb57fc5e/universal/PlayFirst_SubmitLater_-1.1.0.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.12.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.12.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
