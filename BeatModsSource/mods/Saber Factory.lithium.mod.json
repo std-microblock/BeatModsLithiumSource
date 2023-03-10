@@ -1,25 +1,49 @@
 {
 	"name": "Saber Factory",
-	"author": "Bloodcloak",
-	"description": "Customizable custom saber mod",
+	"author": "Toni Macaroni",
+	"description": "Change the appearance of your saber with lots of customization options",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.5.2",
+			"version": "2.5.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e89fdb14f39fb57fc0a/universal/Saber Factory-2.5.2.zip"
+				"universal": "https://beatmods.com/uploads/6408ec06fdb14f39fb57feab/universal/Saber Factory-2.5.3.zip"
 			},
 			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.5.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/63ea52fa954cff3a17848494/universal/Saber Factory-2.5.2.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": [
+				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
