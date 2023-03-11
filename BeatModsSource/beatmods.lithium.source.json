@@ -279,6 +279,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaber.lithium.mod.json"
 		},
 		{
+			"name": "CameraUtils",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraUtils.lithium.mod.json"
+		},
+		{
 			"name": "SongDataCore",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
 		},
@@ -309,10 +313,6 @@
 		{
 			"name": "yt-dlp",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
-		},
-		{
-			"name": "CameraUtils",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraUtils.lithium.mod.json"
 		},
 		{
 			"name": "SiraUtil",
@@ -455,16 +455,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ChromaLite.lithium.mod.json"
 		},
 		{
-			"name": "ServerBrowser",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ServerBrowser.lithium.mod.json"
+			"name": "BeatTogether",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatTogether.lithium.mod.json"
 		},
 		{
 			"name": "MultiplayerCore",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
 		},
 		{
-			"name": "BeatTogether",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatTogether.lithium.mod.json"
+			"name": "ServerBrowser",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ServerBrowser.lithium.mod.json"
 		},
 		{
 			"name": "MultiplayerExtensions",

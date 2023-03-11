@@ -1,15 +1,15 @@
 {
 	"name": "CameraUtils",
-	"author": "Reezonate",
+	"author": "Bloodcloak",
 	"description": "Library that standardizes the use of GameObject layers and provides tools for easier rendering pipeline modifications",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/639abd480505da399146f15d/universal/CameraUtils-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e7ffdb14f39fb57fbe0/universal/CameraUtils-1.0.1.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
