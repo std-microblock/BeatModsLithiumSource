@@ -7,13 +7,13 @@
 		{
 			"version": "2.1.15",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990e210505da399146f02f/universal/BeatSaviorData-2.1.15.zip"
+				"universal": "https://beatmods.com/uploads/63fe8ea1fdb14f39fb57fc61/universal/BeatSaviorData-2.1.15.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
-					"version": "1.12.0",
+					"version": "1.12.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
