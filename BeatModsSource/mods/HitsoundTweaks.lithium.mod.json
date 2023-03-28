@@ -1,13 +1,13 @@
 {
 	"name": "HitsoundTweaks",
-	"author": "Eris",
+	"author": "GalaxyMaster",
 	"description": "Adds more configurability to hitsounds, and fixes several base game bugs to make them more reliable and consistent.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.1.1",
+			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6405bfa0fdb14f39fb57fe3e/universal/HitsoundTweaks-1.1.1.zip"
+				"universal": "https://beatmods.com/uploads/6407bc90fdb14f39fb57fe92/universal/HitsoundTweaks-1.1.2.zip"
 			},
 			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
