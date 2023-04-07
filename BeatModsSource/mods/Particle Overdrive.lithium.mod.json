@@ -7,18 +7,18 @@
 		{
 			"version": "1.12.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e95fdb14f39fb57fc28/universal/Particle Overdrive-1.12.0.zip"
+				"universal": "https://beatmods.com/uploads/642b5d58368d841027494c79/universal/Particle Overdrive-1.12.0.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.12.1",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{

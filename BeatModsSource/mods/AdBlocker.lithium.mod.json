@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990e000505da399146efc3/universal/AdBlocker-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/642b5d41368d841027494c31/universal/AdBlocker-1.0.4.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

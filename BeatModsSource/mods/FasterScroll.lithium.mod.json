@@ -1,19 +1,19 @@
 {
 	"name": "FasterScroll",
-	"author": "Aryetis",
+	"author": "Bloodcloak",
 	"description": "Increase SongList scrolling's speed to your own taste, change its acceleration curve, tweak its rumble effects",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.9",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63c720436abe7b160765d99a/universal/FasterScroll-1.0.9.zip"
+				"universal": "https://beatmods.com/uploads/642b5d6c368d841027494ccd/universal/FasterScroll-1.0.9.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

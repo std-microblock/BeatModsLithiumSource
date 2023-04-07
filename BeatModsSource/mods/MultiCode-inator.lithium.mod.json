@@ -1,16 +1,21 @@
 {
 	"name": "MultiCode-inator",
-	"author": "Sirspam",
+	"author": "Bloodcloak",
 	"description": "Beat Saber mod which adds on screen text and a stream command for your multiplayer lobby code",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/640cfe00c84f1b6698394e67/universal/MultiCode-inator-1.2.1.zip"
+				"universal": "https://beatmods.com/uploads/642b5d60368d841027494c91/universal/MultiCode-inator-1.2.1.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.2",
@@ -20,11 +25,6 @@
 					"id": "CatCore",
 					"version": "1.0.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

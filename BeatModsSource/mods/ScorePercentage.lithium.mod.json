@@ -7,9 +7,9 @@
 		{
 			"version": "1.4.12",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e82fdb14f39fb57fbfe/universal/ScorePercentage-1.4.12.zip"
+				"universal": "https://beatmods.com/uploads/6426502e368d841027494b78/universal/ScorePercentage-1.4.12.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

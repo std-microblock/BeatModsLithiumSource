@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e9cfdb14f39fb57fc40/universal/Link-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/6426503c368d841027494b81/universal/Link-1.0.3.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -17,14 +17,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
-					"id": "SongDetailsCache",
-					"version": "1.2.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
-				},
-				{
 					"id": "CatCore",
 					"version": "1.0.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
+				},
+				{
+					"id": "SongDetailsCache",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

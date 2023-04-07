@@ -11,6 +11,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 		},
 		{
+			"name": "Camera2",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Camera2.lithium.mod.json"
+		},
+		{
 			"name": "ModelDownloader",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ModelDownloader.lithium.mod.json"
 		},
@@ -33,10 +37,6 @@
 		{
 			"name": "MorePlaylists",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MorePlaylists.lithium.mod.json"
-		},
-		{
-			"name": "Camera2",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Camera2.lithium.mod.json"
 		},
 		{
 			"name": "PlaylistManager",
@@ -67,6 +67,18 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
 		},
 		{
+			"name": "AdBlocker",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AdBlocker.lithium.mod.json"
+		},
+		{
+			"name": "Particle Overdrive",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Particle Overdrive.lithium.mod.json"
+		},
+		{
+			"name": "Nya",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nya.lithium.mod.json"
+		},
+		{
 			"name": "Greetings",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Greetings.lithium.mod.json"
 		},
@@ -77,10 +89,6 @@
 		{
 			"name": "Saber Factory",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Saber Factory.lithium.mod.json"
-		},
-		{
-			"name": "Nya",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nya.lithium.mod.json"
 		},
 		{
 			"name": "MenuPillars",
@@ -99,10 +107,6 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Platforms.lithium.mod.json"
 		},
 		{
-			"name": "Particle Overdrive",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Particle Overdrive.lithium.mod.json"
-		},
-		{
 			"name": "MenuSaberColors",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MenuSaberColors.lithium.mod.json"
 		},
@@ -113,10 +117,6 @@
 		{
 			"name": "HighlightBombs",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HighlightBombs.lithium.mod.json"
-		},
-		{
-			"name": "AdBlocker",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AdBlocker.lithium.mod.json"
 		},
 		{
 			"name": "Custom Walls",
@@ -283,6 +283,14 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaber.lithium.mod.json"
 		},
 		{
+			"name": "SongDetailsCache",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaberMarkupLanguage",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+		},
+		{
 			"name": "CameraUtils",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraUtils.lithium.mod.json"
 		},
@@ -305,10 +313,6 @@
 		{
 			"name": "BS Utils",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-		},
-		{
-			"name": "BeatSaberMarkupLanguage",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 		},
 		{
 			"name": "CatCore",
@@ -337,10 +341,6 @@
 		{
 			"name": "LookupID",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LookupID.lithium.mod.json"
-		},
-		{
-			"name": "SongDetailsCache",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
 		},
 		{
 			"name": "ImageSharp",
@@ -787,16 +787,28 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"
 		},
 		{
+			"name": "DrinkWater",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DrinkWater.lithium.mod.json"
+		},
+		{
+			"name": "ScorePercentage",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScorePercentage.lithium.mod.json"
+		},
+		{
+			"name": "FasterScroll",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FasterScroll.lithium.mod.json"
+		},
+		{
+			"name": "BetterSongList",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongList.lithium.mod.json"
+		},
+		{
 			"name": "SongRankedBadge",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongRankedBadge.lithium.mod.json"
 		},
 		{
 			"name": "SongChartVisualizer",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongChartVisualizer.lithium.mod.json"
-		},
-		{
-			"name": "DrinkWater",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DrinkWater.lithium.mod.json"
 		},
 		{
 			"name": "Small Menu",
@@ -811,16 +823,8 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SearchFixes.lithium.mod.json"
 		},
 		{
-			"name": "ScorePercentage",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScorePercentage.lithium.mod.json"
-		},
-		{
 			"name": "Counters+",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Counters+.lithium.mod.json"
-		},
-		{
-			"name": "FasterScroll",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FasterScroll.lithium.mod.json"
 		},
 		{
 			"name": "SongBrowser",
@@ -833,10 +837,6 @@
 		{
 			"name": "PerformanceMeter",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PerformanceMeter.lithium.mod.json"
-		},
-		{
-			"name": "BetterSongList",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongList.lithium.mod.json"
 		},
 		{
 			"name": "BetterSort.LastPlayed",
