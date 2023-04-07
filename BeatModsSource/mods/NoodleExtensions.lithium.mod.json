@@ -7,24 +7,14 @@
 		{
 			"version": "1.5.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6419a086f5c9083c377ef26a/universal/NoodleExtensions-1.5.8.zip"
+				"universal": "https://beatmods.com/uploads/642f22a3368d841027494d93/universal/NoodleExtensions-1.5.8.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
-					"id": "SiraUtil",
-					"version": "3.1.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "CustomJSONData",
-					"version": "2.4.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
-				},
-				{
-					"id": "SongCore",
-					"version": "3.10.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+					"id": "_Heck",
+					"version": "1.4.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -32,9 +22,19 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
-					"id": "_Heck",
-					"version": "1.4.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.10.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "CustomJSONData",
+					"version": "2.4.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
 				}
 			]
 		},

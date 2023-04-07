@@ -7,9 +7,9 @@
 		{
 			"version": "2.4.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fea368fdb14f39fb57fccd/universal/CustomJSONData-2.4.7.zip"
+				"universal": "https://beatmods.com/uploads/642f225e368d841027494d8a/universal/CustomJSONData-2.4.7.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
