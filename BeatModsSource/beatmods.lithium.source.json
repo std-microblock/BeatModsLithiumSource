@@ -11,6 +11,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 		},
 		{
+			"name": "BeatSaverUpdater",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverUpdater.lithium.mod.json"
+		},
+		{
 			"name": "Camera2",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Camera2.lithium.mod.json"
 		},
@@ -25,10 +29,6 @@
 		{
 			"name": "BeatSaverVoting",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverVoting.lithium.mod.json"
-		},
-		{
-			"name": "BeatSaverUpdater",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverUpdater.lithium.mod.json"
 		},
 		{
 			"name": "BeatSaverDownloader",
@@ -619,16 +619,20 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "EasyOffset",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EasyOffset.lithium.mod.json"
+		},
+		{
+			"name": "BetterSongSearch",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
+		},
+		{
 			"name": "HitsoundTweaks",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HitsoundTweaks.lithium.mod.json"
 		},
 		{
 			"name": "DataPuller",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DataPuller.lithium.mod.json"
-		},
-		{
-			"name": "BetterSongSearch",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
 		},
 		{
 			"name": "BeatSaviorData",
@@ -677,10 +681,6 @@
 		{
 			"name": "Tweaks55",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Tweaks55.lithium.mod.json"
-		},
-		{
-			"name": "EasyOffset",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EasyOffset.lithium.mod.json"
 		},
 		{
 			"name": "SaberHaptics",

@@ -1,19 +1,19 @@
 {
 	"name": "EasyOffset",
-	"author": "Reezonate",
+	"author": "Bloodcloak",
 	"description": "Controller offset adjustment tool. Includes swing benchmark for config and grip analysis",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6378a5d64aaa530242e16366/universal/EasyOffset-2.1.1.zip"
+				"universal": "https://beatmods.com/uploads/642b5d65368d841027494cb8/universal/EasyOffset-2.1.1.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
