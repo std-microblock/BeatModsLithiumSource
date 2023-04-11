@@ -1,24 +1,24 @@
 {
 	"name": "Custom Walls",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "A plugin for custom walls in Beat Saber",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.6.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3860c5c87297d5dabb2/universal/Custom Walls-1.6.0.zip"
+				"universal": "https://beatmods.com/uploads/642b5d54368d841027494c70/universal/Custom Walls-1.6.0.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.12.0",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
