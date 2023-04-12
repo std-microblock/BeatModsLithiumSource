@@ -1,25 +1,64 @@
 {
 	"name": "Cinema",
-	"author": "Bloodcloak",
+	"author": "Dakari",
 	"description": "Add music videos to the background of your maps",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.7.3",
+			"version": "1.7.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d70368d841027494ce2/universal/Cinema-1.7.3.zip"
+				"universal": "https://beatmods.com/uploads/6435f0ac68d6d172687995a5/universal/Cinema-1.7.4.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "3.10.1",
+					"version": "3.10.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "yt-dlp",
+					"version": "2023.2.17",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "FFmpeg",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FFmpeg.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.12.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.7.3",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/640fbef2c84f1b6698394e8f/universal/Cinema-1.7.3.zip"
+			},
+			"requiredGameVersion": "~1.28.0",
+			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.10.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

@@ -5,6 +5,30 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.1.6",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/64302b4d368d841027494dc5/universal/ModelDownloader-1.1.6.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.1.4",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/640a41effdb14f39fb57feb3/universal/ModelDownloader-1.1.4.zip"

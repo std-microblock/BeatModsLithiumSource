@@ -11,16 +11,20 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 		},
 		{
+			"name": "MorePlaylists",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MorePlaylists.lithium.mod.json"
+		},
+		{
+			"name": "ModelDownloader",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ModelDownloader.lithium.mod.json"
+		},
+		{
 			"name": "BeatSaverUpdater",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverUpdater.lithium.mod.json"
 		},
 		{
 			"name": "Camera2",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Camera2.lithium.mod.json"
-		},
-		{
-			"name": "ModelDownloader",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ModelDownloader.lithium.mod.json"
 		},
 		{
 			"name": "WhyIsThereNoLeaderboard",
@@ -33,10 +37,6 @@
 		{
 			"name": "BeatSaverDownloader",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverDownloader.lithium.mod.json"
-		},
-		{
-			"name": "MorePlaylists",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MorePlaylists.lithium.mod.json"
 		},
 		{
 			"name": "PlaylistManager",
@@ -67,16 +67,24 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
 		},
 		{
+			"name": "Cinema",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Cinema.lithium.mod.json"
+		},
+		{
+			"name": "ImageFactory",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageFactory.lithium.mod.json"
+		},
+		{
+			"name": "Custom Avatars",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Avatars.lithium.mod.json"
+		},
+		{
 			"name": "No Auto-Exposure",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/No Auto-Exposure.lithium.mod.json"
 		},
 		{
 			"name": "MenuSaberColors",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MenuSaberColors.lithium.mod.json"
-		},
-		{
-			"name": "Cinema",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Cinema.lithium.mod.json"
 		},
 		{
 			"name": "MenuPillars",
@@ -115,20 +123,12 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Saber Factory.lithium.mod.json"
 		},
 		{
-			"name": "Custom Avatars",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Avatars.lithium.mod.json"
-		},
-		{
 			"name": "AudioLink",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AudioLink.lithium.mod.json"
 		},
 		{
 			"name": "HighlightBombs",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HighlightBombs.lithium.mod.json"
-		},
-		{
-			"name": "ImageFactory",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageFactory.lithium.mod.json"
 		},
 		{
 			"name": "BeatSaberPresence",
@@ -527,16 +527,20 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardInSong.lithium.mod.json"
 		},
 		{
+			"name": "Intro Skip",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Intro Skip.lithium.mod.json"
+		},
+		{
+			"name": "PBOT",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PBOT.lithium.mod.json"
+		},
+		{
 			"name": "I Forgor",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/I Forgor.lithium.mod.json"
 		},
 		{
 			"name": "PracticePlugin",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PracticePlugin.lithium.mod.json"
-		},
-		{
-			"name": "Intro Skip",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Intro Skip.lithium.mod.json"
 		},
 		{
 			"name": "YUR Fit Calorie Tracker",

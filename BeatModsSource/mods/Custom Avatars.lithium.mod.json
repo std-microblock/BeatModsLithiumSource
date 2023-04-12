@@ -5,6 +5,35 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "5.3.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/642b5a93368d841027494bfe/universal/Custom Avatars-5.3.2.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "DynamicOpenVR",
+					"version": "0.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DynamicOpenVR.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "5.3.1",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/6404bb88fdb14f39fb57fdc6/universal/Custom Avatars-5.3.1.zip"
