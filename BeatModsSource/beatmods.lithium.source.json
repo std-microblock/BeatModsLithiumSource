@@ -791,6 +791,14 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"
 		},
 		{
+			"name": "SongPlayHistory",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistory.lithium.mod.json"
+		},
+		{
+			"name": "SongRankedBadge",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongRankedBadge.lithium.mod.json"
+		},
+		{
 			"name": "SongBrowser",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongBrowser.lithium.mod.json"
 		},
@@ -817,10 +825,6 @@
 		{
 			"name": "BetterSongList",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongList.lithium.mod.json"
-		},
-		{
-			"name": "SongRankedBadge",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongRankedBadge.lithium.mod.json"
 		},
 		{
 			"name": "SongChartVisualizer",
@@ -865,10 +869,6 @@
 		{
 			"name": "NoMissText",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NoMissText.lithium.mod.json"
-		},
-		{
-			"name": "SongPlayHistory",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistory.lithium.mod.json"
 		},
 		{
 			"name": "Level Pack Panel Mover",
