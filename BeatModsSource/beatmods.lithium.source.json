@@ -619,6 +619,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "SoundReplacer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SoundReplacer.lithium.mod.json"
+		},
+		{
 			"name": "BeatSaviorData",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaviorData.lithium.mod.json"
 		},
@@ -657,10 +661,6 @@
 		{
 			"name": "OverrideEnvironmentFix",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/OverrideEnvironmentFix.lithium.mod.json"
-		},
-		{
-			"name": "SoundReplacer",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SoundReplacer.lithium.mod.json"
 		},
 		{
 			"name": "AutoPauseStealth",

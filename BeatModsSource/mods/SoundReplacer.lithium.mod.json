@@ -7,13 +7,13 @@
 		{
 			"version": "0.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e9cfdb14f39fb57fc4c/universal/SoundReplacer-0.0.6.zip"
+				"universal": "https://beatmods.com/uploads/642b5d62368d841027494cac/universal/SoundReplacer-0.0.6.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
