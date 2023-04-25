@@ -1,9 +1,28 @@
 {
 	"name": "MenuSaberColors",
 	"author": "Exomanz",
-	"description": "Makes your menu pointers the same colors as your in-game sabers",
+	"description": "Allows your menu pointers to follow your selected color scheme!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.0.8",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/644567875d8cf14fb67916cd/universal/MenuSaberColors-1.0.8.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.0.5",
 			"downloads": {
