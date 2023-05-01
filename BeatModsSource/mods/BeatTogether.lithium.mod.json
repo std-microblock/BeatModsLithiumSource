@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.1.1",
+			"version": "2.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6439e6fb5d8cf14fb6791686/universal/BeatTogether-2.1.1.zip"
+				"universal": "https://beatmods.com/uploads/644e947fb0c58c0150e5fff6/universal/BeatTogether-2.1.2.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
