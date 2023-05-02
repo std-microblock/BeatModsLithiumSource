@@ -1,9 +1,43 @@
 {
 	"name": "ServerBrowser",
-	"author": "Bloodcloak",
+	"author": "LookAtHippo",
 	"description": "Adds a Server Browser to the Online menu, making it easy to share and join multiplayer games.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/644d7523b0c58c0150e5ffdc/universal/ServerBrowser-1.2.0.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "MultiplayerCore",
+					"version": "1.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.10.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.1.0",
 			"downloads": {
