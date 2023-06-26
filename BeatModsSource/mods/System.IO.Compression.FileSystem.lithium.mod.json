@@ -1,0 +1,22 @@
+{
+	"name": "System.IO.Compression.FileSystem",
+	"author": "Bloodcloak",
+	"description": "Provides classes that support the compression and decompression of streams using file system paths.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "4.7.3056",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/648937a3d49b19506b03e0e5/universal/System.IO.Compression.FileSystem-4.7.3056.zip"
+			},
+			"requiredGameVersion": "~1.30.2",
+			"dependencies": [
+				{
+					"id": "System.IO.Compression",
+					"version": "4.6.57",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
+				}
+			]
+		}
+	]
+}
