@@ -291,6 +291,18 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatLeader.lithium.mod.json"
 		},
 		{
+			"name": "yt-dlp",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaberMarkupLanguage",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+		},
+		{
+			"name": "BS Utils",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+		},
+		{
 			"name": "SongDetailsCache",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
 		},
@@ -311,14 +323,6 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 		},
 		{
-			"name": "BeatSaberMarkupLanguage",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-		},
-		{
-			"name": "BS Utils",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-		},
-		{
 			"name": "LeaderboardCore",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardCore.lithium.mod.json"
 		},
@@ -337,10 +341,6 @@
 		{
 			"name": "CatCore",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
-		},
-		{
-			"name": "yt-dlp",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
 		},
 		{
 			"name": "BeatSaverSharp",
