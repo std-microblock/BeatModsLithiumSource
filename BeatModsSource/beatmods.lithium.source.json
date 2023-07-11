@@ -67,8 +67,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
 		},
 		{
+			"name": "Cinema",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Cinema.lithium.mod.json"
+		},
+		{
 			"name": "Greetings",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Greetings.lithium.mod.json"
+		},
+		{
+			"name": "Nya",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nya.lithium.mod.json"
 		},
 		{
 			"name": "CustomBanners",
@@ -81,10 +89,6 @@
 		{
 			"name": "Saber Factory",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Saber Factory.lithium.mod.json"
-		},
-		{
-			"name": "Cinema",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Cinema.lithium.mod.json"
 		},
 		{
 			"name": "ImageFactory",
@@ -121,10 +125,6 @@
 		{
 			"name": "Particle Overdrive",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Particle Overdrive.lithium.mod.json"
-		},
-		{
-			"name": "Nya",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Nya.lithium.mod.json"
 		},
 		{
 			"name": "AudioLink",
