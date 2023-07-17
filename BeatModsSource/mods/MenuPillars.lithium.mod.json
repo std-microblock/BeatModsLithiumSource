@@ -1,9 +1,33 @@
 {
 	"name": "MenuPillars",
-	"author": "Bloodcloak",
-	"description": "Beat Saber mod that brings back the pillars from the 1.13.2 menu environment and adds customisable lights to them",
+	"author": "Sirspam",
+	"description": "A Beat Saber mod that brings back the pillars from the 1.13.2 menu environment and adds customisable lights to them",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "0.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/64b1276cae38452e0c76ec2b/universal/MenuPillars-0.1.0.zip"
+			},
+			"requiredGameVersion": "~1.31.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.7.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "0.0.3",
 			"downloads": {
