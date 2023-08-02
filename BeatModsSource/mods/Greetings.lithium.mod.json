@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.4.1",
+			"version": "0.5.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64ac3264ae38452e0c76ebd6/universal/Greetings-0.4.1.zip"
+				"universal": "https://beatmods.com/uploads/64c7e63432846c29a72bd033/universal/Greetings-0.5.0.zip"
 			},
 			"requiredGameVersion": "~1.31.0",
 			"dependencies": [

@@ -5,6 +5,20 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/64c97eb132846c29a72bd046/universal/SongDetailsCache-1.2.2.zip"
+			},
+			"requiredGameVersion": "~1.31.0",
+			"dependencies": [
+				{
+					"id": "protobuf-net",
+					"version": "3.0.102",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.2.1",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/649b0ec0d49b19506b03e26c/universal/SongDetailsCache-1.2.1.zip"
