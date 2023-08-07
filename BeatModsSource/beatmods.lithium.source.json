@@ -631,16 +631,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "BetterSongSearch",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
+		},
+		{
 			"name": "Tweaks55",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Tweaks55.lithium.mod.json"
 		},
 		{
 			"name": "PrioritySetter",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PrioritySetter.lithium.mod.json"
-		},
-		{
-			"name": "BetterSongSearch",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
 		},
 		{
 			"name": "HitsoundTweaks",
