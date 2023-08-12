@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.7.9",
+			"version": "2.7.10",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64b6d2ef32846c29a72bcfab/universal/Chroma-2.7.9.zip"
+				"universal": "https://beatmods.com/uploads/64cb4ab932846c29a72bd072/universal/Chroma-2.7.10.zip"
 			},
 			"requiredGameVersion": "~1.31.0",
 			"dependencies": [
@@ -15,11 +15,6 @@
 					"id": "_Heck",
 					"version": "1.4.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
-				},
-				{
-					"id": "CustomJSONData",
-					"version": "2.5.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -30,6 +25,11 @@
 					"id": "SiraUtil",
 					"version": "3.1.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "CustomJSONData",
+					"version": "2.5.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
 				},
 				{
 					"id": "LookupID",

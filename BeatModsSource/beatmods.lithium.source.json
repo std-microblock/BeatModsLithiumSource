@@ -291,12 +291,12 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatLeader.lithium.mod.json"
 		},
 		{
-			"name": "SongDetailsCache",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
-		},
-		{
 			"name": "CustomJSONData",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
+		},
+		{
+			"name": "SongDetailsCache",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
 		},
 		{
 			"name": "BS Utils",
@@ -811,6 +811,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"
 		},
 		{
+			"name": "UITweaks",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
+		},
+		{
 			"name": "PerformanceMeter",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PerformanceMeter.lithium.mod.json"
 		},
@@ -837,10 +841,6 @@
 		{
 			"name": "SongBrowser",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongBrowser.lithium.mod.json"
-		},
-		{
-			"name": "UITweaks",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
 		},
 		{
 			"name": "SearchFixes",
