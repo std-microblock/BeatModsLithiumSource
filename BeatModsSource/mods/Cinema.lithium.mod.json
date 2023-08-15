@@ -61,11 +61,6 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
-					"id": "yt-dlp",
-					"version": "2023.2.17",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.10",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
@@ -74,6 +69,11 @@
 					"id": "FFmpeg",
 					"version": "4.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FFmpeg.lithium.mod.json"
+				},
+				{
+					"id": "yt-dlp",
+					"version": "2023.2.17",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/yt-dlp.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
