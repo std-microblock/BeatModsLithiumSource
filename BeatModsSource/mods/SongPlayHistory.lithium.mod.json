@@ -1,13 +1,13 @@
 {
 	"name": "SongPlayHistory",
 	"author": "qe201020335",
-	"description": "A local score tracker with a simple in-game UI.",
+	"description": "A local scores and votes tracker with a simple in-game UI.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.6.7",
+			"version": "2.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/643730535d8cf14fb6791659/universal/SongPlayHistory-1.6.7.zip"
+				"universal": "https://beatmods.com/uploads/64b491c532846c29a72bcf84/universal/SongPlayHistory-2.0.1.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [

@@ -631,16 +631,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "PrioritySetter",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PrioritySetter.lithium.mod.json"
+		},
+		{
 			"name": "BetterSongSearch",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
 		},
 		{
 			"name": "Tweaks55",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Tweaks55.lithium.mod.json"
-		},
-		{
-			"name": "PrioritySetter",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PrioritySetter.lithium.mod.json"
 		},
 		{
 			"name": "HitsoundTweaks",
@@ -811,6 +811,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"
 		},
 		{
+			"name": "SongPlayHistory",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistory.lithium.mod.json"
+		},
+		{
 			"name": "UITweaks",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
 		},
@@ -829,10 +833,6 @@
 		{
 			"name": "Counters+",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Counters+.lithium.mod.json"
-		},
-		{
-			"name": "SongPlayHistory",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistory.lithium.mod.json"
 		},
 		{
 			"name": "SongRankedBadge",
