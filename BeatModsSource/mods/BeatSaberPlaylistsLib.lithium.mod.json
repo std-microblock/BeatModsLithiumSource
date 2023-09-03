@@ -1,9 +1,38 @@
 {
 	"name": "BeatSaberPlaylistsLib",
-	"author": "PixelBoom",
+	"author": "Meivyn",
 	"description": "A library for reading and writing Beat Saber playlists. Does not do anything by itself.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.6.7",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/64f233de32846c29a72bd18b/universal/BeatSaberPlaylistsLib-1.6.7.zip"
+			},
+			"requiredGameVersion": "~1.31.0",
+			"dependencies": [
+				{
+					"id": "ImageSharp",
+					"version": "2.0.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageSharp.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.10.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "System.IO.Compression",
+					"version": "4.6.57",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.6.6",
 			"downloads": {
