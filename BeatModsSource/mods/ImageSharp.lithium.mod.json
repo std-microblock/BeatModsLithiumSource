@@ -1,15 +1,15 @@
 {
 	"name": "ImageSharp",
-	"author": "Meivyn",
+	"author": "Bloodcloak",
 	"description": "A modern, cross-platform, 2D Graphics library for .NET",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64f2338b32846c29a72bd188/universal/ImageSharp-2.0.0.zip"
+				"universal": "https://beatmods.com/uploads/64f604789374367c46c8c5ae/universal/ImageSharp-2.0.0.zip"
 			},
-			"requiredGameVersion": "~1.31.0",
+			"requiredGameVersion": "~1.31.1",
 			"dependencies": [
 				{
 					"id": "System.IO.Compression",

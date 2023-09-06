@@ -1,15 +1,15 @@
 {
 	"name": "DebrisTweaks",
-	"author": "Nuggo",
+	"author": "Bloodcloak",
 	"description": "Plugin that allows simple customisation of Debris.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64aad0e4ae38452e0c76ebbf/universal/DebrisTweaks-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/64f604809374367c46c8c5e7/universal/DebrisTweaks-1.1.2.zip"
 			},
-			"requiredGameVersion": "~1.31.0",
+			"requiredGameVersion": "~1.31.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
