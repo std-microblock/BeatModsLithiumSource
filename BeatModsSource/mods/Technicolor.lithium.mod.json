@@ -5,6 +5,40 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.0.14",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/64e454a932846c29a72bd135/universal/Technicolor-1.0.14.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "Chroma",
+					"version": "2.7.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Chroma.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "_Heck",
+					"version": "1.4.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.0.12",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/64ad4c83ae38452e0c76ebfe/universal/Technicolor-1.0.12.zip"

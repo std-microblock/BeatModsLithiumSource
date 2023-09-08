@@ -1,9 +1,38 @@
 {
 	"name": "PlayFirst(SubmitLater)",
-	"author": "Bloodcloak",
+	"author": "zephyr",
 	"description": "Decide score submission in pause menu and the end of a map, prevent submission of failed NF scores, based on song duration, or disable all scores.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "2.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/64e2416932846c29a72bd0ff/universal/PlayFirst_SubmitLater_-2.1.0.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.12.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "2.1.1",
 			"downloads": {
@@ -36,18 +65,18 @@
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d62368d841027494cb2/universal/PlayFirst_SubmitLater_-1.1.0.zip"
+				"universal": "https://beatmods.com/uploads/63fe8ea0fdb14f39fb57fc5e/universal/PlayFirst_SubmitLater_-1.1.0.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.9",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.12.2",
+					"version": "1.12.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
