@@ -1,15 +1,15 @@
 {
 	"name": "SongDetailsCache",
-	"author": "Bloodcloak",
+	"author": "Kinsi55",
 	"description": "A library which provides access to the ScoreSaber and BeatSaver information of all Songs using a cached local database",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64f6047b9374367c46c8c5b7/universal/SongDetailsCache-1.2.2.zip"
+				"universal": "https://beatmods.com/uploads/650614b6a625381ed585f3b9/universal/SongDetailsCache-1.2.2.zip"
 			},
-			"requiredGameVersion": "~1.31.1",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "protobuf-net",
