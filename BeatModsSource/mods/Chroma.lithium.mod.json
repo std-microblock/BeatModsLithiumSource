@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.7.11",
+			"version": "2.7.12",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64e454a632846c29a72bd132/universal/Chroma-2.7.11.zip"
+				"universal": "https://beatmods.com/uploads/650155c5a625381ed585f39a/universal/Chroma-2.7.12.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [

@@ -1,19 +1,57 @@
 {
 	"name": "Camera2",
-	"author": "Bloodcloak",
+	"author": "Kinsi55",
 	"description": "Adds a lot of options / tools for creating more advanced desktop viewing experiences with multiple camera angles and much more. See the Github link for more details",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.6.100",
+			"version": "0.6.107",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d46368d841027494c52/universal/Camera2-0.6.100.zip"
+				"universal": "https://beatmods.com/uploads/65027c7da625381ed585f3a3/universal/Camera2-0.6.107.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.6.103",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/64fb778e9374367c46c8c6b4/universal/Camera2-0.6.103.zip"
+			},
+			"requiredGameVersion": "~1.31.1",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.7.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.6.100",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/63990e030505da399146efea/universal/Camera2-0.6.100.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

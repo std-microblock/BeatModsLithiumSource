@@ -1,0 +1,22 @@
+{
+	"name": "FixEverything",
+	"author": "ItsKaitlyn03",
+	"description": "General quality-of-life improvements to fix issues I (Kaitlyn) have noticed inside Beat Saber, fixes some \"bugs\".",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/643c5cc85d8cf14fb6791695/universal/FixEverything-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}
