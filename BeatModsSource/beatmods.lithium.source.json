@@ -11,10 +11,6 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 		},
 		{
-			"name": "FixEverything",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FixEverything.lithium.mod.json"
-		},
-		{
 			"name": "Camera2",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Camera2.lithium.mod.json"
 		},
@@ -69,6 +65,10 @@
 		{
 			"name": "SongLoader",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+		},
+		{
+			"name": "FixEverything",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/FixEverything.lithium.mod.json"
 		},
 		{
 			"name": "AudioLink",
