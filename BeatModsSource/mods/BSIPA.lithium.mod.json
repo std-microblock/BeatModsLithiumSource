@@ -93,6 +93,14 @@
 			"dependencies": []
 		},
 		{
+			"version": "4.3.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6552fcb3e1e7ac6806531238/universal/BSIPA-4.3.2.zip"
+			},
+			"requiredGameVersion": "~1.33.0",
+			"dependencies": []
+		},
+		{
 			"version": "3.13.2",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/5d688e6dbe34f5432f209dc4/universal/BSIPA-3.13.2.zip"
