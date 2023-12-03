@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "3.2.14",
+			"version": "3.3.11",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6432a31a68d6d17268799559/universal/ScoreSaber-3.2.14.zip"
+				"universal": "https://beatmods.com/uploads/656b61ace1e7ac680653140a/universal/ScoreSaber-3.3.11.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
