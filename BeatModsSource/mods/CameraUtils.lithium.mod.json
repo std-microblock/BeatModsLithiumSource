@@ -5,6 +5,20 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.0.7",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6565d460e1e7ac68065313c4/universal/CameraUtils-1.0.7.zip"
+			},
+			"requiredGameVersion": "~1.33.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.0.6",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/64993c2bd49b19506b03e247/universal/CameraUtils-1.0.6.zip"
