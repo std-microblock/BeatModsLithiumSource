@@ -5,6 +5,25 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "3.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/656cdcaae1e7ac680653143e/universal/DiscordCore-3.0.3.zip"
+			},
+			"requiredGameVersion": "~1.31.1",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.7.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "3.0.1",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/64c92e1e32846c29a72bd03d/universal/DiscordCore-3.0.1.zip"

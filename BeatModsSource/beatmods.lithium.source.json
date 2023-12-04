@@ -307,6 +307,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hitbloq.lithium.mod.json"
 		},
 		{
+			"name": "DiscordCore",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordCore.lithium.mod.json"
+		},
+		{
 			"name": "CameraUtils",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraUtils.lithium.mod.json"
 		},
@@ -345,10 +349,6 @@
 		{
 			"name": "CustomJSONData",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
-		},
-		{
-			"name": "DiscordCore",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordCore.lithium.mod.json"
 		},
 		{
 			"name": "LeaderboardCore",
