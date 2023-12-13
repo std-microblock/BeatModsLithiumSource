@@ -307,6 +307,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hitbloq.lithium.mod.json"
 		},
 		{
+			"name": "_Heck",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
+		},
+		{
 			"name": "LeaderboardCore",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardCore.lithium.mod.json"
 		},
@@ -317,10 +321,6 @@
 		{
 			"name": "System.IO.Compression.FileSystem",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.FileSystem.lithium.mod.json"
-		},
-		{
-			"name": "_Heck",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
 		},
 		{
 			"name": "BeatSaberPlaylistsLib",

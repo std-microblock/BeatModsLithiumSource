@@ -1,15 +1,15 @@
 {
 	"name": "Chroma",
-	"author": "Aeroluna",
+	"author": "Bloodcloak",
 	"description": "Chroma™ boasts the most power in color customization you've ever seen, allowing mappers to customize blocks, lights, sabers, and barriers into not just one but multiple colors!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.7.17",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65727f93e105b40d53744b70/universal/Chroma-2.7.17.zip"
+				"universal": "https://beatmods.com/uploads/65779ccf5e029208799de54f/universal/Chroma-2.7.17.zip"
 			},
-			"requiredGameVersion": "~1.34.0",
+			"requiredGameVersion": "~1.34.2",
 			"dependencies": [
 				{
 					"id": "_Heck",
@@ -17,24 +17,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
 				},
 				{
-					"id": "CustomJSONData",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
-				},
-				{
-					"id": "LookupID",
-					"version": "1.0.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LookupID.lithium.mod.json"
-				},
-				{
 					"id": "SongCore",
 					"version": "3.12.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.8.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -42,9 +32,19 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
-					"id": "SiraUtil",
-					"version": "3.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "LookupID",
+					"version": "1.0.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LookupID.lithium.mod.json"
+				},
+				{
+					"id": "CustomJSONData",
+					"version": "2.5.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.8.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				}
 			]
 		},
