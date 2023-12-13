@@ -5,6 +5,20 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "0.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/657907dc5e029208799de59e/universal/GottaGoFast-0.2.2.zip"
+			},
+			"requiredGameVersion": "~1.34.2",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "0.2.1",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/6435eb2468d6d1726879959f/universal/GottaGoFast-0.2.1.zip"

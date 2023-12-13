@@ -1,25 +1,59 @@
 {
 	"name": "BetterSongSearch",
-	"author": "Bloodcloak",
+	"author": "Kinsi55",
 	"description": "Search and download songs with a lot of filtering and sorting options and without frustration! Also allows you to create Playlists!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.7.83",
+			"version": "0.7.85",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65779cd05e029208799de555/universal/BetterSongSearch-0.7.83.zip"
+				"universal": "https://beatmods.com/uploads/6579076c5e029208799de598/universal/BetterSongSearch-0.7.85.zip"
 			},
 			"requiredGameVersion": "~1.34.2",
 			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.12.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
 				{
 					"id": "BSIPA",
 					"version": "4.3.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
+					"id": "System.IO.Compression",
+					"version": "4.6.57",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
+				},
+				{
+					"id": "SongDetailsCache",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.8.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.7.83",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/656fb91ee105b40d53744b15/universal/BetterSongSearch-0.7.83.zip"
+			},
+			"requiredGameVersion": "~1.34.0",
+			"dependencies": [
+				{
 					"id": "SongCore",
-					"version": "3.12.0",
+					"version": "3.11.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
 					"id": "System.IO.Compression",
