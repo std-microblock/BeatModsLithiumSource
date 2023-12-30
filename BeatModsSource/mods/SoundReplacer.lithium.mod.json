@@ -1,9 +1,28 @@
 {
 	"name": "SoundReplacer",
-	"author": "Bloodcloak",
+	"author": "Meivyn",
 	"description": "Allows you to change different in-game sounds like hit sounds, menu music, click sounds, etc.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "0.0.7",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/658e39b15e029208799de66d/universal/SoundReplacer-0.0.7.zip"
+			},
+			"requiredGameVersion": "~1.34.2",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.8.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "0.0.6",
 			"downloads": {
