@@ -1,9 +1,23 @@
 {
 	"name": "AdBlocker",
-	"author": "Bloodcloak",
+	"author": "JonnyXDA",
 	"description": "This mod simply removes the promo tile from the main menu",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/65c0c79f5e029208799de8b0/universal/AdBlocker-1.0.5.zip"
+			},
+			"requiredGameVersion": "~1.34.2",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.0.4",
 			"downloads": {
