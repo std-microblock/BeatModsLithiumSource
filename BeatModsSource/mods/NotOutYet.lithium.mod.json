@@ -1,0 +1,27 @@
+{
+	"name": "NotOutYet",
+	"author": "saeraphinx",
+	"description": "Replace all instances of your username with text of your choice. ",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/65d241621b675d1bc852c11e/universal/NotOutYet-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.34.2",
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.13.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

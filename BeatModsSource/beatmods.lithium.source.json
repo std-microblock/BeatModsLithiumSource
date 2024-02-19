@@ -647,6 +647,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TwitchPlus.lithium.mod.json"
 		},
 		{
+			"name": "NotOutYet",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NotOutYet.lithium.mod.json"
+		},
+		{
 			"name": "CustomMissText",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMissText.lithium.mod.json"
 		},
