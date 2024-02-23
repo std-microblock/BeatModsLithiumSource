@@ -515,16 +515,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMultiplayer.lithium.mod.json"
 		},
 		{
+			"name": "bHapticsFunctional",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsFunctional.lithium.mod.json"
+		},
+		{
 			"name": "NullSearchFix",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/NullSearchFix.lithium.mod.json"
 		},
 		{
 			"name": "bHapticsMusical",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsMusical.lithium.mod.json"
-		},
-		{
-			"name": "bHapticsFunctional",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsFunctional.lithium.mod.json"
 		},
 		{
 			"name": "BeatFollower",
