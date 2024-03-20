@@ -5,6 +5,25 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.14.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/65f8cb49dfb5962c5bb29c6f/universal/BS Utils-1.14.0.zip"
+			},
+			"requiredGameVersion": "~1.35.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "Ini Parser",
+					"version": "2.5.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.13.0",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/65519c46e1e7ac6806531216/universal/BS Utils-1.13.0.zip"

@@ -24,6 +24,30 @@
 			]
 		},
 		{
+			"version": "3.13.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/65fa16f7dfb5962c5bb29c85/universal/SongCore-3.13.0.zip"
+			},
+			"requiredGameVersion": "~1.35.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.9.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "3.12.2",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/658f600a5e029208799de67b/universal/SongCore-3.12.2.zip"
