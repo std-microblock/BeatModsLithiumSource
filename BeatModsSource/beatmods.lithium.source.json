@@ -303,6 +303,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hitbloq.lithium.mod.json"
 		},
 		{
+			"name": "CatCore",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
+		},
+		{
 			"name": "ImageSharp",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageSharp.lithium.mod.json"
 		},
@@ -369,10 +373,6 @@
 		{
 			"name": "SongDataCore",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDataCore.lithium.mod.json"
-		},
-		{
-			"name": "CatCore",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
 		},
 		{
 			"name": "bHaptics",
