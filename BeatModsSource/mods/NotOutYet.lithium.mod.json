@@ -1,15 +1,15 @@
 {
 	"name": "NotOutYet",
-	"author": "saeraphinx",
+	"author": "Bloodcloak",
 	"description": "Replace all instances of your username with text of your choice. ",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65d241621b675d1bc852c11e/universal/NotOutYet-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/65ea51cadfb5962c5bb29aa8/universal/NotOutYet-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.34.2",
+			"requiredGameVersion": "~1.35.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
