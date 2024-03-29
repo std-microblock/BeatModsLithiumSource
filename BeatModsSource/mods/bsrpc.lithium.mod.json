@@ -5,6 +5,35 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.1.5",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/65fe4d34dfb5962c5bb29d1c/universal/bsrpc-1.1.5.zip"
+			},
+			"requiredGameVersion": "~1.35.0",
+			"dependencies": [
+				{
+					"id": "DataPuller",
+					"version": "2.1.14",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DataPuller.lithium.mod.json"
+				},
+				{
+					"id": "DiscordCore",
+					"version": "3.0.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordCore.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.9.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.1.4",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/659b5edc5e029208799de71f/universal/bsrpc-1.1.4.zip"

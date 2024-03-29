@@ -1,9 +1,38 @@
 {
 	"name": "PracticePlugin",
-	"author": "Bloodcloak",
+	"author": "denpadokei",
 	"description": "Plugin for Beat Saber to control playback speed",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "7.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/65fc3f6adfb5962c5bb29ce5/universal/PracticePlugin-7.0.4.zip"
+			},
+			"requiredGameVersion": "~1.35.0",
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.13.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.9.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "7.0.3",
 			"downloads": {
