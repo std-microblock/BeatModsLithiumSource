@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.9.1",
+			"version": "1.9.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66040d6cdfb5962c5bb29d55/universal/BeatSaberMarkupLanguage-1.9.1.zip"
+				"universal": "https://beatmods.com/uploads/66074894dfb5962c5bb29d9a/universal/BeatSaberMarkupLanguage-1.9.2.zip"
 			},
 			"requiredGameVersion": "~1.35.0",
 			"dependencies": [
