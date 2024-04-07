@@ -1,0 +1,16 @@
+{
+	"name": "OpenVR API",
+	"author": "nicoco007",
+	"description": "A library for Beat Saber that provides API bindings to communicate with the OpenVR runtime (SteamVR).",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "2.2.3",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/660d5031dfb5962c5bb29de8/universal/OpenVR API-2.2.3.zip"
+			},
+			"requiredGameVersion": "~1.35.0",
+			"dependencies": []
+		}
+	]
+}
