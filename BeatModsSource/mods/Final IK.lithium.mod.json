@@ -1,0 +1,16 @@
+{
+	"name": "Final IK",
+	"author": "nicoco007",
+	"description": "The final Inverse Kinematics solution for Unity.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.9.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6622e1927413b614531080e6/universal/Final IK-1.9.0.zip"
+			},
+			"requiredGameVersion": "~1.36.0",
+			"dependencies": []
+		}
+	]
+}

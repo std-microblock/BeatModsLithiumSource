@@ -1,0 +1,16 @@
+{
+	"name": "Dynamic Bone",
+	"author": "nicoco007",
+	"description": "Applies physics to character's bones or joints.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6622e1ba7413b614531080e9/universal/Dynamic Bone-1.2.0.zip"
+			},
+			"requiredGameVersion": "~1.36.0",
+			"dependencies": []
+		}
+	]
+}
