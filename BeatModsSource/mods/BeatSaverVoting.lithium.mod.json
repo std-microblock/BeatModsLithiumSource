@@ -1,9 +1,38 @@
 {
 	"name": "BeatSaverVoting",
-	"author": "Bloodcloak",
+	"author": "Top_Cat",
 	"description": "A plugin for up/downvoting songs on BeatSaver",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "2.4.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66335f257413b614531081cb/universal/BeatSaverVoting-2.4.4.zip"
+			},
+			"requiredGameVersion": "~1.36.0",
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.14.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.10.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.14.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "2.4.3",
 			"downloads": {
