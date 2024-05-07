@@ -1,15 +1,15 @@
 {
 	"name": "CustomSabersLite",
-	"author": "qqrz997",
+	"author": "Bloodcloak",
 	"description": "A minimal feature Custom Sabers mod.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.8.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/661617527413b61453107ff6/universal/CustomSabersLite-0.8.1.zip"
+				"universal": "https://beatmods.com/uploads/66392132bbcf1c12089d7d2d/universal/CustomSabersLite-0.8.1.zip"
 			},
-			"requiredGameVersion": "~1.36.0",
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
 					"id": "AssetBundleLoadingTools",
@@ -18,12 +18,12 @@
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.7",
+					"version": "3.1.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.10.1",
+					"version": "1.10.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
