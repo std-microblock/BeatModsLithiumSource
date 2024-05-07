@@ -7,9 +7,9 @@
 		{
 			"version": "1.14.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6615cddb7413b61453107f9a/universal/BS Utils-1.14.0.zip"
+				"universal": "https://beatmods.com/uploads/66392116bbcf1c12089d7ce2/universal/BS Utils-1.14.0.zip"
 			},
-			"requiredGameVersion": "~1.36.0",
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
 					"id": "Ini Parser",

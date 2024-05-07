@@ -1,20 +1,20 @@
 {
 	"name": "LocalLeaderboard",
-	"author": "Speecil",
+	"author": "Bloodcloak",
 	"description": "A leaderboard mod which saves all of your scores locally and displays them in a leaderboard with various settings",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.0.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/662901af7413b61453108166/universal/LocalLeaderboard-0.0.7.zip"
+				"universal": "https://beatmods.com/uploads/66392133bbcf1c12089d7d39/universal/LocalLeaderboard-0.0.7.zip"
 			},
-			"requiredGameVersion": "~1.36.0",
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.10.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "LeaderboardCore",
+					"version": "1.6.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardCore.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
@@ -22,9 +22,9 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
-					"id": "LeaderboardCore",
-					"version": "1.6.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LeaderboardCore.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.10.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
