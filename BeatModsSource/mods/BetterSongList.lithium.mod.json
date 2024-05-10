@@ -5,6 +5,35 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "0.4.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/663d924813f96f2caa5fdc95/universal/BetterSongList-0.4.0.zip"
+			},
+			"requiredGameVersion": "~1.36.2",
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.14.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SongDetailsCache",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "0.3.9",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/657907075e029208799de595/universal/BetterSongList-0.3.9.zip"
