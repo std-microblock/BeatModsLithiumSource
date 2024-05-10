@@ -67,16 +67,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
 		},
 		{
+			"name": "CustomSabersLite",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomSabersLite.lithium.mod.json"
+		},
+		{
 			"name": "Particle Overdrive",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Particle Overdrive.lithium.mod.json"
 		},
 		{
 			"name": "AdBlocker",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AdBlocker.lithium.mod.json"
-		},
-		{
-			"name": "CustomSabersLite",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomSabersLite.lithium.mod.json"
 		},
 		{
 			"name": "Custom Notes",
@@ -291,16 +291,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hidden Blocks.lithium.mod.json"
 		},
 		{
+			"name": "BeatLeader",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatLeader.lithium.mod.json"
+		},
+		{
 			"name": "ScoreSaber",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaber.lithium.mod.json"
 		},
 		{
 			"name": "LocalLeaderboard",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LocalLeaderboard.lithium.mod.json"
-		},
-		{
-			"name": "BeatLeader",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatLeader.lithium.mod.json"
 		},
 		{
 			"name": "Hitbloq",
@@ -683,6 +683,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "Tweaks55",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Tweaks55.lithium.mod.json"
+		},
+		{
 			"name": "BetterSongSearch",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
 		},
@@ -709,10 +713,6 @@
 		{
 			"name": "HitsoundTweaks",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HitsoundTweaks.lithium.mod.json"
-		},
-		{
-			"name": "Tweaks55",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Tweaks55.lithium.mod.json"
 		},
 		{
 			"name": "GottaGoFast",
