@@ -5,6 +5,14 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "0.2.3",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/663e409113f96f2caa5fdc9a/universal/GottaGoFast-0.2.3.zip"
+			},
+			"requiredGameVersion": "~1.36.2",
+			"dependencies": []
+		},
+		{
 			"version": "0.2.2",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/657907dc5e029208799de59e/universal/GottaGoFast-0.2.2.zip"
