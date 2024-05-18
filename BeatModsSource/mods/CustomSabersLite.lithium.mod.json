@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.9.1",
+			"version": "0.9.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/663a5ffc13f96f2caa5fdc66/universal/CustomSabersLite-0.9.1.zip"
+				"universal": "https://beatmods.com/uploads/664504e513f96f2caa5fdcd3/universal/CustomSabersLite-0.9.2.zip"
 			},
 			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
