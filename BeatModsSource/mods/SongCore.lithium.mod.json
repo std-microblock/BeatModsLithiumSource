@@ -24,21 +24,21 @@
 			]
 		},
 		{
-			"version": "3.14.2",
+			"version": "3.14.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/663948ee13f96f2caa5fdc17/universal/SongCore-3.14.2.zip"
+				"universal": "https://beatmods.com/uploads/664d00fb13f96f2caa5fdd24/universal/SongCore-3.14.3.zip"
 			},
 			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "SiraUtil",
 					"version": "3.1.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "System.IO.Compression",
