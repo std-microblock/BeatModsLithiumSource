@@ -1,35 +1,35 @@
 {
 	"name": "BeatSaverDownloader",
-	"author": "Top_Cat",
+	"author": "Meivyn",
 	"description": "Enables you to download songs from BeatSaver in-game.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "6.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6640ac2313f96f2caa5fdcb4/universal/BeatSaverDownloader-6.0.6.zip"
+				"universal": "https://beatmods.com/uploads/66623adc79c6a972dcdec4f8/universal/BeatSaverDownloader-6.0.6.zip"
 			},
-			"requiredGameVersion": "~1.36.2",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "3.14.2",
+					"version": "3.14.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "BSIPA",
-					"version": "4.3.3",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
 					"version": "1.14.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaverSharp",
