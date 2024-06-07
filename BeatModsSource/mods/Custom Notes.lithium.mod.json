@@ -1,13 +1,13 @@
 {
 	"name": "Custom Notes",
-	"author": "Meivyn",
+	"author": "qqrz997",
 	"description": "Adds support for custom notes in beat saber. Major contributions by Kyle1413, Pespiri, Auros, and PixelBoom.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.6.4",
+			"version": "2.6.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/665fd50f76771053647bd832/universal/Custom Notes-2.6.4.zip"
+				"universal": "https://beatmods.com/uploads/6662471a79c6a972dcdec4fe/universal/Custom Notes-2.6.5.zip"
 			},
 			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
@@ -40,6 +40,45 @@
 					"id": "SongCore",
 					"version": "3.14.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.6.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66392132bbcf1c12089d7d30/universal/Custom Notes-2.6.4.zip"
+			},
+			"requiredGameVersion": "~1.36.2",
+			"dependencies": [
+				{
+					"id": "AssetBundleLoadingTools",
+					"version": "1.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.14.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.10.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "CameraUtils",
+					"version": "1.0.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraUtils.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				}
 			]
 		},

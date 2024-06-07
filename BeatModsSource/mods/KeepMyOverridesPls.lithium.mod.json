@@ -1,9 +1,28 @@
 {
 	"name": "KeepMyOverridesPls",
-	"author": "Bloodcloak",
+	"author": "qqrz997",
 	"description": "Stops the game from disabling your precious environment and colour scheme overrides.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.1.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/666201be79c6a972dcdec4f5/universal/KeepMyOverridesPls-1.1.1.zip"
+			},
+			"requiredGameVersion": "~1.37.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.0.1",
 			"downloads": {

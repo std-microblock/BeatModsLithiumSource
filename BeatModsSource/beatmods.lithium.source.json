@@ -11,12 +11,12 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 		},
 		{
-			"name": "BeatSaverDownloader",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverDownloader.lithium.mod.json"
-		},
-		{
 			"name": "Camera2",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Camera2.lithium.mod.json"
+		},
+		{
+			"name": "BeatSaverDownloader",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverDownloader.lithium.mod.json"
 		},
 		{
 			"name": "BeatSaverVoting",
@@ -67,16 +67,20 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
 		},
 		{
+			"name": "HighlightBombs",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HighlightBombs.lithium.mod.json"
+		},
+		{
+			"name": "Custom Notes",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Notes.lithium.mod.json"
+		},
+		{
 			"name": "CustomSabersLite",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomSabersLite.lithium.mod.json"
 		},
 		{
 			"name": "Particle Overdrive",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Particle Overdrive.lithium.mod.json"
-		},
-		{
-			"name": "Custom Notes",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Notes.lithium.mod.json"
 		},
 		{
 			"name": "AdBlocker",
@@ -141,10 +145,6 @@
 		{
 			"name": "Custom Platforms",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Platforms.lithium.mod.json"
-		},
-		{
-			"name": "HighlightBombs",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HighlightBombs.lithium.mod.json"
 		},
 		{
 			"name": "BeatSaberPresence",
@@ -683,6 +683,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "KeepMyOverridesPls",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/KeepMyOverridesPls.lithium.mod.json"
+		},
+		{
 			"name": "DataPuller",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DataPuller.lithium.mod.json"
 		},
@@ -701,10 +705,6 @@
 		{
 			"name": "GottaGoFast",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/GottaGoFast.lithium.mod.json"
-		},
-		{
-			"name": "KeepMyOverridesPls",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/KeepMyOverridesPls.lithium.mod.json"
 		},
 		{
 			"name": "AutoPauseStealth",
