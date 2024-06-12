@@ -1,15 +1,15 @@
 {
 	"name": "BetterSort.LastPlayed",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Add last played date sort to BetterSongList.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3dc0c5c87297d5dac60/universal/BetterSort.LastPlayed-2.1.0.zip"
+				"universal": "https://beatmods.com/uploads/63fe8eaefdb14f39fb57fcc1/universal/BetterSort.LastPlayed-2.1.0.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BetterSongList",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.12.0",
+					"version": "1.12.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{

@@ -1,15 +1,15 @@
 {
 	"name": "BetterStaticLights",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Choose which lights you want active when using 'Static Lights'!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3930c5c87297d5dabc4/universal/BetterStaticLights-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e96fdb14f39fb57fc31/universal/BetterStaticLights-1.0.2.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

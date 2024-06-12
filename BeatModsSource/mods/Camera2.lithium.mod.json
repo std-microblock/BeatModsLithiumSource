@@ -102,9 +102,9 @@
 		{
 			"version": "0.6.100",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990e030505da399146efea/universal/Camera2-0.6.100.zip"
+				"universal": "https://beatmods.com/uploads/637bcc3ac202ce0b138acb3f/universal/Camera2-0.6.100.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

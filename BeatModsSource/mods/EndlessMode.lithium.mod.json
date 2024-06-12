@@ -36,9 +36,9 @@
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d5432c26f5e655671e766/universal/EndlessMode-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5d12c07ded00193b6ebbac50/universal/EndlessMode-0.1.0.zip"
 			},
-			"requiredGameVersion": "~1.1.0p1",
+			"requiredGameVersion": "~1.1.0",
 			"dependencies": [
 				{
 					"id": "SongCore",

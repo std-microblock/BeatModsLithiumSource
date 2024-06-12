@@ -1,9 +1,33 @@
 {
 	"name": "HitScoreVisualizer",
-	"author": "Eris",
+	"author": "qqrz997",
 	"description": "Visualizes the scores of your hits! Overly complex config options! Numbers? All the pros use it, except the ones who don't. (But they should.)",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "3.3.8",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6668756779c6a972dcdec55f/universal/HitScoreVisualizer-3.3.8.zip"
+			},
+			"requiredGameVersion": "~1.37.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "3.3.2",
 			"downloads": {
@@ -187,9 +211,9 @@
 		{
 			"version": "2.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d016e827661221f0c4f092b/universal/HitScoreVisualizer-2.2.0.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5a81c26f5e655671e790/universal/HitScoreVisualizer-2.2.0.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "BSIPA",

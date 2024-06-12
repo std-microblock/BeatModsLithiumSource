@@ -7,13 +7,13 @@
 		{
 			"version": "1.11.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/665fc09e76771053647bd7c5/universal/BeatSaberMarkupLanguage-1.11.2.zip"
+				"universal": "https://beatmods.com/uploads/6648b36613f96f2caa5fdd06/universal/BeatSaberMarkupLanguage-1.11.2.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.3.4",
+					"version": "4.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -63,13 +63,13 @@
 		{
 			"version": "1.8.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65522002e1e7ac680653121a/universal/BeatSaberMarkupLanguage-1.8.0.zip"
+				"universal": "https://beatmods.com/uploads/656fb917e105b40d53744ad6/universal/BeatSaberMarkupLanguage-1.8.0.zip"
 			},
-			"requiredGameVersion": "~1.33.0",
+			"requiredGameVersion": "~1.34.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.3.1",
+					"version": "4.3.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -77,9 +77,9 @@
 		{
 			"version": "1.7.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64f6047c9374367c46c8c5c0/universal/BeatSaberMarkupLanguage-1.7.6.zip"
+				"universal": "https://beatmods.com/uploads/64a636fcae38452e0c76eb3d/universal/BeatSaberMarkupLanguage-1.7.6.zip"
 			},
-			"requiredGameVersion": "~1.31.1",
+			"requiredGameVersion": "~1.31.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
@@ -133,9 +133,9 @@
 		{
 			"version": "1.6.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3760c5c87297d5dab82/universal/BeatSaberMarkupLanguage-1.6.8.zip"
+				"universal": "https://beatmods.com/uploads/62f6f2c5fdabde6bb8311493/universal/BeatSaberMarkupLanguage-1.6.8.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

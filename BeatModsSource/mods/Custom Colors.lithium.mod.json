@@ -1,15 +1,15 @@
 {
 	"name": "Custom Colors",
-	"author": "Kyle 1413",
-	"description": "Allows you to customize your colors in Beat Saber\n",
+	"author": "Assistant",
+	"description": "Allows you to customize your colors in Beat Saber ",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.15.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cfe55590a8c00640fb9706f/universal/Custom Colors-1.15.1.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5314c26f5e655671e754/universal/Custom Colors-1.15.1.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "CustomUI",

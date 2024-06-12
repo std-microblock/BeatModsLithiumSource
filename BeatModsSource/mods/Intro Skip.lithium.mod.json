@@ -7,13 +7,13 @@
 		{
 			"version": "4.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d5a368d841027494c88/universal/Intro Skip-4.0.3.zip"
+				"universal": "https://beatmods.com/uploads/63990e130505da399146f01a/universal/Intro Skip-4.0.3.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.9",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
@@ -79,28 +79,28 @@
 		{
 			"version": "3.1.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60f8a781b1ad095176942d84/universal/Intro Skip-3.1.4.zip"
+				"universal": "https://beatmods.com/uploads/60b15b632d008b3daa41e91c/universal/Intro Skip-3.1.4.zip"
 			},
-			"requiredGameVersion": "~1.16.3",
+			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
 				{
 					"id": "BS Utils",
-					"version": "1.11.0",
+					"version": "1.10.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.4",
+					"version": "1.5.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "2.5.6",
+					"version": "2.5.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.0",
+					"version": "4.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -151,9 +151,9 @@
 		{
 			"version": "2.2.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cfe56770a8c00640fb97081/universal/Intro Skip-2.2.4.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5aecc26f5e655671e796/universal/Intro Skip-2.2.4.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "CustomUI",

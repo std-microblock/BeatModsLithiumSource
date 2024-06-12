@@ -141,9 +141,9 @@
 		{
 			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cfe9e80077a503d1075c562/universal/NoteSpawnEffectRemover-1.2.0.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5d4ec26f5e655671e7b4/universal/NoteSpawnEffectRemover-1.2.0.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "CustomUI",

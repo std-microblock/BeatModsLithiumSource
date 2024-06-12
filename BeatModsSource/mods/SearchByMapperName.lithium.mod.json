@@ -7,13 +7,13 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/610079049fc0c8070c0e64d6/universal/SearchByMapperName-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/60b1638c2d008b3daa41e94d/universal/SearchByMapperName-1.0.1.zip"
 			},
-			"requiredGameVersion": "~1.16.3",
+			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.2.0",
+					"version": "4.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
