@@ -7,9 +7,9 @@
 		{
 			"version": "1.6.9",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/656fb91ee105b40d53744b18/universal/PlaylistManager-1.6.9.zip"
+				"universal": "https://beatmods.com/uploads/65779cd15e029208799de558/universal/PlaylistManager-1.6.9.zip"
 			},
-			"requiredGameVersion": "~1.34.0",
+			"requiredGameVersion": "~1.34.2",
 			"dependencies": [
 				{
 					"id": "BeatSaberPlaylistsLib",
@@ -17,14 +17,29 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
 				},
 				{
-					"id": "SongCore",
-					"version": "3.11.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "System.IO.Compression.FileSystem",
 					"version": "4.7.3056",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.FileSystem.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.12.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "System.IO.Compression",
+					"version": "4.6.57",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaverSharp",
@@ -35,21 +50,6 @@
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.8.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "SiraUtil",
-					"version": "3.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "System.IO.Compression",
-					"version": "4.6.57",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
 				}
 			]
 		},
@@ -105,9 +105,9 @@
 		{
 			"version": "1.6.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3d70c5c87297d5dac51/universal/PlaylistManager-1.6.5.zip"
+				"universal": "https://beatmods.com/uploads/63990e300505da399146f0a4/universal/PlaylistManager-1.6.5.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberPlaylistsLib",
@@ -130,14 +130,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverSharp.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "SiraUtil",
 					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				}
 			]
 		},

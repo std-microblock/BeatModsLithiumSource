@@ -211,9 +211,9 @@
 		{
 			"version": "2.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d5a81c26f5e655671e790/universal/HitScoreVisualizer-2.2.0.zip"
+				"universal": "https://beatmods.com/uploads/5d016e827661221f0c4f092b/universal/HitScoreVisualizer-2.2.0.zip"
 			},
-			"requiredGameVersion": "~1.1.0p1",
+			"requiredGameVersion": "~1.1.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

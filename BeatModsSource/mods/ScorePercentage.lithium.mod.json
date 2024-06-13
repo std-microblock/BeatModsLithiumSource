@@ -1,15 +1,15 @@
 {
 	"name": "ScorePercentage",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Adds score percentage, percentage difference and score difference to results screen and score percentage to song info.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.12",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae37c0c5c87297d5dab9a/universal/ScorePercentage-1.4.12.zip"
+				"universal": "https://beatmods.com/uploads/6426502e368d841027494b78/universal/ScorePercentage-1.4.12.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

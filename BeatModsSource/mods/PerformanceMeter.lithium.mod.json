@@ -7,9 +7,9 @@
 		{
 			"version": "1.4.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/656fb91be105b40d53744b03/universal/PerformanceMeter-1.4.2.zip"
+				"universal": "https://beatmods.com/uploads/65ea51d2dfb5962c5bb29ac6/universal/PerformanceMeter-1.4.2.zip"
 			},
-			"requiredGameVersion": "~1.34.0",
+			"requiredGameVersion": "~1.35.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.8.0",
+					"version": "1.8.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
@@ -31,19 +31,19 @@
 		{
 			"version": "1.4.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8ea4fdb14f39fb57fc7c/universal/PerformanceMeter-1.4.1.zip"
+				"universal": "https://beatmods.com/uploads/63990e260505da399146f062/universal/PerformanceMeter-1.4.1.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.12.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.12.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

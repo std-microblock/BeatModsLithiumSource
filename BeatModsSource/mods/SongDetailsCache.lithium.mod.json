@@ -7,9 +7,9 @@
 		{
 			"version": "1.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/665fb1ca76771053647bd7b7/universal/SongDetailsCache-1.2.2.zip"
+				"universal": "https://beatmods.com/uploads/66392116bbcf1c12089d7cdf/universal/SongDetailsCache-1.2.2.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
 					"id": "protobuf-net",
@@ -21,9 +21,9 @@
 		{
 			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e7ffdb14f39fb57fbe3/universal/SongDetailsCache-1.2.1.zip"
+				"universal": "https://beatmods.com/uploads/649b0ec0d49b19506b03e26c/universal/SongDetailsCache-1.2.1.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.30.2",
 			"dependencies": [
 				{
 					"id": "protobuf-net",
@@ -63,9 +63,9 @@
 		{
 			"version": "1.1.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6113dc939fc0c8070c0e666e/universal/SongDetailsCache-1.1.5.zip"
+				"universal": "https://beatmods.com/uploads/612fe70b70a9464db367b791/universal/SongDetailsCache-1.1.5.zip"
 			},
-			"requiredGameVersion": "~1.16.3",
+			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
 				{
 					"id": "protobuf-net",

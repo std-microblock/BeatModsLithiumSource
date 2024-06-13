@@ -197,9 +197,9 @@
 		{
 			"version": "2.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d26a27aed00193b6ebbad33/universal/Song Request Manager-2.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5c12c26f5e655671e79f/universal/Song Request Manager-2.1.0.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "SongCore",

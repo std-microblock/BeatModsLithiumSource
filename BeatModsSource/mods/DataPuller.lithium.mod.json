@@ -1,35 +1,30 @@
 {
 	"name": "DataPuller",
-	"author": "Bloodcloak",
+	"author": "Meivyn",
 	"description": "Gathers data about the current map you are playing to then be sent out over a websocket for other software to use, e.g. A web overlay like BSDP-Overlay. This mod works with multi PC setups!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.1.14",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6615ce197413b61453107fd6/universal/DataPuller-2.1.14.zip"
+				"universal": "https://beatmods.com/uploads/665fd6b176771053647bd856/universal/DataPuller-2.1.14.zip"
 			},
-			"requiredGameVersion": "~1.36.0",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "3.13.0",
+					"version": "3.14.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
-					"id": "SiraUtil",
-					"version": "3.1.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "SongDetailsCache",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.3",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "websocket-sharp",
-					"version": "1.0.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/websocket-sharp.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaverSharp",
@@ -37,9 +32,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverSharp.lithium.mod.json"
 				},
 				{
-					"id": "SongDetailsCache",
-					"version": "1.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "websocket-sharp",
+					"version": "1.0.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/websocket-sharp.lithium.mod.json"
 				}
 			]
 		},
@@ -163,20 +163,10 @@
 		{
 			"version": "2.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3d30c5c87297d5dac48/universal/DataPuller-2.1.0.zip"
+				"universal": "https://beatmods.com/uploads/6344c4c122b0de6fabe1137f/universal/DataPuller-2.1.0.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
-				{
-					"id": "SongCore",
-					"version": "3.9.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
-					"id": "SongDetailsCache",
-					"version": "1.2.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
-				},
 				{
 					"id": "BSIPA",
 					"version": "4.2.2",
@@ -196,6 +186,16 @@
 					"id": "SiraUtil",
 					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "SongDetailsCache",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.9.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				}
 			]
 		},

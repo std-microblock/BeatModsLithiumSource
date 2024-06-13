@@ -98,9 +98,9 @@
 		{
 			"version": "2.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d5c7dc26f5e655671e7a5/universal/Enhanced Stream Chat-2.0.4.zip"
+				"universal": "https://beatmods.com/uploads/5ce4b5afb29eb364ff1e99f0/universal/Enhanced Stream Chat-2.0.4.zip"
 			},
-			"requiredGameVersion": "~1.1.0p1",
+			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
 				{
 					"id": "CustomUI",

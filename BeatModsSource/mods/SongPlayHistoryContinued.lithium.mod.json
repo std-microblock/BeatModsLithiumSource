@@ -7,23 +7,23 @@
 		{
 			"version": "1.6.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/614e7892d012e8328ad318a0/universal/SongPlayHistoryContinued-1.6.1.zip"
+				"universal": "https://beatmods.com/uploads/61c3caa67a2ef528fb65b95c/universal/SongPlayHistoryContinued-1.6.1.zip"
 			},
-			"requiredGameVersion": "~1.18.0",
+			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
 				{
-					"id": "BS Utils",
-					"version": "1.11.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.6",
+					"version": "1.6.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
+					"id": "BS Utils",
+					"version": "1.11.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
 					"id": "BSIPA",
-					"version": "4.2.0",
+					"version": "4.2.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

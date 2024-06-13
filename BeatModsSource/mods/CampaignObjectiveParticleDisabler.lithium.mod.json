@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/612fe5ea70a9464db367b785/universal/CampaignObjectiveParticleDisabler-1.0.5.zip"
+				"universal": "https://beatmods.com/uploads/614e4bfdd012e8328ad3187b/universal/CampaignObjectiveParticleDisabler-1.0.5.zip"
 			},
-			"requiredGameVersion": "~1.17.0",
+			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

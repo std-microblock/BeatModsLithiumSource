@@ -1,15 +1,15 @@
 {
 	"name": "Link",
-	"author": "Assistant",
+	"author": "Bloodcloak",
 	"description": "Adds a !link command to your stream which posts the BeatSaver link to the actively played map in your chat. ",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3a10c5c87297d5dabd3/universal/Link-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/6426503c368d841027494b81/universal/Link-1.0.3.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "CatCore",
-					"version": "1.0.0",
+					"version": "1.0.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CatCore.lithium.mod.json"
 				},
 				{

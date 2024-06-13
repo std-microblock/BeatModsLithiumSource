@@ -1,15 +1,15 @@
 {
 	"name": "GameplayRestrictionsPlus",
-	"author": "Assistant",
+	"author": "Kyle 1413",
 	"description": "Adds various Restrictions you can add to your game, from fail on Imperfect Cut to Crash or Restart on Miss! see UserData/GamePlayRestrictionsPlus.ini for Configuration",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d54d5c26f5e655671e76f/universal/GameplayRestrictionsPlus-1.2.2.zip"
+				"universal": "https://beatmods.com/uploads/5cfe55df0a8c00640fb9707b/universal/GameplayRestrictionsPlus-1.2.2.zip"
 			},
-			"requiredGameVersion": "~1.1.0p1",
+			"requiredGameVersion": "~1.1.0",
 			"dependencies": [
 				{
 					"id": "CustomUI",

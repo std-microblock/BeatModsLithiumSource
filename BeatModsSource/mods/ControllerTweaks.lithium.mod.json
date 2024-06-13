@@ -31,19 +31,19 @@
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61343af170a9464db367b86d/universal/ControllerTweaks-1.1.0.zip"
+				"universal": "https://beatmods.com/uploads/615264a2f1166c468bfa2320/universal/ControllerTweaks-1.1.0.zip"
 			},
-			"requiredGameVersion": "~1.17.0",
+			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "SiraUtil",
 					"version": "2.5.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

@@ -55,9 +55,9 @@
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d01578e7661221f0c4f0925/universal/NoArrowsRandom-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/5d2d549fc26f5e655671e76c/universal/NoArrowsRandom-1.0.3.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "CustomUI",

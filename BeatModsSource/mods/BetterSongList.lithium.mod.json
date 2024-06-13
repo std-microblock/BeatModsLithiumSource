@@ -1,34 +1,34 @@
 {
 	"name": "BetterSongList",
-	"author": "Kinsi55",
+	"author": "Meivyn",
 	"description": "Adds various improvements to the Basegame song list like Filters, a persisted state and much more",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.4.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/663d924813f96f2caa5fdc95/universal/BetterSongList-0.4.0.zip"
+				"universal": "https://beatmods.com/uploads/665fd71376771053647bd868/universal/BetterSongList-0.4.0.zip"
 			},
-			"requiredGameVersion": "~1.36.2",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.14.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
 				{
 					"id": "SongDetailsCache",
 					"version": "1.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
 				},
 				{
-					"id": "SongCore",
-					"version": "3.14.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.0",
+					"version": "1.11.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.3",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -123,18 +123,18 @@
 		{
 			"version": "0.3.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8eacfdb14f39fb57fcac/universal/BetterSongList-0.3.3.zip"
+				"universal": "https://beatmods.com/uploads/642b5d73368d841027494d06/universal/BetterSongList-0.3.3.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "3.9.8",
+					"version": "3.10.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

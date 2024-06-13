@@ -55,18 +55,18 @@
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/612fe83f70a9464db367b79a/universal/ModelDownloader-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/6100785d9fc0c8070c0e64d3/universal/ModelDownloader-1.1.2.zip"
 			},
-			"requiredGameVersion": "~1.17.0",
+			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "2.5.8",
+					"version": "2.5.7",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.5",
+					"version": "1.5.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

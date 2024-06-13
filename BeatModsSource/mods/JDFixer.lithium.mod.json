@@ -31,19 +31,19 @@
 		{
 			"version": "7.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65779cca5e029208799de534/universal/JDFixer-7.1.1.zip"
+				"universal": "https://beatmods.com/uploads/656fb91ae105b40d53744afd/universal/JDFixer-7.1.1.zip"
 			},
-			"requiredGameVersion": "~1.34.2",
+			"requiredGameVersion": "~1.34.0",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.8.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.8.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -79,9 +79,9 @@
 		{
 			"version": "6.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63862eefc202ce0b138acba7/universal/JDFixer-6.0.0.zip"
+				"universal": "https://beatmods.com/uploads/63990e200505da399146f02c/universal/JDFixer-6.0.0.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
@@ -103,19 +103,19 @@
 		{
 			"version": "5.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/623cabde6f151827d5d77ec4/universal/JDFixer-5.0.2.zip"
+				"universal": "https://beatmods.com/uploads/6246ba123f368d47b27e97e6/universal/JDFixer-5.0.2.zip"
 			},
-			"requiredGameVersion": "~1.20.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.0.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
-					"id": "SiraUtil",
-					"version": "3.0.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

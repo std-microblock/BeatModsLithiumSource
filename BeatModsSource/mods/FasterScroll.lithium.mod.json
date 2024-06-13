@@ -7,13 +7,13 @@
 		{
 			"version": "1.0.9",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8ea3fdb14f39fb57fc70/universal/FasterScroll-1.0.9.zip"
+				"universal": "https://beatmods.com/uploads/642b5d6c368d841027494ccd/universal/FasterScroll-1.0.9.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
@@ -26,9 +26,9 @@
 		{
 			"version": "1.0.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6312943122b0de6fabe1123a/universal/FasterScroll-1.0.8.zip"
+				"universal": "https://beatmods.com/uploads/636ae3b40c5c87297d5dac09/universal/FasterScroll-1.0.8.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

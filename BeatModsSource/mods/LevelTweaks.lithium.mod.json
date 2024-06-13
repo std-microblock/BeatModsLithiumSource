@@ -1,25 +1,25 @@
 {
 	"name": "LevelTweaks",
-	"author": "auros",
+	"author": "PixelBoom",
 	"description": "Set custom note offset and note jump speed for levels and save them into profiles.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.3.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61328ae370a9464db367b83a/universal/LevelTweaks-0.3.5.zip"
+				"universal": "https://beatmods.com/uploads/6150fb8df1166c468bfa22ed/universal/LevelTweaks-0.3.5.zip"
 			},
-			"requiredGameVersion": "~1.17.0",
+			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "SiraUtil",
 					"version": "2.5.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

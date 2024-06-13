@@ -1,19 +1,19 @@
 {
 	"name": "CameraUtils",
-	"author": "Bloodcloak",
+	"author": "Meivyn",
 	"description": "Library that standardizes the use of GameObject layers and provides tools for easier rendering pipeline modifications",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65779cb75e029208799de4fe/universal/CameraUtils-1.0.7.zip"
+				"universal": "https://beatmods.com/uploads/665fd4f776771053647bd82f/universal/CameraUtils-1.0.7.zip"
 			},
-			"requiredGameVersion": "~1.34.2",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.3.2",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -21,9 +21,9 @@
 		{
 			"version": "1.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64f6047c9374367c46c8c5bd/universal/CameraUtils-1.0.6.zip"
+				"universal": "https://beatmods.com/uploads/64993c2bd49b19506b03e247/universal/CameraUtils-1.0.6.zip"
 			},
-			"requiredGameVersion": "~1.31.1",
+			"requiredGameVersion": "~1.30.2",
 			"dependencies": [
 				{
 					"id": "BSIPA",
@@ -49,9 +49,9 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/639abd480505da399146f15d/universal/CameraUtils-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e7ffdb14f39fb57fbe0/universal/CameraUtils-1.0.1.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

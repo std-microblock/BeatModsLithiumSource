@@ -1,25 +1,25 @@
 {
 	"name": "YUR Fit Calorie Tracker",
-	"author": "dilan",
+	"author": "Bloodcloak",
 	"description": "Track YUR calories while playing Beat Saber!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.7.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6246f8a13f368d47b27e97ef/universal/YUR Fit Calorie Tracker-2.7.6.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e98fdb14f39fb57fc34/universal/YUR Fit Calorie Tracker-2.7.6.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
-					"id": "BS Utils",
-					"version": "1.12.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "BS Utils",
+					"version": "1.12.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -386,24 +386,24 @@
 		{
 			"version": "0.3.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5ce47dd8b29eb364ff1e99ce/universal/YUR Fit Calorie Tracker-0.3.6.zip"
+				"universal": "https://beatmods.com/uploads/5ca6aa1b317fa3777c3327d6/universal/YUR Fit Calorie Tracker-0.3.6.zip"
 			},
-			"requiredGameVersion": "~1.0.0",
+			"requiredGameVersion": "~0.13.2",
 			"dependencies": [
 				{
+					"id": "BSIPA",
+					"version": "3.12.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
 					"id": "CustomUI",
-					"version": "1.5.8",
+					"version": "1.4.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.3.2",
+					"version": "1.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "3.12.19",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		}

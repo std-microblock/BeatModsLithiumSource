@@ -15,9 +15,9 @@
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d0171427661221f0c4f0938/universal/CustomFailText-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5ca8c26f5e655671e7a8/universal/CustomFailText-1.0.4.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "BSIPA",

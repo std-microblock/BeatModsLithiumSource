@@ -26,24 +26,24 @@
 		{
 			"version": "1.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e0a3f40c7db000caca5a666/universal/Custom Exit-1.2.2.zip"
+				"universal": "https://beatmods.com/uploads/5e17f340e7c24e19d5cc7d58/universal/Custom Exit-1.2.2.zip"
 			},
-			"requiredGameVersion": "~1.6.0",
+			"requiredGameVersion": "~1.6.1",
 			"dependencies": [
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.1.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "BSIPA",
+					"version": "3.13.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.4.0",
+					"version": "1.4.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
-					"id": "BSIPA",
-					"version": "3.13.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				}
 			]
 		}

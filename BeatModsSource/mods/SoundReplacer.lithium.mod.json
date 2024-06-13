@@ -1,24 +1,24 @@
 {
 	"name": "SoundReplacer",
-	"author": "Meivyn",
+	"author": "Bloodcloak",
 	"description": "Allows you to change different in-game sounds like hit sounds, menu music, click sounds, etc.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.0.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/658e39b15e029208799de66d/universal/SoundReplacer-0.0.7.zip"
+				"universal": "https://beatmods.com/uploads/6615cdff7413b61453107fbb/universal/SoundReplacer-0.0.7.zip"
 			},
-			"requiredGameVersion": "~1.34.2",
+			"requiredGameVersion": "~1.36.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.8.1",
+					"version": "1.10.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.2",
+					"version": "4.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -26,18 +26,18 @@
 		{
 			"version": "0.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61e05896e12d6f31e266fb84/universal/SoundReplacer-0.0.6.zip"
+				"universal": "https://beatmods.com/uploads/642b5d62368d841027494cac/universal/SoundReplacer-0.0.6.zip"
 			},
-			"requiredGameVersion": "~1.19.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.1",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.1",
+					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

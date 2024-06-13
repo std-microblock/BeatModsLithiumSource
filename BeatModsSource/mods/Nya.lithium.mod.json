@@ -1,25 +1,25 @@
 {
 	"name": "Nya",
-	"author": "Sirspam",
+	"author": "Bloodcloak",
 	"description": "A BeatSaber mod for displaying nya-tastic images from various web APIs",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.7.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64ac33a6ae38452e0c76ebd9/universal/Nya-0.7.1.zip"
+				"universal": "https://beatmods.com/uploads/64f6047f9374367c46c8c5d2/universal/Nya-0.7.1.zip"
 			},
-			"requiredGameVersion": "~1.31.0",
+			"requiredGameVersion": "~1.31.1",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.7.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.7.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -31,13 +31,13 @@
 		{
 			"version": "0.6.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63e8f37f954cff3a17848473/universal/Nya-0.6.2.zip"
+				"universal": "https://beatmods.com/uploads/642b5d51368d841027494c64/universal/Nya-0.6.2.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

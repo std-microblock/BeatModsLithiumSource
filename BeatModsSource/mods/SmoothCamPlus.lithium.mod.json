@@ -7,19 +7,19 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e9cfdb14f39fb57fc49/universal/SmoothCamPlus-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/63990e220505da399146f03e/universal/SmoothCamPlus-1.0.1.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

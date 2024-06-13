@@ -1,29 +1,29 @@
 {
 	"name": "Custom Walls",
-	"author": "Pespiri",
+	"author": "Bloodcloak",
 	"description": "A plugin for custom walls in Beat Saber",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.6.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61d1ceb4e12d6f31e266fa10/universal/Custom Walls-1.6.0.zip"
+				"universal": "https://beatmods.com/uploads/642b5d54368d841027494c70/universal/Custom Walls-1.6.0.zip"
 			},
-			"requiredGameVersion": "~1.19.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.1",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.11.1",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.1",
+					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -31,9 +31,9 @@
 		{
 			"version": "1.5.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61535689f1166c468bfa2340/universal/Custom Walls-1.5.3.zip"
+				"universal": "https://beatmods.com/uploads/60ff1338b1ad095176942ea0/universal/Custom Walls-1.5.3.zip"
 			},
-			"requiredGameVersion": "~1.18.0",
+			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
 				{
 					"id": "BS Utils",
@@ -42,7 +42,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.6",
+					"version": "1.5.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

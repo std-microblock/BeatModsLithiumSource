@@ -26,9 +26,9 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6615d1867413b61453107fe1/universal/KeepMyOverridesPls-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/6639211dbbcf1c12089d7cfd/universal/KeepMyOverridesPls-1.0.1.zip"
 			},
-			"requiredGameVersion": "~1.36.0",
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
 					"id": "BSIPA",

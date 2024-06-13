@@ -1,25 +1,25 @@
 {
 	"name": "MenuPillars",
-	"author": "Sirspam",
+	"author": "Bloodcloak",
 	"description": "A Beat Saber mod that brings back the pillars from the 1.13.2 menu environment and adds customisable lights to them",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64b1276cae38452e0c76ec2b/universal/MenuPillars-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/64f6047e9374367c46c8c5cf/universal/MenuPillars-0.1.0.zip"
 			},
-			"requiredGameVersion": "~1.31.0",
+			"requiredGameVersion": "~1.31.1",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.7.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.7.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -31,13 +31,13 @@
 		{
 			"version": "0.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3830c5c87297d5daba9/universal/MenuPillars-0.0.3.zip"
+				"universal": "https://beatmods.com/uploads/642b5d52368d841027494c6a/universal/MenuPillars-0.0.3.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
+					"version": "1.6.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

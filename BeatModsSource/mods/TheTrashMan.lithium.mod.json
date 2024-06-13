@@ -7,19 +7,19 @@
 		{
 			"version": "1.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e1788bce7c24e19d5cc7d29/universal/TheTrashMan-1.0.5.zip"
+				"universal": "https://beatmods.com/uploads/5e08076d29530a6e1adfef3f/universal/TheTrashMan-1.0.5.zip"
 			},
-			"requiredGameVersion": "~1.6.1",
+			"requiredGameVersion": "~1.6.0",
 			"dependencies": [
 				{
-					"id": "BS Utils",
-					"version": "1.4.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.1.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.1.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "BS Utils",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				}
 			]
 		},

@@ -89,9 +89,9 @@
 		{
 			"version": "3.5.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d1f5ca0ed00193b6ebbace6/universal/CameraPlus-3.5.4.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5110c26f5e655671e742/universal/CameraPlus-3.5.4.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "Harmony",

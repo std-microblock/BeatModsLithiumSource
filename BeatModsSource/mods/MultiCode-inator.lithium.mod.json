@@ -36,9 +36,9 @@
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3a00c5c87297d5dabd0/universal/MultiCode-inator-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/63990e180505da399146f020/universal/MultiCode-inator-1.1.2.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

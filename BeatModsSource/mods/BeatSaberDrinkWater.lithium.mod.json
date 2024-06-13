@@ -1,15 +1,15 @@
 {
 	"name": "BeatSaberDrinkWater",
-	"author": "Shoko84",
+	"author": "Assistant",
 	"description": "Displays a panel to remind you to drink some water after playing for a long time/amount of songs!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.10.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d01b5d27661221f0c4f0954/universal/BeatSaberDrinkWater-0.10.1.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5f30c26f5e655671e7c6/universal/BeatSaberDrinkWater-0.10.1.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "CustomUI",
