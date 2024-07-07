@@ -1,34 +1,34 @@
 {
 	"name": "PracticePlugin",
-	"author": "denpadokei",
+	"author": "Meivyn",
 	"description": "Plugin for Beat Saber to control playback speed",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "7.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/664499ac13f96f2caa5fdccd/universal/PracticePlugin-7.0.5.zip"
+				"universal": "https://beatmods.com/uploads/665fd68976771053647bd84a/universal/PracticePlugin-7.0.5.zip"
 			},
-			"requiredGameVersion": "~1.36.2",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
-					"id": "SiraUtil",
-					"version": "3.1.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
 					"id": "SongCore",
-					"version": "3.14.2",
+					"version": "3.14.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.0",
+					"version": "1.11.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.3",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -65,20 +65,10 @@
 		{
 			"version": "7.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65779cd05e029208799de552/universal/PracticePlugin-7.0.3.zip"
+				"universal": "https://beatmods.com/uploads/6569db8de1e7ac68065313f0/universal/PracticePlugin-7.0.3.zip"
 			},
-			"requiredGameVersion": "~1.34.2",
+			"requiredGameVersion": "~1.33.0",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.8.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "SongCore",
-					"version": "3.12.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.6",
@@ -88,21 +78,26 @@
 					"id": "BSIPA",
 					"version": "4.3.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.11.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.8.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				}
 			]
 		},
 		{
 			"version": "7.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64f604869374367c46c8c60b/universal/PracticePlugin-7.0.2.zip"
+				"universal": "https://beatmods.com/uploads/64abe8f6ae38452e0c76ebcb/universal/PracticePlugin-7.0.2.zip"
 			},
-			"requiredGameVersion": "~1.31.1",
+			"requiredGameVersion": "~1.31.0",
 			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.7.6",
@@ -112,6 +107,11 @@
 					"id": "SongCore",
 					"version": "3.10.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -210,9 +210,9 @@
 		{
 			"version": "6.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990e2f0505da399146f098/universal/PracticePlugin-6.1.1.zip"
+				"universal": "https://beatmods.com/uploads/636ae3d20c5c87297d5dac45/universal/PracticePlugin-6.1.1.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
@@ -329,9 +329,9 @@
 		{
 			"version": "4.4.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d5b8bc26f5e655671e79c/universal/PracticePlugin-4.4.0.zip"
+				"universal": "https://beatmods.com/uploads/5cfe572e0a8c00640fb9708b/universal/PracticePlugin-4.4.0.zip"
 			},
-			"requiredGameVersion": "~1.1.0p1",
+			"requiredGameVersion": "~1.1.0",
 			"dependencies": [
 				{
 					"id": "CustomUI",

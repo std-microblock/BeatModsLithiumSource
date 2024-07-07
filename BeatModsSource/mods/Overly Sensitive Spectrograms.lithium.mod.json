@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.1.2",
+			"version": "1.1.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/666091e979c6a972dcdec4e6/universal/Overly Sensitive Spectrograms-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/666b2d596bd3db5a71fdbff0/universal/Overly Sensitive Spectrograms-1.1.4.zip"
 			},
 			"requiredGameVersion": "~1.37.0",
 			"dependencies": [

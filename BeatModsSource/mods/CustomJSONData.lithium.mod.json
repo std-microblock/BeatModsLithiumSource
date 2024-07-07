@@ -33,20 +33,6 @@
 			]
 		},
 		{
-			"version": "2.5.1",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/64f6047b9374367c46c8c5b1/universal/CustomJSONData-2.5.1.zip"
-			},
-			"requiredGameVersion": "~1.31.1",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.3.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "2.5.2",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/64e4541032846c29a72bd129/universal/CustomJSONData-2.5.2.zip"
@@ -61,11 +47,25 @@
 			]
 		},
 		{
+			"version": "2.5.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/64cb4ab232846c29a72bd06f/universal/CustomJSONData-2.5.1.zip"
+			},
+			"requiredGameVersion": "~1.31.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "2.4.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fea368fdb14f39fb57fccd/universal/CustomJSONData-2.4.7.zip"
+				"universal": "https://beatmods.com/uploads/63b96d6f6abe7b160765d8ad/universal/CustomJSONData-2.4.7.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

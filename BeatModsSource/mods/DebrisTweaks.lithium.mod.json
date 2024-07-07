@@ -7,18 +7,18 @@
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65779cc95e029208799de52e/universal/DebrisTweaks-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/6547bf10624d035d0c844a0c/universal/DebrisTweaks-1.1.2.zip"
 			},
-			"requiredGameVersion": "~1.34.2",
+			"requiredGameVersion": "~1.33.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.8.0",
+					"version": "1.7.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.2",
+					"version": "4.3.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

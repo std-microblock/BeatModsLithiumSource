@@ -7,13 +7,13 @@
 		{
 			"version": "1.7.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60f8bb4db1ad095176942d91/universal/FireworksDisabler-1.7.0.zip"
+				"universal": "https://beatmods.com/uploads/60b15b322d008b3daa41e916/universal/FireworksDisabler-1.7.0.zip"
 			},
-			"requiredGameVersion": "~1.16.3",
+			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.2.0",
+					"version": "4.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

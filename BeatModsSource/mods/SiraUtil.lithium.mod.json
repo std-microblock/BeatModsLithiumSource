@@ -21,9 +21,9 @@
 		{
 			"version": "3.1.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6622c9ea7413b614531080dc/universal/SiraUtil-3.1.8.zip"
+				"universal": "https://beatmods.com/uploads/6639211cbbcf1c12089d7cf1/universal/SiraUtil-3.1.8.zip"
 			},
-			"requiredGameVersion": "~1.36.0",
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
 					"id": "BSIPA",
@@ -49,9 +49,9 @@
 		{
 			"version": "3.1.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65550f44e1e7ac6806531260/universal/SiraUtil-3.1.6.zip"
+				"universal": "https://beatmods.com/uploads/656fb918e105b40d53744adc/universal/SiraUtil-3.1.6.zip"
 			},
-			"requiredGameVersion": "~1.33.0",
+			"requiredGameVersion": "~1.34.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
@@ -77,9 +77,9 @@
 		{
 			"version": "3.1.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/648937a4d49b19506b03e0eb/universal/SiraUtil-3.1.3.zip"
+				"universal": "https://beatmods.com/uploads/649dac1560c0264b1b847c77/universal/SiraUtil-3.1.3.zip"
 			},
-			"requiredGameVersion": "~1.30.2",
+			"requiredGameVersion": "~1.31.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
@@ -91,9 +91,9 @@
 		{
 			"version": "3.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3750c5c87297d5dab7f/universal/SiraUtil-3.1.2.zip"
+				"universal": "https://beatmods.com/uploads/63990e010505da399146efcc/universal/SiraUtil-3.1.2.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
@@ -133,9 +133,9 @@
 		{
 			"version": "2.5.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/612e61ff70a9464db367b741/universal/SiraUtil-2.5.8.zip"
+				"universal": "https://beatmods.com/uploads/614e4a3ad012e8328ad31872/universal/SiraUtil-2.5.8.zip"
 			},
-			"requiredGameVersion": "~1.17.0",
+			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

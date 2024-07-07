@@ -49,23 +49,23 @@
 		{
 			"version": "1.8.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60b15bb12d008b3daa41e927/universal/NoFailCheck-1.8.0.zip"
+				"universal": "https://beatmods.com/uploads/60f8bbd5b1ad095176942d94/universal/NoFailCheck-1.8.0.zip"
 			},
-			"requiredGameVersion": "~1.16.1",
+			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
 				{
 					"id": "BS Utils",
-					"version": "1.10.0",
+					"version": "1.11.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.3",
+					"version": "1.5.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.1.6",
+					"version": "4.2.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

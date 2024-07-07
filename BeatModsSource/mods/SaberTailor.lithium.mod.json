@@ -1,29 +1,29 @@
 {
 	"name": "SaberTailor",
-	"author": "Bloodcloak",
+	"author": "Shadnix",
 	"description": "Tweak things about your sabers, including grip position/angle, trail appearance and saber length/width. Created by Ruu. Additional contributions by Pespiri.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.5.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d61368d841027494ca6/universal/SaberTailor-3.5.0.zip"
+				"universal": "https://beatmods.com/uploads/61c3cb467a2ef528fb65b95f/universal/SaberTailor-3.5.0.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.9",
+					"version": "1.6.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.12.2",
+					"version": "1.11.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.2",
+					"version": "4.2.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -55,9 +55,9 @@
 		{
 			"version": "3.4.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61309c5370a9464db367b7db/universal/SaberTailor-3.4.0.zip"
+				"universal": "https://beatmods.com/uploads/60f8a052b1ad095176942d6d/universal/SaberTailor-3.4.0.zip"
 			},
-			"requiredGameVersion": "~1.17.0",
+			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
 				{
 					"id": "BS Utils",
@@ -66,7 +66,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.5",
+					"version": "1.5.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

@@ -7,9 +7,9 @@
 		{
 			"version": "1.5.18",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d75368d841027494d15/universal/SmartSongSuggest-1.5.18.zip"
+				"universal": "https://beatmods.com/uploads/63990e320505da399146f0b3/universal/SmartSongSuggest-1.5.18.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberPlaylistsLib",
@@ -22,18 +22,18 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
+					"id": "BS Utils",
+					"version": "1.12.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
 					"id": "SongDetailsCache",
 					"version": "1.2.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
 				},
 				{
-					"id": "BS Utils",
-					"version": "1.12.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
 					"id": "SongCore",
-					"version": "3.10.1",
+					"version": "3.9.7",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				}
 			]

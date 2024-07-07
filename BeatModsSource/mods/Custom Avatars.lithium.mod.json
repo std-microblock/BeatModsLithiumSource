@@ -65,9 +65,9 @@
 		{
 			"version": "5.2.11",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990e0f0505da399146f005/universal/Custom Avatars-5.2.11.zip"
+				"universal": "https://beatmods.com/uploads/636ae38a0c5c87297d5dabb8/universal/Custom Avatars-5.2.11.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

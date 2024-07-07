@@ -1,15 +1,15 @@
 {
 	"name": "Particle Overdrive",
-	"author": "Meivyn",
+	"author": "Bloodcloak",
 	"description": "Enable/disable camera noise, and global particle haze, configure note slash/explosion and saber clash particle amount. Created by lolPants with additional contributions by Steven 🎀 and Zingabopp.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.12.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/665fd4d676771053647bd829/universal/Particle Overdrive-1.12.1.zip"
+				"universal": "https://beatmods.com/uploads/6615cddd7413b61453107fa3/universal/Particle Overdrive-1.12.1.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.36.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
@@ -18,12 +18,12 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.2",
+					"version": "1.10.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.4",
+					"version": "4.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -31,23 +31,23 @@
 		{
 			"version": "1.12.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d58368d841027494c79/universal/Particle Overdrive-1.12.0.zip"
+				"universal": "https://beatmods.com/uploads/614e7840d012e8328ad3189a/universal/Particle Overdrive-1.12.0.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "BS Utils",
-					"version": "1.12.2",
+					"version": "1.11.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
 					"id": "BSIPA",
-					"version": "4.2.2",
+					"version": "4.2.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -194,9 +194,9 @@
 		{
 			"version": "0.5.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d51abc26f5e655671e74b/universal/Particle Overdrive-0.5.1.zip"
+				"universal": "https://beatmods.com/uploads/5d06db237661221f0c4f09f8/universal/Particle Overdrive-0.5.1.zip"
 			},
-			"requiredGameVersion": "~1.1.0p1",
+			"requiredGameVersion": "~1.1.0",
 			"dependencies": [
 				{
 					"id": "CustomUI",

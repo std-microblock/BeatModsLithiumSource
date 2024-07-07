@@ -29,9 +29,9 @@
 		{
 			"version": "1.5.11",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d5574c26f5e655671e778/universal/CustomUI-1.5.11.zip"
+				"universal": "https://beatmods.com/uploads/5d03fe257661221f0c4f09b3/universal/CustomUI-1.5.11.zip"
 			},
-			"requiredGameVersion": "~1.1.0p1",
+			"requiredGameVersion": "~1.1.0",
 			"dependencies": [
 				{
 					"id": "Harmony",

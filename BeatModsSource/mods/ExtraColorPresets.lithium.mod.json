@@ -1,29 +1,24 @@
 {
-	"name": "SongPlayHistoryContinued",
-	"author": "Shadnix",
-	"description": "A local score tracker with simple in-game UI. Created by peperoro.",
+	"name": "ExtraColorPresets",
+	"author": "DJDavid98",
+	"description": "Allows for saving and loading additional color presets via the in-game settings UI",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.6.1",
+			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/614e7892d012e8328ad318a0/universal/SongPlayHistoryContinued-1.6.1.zip"
+				"universal": "https://beatmods.com/uploads/666b2b546bd3db5a71fdbfe8/universal/ExtraColorPresets-1.2.0.zip"
 			},
-			"requiredGameVersion": "~1.18.0",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
-					"id": "BS Utils",
-					"version": "1.11.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.6",
+					"version": "1.11.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.0",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

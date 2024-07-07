@@ -1,15 +1,15 @@
 {
 	"name": "I Forgor",
-	"author": "Bloodcloak",
+	"author": "ckosmic",
 	"description": "Displays the direction of the last notes you hit and saber angles in the pause menu.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.3.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6426503b368d841027494b7e/universal/I Forgor-1.3.1.zip"
+				"universal": "https://beatmods.com/uploads/6365db3d22b0de6fabe114e6/universal/I Forgor-1.3.1.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",

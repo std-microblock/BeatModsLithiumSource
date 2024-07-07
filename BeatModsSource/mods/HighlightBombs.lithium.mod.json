@@ -26,9 +26,9 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990dff0505da399146efc0/universal/HighlightBombs-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e7ffdb14f39fb57fbda/universal/HighlightBombs-1.0.1.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

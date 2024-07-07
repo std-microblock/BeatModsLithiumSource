@@ -189,18 +189,18 @@
 		{
 			"version": "1.9.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d62368d841027494ca9/universal/TransparentWall-1.9.2.zip"
+				"universal": "https://beatmods.com/uploads/636ae3a80c5c87297d5dabee/universal/TransparentWall-1.9.2.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.26.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.9",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.12.2",
+					"version": "1.12.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
@@ -261,9 +261,9 @@
 		{
 			"version": "1.7.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60ff0dc7b1ad095176942e90/universal/TransparentWall-1.7.0.zip"
+				"universal": "https://beatmods.com/uploads/6130177670a9464db367b7c4/universal/TransparentWall-1.7.0.zip"
 			},
-			"requiredGameVersion": "~1.16.3",
+			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
@@ -272,7 +272,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.4",
+					"version": "1.5.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

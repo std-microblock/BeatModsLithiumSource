@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d45368d841027494c49/universal/SearchFixes-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/63990e030505da399146efe4/universal/SearchFixes-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
@@ -21,9 +21,9 @@
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61343b7870a9464db367b870/universal/SearchFixes-0.1.0.zip"
+				"universal": "https://beatmods.com/uploads/614e9907d012e8328ad318a9/universal/SearchFixes-0.1.0.zip"
 			},
-			"requiredGameVersion": "~1.17.0",
+			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

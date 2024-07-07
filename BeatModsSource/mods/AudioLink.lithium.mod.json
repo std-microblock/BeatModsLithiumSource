@@ -1,19 +1,19 @@
 {
 	"name": "AudioLink",
-	"author": "Bloodcloak",
+	"author": "Aeroluna",
 	"description": "VRC AudioLink ported to Beat Saber.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.4",
+			"version": "1.0.6+1.37.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65779cb75e029208799de4f8/universal/AudioLink-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/6688cb3741764c3b1c1d4e8f/universal/AudioLink-1.0.6_1.37.0.zip"
 			},
-			"requiredGameVersion": "~1.34.2",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.3.2",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -33,11 +33,25 @@
 			]
 		},
 		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/64ad4c64ae38452e0c76ebfb/universal/AudioLink-1.0.4.zip"
+			},
+			"requiredGameVersion": "~1.31.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990dff0505da399146efbd/universal/AudioLink-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e7efdb14f39fb57fbd7/universal/AudioLink-1.0.2.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

@@ -1,40 +1,40 @@
 {
 	"name": "AssetBundleLoadingTools",
-	"author": "Bloodcloak",
+	"author": "Meivyn",
 	"description": "A library with various tools to help safely load AssetBundles and fix legacy shader issues.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6615cdfc7413b61453107fac/universal/AssetBundleLoadingTools-1.1.4.zip"
+				"universal": "https://beatmods.com/uploads/665fd4b176771053647bd823/universal/AssetBundleLoadingTools-1.1.4.zip"
 			},
-			"requiredGameVersion": "~1.36.0",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
-					"id": "SiraUtil",
-					"version": "3.1.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.3",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "System.IO.Compression",
-					"version": "4.6.57",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.10.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "System.IO.Compression.FileSystem",
 					"version": "4.7.3056",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.FileSystem.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "System.IO.Compression",
+					"version": "4.6.57",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
 				}
 			]
 		},

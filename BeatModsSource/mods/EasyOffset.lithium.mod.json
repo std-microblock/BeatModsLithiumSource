@@ -1,25 +1,25 @@
 {
 	"name": "EasyOffset",
-	"author": "Bloodcloak",
+	"author": "Reezonate",
 	"description": "Controller offset adjustment tool. Includes swing benchmark for config and grip analysis",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.1.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65779cc75e029208799de528/universal/EasyOffset-2.1.7.zip"
+				"universal": "https://beatmods.com/uploads/656fda9be105b40d53744b44/universal/EasyOffset-2.1.7.zip"
 			},
-			"requiredGameVersion": "~1.34.2",
+			"requiredGameVersion": "~1.34.0",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.8.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.8.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -31,19 +31,19 @@
 		{
 			"version": "2.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d65368d841027494cb8/universal/EasyOffset-2.1.1.zip"
+				"universal": "https://beatmods.com/uploads/63fe8e9ffdb14f39fb57fc55/universal/EasyOffset-2.1.1.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.28.0",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

@@ -1,15 +1,15 @@
 {
 	"name": "bHapticsMusical",
-	"author": "Meivyn",
+	"author": "floh-bhaptics",
 	"description": "This mod adds some haptics feedback on musical cues in the bhaptics gear.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/665fd62276771053647bd844/universal/bHapticsMusical-1.1.4.zip"
+				"universal": "https://beatmods.com/uploads/663b78b013f96f2caa5fdc74/universal/bHapticsMusical-1.1.4.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
 					"id": "bHaptics",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.4",
+					"version": "4.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -26,9 +26,9 @@
 		{
 			"version": "1.1.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65779cc15e029208799de513/universal/bHapticsMusical-1.1.3.zip"
+				"universal": "https://beatmods.com/uploads/656fb918e105b40d53744ae2/universal/bHapticsMusical-1.1.3.zip"
 			},
-			"requiredGameVersion": "~1.34.2",
+			"requiredGameVersion": "~1.34.0",
 			"dependencies": [
 				{
 					"id": "bHaptics",

@@ -1,34 +1,44 @@
 {
 	"name": "Song Refresh Button",
 	"author": "Alppuccino",
-	"description": "Adds various refresh buttons in game.",
+	"description": "Adds various \"refresh\" buttons in-game, so you don't have to take off your HMD to refresh your songs! NOW FOR BS1.3.0!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5dd190a38ed3a56f6197bc4a/universal/Song Refresh Button-1.1.1.zip"
+				"universal": "https://beatmods.com/uploads/5d68f90bbe34f5432f209de0/universal/Song Refresh Button-1.1.1.zip"
 			},
-			"requiredGameVersion": "~1.5.0",
+			"requiredGameVersion": "~1.3.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "2.4.1",
+					"version": "2.0.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
+					"id": "BSIPA",
+					"version": "3.12.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
 					"id": "CustomUI",
-					"version": "1.7.1",
+					"version": "1.4.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				}
 			]
 		},
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cfe9cfc077a503d1075c54f/universal/Song Refresh Button-1.1.0.zip"
+				"universal": "https://beatmods.com/uploads/5d2d5fb1c26f5e655671e7cf/universal/Song Refresh Button-1.1.0.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "SongCore",

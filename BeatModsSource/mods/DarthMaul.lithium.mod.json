@@ -55,9 +55,9 @@
 		{
 			"version": "0.7.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cfe557f0a8c00640fb97072/universal/DarthMaul-0.7.3.zip"
+				"universal": "https://beatmods.com/uploads/5d2d53dac26f5e655671e760/universal/DarthMaul-0.7.3.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "CustomUI",

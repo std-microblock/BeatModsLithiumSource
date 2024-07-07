@@ -112,9 +112,9 @@
 		{
 			"version": "2.9.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cfe575e0a8c00640fb9708e/universal/Custom Sabers-2.9.1.zip"
+				"universal": "https://beatmods.com/uploads/5d2d53aac26f5e655671e75d/universal/Custom Sabers-2.9.1.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": [
 				{
 					"id": "CustomUI",
