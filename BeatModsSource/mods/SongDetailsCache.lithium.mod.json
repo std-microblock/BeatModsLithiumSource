@@ -7,9 +7,9 @@
 		{
 			"version": "1.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/665fb1ca76771053647bd7b7/universal/SongDetailsCache-1.2.2.zip"
+				"universal": "https://beatmods.com/uploads/669059b27001413dcbe5495f/universal/SongDetailsCache-1.2.2.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
 					"id": "protobuf-net",

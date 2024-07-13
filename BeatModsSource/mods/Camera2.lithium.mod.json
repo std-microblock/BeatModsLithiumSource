@@ -1,15 +1,15 @@
 {
 	"name": "Camera2",
-	"author": "Kinsi55",
+	"author": "Bloodcloak",
 	"description": "Adds a lot of options / tools for creating more advanced desktop viewing experiences with multiple camera angles and much more. See the Github link for more details",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.6.111",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6661f00679c6a972dcdec4ef/universal/Camera2-0.6.111.zip"
+				"universal": "https://beatmods.com/uploads/669059bc7001413dcbe54980/universal/Camera2-0.6.111.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
