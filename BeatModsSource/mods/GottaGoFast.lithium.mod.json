@@ -1,16 +1,22 @@
 {
 	"name": "GottaGoFast",
-	"author": "Kinsi55",
+	"author": "Bloodcloak",
 	"description": "Significantly decreases the time it takes to (re)start and leave songs in Beat Saber",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.2.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/663e409113f96f2caa5fdc9a/universal/GottaGoFast-0.2.3.zip"
+				"universal": "https://beatmods.com/uploads/669059b17001413dcbe54953/universal/GottaGoFast-0.2.3.zip"
 			},
-			"requiredGameVersion": "~1.36.2",
-			"dependencies": []
+			"requiredGameVersion": "~1.37.1",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		},
 		{
 			"version": "0.2.2",

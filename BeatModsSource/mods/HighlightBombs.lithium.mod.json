@@ -1,15 +1,15 @@
 {
 	"name": "HighlightBombs",
-	"author": "Meivyn",
+	"author": "Bloodcloak",
 	"description": "Adds a slight outline to bombs to make them more visible in the dark.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6662b4a579c6a972dcdec50a/universal/HighlightBombs-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/669059bd7001413dcbe5498f/universal/HighlightBombs-1.0.2.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
 					"id": "SiraUtil",

@@ -1,25 +1,25 @@
 {
 	"name": "MenuPillars",
-	"author": "qqrz997",
+	"author": "Bloodcloak",
 	"description": "Brings back the pillars from the 1.13.2 menu environment and adds customisable lights to them",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/667f5cb741764c3b1c1d4e1f/universal/MenuPillars-0.1.2.zip"
+				"universal": "https://beatmods.com/uploads/669059bd7001413dcbe5498c/universal/MenuPillars-0.1.2.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.10",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.11.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

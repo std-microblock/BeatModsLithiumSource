@@ -67,6 +67,22 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
 		},
 		{
+			"name": "MenuPillars",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MenuPillars.lithium.mod.json"
+		},
+		{
+			"name": "AdBlocker",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AdBlocker.lithium.mod.json"
+		},
+		{
+			"name": "AudioLink",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AudioLink.lithium.mod.json"
+		},
+		{
+			"name": "HighlightBombs",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HighlightBombs.lithium.mod.json"
+		},
+		{
 			"name": "CustomSabersLite",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomSabersLite.lithium.mod.json"
 		},
@@ -87,24 +103,8 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MenuSaberColors.lithium.mod.json"
 		},
 		{
-			"name": "AudioLink",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AudioLink.lithium.mod.json"
-		},
-		{
-			"name": "MenuPillars",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MenuPillars.lithium.mod.json"
-		},
-		{
-			"name": "HighlightBombs",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HighlightBombs.lithium.mod.json"
-		},
-		{
 			"name": "Custom Notes",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Notes.lithium.mod.json"
-		},
-		{
-			"name": "AdBlocker",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AdBlocker.lithium.mod.json"
 		},
 		{
 			"name": "Particle Overdrive",
@@ -491,12 +491,12 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json"
 		},
 		{
-			"name": "Chroma",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Chroma.lithium.mod.json"
-		},
-		{
 			"name": "Technicolor",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Technicolor.lithium.mod.json"
+		},
+		{
+			"name": "Chroma",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Chroma.lithium.mod.json"
 		},
 		{
 			"name": "BetterStaticLights",
@@ -543,12 +543,12 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMultiplayer.lithium.mod.json"
 		},
 		{
-			"name": "bHapticsFunctional",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsFunctional.lithium.mod.json"
-		},
-		{
 			"name": "bHapticsMusical",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsMusical.lithium.mod.json"
+		},
+		{
+			"name": "bHapticsFunctional",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHapticsFunctional.lithium.mod.json"
 		},
 		{
 			"name": "NullSearchFix",
@@ -687,6 +687,14 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "BetterSongSearch",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
+		},
+		{
+			"name": "GottaGoFast",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/GottaGoFast.lithium.mod.json"
+		},
+		{
 			"name": "Overly Sensitive Spectrograms",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Overly Sensitive Spectrograms.lithium.mod.json"
 		},
@@ -695,20 +703,12 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HitsoundTweaks.lithium.mod.json"
 		},
 		{
-			"name": "BetterSongSearch",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
-		},
-		{
 			"name": "JDFixer",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/JDFixer.lithium.mod.json"
 		},
 		{
 			"name": "KeepMyOverridesPls",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/KeepMyOverridesPls.lithium.mod.json"
-		},
-		{
-			"name": "GottaGoFast",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/GottaGoFast.lithium.mod.json"
 		},
 		{
 			"name": "Tweaks55",
@@ -883,6 +883,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
 		},
 		{
+			"name": "Small Menu",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Small Menu.lithium.mod.json"
+		},
+		{
 			"name": "SongChartVisualizer",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongChartVisualizer.lithium.mod.json"
 		},
@@ -913,10 +917,6 @@
 		{
 			"name": "ImageCoverExpander",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ImageCoverExpander.lithium.mod.json"
-		},
-		{
-			"name": "Small Menu",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Small Menu.lithium.mod.json"
 		},
 		{
 			"name": "DrinkWater",
