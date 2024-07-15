@@ -1,25 +1,25 @@
 {
 	"name": "Counters+",
-	"author": "Meivyn",
+	"author": "Bloodcloak",
 	"description": "A suite of enhancements for Beat Saber's UI",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.3.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/665fd70176771053647bd865/universal/Counters_-2.3.7.zip"
+				"universal": "https://beatmods.com/uploads/669059ea7001413dcbe549bf/universal/Counters_-2.3.7.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.10",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.11.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

@@ -1,25 +1,20 @@
 {
 	"name": "SongRankedBadge",
-	"author": "qe201020335",
+	"author": "Bloodcloak",
 	"description": "Show a map's rank status using the promotion badge thingy introduced in 1.28.0",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.2+1.36.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6629e7187413b6145310817c/universal/SongRankedBadge-1.0.2_1.36.0.zip"
+				"universal": "https://beatmods.com/uploads/66905a1e7001413dcbe549ef/universal/SongRankedBadge-1.0.2_1.36.0.zip"
 			},
-			"requiredGameVersion": "~1.36.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.10.2",
+					"version": "1.11.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "SongCore",
-					"version": "3.14.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
 					"id": "SongDetailsCache",
@@ -27,8 +22,13 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
 				},
 				{
+					"id": "SongCore",
+					"version": "3.14.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
 					"id": "BSIPA",
-					"version": "4.3.3",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

@@ -1,16 +1,21 @@
 {
 	"name": "BetterSongList",
-	"author": "Kinsi55",
+	"author": "Bloodcloak",
 	"description": "Adds various improvements to the Basegame song list like Filters, a persisted state and much more",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.4.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/663d924813f96f2caa5fdc95/universal/BetterSongList-0.4.0.zip"
+				"universal": "https://beatmods.com/uploads/66905a1e7001413dcbe549f2/universal/BetterSongList-0.4.0.zip"
 			},
-			"requiredGameVersion": "~1.36.2",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "SongDetailsCache",
 					"version": "1.2.2",
@@ -18,17 +23,12 @@
 				},
 				{
 					"id": "SongCore",
-					"version": "3.14.2",
+					"version": "3.14.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "BSIPA",
-					"version": "4.3.3",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

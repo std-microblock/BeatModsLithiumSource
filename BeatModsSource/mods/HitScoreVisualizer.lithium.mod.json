@@ -1,25 +1,25 @@
 {
 	"name": "HitScoreVisualizer",
-	"author": "qqrz997",
+	"author": "Bloodcloak",
 	"description": "Visualizes the scores of your hits! Overly complex config options! Numbers? All the pros use it, except the ones who don't. (But they should.)",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.4.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6679d713a93e99654e032535/universal/HitScoreVisualizer-3.4.0.zip"
+				"universal": "https://beatmods.com/uploads/669059e47001413dcbe549a4/universal/HitScoreVisualizer-3.4.0.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.10",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.11.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

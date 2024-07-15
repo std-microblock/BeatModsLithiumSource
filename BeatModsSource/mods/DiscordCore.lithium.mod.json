@@ -1,25 +1,25 @@
 {
 	"name": "DiscordCore",
-	"author": "DJDavid98",
+	"author": "Bloodcloak",
 	"description": "A plugin for Discord integration in Beat Saber",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65fe0a8fdfb5962c5bb29d10/universal/DiscordCore-3.0.5.zip"
+				"universal": "https://beatmods.com/uploads/669059de7001413dcbe5499e/universal/DiscordCore-3.0.5.zip"
 			},
-			"requiredGameVersion": "~1.35.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
-					"id": "BSIPA",
-					"version": "4.3.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.9.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "BSIPA",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},

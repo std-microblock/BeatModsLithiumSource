@@ -5,6 +5,30 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/669080d17001413dcbe54a05/universal/SoundReplacer-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.37.1",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "0.0.7",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/658e39b15e029208799de66d/universal/SoundReplacer-0.0.7.zip"

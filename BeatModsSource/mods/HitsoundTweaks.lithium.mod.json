@@ -1,15 +1,15 @@
 {
 	"name": "HitsoundTweaks",
-	"author": "GalaxyMaster",
+	"author": "Bloodcloak",
 	"description": "Adds more configurability to hitsounds, and fixes several base game bugs to make them more reliable and consistent.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6689e08e41764c3b1c1d4eca/universal/HitsoundTweaks-1.1.4.zip"
+				"universal": "https://beatmods.com/uploads/669059e57001413dcbe549ad/universal/HitsoundTweaks-1.1.4.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
