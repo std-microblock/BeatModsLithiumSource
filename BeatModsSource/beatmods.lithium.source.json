@@ -67,6 +67,22 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
 		},
 		{
+			"name": "CustomSaberColors",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomSaberColors.lithium.mod.json"
+		},
+		{
+			"name": "CustomWalls",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomWalls.lithium.mod.json"
+		},
+		{
+			"name": "CustomSabersLite",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomSabersLite.lithium.mod.json"
+		},
+		{
+			"name": "BetterPause",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterPause.lithium.mod.json"
+		},
+		{
 			"name": "Cinema",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Cinema.lithium.mod.json"
 		},
@@ -99,10 +115,6 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HighlightBombs.lithium.mod.json"
 		},
 		{
-			"name": "CustomSabersLite",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomSabersLite.lithium.mod.json"
-		},
-		{
 			"name": "Custom Avatars",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Avatars.lithium.mod.json"
 		},
@@ -113,10 +125,6 @@
 		{
 			"name": "CustomPillows",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomPillows.lithium.mod.json"
-		},
-		{
-			"name": "BetterPause",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterPause.lithium.mod.json"
 		},
 		{
 			"name": "FixEverything",
@@ -175,10 +183,6 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Sabers.lithium.mod.json"
 		},
 		{
-			"name": "CustomWalls",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomWalls.lithium.mod.json"
-		},
-		{
 			"name": "CustomMenuPointers",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomMenuPointers.lithium.mod.json"
 		},
@@ -213,6 +217,10 @@
 		{
 			"name": "MusicEscape",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MusicEscape.lithium.mod.json"
+		},
+		{
+			"name": "TrickSaber",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TrickSaber.lithium.mod.json"
 		},
 		{
 			"name": "Claws",
@@ -253,10 +261,6 @@
 		{
 			"name": "BailOutMode",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BailOutMode.lithium.mod.json"
-		},
-		{
-			"name": "TrickSaber",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TrickSaber.lithium.mod.json"
 		},
 		{
 			"name": "RandomSongPlayer",
@@ -879,6 +883,14 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"
 		},
 		{
+			"name": "SongPlayHistory",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistory.lithium.mod.json"
+		},
+		{
+			"name": "UITweaks",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
+		},
+		{
 			"name": "SimpleClock",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SimpleClock.lithium.mod.json"
 		},
@@ -903,16 +915,8 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongRankedBadge.lithium.mod.json"
 		},
 		{
-			"name": "UITweaks",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/UITweaks.lithium.mod.json"
-		},
-		{
 			"name": "Small Menu",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Small Menu.lithium.mod.json"
-		},
-		{
-			"name": "SongPlayHistory",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongPlayHistory.lithium.mod.json"
 		},
 		{
 			"name": "PerformanceMeter",

@@ -1,30 +1,20 @@
 {
 	"name": "CustomSabersLite",
-	"author": "Bloodcloak",
+	"author": "qqrz997",
 	"description": "Adds support for Custom Sabers and Whackers to the game.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.11.1",
+			"version": "0.12.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059f47001413dcbe549cb/universal/CustomSabersLite-0.11.1.zip"
+				"universal": "https://beatmods.com/uploads/6695179a7001413dcbe54aa0/universal/CustomSabersLite-0.12.1.zip"
 			},
 			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
-					"id": "AssetBundleLoadingTools",
-					"version": "1.1.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
-				},
-				{
-					"id": "SiraUtil",
-					"version": "3.1.10",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "System.IO.Compression.FileSystem",
-					"version": "4.7.3056",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.FileSystem.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -32,9 +22,53 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
+					"id": "System.IO.Compression.FileSystem",
+					"version": "4.7.3056",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.FileSystem.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "AssetBundleLoadingTools",
+					"version": "1.1.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.11.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6683216241764c3b1c1d4e48/universal/CustomSabersLite-0.11.1.zip"
+			},
+			"requiredGameVersion": "~1.37.0",
+			"dependencies": [
+				{
+					"id": "AssetBundleLoadingTools",
+					"version": "1.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "System.IO.Compression.FileSystem",
+					"version": "4.7.3056",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.FileSystem.lithium.mod.json"
+				},
+				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.11.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				}
 			]
 		},

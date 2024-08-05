@@ -12,11 +12,6 @@
 			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
-					"id": "CustomJSONData",
-					"version": "2.6.1+1.37.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.11.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
@@ -25,6 +20,11 @@
 					"id": "SiraUtil",
 					"version": "3.1.11",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "CustomJSONData",
+					"version": "2.6.1+1.37.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
