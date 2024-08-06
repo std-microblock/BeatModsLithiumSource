@@ -1,9 +1,33 @@
 {
 	"name": "CustomPillows",
-	"author": "RedBrumbler",
-	"description": "A mod that adds pillows into the main menu",
+	"author": "qqrz997",
+	"description": "Adds pillows into the main menu",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "0.0.8",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66b117bb7001413dcbe54c1d/universal/CustomPillows-0.0.8.zip"
+			},
+			"requiredGameVersion": "~1.37.1",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "0.0.7",
 			"downloads": {
