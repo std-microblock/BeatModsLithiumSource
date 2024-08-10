@@ -7,9 +7,9 @@
 		{
 			"version": "4.7.3056",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059b67001413dcbe54965/universal/System.IO.Compression.FileSystem-4.7.3056.zip"
+				"universal": "https://beatmods.com/uploads/66b2b03f88a93c0e38465471/universal/System.IO.Compression.FileSystem-4.7.3056.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
 					"id": "System.IO.Compression",

@@ -7,9 +7,9 @@
 		{
 			"version": "1.1.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059b97001413dcbe54974/universal/bHapticsMusical-1.1.4.zip"
+				"universal": "https://beatmods.com/uploads/66b2b03f88a93c0e38465474/universal/bHapticsMusical-1.1.4.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
 					"id": "bHaptics",

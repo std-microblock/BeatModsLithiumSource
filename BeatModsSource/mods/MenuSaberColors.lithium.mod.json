@@ -7,13 +7,13 @@
 		{
 			"version": "1.0.10",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059bc7001413dcbe54989/universal/MenuSaberColors-1.0.10.zip"
+				"universal": "https://beatmods.com/uploads/66b2b04788a93c0e38465495/universal/MenuSaberColors-1.0.10.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.1.10",
+					"version": "3.1.11",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

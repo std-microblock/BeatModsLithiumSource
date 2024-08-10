@@ -1,25 +1,25 @@
 {
 	"name": "SimpleClock",
-	"author": "MadSquids",
+	"author": "Bloodcloak",
 	"description": "Adds a 12-hour AM/PM clock to the HUD of your game using your system's time.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66aa49767001413dcbe54ba3/universal/SimpleClock-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/66b2b05e88a93c0e384654d1/universal/SimpleClock-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.11",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

@@ -1,25 +1,25 @@
 {
 	"name": "TrickSaber",
-	"author": "qqrz997",
+	"author": "Bloodcloak",
 	"description": "Perform tricks like spinning and throwing your sabers",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66999ac77001413dcbe54ad9/universal/TrickSaber-1.1.4.zip"
+				"universal": "https://beatmods.com/uploads/66b2b04788a93c0e384654a1/universal/TrickSaber-1.1.4.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.11",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

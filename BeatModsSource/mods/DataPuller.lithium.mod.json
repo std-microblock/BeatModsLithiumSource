@@ -7,14 +7,19 @@
 		{
 			"version": "2.1.14",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66905a1d7001413dcbe549e9/universal/DataPuller-2.1.14.zip"
+				"universal": "https://beatmods.com/uploads/66b2b07488a93c0e38465504/universal/DataPuller-2.1.14.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
-					"id": "SiraUtil",
-					"version": "3.1.10",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "SongCore",
+					"version": "3.14.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "SongDetailsCache",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -27,19 +32,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/websocket-sharp.lithium.mod.json"
 				},
 				{
-					"id": "SongCore",
-					"version": "3.14.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaverSharp",
 					"version": "3.4.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverSharp.lithium.mod.json"
 				},
 				{
-					"id": "SongDetailsCache",
-					"version": "1.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				}
 			]
 		},

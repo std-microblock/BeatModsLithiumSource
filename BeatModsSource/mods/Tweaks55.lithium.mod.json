@@ -7,9 +7,9 @@
 		{
 			"version": "0.3.14",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059ba7001413dcbe5497a/universal/Tweaks55-0.3.14.zip"
+				"universal": "https://beatmods.com/uploads/66b2b03f88a93c0e3846547a/universal/Tweaks55-0.3.14.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
 					"id": "BSIPA",

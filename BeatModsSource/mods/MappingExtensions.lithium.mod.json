@@ -1,25 +1,25 @@
 {
 	"name": "MappingExtensions",
-	"author": "Meivyn",
+	"author": "Bloodcloak",
 	"description": "This adds some additional things you can do with your maps as a mapper, and allows you to play said maps as a player. View More Info for details.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.7.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/665fd55276771053647bd83b/universal/MappingExtensions-1.7.5.zip"
+				"universal": "https://beatmods.com/uploads/66b2b06888a93c0e384654ef/universal/MappingExtensions-1.7.5.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.14.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
 				{
 					"id": "BS Utils",
 					"version": "1.14.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "SongCore",
-					"version": "3.14.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

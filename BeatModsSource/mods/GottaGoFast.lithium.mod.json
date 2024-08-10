@@ -7,9 +7,9 @@
 		{
 			"version": "0.2.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059b17001413dcbe54953/universal/GottaGoFast-0.2.3.zip"
+				"universal": "https://beatmods.com/uploads/66b2b03f88a93c0e3846547d/universal/GottaGoFast-0.2.3.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
 					"id": "BSIPA",

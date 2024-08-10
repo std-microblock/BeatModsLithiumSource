@@ -1,30 +1,30 @@
 {
 	"name": "NoodleExtensions",
-	"author": "Aeroluna",
+	"author": "Bloodcloak",
 	"description": "This mod lets you see cool things that mappers have put in their maps. Report all issues to Reaxt.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.7.0+1.37.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6688da8f41764c3b1c1d4ea6/universal/NoodleExtensions-1.7.0_1.37.0.zip"
+				"universal": "https://beatmods.com/uploads/66b2b06888a93c0e384654f2/universal/NoodleExtensions-1.7.0_1.37.0.zip"
 			},
-			"requiredGameVersion": "~1.37.0",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
-					"id": "CustomJSONData",
-					"version": "2.6.0+1.37.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
-				},
-				{
 					"id": "_Heck",
-					"version": "1.6.0+1.37.0",
+					"version": "1.6.3+1.37.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.10",
+					"version": "3.1.11",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "CustomJSONData",
+					"version": "2.6.2+1.37.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

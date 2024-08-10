@@ -7,13 +7,13 @@
 		{
 			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059e57001413dcbe549b3/universal/KeepMyOverridesPls-1.1.1.zip"
+				"universal": "https://beatmods.com/uploads/66b2b05d88a93c0e384654c2/universal/KeepMyOverridesPls-1.1.1.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.1.10",
+					"version": "3.1.11",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

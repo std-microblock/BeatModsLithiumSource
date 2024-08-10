@@ -1,9 +1,43 @@
 {
 	"name": "BeatSaverUpdater",
-	"author": "PixelBoom",
+	"author": "Bloodcloak",
 	"description": "Alerts you of updates to beatmaps on BeatSaver and updates them to the latest version.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.2.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66b2b06088a93c0e384654dd/universal/BeatSaverUpdater-1.2.4.zip"
+			},
+			"requiredGameVersion": "~1.37.2",
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.14.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaverSharp",
+					"version": "3.4.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverSharp.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.1.0",
 			"downloads": {
