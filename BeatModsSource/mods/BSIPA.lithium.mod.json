@@ -5,6 +5,14 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "4.3.5",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66b66b3188a93c0e3846556c/universal/BSIPA-4.3.5.zip"
+			},
+			"requiredGameVersion": "~1.37.2",
+			"dependencies": []
+		},
+		{
 			"version": "4.3.3",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/65f8a762dfb5962c5bb29c56/universal/BSIPA-4.3.3.zip"
@@ -98,14 +106,6 @@
 				"universal": "https://beatmods.com/uploads/5ce5b63db29eb364ff1e9a11/universal/BSIPA-3.12.20.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": []
-		},
-		{
-			"version": "4.3.5",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/66b66b3188a93c0e3846556c/universal/BSIPA-4.3.5.zip"
-			},
-			"requiredGameVersion": "~1.37.2",
 			"dependencies": []
 		},
 		{
