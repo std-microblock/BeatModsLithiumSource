@@ -1,25 +1,40 @@
 {
 	"name": "PBOT",
-	"author": "auros",
-	"description": "AKA Personal Best Over Time. Displays and compares the player's personal best accuracy (%) at the time of their current play. Optional Counters+ integration",
+	"author": "Loloppe",
+	"description": "Record, display and compare the player's personal best accuracy (%) at the time of their current play.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.0",
+			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6435451868d6d1726879958e/universal/PBOT-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/66b6ad4688a93c0e38465593/universal/PBOT-1.0.3.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
-					"id": "SiraUtil",
-					"version": "3.1.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "Counters+",
+					"version": "2.3.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Counters+.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "protobuf-net",
 					"version": "3.0.102",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				}
 			]
 		}
