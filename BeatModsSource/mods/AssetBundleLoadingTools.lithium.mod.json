@@ -1,16 +1,21 @@
 {
 	"name": "AssetBundleLoadingTools",
-	"author": "nicoco007",
+	"author": "Bloodcloak",
 	"description": "A library with various tools to help safely load AssetBundles and fix legacy shader issues.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66bd481688a93c0e3846565a/universal/AssetBundleLoadingTools-1.1.7.zip"
+				"universal": "https://beatmods.com/uploads/66c4018baa1dfd6235d6d983/universal/AssetBundleLoadingTools-1.1.7.zip"
 			},
-			"requiredGameVersion": "~1.37.2",
+			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "BSIPA",
 					"version": "4.3.5",
@@ -20,11 +25,6 @@
 					"id": "System.IO.Compression",
 					"version": "4.6.57",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",

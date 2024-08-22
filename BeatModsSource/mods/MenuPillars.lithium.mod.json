@@ -7,23 +7,23 @@
 		{
 			"version": "0.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059bd7001413dcbe5498c/universal/MenuPillars-0.1.2.zip"
+				"universal": "https://beatmods.com/uploads/66c40186aa1dfd6235d6d971/universal/MenuPillars-0.1.2.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.2",
+					"version": "1.11.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.10",
+					"version": "3.1.11",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.4",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

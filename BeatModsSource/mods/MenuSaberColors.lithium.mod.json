@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.10",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66b2b04788a93c0e38465495/universal/MenuSaberColors-1.0.10.zip"
+				"universal": "https://beatmods.com/uploads/66c40186aa1dfd6235d6d977/universal/MenuSaberColors-1.0.10.zip"
 			},
-			"requiredGameVersion": "~1.37.2",
+			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.4",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

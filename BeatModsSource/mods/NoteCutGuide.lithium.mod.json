@@ -1,13 +1,13 @@
 {
-	"name": "CustomSaberColors",
-	"author": "Bloodcloak",
-	"description": "Lets you change saber colours separately from the notes",
+	"name": "NoteCutGuide",
+	"author": "Loloppe",
+	"description": "This plugin add a guide to each arrow note based on the direction of the note.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.2.1",
+			"version": "0.2.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c40185aa1dfd6235d6d968/universal/CustomSaberColors-0.2.1.zip"
+				"universal": "https://beatmods.com/uploads/66c5729eaa1dfd6235d6da43/universal/NoteCutGuide-0.2.6.zip"
 			},
 			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
@@ -17,9 +17,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "SiraUtil",
-					"version": "3.1.11",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "BS Utils",
+					"version": "1.14.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "CameraUtils",
+					"version": "1.0.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraUtils.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

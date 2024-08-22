@@ -1,15 +1,15 @@
 {
 	"name": "PBOT",
-	"author": "Loloppe",
+	"author": "Bloodcloak",
 	"description": "Record, display and compare the player's personal best accuracy (%) at the time of their current play.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66b6ad4688a93c0e38465593/universal/PBOT-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/66c401b9aa1dfd6235d6d9fb/universal/PBOT-1.0.3.zip"
 			},
-			"requiredGameVersion": "~1.37.2",
+			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
 				{
 					"id": "Counters+",
@@ -18,13 +18,13 @@
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.4",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "protobuf-net",
@@ -32,9 +32,9 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
 				},
 				{
-					"id": "SiraUtil",
-					"version": "3.1.11",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				}
 			]
 		}

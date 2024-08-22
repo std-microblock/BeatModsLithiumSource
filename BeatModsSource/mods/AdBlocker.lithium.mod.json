@@ -7,13 +7,13 @@
 		{
 			"version": "1.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66b2b03988a93c0e38465456/universal/AdBlocker-1.0.5.zip"
+				"universal": "https://beatmods.com/uploads/66c40177aa1dfd6235d6d926/universal/AdBlocker-1.0.5.zip"
 			},
-			"requiredGameVersion": "~1.37.2",
+			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.3.4",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
