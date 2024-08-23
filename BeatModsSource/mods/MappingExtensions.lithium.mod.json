@@ -7,9 +7,9 @@
 		{
 			"version": "1.7.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66b2b06888a93c0e384654ef/universal/MappingExtensions-1.7.5.zip"
+				"universal": "https://beatmods.com/uploads/66c401abaa1dfd6235d6d9da/universal/MappingExtensions-1.7.5.zip"
 			},
-			"requiredGameVersion": "~1.37.2",
+			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
 				{
 					"id": "SongCore",
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.4",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
