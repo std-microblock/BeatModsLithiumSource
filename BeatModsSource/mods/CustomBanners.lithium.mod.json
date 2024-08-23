@@ -1,9 +1,38 @@
 {
 	"name": "CustomBanners",
-	"author": "Toni Macaroni",
-	"description": "Display images as banners or cycle through them automatically",
+	"author": "Loloppe",
+	"description": "Add customs banners to your game.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "0.1.7",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66c6651aaa1dfd6235d6da57/universal/CustomBanners-0.1.7.zip"
+			},
+			"requiredGameVersion": "~1.37.3",
+			"dependencies": [
+				{
+					"id": "AssetBundleLoadingTools",
+					"version": "1.1.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "0.1.3",
 			"downloads": {
