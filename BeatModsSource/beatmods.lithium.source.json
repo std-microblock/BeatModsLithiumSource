@@ -703,6 +703,14 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "Height",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Height.lithium.mod.json"
+		},
+		{
+			"name": "EasyOffset",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EasyOffset.lithium.mod.json"
+		},
+		{
 			"name": "BetterSongSearch",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterSongSearch.lithium.mod.json"
 		},
@@ -725,10 +733,6 @@
 		{
 			"name": "Overly Sensitive Spectrograms",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Overly Sensitive Spectrograms.lithium.mod.json"
-		},
-		{
-			"name": "EasyOffset",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EasyOffset.lithium.mod.json"
 		},
 		{
 			"name": "KeepMyOverridesPls",
