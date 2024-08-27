@@ -1,9 +1,58 @@
 {
 	"name": "PlaylistManager",
-	"author": "Bloodcloak",
+	"author": "Meivyn",
 	"description": "Playlist loading and organization mod for Beat Saber. Click \"Mod Info\" for a guide on how to use the mod.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.7.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66ccddafaa1dfd6235d6db15/universal/PlaylistManager-1.7.2.zip"
+			},
+			"requiredGameVersion": "~1.37.3",
+			"dependencies": [
+				{
+					"id": "BeatSaberPlaylistsLib",
+					"version": "1.7.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.14.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaverSharp",
+					"version": "3.4.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverSharp.lithium.mod.json"
+				},
+				{
+					"id": "System.IO.Compression",
+					"version": "4.6.57",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "System.IO.Compression.FileSystem",
+					"version": "4.7.3056",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.FileSystem.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.7.1",
 			"downloads": {

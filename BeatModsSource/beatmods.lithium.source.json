@@ -15,12 +15,12 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TimeSyncStutterFix.lithium.mod.json"
 		},
 		{
-			"name": "WhyIsThereNoLeaderboard",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/WhyIsThereNoLeaderboard.lithium.mod.json"
-		},
-		{
 			"name": "PlaylistManager",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PlaylistManager.lithium.mod.json"
+		},
+		{
+			"name": "WhyIsThereNoLeaderboard",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/WhyIsThereNoLeaderboard.lithium.mod.json"
 		},
 		{
 			"name": "BeatSaverUpdater",
@@ -323,6 +323,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Hitbloq.lithium.mod.json"
 		},
 		{
+			"name": "BeatSaberPlaylistsLib",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
+		},
+		{
 			"name": "AssetBundleLoadingTools",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
 		},
@@ -361,10 +365,6 @@
 		{
 			"name": "_Heck",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/_Heck.lithium.mod.json"
-		},
-		{
-			"name": "BeatSaberPlaylistsLib",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberPlaylistsLib.lithium.mod.json"
 		},
 		{
 			"name": "CustomJSONData",
