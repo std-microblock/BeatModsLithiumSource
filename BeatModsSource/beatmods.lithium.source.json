@@ -531,20 +531,20 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ChromaLite.lithium.mod.json"
 		},
 		{
-			"name": "MultiplayerExtensions",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerExtensions.lithium.mod.json"
-		},
-		{
-			"name": "ServerBrowser",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ServerBrowser.lithium.mod.json"
-		},
-		{
 			"name": "BeatTogether",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatTogether.lithium.mod.json"
 		},
 		{
 			"name": "MultiplayerCore",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
+		},
+		{
+			"name": "MultiplayerExtensions",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerExtensions.lithium.mod.json"
+		},
+		{
+			"name": "ServerBrowser",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ServerBrowser.lithium.mod.json"
 		},
 		{
 			"name": "Versus",
