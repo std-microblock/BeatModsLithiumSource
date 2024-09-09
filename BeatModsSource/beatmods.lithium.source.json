@@ -531,12 +531,12 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ChromaLite.lithium.mod.json"
 		},
 		{
-			"name": "BeatTogether",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatTogether.lithium.mod.json"
-		},
-		{
 			"name": "MultiplayerCore",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
+		},
+		{
+			"name": "BeatTogether",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatTogether.lithium.mod.json"
 		},
 		{
 			"name": "MultiplayerExtensions",
