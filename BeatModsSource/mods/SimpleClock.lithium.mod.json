@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c401a1aa1dfd6235d6d9bc/universal/SimpleClock-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/66da41ac06ee8025387f4797/universal/SimpleClock-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.37.3",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

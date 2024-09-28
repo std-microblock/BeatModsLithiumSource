@@ -7,13 +7,13 @@
 		{
 			"version": "1.7.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c401abaa1dfd6235d6d9da/universal/MappingExtensions-1.7.5.zip"
+				"universal": "https://beatmods.com/uploads/66da41b506ee8025387f47b8/universal/MappingExtensions-1.7.5.zip"
 			},
-			"requiredGameVersion": "~1.37.3",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "3.14.11",
+					"version": "3.14.12",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{

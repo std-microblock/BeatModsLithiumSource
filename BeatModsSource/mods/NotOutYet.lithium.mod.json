@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c4019aaa1dfd6235d6d9a4/universal/NotOutYet-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/66da41a406ee8025387f477c/universal/NotOutYet-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.37.3",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
 					"id": "BS Utils",

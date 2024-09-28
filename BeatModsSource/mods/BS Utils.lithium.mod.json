@@ -1,9 +1,28 @@
 {
 	"name": "BS Utils",
-	"author": "Bloodcloak",
+	"author": "Loloppe",
 	"description": "A basic library for mods to use for common functionality.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.14.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66f428d080755b61c5ab81b2/universal/BS Utils-1.14.1.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "Ini Parser",
+					"version": "2.5.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.14.0",
 			"downloads": {

@@ -1,9 +1,23 @@
 {
 	"name": "SiraUtil",
-	"author": "nicoco007",
+	"author": "ItsKaitlyn03",
 	"description": "A powerful utility mod which provides more tools to Beat Saber modders.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "3.1.12",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66f364b206ee8025387f491a/universal/SiraUtil-3.1.12.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "3.1.11",
 			"downloads": {

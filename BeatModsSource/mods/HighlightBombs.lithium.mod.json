@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c4017faa1dfd6235d6d962/universal/HighlightBombs-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/66da418b06ee8025387f4743/universal/HighlightBombs-1.0.3.zip"
 			},
-			"requiredGameVersion": "~1.37.3",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
