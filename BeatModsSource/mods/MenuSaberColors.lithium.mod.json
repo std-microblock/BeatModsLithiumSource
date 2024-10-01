@@ -1,9 +1,28 @@
 {
 	"name": "MenuSaberColors",
-	"author": "Bloodcloak",
+	"author": "qqrz997",
 	"description": "Allows your menu pointers to follow your selected color scheme!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.0.11",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66dc7b8406ee8025387f483c/universal/MenuSaberColors-1.0.11.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.0.10",
 			"downloads": {

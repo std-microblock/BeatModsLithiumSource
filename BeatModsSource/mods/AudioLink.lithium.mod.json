@@ -7,13 +7,13 @@
 		{
 			"version": "1.0.6+1.37.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059b17001413dcbe54956/universal/AudioLink-1.0.6_1.37.0.zip"
+				"universal": "https://beatmods.com/uploads/66da418506ee8025387f4713/universal/AudioLink-1.0.6_1.37.0.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.3.4",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

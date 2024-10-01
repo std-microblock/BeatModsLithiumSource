@@ -1,9 +1,33 @@
 {
 	"name": "Height",
 	"author": "Loloppe",
-	"description": "Simple plugin that allow the player to select a specific Player Height between 0.01 and 2.5.\r\nAlso make Room Offset increment by 0.01 and Rotation by 1 instead of their default value.",
+	"description": "Simple plugin that allow the player to select a specific Player Height between 0.01 and 2.5. Also make Room Offset increment by 0.01 and Rotation by 1 instead of their default value.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "0.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66f472fe80755b61c5ab81f3/universal/Height-0.0.4.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.14.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "0.0.2",
 			"downloads": {

@@ -1,9 +1,17 @@
 {
 	"name": "Tweaks55",
-	"author": "Bloodcloak",
+	"author": "Kinsi55",
 	"description": "A collection of various tweaks which by themselves are too simple for their own designated mods",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "0.3.16",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66fb0c2d80755b61c5ab82a9/universal/Tweaks55-0.3.16.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": []
+		},
 		{
 			"version": "0.3.14",
 			"downloads": {
