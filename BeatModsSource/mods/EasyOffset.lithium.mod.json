@@ -5,6 +5,30 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "2.1.13",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66fba68380755b61c5ab82cd/universal/EasyOffset-2.1.13.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "2.1.11",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/66c88455aa1dfd6235d6daf0/universal/EasyOffset-2.1.11.zip"

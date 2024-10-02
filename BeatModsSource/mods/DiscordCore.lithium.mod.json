@@ -1,9 +1,28 @@
 {
 	"name": "DiscordCore",
-	"author": "Bloodcloak",
+	"author": "DJDavid98",
 	"description": "A plugin for Discord integration in Beat Saber",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "3.0.6",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66fc63c880755b61c5ab82d2/universal/DiscordCore-3.0.6.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "3.0.5",
 			"downloads": {

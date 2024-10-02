@@ -1,9 +1,38 @@
 {
 	"name": "bsrpc",
-	"author": "Bloodcloak",
+	"author": "DJDavid98",
 	"description": "Discord Rich Presence integration for Beat Saber",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66fc642e80755b61c5ab82d5/universal/bsrpc-1.2.0.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "DataPuller",
+					"version": "2.1.14",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DataPuller.lithium.mod.json"
+				},
+				{
+					"id": "DiscordCore",
+					"version": "3.0.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.1.5",
 			"downloads": {
