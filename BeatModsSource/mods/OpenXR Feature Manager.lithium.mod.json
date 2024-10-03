@@ -1,0 +1,22 @@
+{
+	"name": "OpenXR Feature Manager",
+	"author": "nicoco007",
+	"description": "Manages adding OpenXR features at runtime.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66f332f606ee8025387f490b/universal/OpenXR Feature Manager-1.0.1.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "OpenXR Tracker Profiles",
+	"author": "nicoco007",
+	"description": "Adds profiles to OpenXR to support more devices such as Vive Trackers.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/66f3330106ee8025387f490e/universal/OpenXR Tracker Profiles-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "OpenXR Feature Manager",
+					"version": "1.0.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/OpenXR Feature Manager.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}
