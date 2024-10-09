@@ -1,9 +1,28 @@
 {
 	"name": "I Forgor",
-	"author": "Futuremappermydud",
+	"author": "Bloodcloak",
 	"description": "Displays the direction of the last notes you hit and saber angles in the pause menu.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.4.1",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6705c0049011dc298a9e8512/universal/I Forgor-1.4.1.zip"
+			},
+			"requiredGameVersion": "~1.38.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.4.0",
 			"downloads": {
