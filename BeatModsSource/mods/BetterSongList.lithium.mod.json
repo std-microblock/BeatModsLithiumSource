@@ -1,15 +1,15 @@
 {
 	"name": "BetterSongList",
-	"author": "Kinsi55",
+	"author": "Bloodcloak",
 	"description": "Adds various improvements to the Basegame song list like Filters, a persisted state and much more",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.4.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66fad5a880755b61c5ab82a0/universal/BetterSongList-0.4.1.zip"
+				"universal": "https://beatmods.com/uploads/6705c02a9011dc298a9e8578/universal/BetterSongList-0.4.1.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.38.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.1",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

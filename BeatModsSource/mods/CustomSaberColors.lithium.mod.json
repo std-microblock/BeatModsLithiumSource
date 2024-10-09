@@ -1,15 +1,15 @@
 {
 	"name": "CustomSaberColors",
-	"author": "qqrz997",
+	"author": "Bloodcloak",
 	"description": "Lets you change saber colours separately from the notes",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.2.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66f459a480755b61c5ab81ba/universal/CustomSaberColors-0.2.5.zip"
+				"universal": "https://beatmods.com/uploads/6705bfef9011dc298a9e84f7/universal/CustomSaberColors-0.2.5.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.38.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.0",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

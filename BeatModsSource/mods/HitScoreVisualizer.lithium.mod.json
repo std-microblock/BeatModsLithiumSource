@@ -1,15 +1,15 @@
 {
 	"name": "HitScoreVisualizer",
-	"author": "qqrz997",
+	"author": "Bloodcloak",
 	"description": "Visualizes the scores of your hits! Overly complex config options! Numbers? All the pros use it, except the ones who don't. (But they should.)",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.4.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66f45b2380755b61c5ab81c9/universal/HitScoreVisualizer-3.4.3.zip"
+				"universal": "https://beatmods.com/uploads/6705c0059011dc298a9e851b/universal/HitScoreVisualizer-3.4.3.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.38.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.0",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

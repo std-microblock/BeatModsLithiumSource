@@ -1,15 +1,15 @@
 {
 	"name": "OpenXR Hands",
-	"author": "nicoco007",
+	"author": "Bloodcloak",
 	"description": "Adds hand/finger tracking support for OpenXR.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66f3330906ee8025387f4911/universal/OpenXR Hands-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/6705bff09011dc298a9e8506/universal/OpenXR Hands-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.38.0",
 			"dependencies": [
 				{
 					"id": "OpenXR Feature Manager",

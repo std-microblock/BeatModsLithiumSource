@@ -1,15 +1,15 @@
 {
 	"name": "Custom Backgrounds",
-	"author": "redageddon",
+	"author": "Bloodcloak",
 	"description": "A plugin that enables custom beatsaber backgrounds",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66fcd04e80755b61c5ab82f7/universal/Custom Backgrounds-1.2.1.zip"
+				"universal": "https://beatmods.com/uploads/6705c00b9011dc298a9e8533/universal/Custom Backgrounds-1.2.1.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.38.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.1",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

@@ -7,9 +7,9 @@
 		{
 			"version": "2.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66da418606ee8025387f4719/universal/ImageSharp-2.0.0.zip"
+				"universal": "https://beatmods.com/uploads/6705bfec9011dc298a9e84cd/universal/ImageSharp-2.0.0.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.38.0",
 			"dependencies": [
 				{
 					"id": "System.IO.Compression",

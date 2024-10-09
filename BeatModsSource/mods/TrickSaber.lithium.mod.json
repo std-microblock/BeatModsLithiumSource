@@ -1,15 +1,15 @@
 {
 	"name": "TrickSaber",
-	"author": "qqrz997",
+	"author": "Bloodcloak",
 	"description": "Perform tricks like spinning and throwing your sabers",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66f45bb380755b61c5ab81d2/universal/TrickSaber-1.1.7.zip"
+				"universal": "https://beatmods.com/uploads/6705bff09011dc298a9e84fd/universal/TrickSaber-1.1.7.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.38.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.0",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
