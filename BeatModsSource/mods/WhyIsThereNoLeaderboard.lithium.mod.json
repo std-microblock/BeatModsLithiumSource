@@ -1,9 +1,33 @@
 {
 	"name": "WhyIsThereNoLeaderboard",
-	"author": "Bloodcloak",
+	"author": "Nuggo",
 	"description": "Stopgap plugin that clarifies why leaderboards on custom songs are not supported.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/670722269011dc298a9e862e/universal/WhyIsThereNoLeaderboard-1.0.3.zip"
+			},
+			"requiredGameVersion": "~1.38.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.0.2",
 			"downloads": {

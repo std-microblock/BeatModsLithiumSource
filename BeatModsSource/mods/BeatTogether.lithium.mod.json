@@ -1,15 +1,15 @@
 {
 	"name": "BeatTogether",
-	"author": "Kevman95",
+	"author": "Bloodcloak",
 	"description": "A multiplayer private server for the modding community with support for crossplay between PC and Quest.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66f45f0580755b61c5ab81db/universal/BeatTogether-2.2.1.zip"
+				"universal": "https://beatmods.com/uploads/6705c02c9011dc298a9e858d/universal/BeatTogether-2.2.1.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.38.0",
 			"dependencies": [
 				{
 					"id": "MultiplayerCore",
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.0",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
