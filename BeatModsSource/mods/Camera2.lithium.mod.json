@@ -5,6 +5,25 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "0.6.115",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/670810d99011dc298a9e8642/universal/Camera2-0.6.115.zip"
+			},
+			"requiredGameVersion": "~1.38.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "0.6.114",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/66fb192380755b61c5ab82ae/universal/Camera2-0.6.114.zip"
