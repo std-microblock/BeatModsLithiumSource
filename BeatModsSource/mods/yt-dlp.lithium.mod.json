@@ -5,6 +5,14 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "2024.10.7",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/670a742a9011dc298a9e865b/universal/yt-dlp-2024.10.7.zip"
+			},
+			"requiredGameVersion": "~1.38.0",
+			"dependencies": []
+		},
+		{
 			"version": "2023.11.16",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/658216715e029208799de5f0/universal/yt-dlp-2023.11.16.zip"
