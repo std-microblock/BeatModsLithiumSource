@@ -15,6 +15,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TimeSyncStutterFix.lithium.mod.json"
 		},
 		{
+			"name": "BeatSaverVoting",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverVoting.lithium.mod.json"
+		},
+		{
 			"name": "Camera2",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Camera2.lithium.mod.json"
 		},
@@ -33,10 +37,6 @@
 		{
 			"name": "BeatSaverDownloader",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverDownloader.lithium.mod.json"
-		},
-		{
-			"name": "BeatSaverVoting",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverVoting.lithium.mod.json"
 		},
 		{
 			"name": "ModelDownloader",
