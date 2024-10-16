@@ -5,6 +5,20 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.12.3",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/670eebd39011dc298a9e868a/universal/BeatSaberMarkupLanguage-1.12.3.zip"
+			},
+			"requiredGameVersion": "~1.38.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.12.2",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/66fcc95280755b61c5ab82f1/universal/BeatSaberMarkupLanguage-1.12.2.zip"
