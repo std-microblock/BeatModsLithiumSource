@@ -5,9 +5,9 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.6.115",
+			"version": "0.6.116",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/670810d99011dc298a9e8642/universal/Camera2-0.6.115.zip"
+				"universal": "https://beatmods.com/uploads/67141a089011dc298a9e86ab/universal/Camera2-0.6.116.zip"
 			},
 			"requiredGameVersion": "~1.38.0",
 			"dependencies": [
