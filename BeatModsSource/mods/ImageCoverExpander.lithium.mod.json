@@ -1,9 +1,28 @@
 {
 	"name": "ImageCoverExpander",
-	"author": "Millzy",
+	"author": "qqrz997",
 	"description": "Expands the artwork cover of a song. ",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "3.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6719a9729011dc298a9e86cd/universal/ImageCoverExpander-3.0.2.zip"
+			},
+			"requiredGameVersion": "~1.38.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "3.0.0",
 			"downloads": {
