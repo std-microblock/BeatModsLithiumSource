@@ -547,16 +547,16 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ChromaLite.lithium.mod.json"
 		},
 		{
+			"name": "MultiplayerCore",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
+		},
+		{
 			"name": "MultiplayerMirror",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerMirror.lithium.mod.json"
 		},
 		{
 			"name": "BeatTogether",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatTogether.lithium.mod.json"
-		},
-		{
-			"name": "MultiplayerCore",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
 		},
 		{
 			"name": "MultiplayerExtensions",
@@ -727,6 +727,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "JDFixer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/JDFixer.lithium.mod.json"
+		},
+		{
 			"name": "EasyOffset",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/EasyOffset.lithium.mod.json"
 		},
@@ -777,10 +781,6 @@
 		{
 			"name": "HitsoundTweaks",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HitsoundTweaks.lithium.mod.json"
-		},
-		{
-			"name": "JDFixer",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/JDFixer.lithium.mod.json"
 		},
 		{
 			"name": "PlayFirst(SubmitLater)",
