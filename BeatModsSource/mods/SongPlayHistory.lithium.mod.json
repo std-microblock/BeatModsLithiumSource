@@ -1,15 +1,15 @@
 {
 	"name": "SongPlayHistory",
-	"author": "qe201020335",
+	"author": "Bloodcloak",
 	"description": "A local scores and votes tracker with a simple in-game UI.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.1.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6706132c9011dc298a9e8600/universal/SongPlayHistory-2.1.6.zip"
+				"universal": "https://beatmods.com/uploads/673409e8a361b018134c1f67/universal/SongPlayHistory-2.1.6.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

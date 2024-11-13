@@ -1,15 +1,15 @@
 {
 	"name": "PPCounter",
-	"author": "Loloppe",
+	"author": "Bloodcloak",
 	"description": "Adds a custom counter to Counters+ displaying how much pp your current play is worth on a ranked map",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66f7078c80755b61c5ab822e/universal/PPCounter-2.0.6.zip"
+				"universal": "https://beatmods.com/uploads/673409e9a361b018134c1f76/universal/PPCounter-2.0.6.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "Counters+",
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.1",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

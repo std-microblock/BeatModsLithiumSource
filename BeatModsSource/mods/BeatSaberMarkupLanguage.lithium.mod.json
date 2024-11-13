@@ -1,15 +1,15 @@
 {
 	"name": "BeatSaberMarkupLanguage",
-	"author": "nicoco007",
+	"author": "Bloodcloak",
 	"description": "An XML-based UI system.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.12.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/670eebd39011dc298a9e868a/universal/BeatSaberMarkupLanguage-1.12.3.zip"
+				"universal": "https://beatmods.com/uploads/673409a5a361b018134c1e89/universal/BeatSaberMarkupLanguage-1.12.3.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

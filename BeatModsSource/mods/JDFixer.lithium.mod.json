@@ -1,15 +1,15 @@
 {
 	"name": "JDFixer",
-	"author": "zephyr",
+	"author": "Bloodcloak",
 	"description": "Change Jump Distance and Reaction Time, including automation through preferences and thresholds.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "7.3.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/671d33749011dc298a9e86e4/universal/JDFixer-1.38.0.zip"
+				"universal": "https://beatmods.com/uploads/673409c2a361b018134c1f01/universal/JDFixer-7.3.0.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

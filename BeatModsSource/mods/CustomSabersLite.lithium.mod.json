@@ -1,19 +1,19 @@
 {
 	"name": "CustomSabersLite",
-	"author": "qqrz997",
+	"author": "Bloodcloak",
 	"description": "Adds support for Custom Sabers and Whackers to the game.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.12.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66f459c980755b61c5ab81bd/universal/CustomSabersLite-0.12.7.zip"
+				"universal": "https://beatmods.com/uploads/673409d1a361b018134c1f40/universal/CustomSabersLite-0.12.7.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "AssetBundleLoadingTools",
-					"version": "1.1.8",
+					"version": "1.1.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
 				},
 				{
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.0",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

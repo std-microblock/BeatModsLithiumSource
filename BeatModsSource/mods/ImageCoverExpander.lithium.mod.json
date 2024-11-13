@@ -1,15 +1,15 @@
 {
 	"name": "ImageCoverExpander",
-	"author": "qqrz997",
+	"author": "Bloodcloak",
 	"description": "Expands the artwork cover of a song. ",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "3.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6719a9729011dc298a9e86cd/universal/ImageCoverExpander-3.0.2.zip"
+				"universal": "https://beatmods.com/uploads/673409c7a361b018134c1f13/universal/ImageCoverExpander-3.0.2.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",

@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66da418706ee8025387f471c/universal/CameraUtils-1.0.7.zip"
+				"universal": "https://beatmods.com/uploads/673409a9a361b018134c1e9b/universal/CameraUtils-1.0.7.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

@@ -1,15 +1,15 @@
 {
 	"name": "DataPuller",
-	"author": "DJDavid98",
+	"author": "Bloodcloak",
 	"description": "Gathers data about the current map you are playing to then be sent out over a websocket for other software to use, e.g. A web overlay like BSDP-Overlay. This mod works with multi PC setups!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.1.15",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6707fff59011dc298a9e863f/universal/DataPuller-2.1.15.zip"
+				"universal": "https://beatmods.com/uploads/673409e7a361b018134c1f61/universal/DataPuller-2.1.15.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "SongCore",

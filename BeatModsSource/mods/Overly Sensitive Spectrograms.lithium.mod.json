@@ -1,15 +1,15 @@
 {
 	"name": "Overly Sensitive Spectrograms",
-	"author": "ItsKaitlyn03",
+	"author": "Bloodcloak",
 	"description": "Ever wanted your environment spectrograms to look more epic? This Beat Saber plugin allows you to adjust the sensitivity of them.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6709bf6b9011dc298a9e8652/universal/Overly Sensitive Spectrograms-1.1.6.zip"
+				"universal": "https://beatmods.com/uploads/673409c7a361b018134c1f07/universal/Overly Sensitive Spectrograms-1.1.6.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

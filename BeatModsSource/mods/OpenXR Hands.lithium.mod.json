@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6705bff09011dc298a9e8506/universal/OpenXR Hands-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/673409b5a361b018134c1eda/universal/OpenXR Hands-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "OpenXR Feature Manager",

@@ -1,15 +1,15 @@
 {
 	"name": "FCPercentage",
-	"author": "Loloppe",
+	"author": "Bloodcloak",
 	"description": "A Beat Saber mod to help you practice your accuracy by showing your percentage as if you had a full combo!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.4.9",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6705f4999011dc298a9e85dc/universal/FCPercentage-1.4.9.zip"
+				"universal": "https://beatmods.com/uploads/673409e8a361b018134c1f73/universal/FCPercentage-1.4.9.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "Counters+",
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

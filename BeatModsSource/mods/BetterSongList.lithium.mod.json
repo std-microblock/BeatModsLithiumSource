@@ -7,13 +7,13 @@
 		{
 			"version": "0.4.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6705c02a9011dc298a9e8578/universal/BetterSongList-0.4.1.zip"
+				"universal": "https://beatmods.com/uploads/673409e8a361b018134c1f70/universal/BetterSongList-0.4.1.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "3.14.14",
+					"version": "3.14.15",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

@@ -7,9 +7,9 @@
 		{
 			"version": "0.3.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6705c00a9011dc298a9e852d/universal/ModelMenu-0.3.2.zip"
+				"universal": "https://beatmods.com/uploads/673409c7a361b018134c1f0a/universal/ModelMenu-0.3.2.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

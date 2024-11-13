@@ -7,9 +7,9 @@
 		{
 			"version": "0.2.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6705bfef9011dc298a9e84f7/universal/CustomSaberColors-0.2.5.zip"
+				"universal": "https://beatmods.com/uploads/673409aca361b018134c1ec8/universal/CustomSaberColors-0.2.5.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

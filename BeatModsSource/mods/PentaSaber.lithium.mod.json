@@ -1,15 +1,15 @@
 {
 	"name": "PentaSaber",
-	"author": "gamegod4",
+	"author": "Bloodcloak",
 	"description": "A remake of the old ChromaToggle and PentaMaul game mode. Each saber has an alternate color activated by pressing trigger. Neutral blocks are inserted between transitions to smooth color switches.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.109",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/670ceb109011dc298a9e8677/universal/PentaSaber-1.0.109.zip"
+				"universal": "https://beatmods.com/uploads/673409ada361b018134c1ecb/universal/PentaSaber-1.0.109.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
