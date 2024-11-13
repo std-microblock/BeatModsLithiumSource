@@ -1,15 +1,15 @@
 {
 	"name": "_Heck",
-	"author": "Aeroluna",
+	"author": "Bloodcloak",
 	"description": "Library for Aeroluna's mods.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.6.6+1.38.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/670604a59011dc298a9e85f1/universal/_Heck-1.6.6_1.38.0.zip"
+				"universal": "https://beatmods.com/uploads/673409ada361b018134c1ed1/universal/_Heck-1.6.6_1.38.0.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -17,14 +17,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "CustomJSONData",
 					"version": "2.6.4+1.37.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

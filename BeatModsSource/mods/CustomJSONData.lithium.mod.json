@@ -1,9 +1,23 @@
 {
 	"name": "CustomJSONData",
-	"author": "Bloodcloak",
+	"author": "Aeroluna",
 	"description": "Lets mappers include arbitrary data in beatmaps, and lets modders access that data. Why did I make this? Good question.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "2.6.6",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/67347cd6a361b018134c1ffa/universal/CustomJSONData-2.6.6.zip"
+			},
+			"requiredGameVersion": "~1.39.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "2.6.4+1.37.5",
 			"downloads": {
