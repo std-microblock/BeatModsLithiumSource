@@ -17,14 +17,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DataPuller.lithium.mod.json"
 				},
 				{
-					"id": "DiscordCore",
-					"version": "3.0.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordCore.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "DiscordCore",
+					"version": "3.0.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/DiscordCore.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
