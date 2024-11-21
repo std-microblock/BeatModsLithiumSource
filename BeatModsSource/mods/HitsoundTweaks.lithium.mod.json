@@ -5,6 +5,30 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.1.7",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/673409c2a361b018134c1efb/universal/HitsoundTweaks-1.1.7.zip"
+			},
+			"requiredGameVersion": "~1.39.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.1.4",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/669059e57001413dcbe549ad/universal/HitsoundTweaks-1.1.4.zip"

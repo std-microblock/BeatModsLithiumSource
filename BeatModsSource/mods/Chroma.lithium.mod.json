@@ -5,6 +5,45 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "2.9.10+1.39.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/673d3c6ba361b018134c209d/universal/Chroma-2.9.10_1.39.0.zip"
+			},
+			"requiredGameVersion": "~1.39.0",
+			"dependencies": [
+				{
+					"id": "CustomJSONData",
+					"version": "2.6.6+1.39.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "LookupID",
+					"version": "1.0.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LookupID.lithium.mod.json"
+				},
+				{
+					"id": "Heck",
+					"version": "1.7.0+1.39.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Heck.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "2.9.7+1.38.0",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/6707b4059011dc298a9e8635/universal/Chroma-2.9.7_1.38.0.zip"

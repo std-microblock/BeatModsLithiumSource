@@ -144,6 +144,30 @@
 			]
 		},
 		{
+			"version": "3.0.18",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/673625dca361b018134c2012/universal/Enhancements-3.0.18.zip"
+			},
+			"requiredGameVersion": "~1.39.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "3.0.16",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/6705c00e9011dc298a9e853c/universal/Enhancements-3.0.16.zip"

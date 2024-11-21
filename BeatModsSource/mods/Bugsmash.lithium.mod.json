@@ -1,0 +1,22 @@
+{
+	"name": "Bugsmash",
+	"author": "ItsKaitlyn03",
+	"description": "Community-driven efforts to fix bugs inside Beat Saber.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6736fddba361b018134c2037/universal/Bugsmash-1.0.0.zip"
+			},
+			"requiredGameVersion": "~1.39.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

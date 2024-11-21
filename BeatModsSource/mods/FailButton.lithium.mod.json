@@ -1,0 +1,22 @@
+{
+	"name": "FailButton",
+	"author": "qe201020335",
+	"description": "Adds a button to the pause menu that fails the level. Original mod made by Kinsi55",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "0.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6736b649a361b018134c201d/universal/FailButton-0.0.4.zip"
+			},
+			"requiredGameVersion": "~1.39.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}
