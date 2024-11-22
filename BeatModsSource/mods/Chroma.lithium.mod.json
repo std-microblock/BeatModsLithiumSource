@@ -1,20 +1,20 @@
 {
 	"name": "Chroma",
-	"author": "Aeroluna",
+	"author": "Bloodcloak",
 	"description": "Chroma™ boasts the most power in color customization you've ever seen, allowing mappers to customize blocks, lights, sabers, and barriers into not just one but multiple colors!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.9.10+1.39.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673d3c6ba361b018134c209d/universal/Chroma-2.9.10_1.39.0.zip"
+				"universal": "https://beatmods.com/uploads/673fd08d3a68900bb0482728/universal/Chroma-2.9.10_1.39.0.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
-					"id": "CustomJSONData",
-					"version": "2.6.6+1.39.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
+					"id": "LookupID",
+					"version": "1.0.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LookupID.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -22,9 +22,9 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
-					"id": "LookupID",
-					"version": "1.0.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/LookupID.lithium.mod.json"
+					"id": "CustomJSONData",
+					"version": "2.6.6+1.39.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomJSONData.lithium.mod.json"
 				},
 				{
 					"id": "Heck",

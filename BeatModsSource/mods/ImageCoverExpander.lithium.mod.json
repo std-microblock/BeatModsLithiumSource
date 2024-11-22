@@ -7,9 +7,9 @@
 		{
 			"version": "3.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409c7a361b018134c1f13/universal/ImageCoverExpander-3.0.2.zip"
+				"universal": "https://beatmods.com/uploads/673fd0713a68900bb04826f8/universal/ImageCoverExpander-3.0.2.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "SiraUtil",

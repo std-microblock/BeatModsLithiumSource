@@ -1,15 +1,15 @@
 {
 	"name": "BeatSaberPlaylistsLib",
-	"author": "Meivyn",
+	"author": "Bloodcloak",
 	"description": "A library for reading and writing Beat Saber playlists. Does not do anything by itself.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.7.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/670607a29011dc298a9e85fd/universal/BeatSaberPlaylistsLib-1.7.2.zip"
+				"universal": "https://beatmods.com/uploads/673fd08d3a68900bb0482725/universal/BeatSaberPlaylistsLib-1.7.2.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "SongCore",

@@ -7,15 +7,10 @@
 		{
 			"version": "6.1.22+1.38.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409cda361b018134c1f34/universal/Custom Platforms-6.1.22_1.38.0.zip"
+				"universal": "https://beatmods.com/uploads/673fd0733a68900bb0482707/universal/Custom Platforms-6.1.22_1.38.0.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.12",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
 				{
 					"id": "AssetBundleLoadingTools",
 					"version": "1.1.9",
@@ -25,6 +20,11 @@
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

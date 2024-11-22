@@ -1,15 +1,15 @@
 {
 	"name": "BetterSongSearch",
-	"author": "Kinsi55",
+	"author": "Bloodcloak",
 	"description": "Search and download songs with a lot of filtering and sorting options and without frustration! Also allows you to create Playlists!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.7.89",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/670815a79011dc298a9e8645/universal/BetterSongSearch-0.7.89.zip"
+				"universal": "https://beatmods.com/uploads/673fd08e3a68900bb0482737/universal/BetterSongSearch-0.7.89.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "SongCore",
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.14.1",
+					"version": "1.14.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
@@ -32,14 +32,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "SongDetailsCache",
 					"version": "1.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				}
 			]
 		},

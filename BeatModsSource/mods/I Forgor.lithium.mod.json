@@ -7,9 +7,9 @@
 		{
 			"version": "1.4.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6705c0049011dc298a9e8512/universal/I Forgor-1.4.1.zip"
+				"universal": "https://beatmods.com/uploads/673fd0673a68900bb04826bc/universal/I Forgor-1.4.1.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "SiraUtil",

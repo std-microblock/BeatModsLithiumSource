@@ -1,15 +1,15 @@
 {
 	"name": "UITweaks",
-	"author": "Exomanz",
+	"author": "Bloodcloak",
 	"description": "Add some color to your in-game HUD!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "4.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/67101fc89011dc298a9e869a/universal/UITweaks-4.0.3.zip"
+				"universal": "https://beatmods.com/uploads/673fd0703a68900bb04826f5/universal/UITweaks-4.0.3.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

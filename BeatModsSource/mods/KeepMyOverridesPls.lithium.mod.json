@@ -7,9 +7,9 @@
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409c7a361b018134c1f0d/universal/KeepMyOverridesPls-1.1.2.zip"
+				"universal": "https://beatmods.com/uploads/673fd06d3a68900bb04826dd/universal/KeepMyOverridesPls-1.1.2.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "SiraUtil",

@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409b5a361b018134c1ed7/universal/OpenXR Tracker Profiles-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/673fd05a3a68900bb04826aa/universal/OpenXR Tracker Profiles-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "OpenXR Feature Manager",

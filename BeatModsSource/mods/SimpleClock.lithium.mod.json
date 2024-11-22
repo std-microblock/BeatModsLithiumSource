@@ -7,18 +7,18 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66da41ac06ee8025387f4797/universal/SimpleClock-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/673fd0703a68900bb04826ef/universal/SimpleClock-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.4",
+					"version": "1.12.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.11",
+					"version": "3.1.12",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

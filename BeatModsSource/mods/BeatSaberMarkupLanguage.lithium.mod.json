@@ -7,9 +7,9 @@
 		{
 			"version": "1.12.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409a5a361b018134c1e89/universal/BeatSaberMarkupLanguage-1.12.3.zip"
+				"universal": "https://beatmods.com/uploads/673fd03e3a68900bb0482665/universal/BeatSaberMarkupLanguage-1.12.3.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "BSIPA",

@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.6+1.37.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6705bfe99011dc298a9e84bb/universal/AudioLink-1.0.6_1.37.0.zip"
+				"universal": "https://beatmods.com/uploads/673fd03b3a68900bb048264a/universal/AudioLink-1.0.6_1.37.0.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "BSIPA",
