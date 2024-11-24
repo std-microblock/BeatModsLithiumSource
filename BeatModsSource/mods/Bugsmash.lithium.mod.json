@@ -5,11 +5,11 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.0",
+			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6736fddba361b018134c2037/universal/Bugsmash-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/6742826c3a68900bb04827e1/universal/Bugsmash-1.0.2.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "BSIPA",

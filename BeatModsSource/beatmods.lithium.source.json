@@ -3,6 +3,10 @@
 	"author": "vanZeben and contributors",
 	"mods": [
 		{
+			"name": "Bugsmash",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Bugsmash.lithium.mod.json"
+		},
+		{
 			"name": "BSIPA",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 		},
@@ -25,10 +29,6 @@
 		{
 			"name": "PlaylistManager",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/PlaylistManager.lithium.mod.json"
-		},
-		{
-			"name": "Bugsmash",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Bugsmash.lithium.mod.json"
 		},
 		{
 			"name": "Camera2",
