@@ -19,6 +19,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TimeSyncStutterFix.lithium.mod.json"
 		},
 		{
+			"name": "BeatSaverDownloader",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverDownloader.lithium.mod.json"
+		},
+		{
 			"name": "BeatSaverUpdater",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverUpdater.lithium.mod.json"
 		},
@@ -37,10 +41,6 @@
 		{
 			"name": "WhyIsThereNoLeaderboard",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/WhyIsThereNoLeaderboard.lithium.mod.json"
-		},
-		{
-			"name": "BeatSaverDownloader",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverDownloader.lithium.mod.json"
 		},
 		{
 			"name": "ModelDownloader",
@@ -73,6 +73,10 @@
 		{
 			"name": "SongLoader",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+		},
+		{
+			"name": "CustomBanners",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomBanners.lithium.mod.json"
 		},
 		{
 			"name": "AudioLink",
@@ -113,10 +117,6 @@
 		{
 			"name": "CustomWalls",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomWalls.lithium.mod.json"
-		},
-		{
-			"name": "CustomBanners",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomBanners.lithium.mod.json"
 		},
 		{
 			"name": "MenuPillars",
@@ -235,6 +235,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MusicEscape.lithium.mod.json"
 		},
 		{
+			"name": "Claws",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Claws.lithium.mod.json"
+		},
+		{
 			"name": "TrickSaber",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TrickSaber.lithium.mod.json"
 		},
@@ -249,10 +253,6 @@
 		{
 			"name": "MappingExtensions",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MappingExtensions.lithium.mod.json"
-		},
-		{
-			"name": "Claws",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Claws.lithium.mod.json"
 		},
 		{
 			"name": "360fyer",
@@ -739,6 +739,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomFailText.lithium.mod.json"
 		},
 		{
+			"name": "AutoPauseStealth",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPauseStealth.lithium.mod.json"
+		},
+		{
 			"name": "HitsoundTweaks",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/HitsoundTweaks.lithium.mod.json"
 		},
@@ -789,10 +793,6 @@
 		{
 			"name": "GottaGoFast",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/GottaGoFast.lithium.mod.json"
-		},
-		{
-			"name": "AutoPauseStealth",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPauseStealth.lithium.mod.json"
 		},
 		{
 			"name": "PlayFirst(SubmitLater)",
@@ -939,6 +939,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AutoPause.lithium.mod.json"
 		},
 		{
+			"name": "SongChartVisualizer",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongChartVisualizer.lithium.mod.json"
+		},
+		{
 			"name": "TakeMeToResults",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/TakeMeToResults.lithium.mod.json"
 		},
@@ -997,10 +1001,6 @@
 		{
 			"name": "Small Menu",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Small Menu.lithium.mod.json"
-		},
-		{
-			"name": "SongChartVisualizer",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongChartVisualizer.lithium.mod.json"
 		},
 		{
 			"name": "PerformanceMeter",

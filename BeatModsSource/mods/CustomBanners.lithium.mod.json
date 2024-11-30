@@ -1,25 +1,49 @@
 {
 	"name": "CustomBanners",
-	"author": "Bloodcloak",
+	"author": "Loloppe",
 	"description": "Add customs banners to your game.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.1.9",
+			"version": "0.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd07e3a68900bb0482716/universal/CustomBanners-0.1.9.zip"
+				"universal": "https://beatmods.com/uploads/67492f643a68900bb048282c/universal/CustomBanners-0.2.0.zip"
 			},
 			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
-					"id": "AssetBundleLoadingTools",
-					"version": "1.1.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.1.14",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.1.9",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/673409d8a361b018134c1f46/universal/CustomBanners-0.1.9.zip"
+			},
+			"requiredGameVersion": "~1.39.0",
+			"dependencies": [
 				{
 					"id": "SiraUtil",
 					"version": "3.1.12",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "AssetBundleLoadingTools",
+					"version": "1.1.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",

@@ -1,9 +1,53 @@
 {
 	"name": "BeatSaverDownloader",
-	"author": "Bloodcloak",
+	"author": "Top_Cat",
 	"description": "Enables you to download songs from BeatSaver in-game.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "6.0.7",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6741a6eb3a68900bb04827d8/universal/BeatSaverDownloader-6.0.7.zip"
+			},
+			"requiredGameVersion": "~1.39.1",
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.14.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "ScoreSaberSharp",
+					"version": "0.1.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/ScoreSaberSharp.lithium.mod.json"
+				},
+				{
+					"id": "System.IO.Compression.FileSystem",
+					"version": "4.7.3056",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.FileSystem.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.14.15",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaverSharp",
+					"version": "3.4.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaverSharp.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "6.0.6",
 			"downloads": {

@@ -1,9 +1,33 @@
 {
 	"name": "SongChartVisualizer",
-	"author": "Bloodcloak",
+	"author": "Nuggo",
 	"description": "Displays an in-game chart with song difficulty information!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
+		{
+			"version": "1.1.11",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/674298da3a68900bb04827e6/universal/SongChartVisualizer-1.1.11.zip"
+			},
+			"requiredGameVersion": "~1.39.1",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.14",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
 		{
 			"version": "1.1.10",
 			"downloads": {
