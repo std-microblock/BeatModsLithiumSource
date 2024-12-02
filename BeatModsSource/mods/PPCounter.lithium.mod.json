@@ -1,15 +1,44 @@
 {
 	"name": "PPCounter",
-	"author": "Bloodcloak",
+	"author": "Loloppe",
 	"description": "Adds a custom counter to Counters+ displaying how much pp your current play is worth on a ranked map",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.0.6",
+			"version": "2.0.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd08f3a68900bb0482749/universal/PPCounter-2.0.6.zip"
+				"universal": "https://beatmods.com/uploads/674bc3cb0a9b316ba40a38de/universal/PPCounter-2.0.7.zip"
 			},
 			"requiredGameVersion": "~1.39.1",
+			"dependencies": [
+				{
+					"id": "Counters+",
+					"version": "2.3.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Counters+.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.14",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.0.6",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/673409e9a361b018134c1f76/universal/PPCounter-2.0.6.zip"
+			},
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
 					"id": "Counters+",
