@@ -1,16 +1,21 @@
 {
-	"name": "BSAssetLib",
-	"author": "AlexxSeven",
-	"description": "A small beat saber mod for shader and asset creators, allowing use of the active player color scheme. ",
+	"name": "Scribble",
+	"author": "Loloppe",
+	"description": "A Beat Saber mod that allows you to draw in the scene",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.2",
+			"version": "0.2.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/674fe21f0a9b316ba40a3918/universal/BSAssetLib-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/674a50970a9b316ba40a38cb/universal/Scribble-0.2.5.zip"
 			},
 			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.14",
