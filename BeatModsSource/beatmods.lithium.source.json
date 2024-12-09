@@ -75,6 +75,10 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
 		},
 		{
+			"name": "Custom Backgrounds",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Backgrounds.lithium.mod.json"
+		},
+		{
 			"name": "Scribble",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Scribble.lithium.mod.json"
 		},
@@ -117,10 +121,6 @@
 		{
 			"name": "CustomWalls",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomWalls.lithium.mod.json"
-		},
-		{
-			"name": "Custom Backgrounds",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Backgrounds.lithium.mod.json"
 		},
 		{
 			"name": "MenuPillars",
