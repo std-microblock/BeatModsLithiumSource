@@ -7,19 +7,19 @@
 		{
 			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd0503a68900bb0482683/universal/Custom Backgrounds-1.2.1.zip"
+				"universal": "https://beatmods.com/uploads/673409aba361b018134c1eb3/universal/Custom Backgrounds-1.2.1.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
 				{
 					"id": "SiraUtil",
 					"version": "3.1.12",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

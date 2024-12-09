@@ -95,10 +95,6 @@
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomSaberColors.lithium.mod.json"
 		},
 		{
-			"name": "Custom Backgrounds",
-			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Backgrounds.lithium.mod.json"
-		},
-		{
 			"name": "BetterPause",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BetterPause.lithium.mod.json"
 		},
@@ -121,6 +117,10 @@
 		{
 			"name": "CustomWalls",
 			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomWalls.lithium.mod.json"
+		},
+		{
+			"name": "Custom Backgrounds",
+			"detail": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Backgrounds.lithium.mod.json"
 		},
 		{
 			"name": "MenuPillars",
