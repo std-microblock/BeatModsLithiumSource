@@ -10,7 +10,13 @@
 				"universal": "https://beatmods.com/uploads/64c0df1a32846c29a72bcff7/universal/PrioritySetter-1.2.0.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
-			"dependencies": []
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		}
 	]
 }
