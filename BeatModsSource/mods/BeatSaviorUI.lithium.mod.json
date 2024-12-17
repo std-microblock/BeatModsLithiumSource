@@ -1,13 +1,13 @@
 {
 	"name": "BeatSaviorUI",
-	"author": "Bloodcloak",
+	"author": "qqrz997",
 	"description": "Adds a score graph and various statistics to the level results screen",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.0",
+			"version": "1.0.1+1.39.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd0663a68900bb04826b9/universal/BeatSaviorUI-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/6760a7f183bf311222e864fa/universal/BeatSaviorUI-1.0.1_1.39.1.zip"
 			},
 			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.12",
+					"version": "3.1.14",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
