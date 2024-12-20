@@ -7,15 +7,10 @@
 		{
 			"version": "0.2.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409aca361b018134c1ebf/universal/NoteCutGuide-0.2.7.zip"
+				"universal": "https://beatmods.com/uploads/6758e0ac83bf311222e86399/universal/NoteCutGuide-0.2.7.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
-				{
-					"id": "BS Utils",
-					"version": "1.14.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
 				{
 					"id": "CameraUtils",
 					"version": "1.0.7",
@@ -23,8 +18,13 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
+					"version": "1.12.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.14.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

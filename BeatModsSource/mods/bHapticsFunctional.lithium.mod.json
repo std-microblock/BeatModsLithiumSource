@@ -7,9 +7,9 @@
 		{
 			"version": "1.1.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd03f3a68900bb048266e/universal/bHapticsFunctional-1.1.6.zip"
+				"universal": "https://beatmods.com/uploads/6758e09a83bf311222e8636c/universal/bHapticsFunctional-1.1.6.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "bHaptics",

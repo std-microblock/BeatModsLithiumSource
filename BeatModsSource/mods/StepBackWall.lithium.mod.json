@@ -64,19 +64,19 @@
 		{
 			"version": "1.3.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/674bef1d0a9b316ba40a38e4/universal/StepBackWall-1.3.4.zip"
+				"universal": "https://beatmods.com/uploads/6758e0c483bf311222e863ea/universal/StepBackWall-1.3.4.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "BS Utils",
 					"version": "1.14.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

@@ -1,15 +1,15 @@
 {
 	"name": "BS Utils",
-	"author": "Meivyn",
+	"author": "Bloodcloak",
 	"description": "A basic library for mods to use for common functionality.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.14.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/67340eaba361b018134c1f8a/universal/BS Utils-1.14.2.zip"
+				"universal": "https://beatmods.com/uploads/6758e09a83bf311222e86366/universal/BS Utils-1.14.2.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "Ini Parser",

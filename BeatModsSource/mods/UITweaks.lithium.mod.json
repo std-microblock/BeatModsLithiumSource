@@ -7,18 +7,18 @@
 		{
 			"version": "4.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd0703a68900bb04826f5/universal/UITweaks-4.0.3.zip"
+				"universal": "https://beatmods.com/uploads/6758e0cd83bf311222e8641d/universal/UITweaks-4.0.3.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
+					"version": "1.12.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.12",
+					"version": "3.1.14",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

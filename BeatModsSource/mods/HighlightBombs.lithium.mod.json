@@ -7,13 +7,13 @@
 		{
 			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66da418b06ee8025387f4743/universal/HighlightBombs-1.0.3.zip"
+				"universal": "https://beatmods.com/uploads/6758e0ac83bf311222e8639f/universal/HighlightBombs-1.0.3.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.1.11",
+					"version": "3.1.14",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

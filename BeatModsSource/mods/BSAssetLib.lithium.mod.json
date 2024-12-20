@@ -1,15 +1,15 @@
 {
 	"name": "BSAssetLib",
-	"author": "AlexxSeven",
+	"author": "Bloodcloak",
 	"description": "A small beat saber mod for shader and asset creators, allowing use of the active player color scheme. ",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/674fe21f0a9b316ba40a3918/universal/BSAssetLib-1.0.2.zip"
+				"universal": "https://beatmods.com/uploads/6758e0ad83bf311222e863ab/universal/BSAssetLib-1.0.2.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",

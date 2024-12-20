@@ -7,9 +7,9 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd03d3a68900bb0482656/universal/OpenXR Feature Manager-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/6758e09983bf311222e8635a/universal/OpenXR Feature Manager-1.0.1.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",

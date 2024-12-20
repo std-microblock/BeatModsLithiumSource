@@ -1,15 +1,15 @@
 {
 	"name": "SimpleClock",
-	"author": "MadSquids",
+	"author": "Bloodcloak",
 	"description": "Adds a clock to the HUD of your game using your system's time and locality.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/67541e760a9b316ba40a3950/universal/SimpleClock-1.0.1.zip"
+				"universal": "https://beatmods.com/uploads/6758e0ca83bf311222e86408/universal/SimpleClock-1.0.1.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",

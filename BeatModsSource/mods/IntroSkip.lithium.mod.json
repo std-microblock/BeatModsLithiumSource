@@ -1,24 +1,24 @@
 {
 	"name": "IntroSkip",
-	"author": "Loloppe",
+	"author": "Bloodcloak",
 	"description": "Allows you to skip intros and outros of songs that are longer than 5 seconds without any significant objects.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "4.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66f46e6f80755b61c5ab81ea/universal/IntroSkip-4.0.6.zip"
+				"universal": "https://beatmods.com/uploads/6758e0c383bf311222e863db/universal/IntroSkip-4.0.6.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.0",
+					"version": "1.12.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.11",
+					"version": "3.1.14",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

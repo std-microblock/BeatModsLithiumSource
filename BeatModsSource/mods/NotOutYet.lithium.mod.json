@@ -7,13 +7,13 @@
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66da41a406ee8025387f477c/universal/NotOutYet-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/6758e0c483bf311222e863e1/universal/NotOutYet-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.37.4",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
-					"version": "1.14.0",
+					"version": "1.14.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
