@@ -1,21 +1,45 @@
 {
 	"name": "SongRankedBadge",
-	"author": "Bloodcloak",
+	"author": "qe201020335",
 	"description": "Show a map's rank status using the promotion badge thingy introduced in 1.28.0",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.4",
+			"version": "1.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6758e0ef83bf311222e86480/universal/SongRankedBadge-1.0.4.zip"
+				"universal": "https://beatmods.com/uploads/67661abe83bf311222e865bd/universal/SongRankedBadge-1.0.6.zip"
 			},
 			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.4",
+					"version": "1.12.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
+				{
+					"id": "SongCore",
+					"version": "3.15.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "SongDetailsCache",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/673409e8a361b018134c1f6a/universal/SongRankedBadge-1.0.4.zip"
+			},
+			"requiredGameVersion": "~1.39.0",
+			"dependencies": [
 				{
 					"id": "SongCore",
 					"version": "3.14.15",
@@ -23,8 +47,13 @@
 				},
 				{
 					"id": "SongDetailsCache",
-					"version": "1.4.0",
+					"version": "1.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongDetailsCache.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

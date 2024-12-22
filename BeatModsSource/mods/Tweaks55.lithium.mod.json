@@ -5,6 +5,14 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "0.3.17",
+			"downloads": {
+				"universal": "https://beatmods.com/uploads/6765f3fc83bf311222e865b1/universal/Tweaks55-0.3.17.zip"
+			},
+			"requiredGameVersion": "~1.40.0",
+			"dependencies": []
+		},
+		{
 			"version": "0.3.16",
 			"downloads": {
 				"universal": "https://beatmods.com/uploads/66fb0c2d80755b61c5ab82a9/universal/Tweaks55-0.3.16.zip"

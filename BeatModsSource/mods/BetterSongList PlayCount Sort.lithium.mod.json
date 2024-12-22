@@ -1,15 +1,15 @@
 {
 	"name": "BetterSongList PlayCount Sort",
-	"author": "ruirize",
+	"author": "Bloodcloak",
 	"description": "Adds a \"Play Count\" sort for BetterSongList!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673cc3cba361b018134c2091/universal/BetterSongList PlayCount Sort-1.0.0.zip"
+				"universal": "https://beatmods.com/uploads/6758e0f183bf311222e86498/universal/BetterSongList PlayCount Sort-1.0.0.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "BetterSongList",
