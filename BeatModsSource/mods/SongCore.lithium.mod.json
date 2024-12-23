@@ -24,9 +24,9 @@
 			]
 		},
 		{
-			"version": "3.15.1",
+			"version": "3.15.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6762108e83bf311222e86508/universal/SongCore-3.15.1.zip"
+				"universal": "https://beatmods.com/uploads/6768a82e83bf311222e865de/universal/SongCore-3.15.2.zip"
 			},
 			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
