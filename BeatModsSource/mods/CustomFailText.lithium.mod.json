@@ -1,30 +1,16 @@
 {
 	"name": "CustomFailText",
-	"author": "arti",
-	"description": "Like that one mod, but for the other thing.",
+	"author": "BeatMods Import",
+	"description": "F\r\n----\r\nChanges the text when you fail a song.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.5",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e7bcf9703dce96ca6cf0c26/universal/CustomFailText-1.0.5.zip"
-			},
-			"requiredGameVersion": "~1.8.0",
-			"dependencies": []
-		},
-		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d0171427661221f0c4f0938/universal/CustomFailText-1.0.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/b732562ed12aa1d20614a2ade0de0069.zip"
 			},
-			"requiredGameVersion": "~1.1.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "3.12.21",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
 		}
 	]
 }

@@ -1,68 +1,34 @@
 {
 	"name": "SongLoader",
-	"author": "Kyle 1413",
-	"description": "A plugin for adding custom songs into Beat Saber.",
+	"author": "BeatMods Import",
+	"description": "A plugin for adding custom songs into Beat Saber.\n",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "7.0.0",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5ce335a7b29eb364ff1e9933/universal/SongLoader-7.0.0.zip"
-			},
-			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "SongCore",
-					"version": "1.0.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
-					"id": "Harmony",
-					"version": "1.2.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.2.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "3.12.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "CustomUI",
-					"version": "1.5.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "6.12.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cc08f5b4de1f5747ae175ad/universal/SongLoader-6.12.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/a647192f44931f32e04664bd659b2d43.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [
 				{
 					"id": "CustomUI",
-					"version": "1.5.4",
+					"version": "1.5.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "3.12.9",
+					"version": "3.12.18",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.2.3",
+					"version": "1.3.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "Harmony",
-					"version": "1.2.0",
+					"version": "1.2.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
 				}
 			]

@@ -1,21 +1,13 @@
 {
 	"name": "Discord Presence",
-	"author": "Slaynash",
-	"description": "Add a discord richpresence integration to the game to share your current playtime and active modifiers",
+	"author": "BeatMods Import",
+	"description": "Add a discord richpresence integration to the game to share oyur current playtime and active mo...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.2.0",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5ce5b2ccb29eb364ff1e9a0e/universal/Discord Presence-2.2.0.zip"
-			},
-			"requiredGameVersion": "~1.0.0",
-			"dependencies": []
-		},
-		{
 			"version": "2.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cb062077d698c55011dc148/universal/Discord Presence-2.1.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/29aca8dadaa2eae9b2cdd495c72efa4e.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": []

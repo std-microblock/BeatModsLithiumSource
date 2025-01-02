@@ -1,77 +1,29 @@
 {
 	"name": "BeatSaberTweaks",
-	"author": "Assistant",
+	"author": "BeatMods Import",
 	"description": "Plugin for Beat Saber containing Various Tweaks.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "4.4.4",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d5d9fc26f5e655671e7ba/universal/BeatSaberTweaks-4.4.4.zip"
-			},
-			"requiredGameVersion": "~1.1.0p1",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.4.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "Harmony",
-					"version": "1.2.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "4.4.3",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5ce33890b29eb364ff1e9957/universal/BeatSaberTweaks-4.4.3.zip"
-			},
-			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.4.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "Harmony",
-					"version": "1.2.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "4.4.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cc08f964de1f5747ae175b3/universal/BeatSaberTweaks-4.4.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/3e33ec8f04549ce6da210335a56e1280.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [
 				{
 					"id": "CustomUI",
-					"version": "1.4.0",
+					"version": "1.5.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
 				},
 				{
 					"id": "Harmony",
-					"version": "1.2.0",
+					"version": "1.2.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.2.2",
+					"version": "1.3.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				}
 			]

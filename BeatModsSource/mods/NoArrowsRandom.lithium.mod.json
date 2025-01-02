@@ -1,125 +1,29 @@
 {
 	"name": "NoArrowsRandom",
-	"author": "Kylon99",
-	"description": "Restores the randomized No Arrows mode from previous versions for custom maps as a game modifier. Disables score submission and won't affect One Saber or mapped No Arrows modes.",
+	"author": "BeatMods Import",
+	"description": "Restores the randomized No Arrows mode from previous versions for custom maps as a game modifie...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.5",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5dda3ebf8ed3a56f6197bc7c/universal/NoArrowsRandom-1.0.5.zip"
-			},
-			"requiredGameVersion": "~1.5.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.7.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "3.13.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.4",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d7a2658be34f5432f209f4c/universal/NoArrowsRandom-1.0.4.zip"
-			},
-			"requiredGameVersion": "~1.3.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "3.13.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "CustomUI",
-					"version": "1.6.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.3",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d01578e7661221f0c4f0925/universal/NoArrowsRandom-1.0.3.zip"
-			},
-			"requiredGameVersion": "~1.1.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "3.12.21",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5ce4e0a6b29eb364ff1e99fb/universal/NoArrowsRandom-1.0.2.zip"
-			},
-			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "BS Utils",
-					"version": "1.3.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "CustomUI",
-					"version": "1.5.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "3.12.19",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cb27807a703bb65cdf67c55/universal/NoArrowsRandom-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/015df92da8c02712fe63c62c77e1cfc1.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [
 				{
 					"id": "CustomUI",
-					"version": "1.5.4",
+					"version": "1.5.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "3.12.9",
+					"version": "3.12.18",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.2.3",
+					"version": "1.3.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				}
 			]

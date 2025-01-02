@@ -1,61 +1,20 @@
 {
 	"name": "CustomMissText",
-	"author": "Assistant",
-	"description": "Replaces the \"MISS\" text with a random string!",
+	"author": "BeatMods Import",
+	"description": "Broke: \"MISS\"\r\nWoke: \"HITN'T\"\r\n----\r\nRandom text whenever you miss a block!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.1.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3a20c5c87297d5dabd6/universal/CustomMissText-1.1.2.zip"
-			},
-			"requiredGameVersion": "~1.26.0",
-			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.5",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e7c2ec903dce96ca6cf0c30/universal/CustomMissText-1.0.5.zip"
-			},
-			"requiredGameVersion": "~1.8.0",
-			"dependencies": []
-		},
-		{
-			"version": "1.0.3",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e3f6adc03dce96ca6cf092c/universal/CustomMissText-1.0.3.zip"
-			},
-			"requiredGameVersion": "~1.6.1",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "3.13.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d0170647661221f0c4f0934/universal/CustomMissText-1.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/efebb6e0f2bdb62b9d44383cc86d4903.zip"
 			},
-			"requiredGameVersion": "~1.3.0",
+			"requiredGameVersion": "~0.13.2",
 			"dependencies": [
 				{
-					"id": "BSIPA",
-					"version": "3.12.21",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
 				}
 			]
 		}

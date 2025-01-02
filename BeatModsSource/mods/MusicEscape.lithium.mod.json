@@ -1,23 +1,15 @@
 {
 	"name": "MusicEscape",
-	"author": "squeaksies",
+	"author": "BeatMods Import",
 	"description": "Music Escape lets you escape your music with \"escape\"",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5cb008407d698c55011dc136/universal/MusicEscape-1.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/5ed4bafdf296e3777ec9ee5c47869e48.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": []
-		},
-		{
-			"version": "2.1.1",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5f49ca9183fe22744157eb51/universal/MusicEscape-2.1.1.zip"
-			},
-			"requiredGameVersion": "~1.11.0",
 			"dependencies": []
 		}
 	]

@@ -1,62 +1,24 @@
 {
 	"name": "GameplayRestrictionsPlus",
-	"author": "Assistant",
-	"description": "Adds various Restrictions you can add to your game, from fail on Imperfect Cut to Crash or Restart on Miss! see UserData/GamePlayRestrictionsPlus.ini for Configuration",
+	"author": "BeatMods Import",
+	"description": "Adds various Restrictions you can add to your game, from fail on Imperfect Cut to Crash or Rest...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.2.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d54d5c26f5e655671e76f/universal/GameplayRestrictionsPlus-1.2.2.zip"
-			},
-			"requiredGameVersion": "~1.1.0p1",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.4.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.2.1",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5ce3376cb29eb364ff1e9942/universal/GameplayRestrictionsPlus-1.2.1.zip"
-			},
-			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.4.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5ca6a452317fa3777c3327c5/universal/GameplayRestrictionsPlus-1.2.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/016942287f36c81aa2231cfe67c47a05.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [
 				{
 					"id": "CustomUI",
-					"version": "1.4.0",
+					"version": "1.5.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.2.2",
+					"version": "1.3.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				}
 			]

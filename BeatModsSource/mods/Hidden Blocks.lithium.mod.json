@@ -1,29 +1,29 @@
 {
 	"name": "Hidden Blocks",
-	"author": "brian",
-	"description": "Based off the popular HD mod for osu, HiddenBlocks makes any notes/bombs disappear when they come within range of your player.",
+	"author": "BeatMods Import",
+	"description": "Based off the popular HD mod for osu, HiddenBlocks makes any notes/bombs disappear when they co...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5ca914cb98ef0e6a459f4861/universal/Hidden Blocks-1.2.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/ae6e42d7125de0fb9e6d46f4e1a50070.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [
 				{
 					"id": "BS Utils",
-					"version": "1.2.3",
+					"version": "1.3.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "CustomUI",
-					"version": "1.4.1",
+					"version": "1.5.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
 				},
 				{
 					"id": "Harmony",
-					"version": "1.2.0",
+					"version": "1.2.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
 				}
 			]

@@ -1,19 +1,19 @@
 {
 	"name": "Harmony",
-	"author": "Assistant",
-	"description": "This entry exists only for dependencies. The library actually exists in BSIPA.",
+	"author": "BeatMods Import",
+	"description": "A library for patching, replacing and decorating .NET and Mono methods during runtime.\n\nThis en...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d2d564dc26f5e655671e787/universal/Harmony-1.2.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/f8c7ba077c9655ec7d3b16e6d1493541.zip"
 			},
-			"requiredGameVersion": "~1.1.0p1",
+			"requiredGameVersion": "~0.13.2",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "3.12.13",
+					"version": "3.12.18",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
