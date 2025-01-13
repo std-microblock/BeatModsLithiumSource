@@ -1,24 +1,19 @@
 {
 	"name": "HighlightBombs",
-	"author": "Bloodcloak",
+	"author": "BeatMods Import",
 	"description": "Adds a slight outline to bombs to make them more visible in the dark.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.3",
+			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6758e0ac83bf311222e8639f/universal/HighlightBombs-1.0.3.zip"
+				"universal": "https://beatmods.com/cdn/mod/fca3163fd131c22099aa0b7264d0fd84.zip"
 			},
-			"requiredGameVersion": "~1.40.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
-					"id": "SiraUtil",
-					"version": "3.1.14",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -26,9 +21,9 @@
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/669059bd7001413dcbe5498f/universal/HighlightBombs-1.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/4a51be756bbf1ef82833f1c260b4b7b6.zip"
 			},
-			"requiredGameVersion": "~1.37.1",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -43,16 +38,21 @@
 			]
 		},
 		{
-			"version": "1.0.1",
+			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e7ffdb14f39fb57fbda/universal/HighlightBombs-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/4bedaa80ce5dda8414fea7d914fb94ad.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.37.2",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.2.2",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				}
 			]
 		}

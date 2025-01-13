@@ -1,13 +1,13 @@
 {
 	"name": "OverrideEnvironmentFix",
-	"author": "RFCaps",
+	"author": "BeatMods Import",
 	"description": "A mod that will override environments by default again since Beat Games took that away.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6282fbf3d384c3394fe5366d/universal/OverrideEnvironmentFix-1.1.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/6495b01f17fdba024c1a351c02f5cbb7.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [

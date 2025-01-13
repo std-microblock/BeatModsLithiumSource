@@ -1,0 +1,65 @@
+{
+	"name": "HttpSiraStatus",
+	"author": "BeatMods Import",
+	"description": "Create stream overlays or track your performance using third party programs. This plugin expose...",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "9.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/91f2e29c79fa19995ddcb2dcba0bd20e.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "10.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/9e03b30ad75323eff4ce0113eebf233d.zip"
+			},
+			"requiredGameVersion": "~1.33.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "11.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a3521bb9058571eedeb87f7152cac3ac.zip"
+			},
+			"requiredGameVersion": "~1.34.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

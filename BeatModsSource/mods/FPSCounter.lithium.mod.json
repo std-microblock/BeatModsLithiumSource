@@ -1,37 +1,13 @@
 {
 	"name": "FPSCounter",
-	"author": "Bloodcloak",
+	"author": "BeatMods Import",
 	"description": "A Beat Saber mod to show your fps in-game",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "3.1.3",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409c8a361b018134c1f22/universal/FPSCounter-3.1.3.zip"
-			},
-			"requiredGameVersion": "~1.39.0",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.12",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "3.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c5727eaa1dfd6235d6da40/universal/FPSCounter-3.1.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/abb410147fc562034f454ced74dd4aa2.zip"
 			},
 			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
@@ -43,6 +19,30 @@
 				{
 					"id": "SiraUtil",
 					"version": "3.1.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "3.1.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a43d440b2134d4fee623a8fd4f584c38.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

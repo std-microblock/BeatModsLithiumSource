@@ -5,9 +5,444 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "2.4.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/d1af9ece13704a665ff509d7d23e7b50.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": [
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.0.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BSML",
+					"version": "1.0.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/45a9a915b1c6807b39b77ef153a6d261.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "SongLoader",
+					"version": "6.12.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "2.2.5",
 			"downloads": {
 				"universal": "https://beatmods.com/cdn/mod/ec5a5522c61dcd011c71ee044cf8b24f.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "SongLoader",
+					"version": "6.12.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.2.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a4afebdac8f383f98ef3cf2e88d204e9.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "SongLoader",
+					"version": "6.12.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.2.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/8576450419189b7417f6679e46a94fe7.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "SongLoader",
+					"version": "6.12.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/67a122a1085ac61f3d32d50696a14851.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "SongLoader",
+					"version": "6.12.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.3.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/ba44f41dcd7077cc82838a84875935a2.zip"
+			},
+			"requiredGameVersion": "~1.1.0p1",
+			"dependencies": [
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.0.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "CustomUI",
+					"version": "1.5.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.0.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.4.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/12366e43d1e42ff4df025c3995cc4274.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": [
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.0.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				},
+				{
+					"id": "BSML",
+					"version": "1.0.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.4.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/bbb514913e2a0506fd86dc6327657f46.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": [
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.0.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				},
+				{
+					"id": "BSML",
+					"version": "1.0.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.4.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/b45d479f11ac603afc201d61a063245b.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": [
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.0.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.0.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.5.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.3.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.5.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/19f074781ce32fc636faa222dd30a13c.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.1.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.7.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.1.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.5.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/ce42bc506951e34da3d35790f906dbe9.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "2.7.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.4.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.1.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.1.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.6.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/cb02b5761d4cbb34bcda6da977883881.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": [
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.9.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.4.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.6.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/93cf57789aeeb4f7493b6fecf4aa5342.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "2.9.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.4.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.12.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/d19626ed1a34dfbf3620cfaab6a78c6b.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "3.5.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.11.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "CustomCampaignLeaderboardLibrary",
+					"version": "1.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomCampaignLeaderboardLibrary.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.2.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/aefaa83c02b7313af0e7e7e6ced5bf13.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": [

@@ -1,29 +1,29 @@
 {
 	"name": "CustomSaberColors",
-	"author": "Bloodcloak",
+	"author": "BeatMods Import",
 	"description": "Lets you change saber colours separately from the notes",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.2.6",
+			"version": "0.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd04f3a68900bb0482680/universal/CustomSaberColors-0.2.6.zip"
+				"universal": "https://beatmods.com/cdn/mod/d5ce28ae3058806064c855d0df65a62b.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
+					"version": "1.11.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.12",
+					"version": "3.1.11",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -31,9 +31,9 @@
 		{
 			"version": "0.2.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6705bfef9011dc298a9e84f7/universal/CustomSaberColors-0.2.5.zip"
+				"universal": "https://beatmods.com/cdn/mod/b08c1d33a134d465b07555c2a84c0077.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -53,21 +53,21 @@
 			]
 		},
 		{
-			"version": "0.2.1",
+			"version": "0.2.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c40185aa1dfd6235d6d968/universal/CustomSaberColors-0.2.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/4c3cca815c0ce765a004d1e2f2584d36.zip"
 			},
-			"requiredGameVersion": "~1.37.3",
+			"requiredGameVersion": "~1.39.0",
 			"dependencies": [
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
-					"id": "SiraUtil",
-					"version": "3.1.11",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

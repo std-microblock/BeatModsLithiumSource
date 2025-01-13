@@ -1,13 +1,13 @@
 {
 	"name": "ScoreSaberSharp",
-	"author": "Umbranox",
+	"author": "BeatMods Import",
 	"description": "Official C# Library to interact with the ScoreSaber API",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5dfeaa9029530a6e1adfee9b/universal/Official C_ Library to interact with the ScoreSaber API-0.1.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/8713168c598577ee7c73fa3cf0e26f5c.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
 			"dependencies": []

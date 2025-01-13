@@ -1,13 +1,13 @@
 {
 	"name": "MessagePack",
-	"author": "Meivyn",
+	"author": "BeatMods Import",
 	"description": "The extremely fast MessagePack serializer for C#.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.5.140",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65fd2aaedfb5962c5bb29cf9/universal/MessagePack-2.5.140.zip"
+				"universal": "https://beatmods.com/cdn/mod/c872a5b8b16768d18387cc931407dd75.zip"
 			},
 			"requiredGameVersion": "~1.35.0",
 			"dependencies": []

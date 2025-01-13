@@ -1,34 +1,29 @@
 {
 	"name": "AlphaTwitch",
-	"author": "auros",
+	"author": "BeatMods Import",
 	"description": "Adds new features and utilities for Twitch streamers in Beat Saber",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d68ad81be34f5432f209dd7/universal/AlphaTwitch-0.1.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/d745e2caa845b7d6a4282f48b30054d8.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
-					"version": "1.3.5",
+					"version": "1.3.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
-					"id": "Stream Core",
-					"version": "1.0.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json"
-				},
-				{
 					"id": "BSML",
-					"version": "0.0.2",
+					"version": "1.0.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSML.lithium.mod.json"
 				},
 				{
 					"id": "CustomUI",
-					"version": "1.5.4",
+					"version": "1.6.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
 				}
 			]

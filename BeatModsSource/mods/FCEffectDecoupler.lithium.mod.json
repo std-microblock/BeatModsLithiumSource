@@ -1,0 +1,27 @@
+{
+	"name": "FCEffectDecoupler",
+	"author": "BeatMods Import",
+	"description": "Full combo effect from Plasma Katanas added globally. You need to get those sabers by yourself.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a2275c0b296aa796c793c21e7dc9beb1.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.4.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "Custom Sabers",
+					"version": "4.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Sabers.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

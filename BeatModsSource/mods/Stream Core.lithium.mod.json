@@ -5,11 +5,75 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/de5cf67d848ca495326dd1d1ddb3e0c6.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
 			"version": "1.0.5",
 			"downloads": {
 				"universal": "https://beatmods.com/cdn/mod/d3451b0863e060a0e4383cead42039de.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/e035703510f0dad6690c066a2115c374.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "1.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/aa64690bc2c13c39ff1f13851c15093e.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/c6094e213dfdf86da6da6887bf803a15.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "2.2.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/e9198bce7e984ff9418a45c09600f48c.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": []
+		},
+		{
+			"version": "2.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/766d8aeaea6aeabc079784538046fb85.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": []
+		},
+		{
+			"version": "2.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/4baf4c017fd78f2f18fd9d9eb39c87e2.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": []
+		},
+		{
+			"version": "2.2.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/c46d384de7a21f2f1c3ead493e3aa69d.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
 			"dependencies": []
 		}
 	]

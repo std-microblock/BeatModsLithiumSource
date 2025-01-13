@@ -1,15 +1,15 @@
 {
 	"name": "XR Hands",
-	"author": "nicoco007",
+	"author": "BeatMods Import",
 	"description": "Defines an API that allows access to hand tracking data from devices that support hand tracking.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/660d4fe1dfb5962c5bb29ddf/universal/XR Hands-1.1.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/44e5a446ba77ef7ce9271a720415bb42.zip"
 			},
-			"requiredGameVersion": "~1.35.0",
+			"requiredGameVersion": "~1.34.2",
 			"dependencies": []
 		}
 	]

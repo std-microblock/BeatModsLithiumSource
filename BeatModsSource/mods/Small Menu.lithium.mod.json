@@ -1,48 +1,48 @@
 {
 	"name": "Small Menu",
-	"author": "Bloodcloak",
+	"author": "BeatMods Import",
 	"description": "Makes the main menu smaller & closer, just like it was in Beat Saber 1.13.0.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.2.1",
+			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6705c00b9011dc298a9e8530/universal/Small Menu-1.2.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/00888c663703b1931b9291c246b4395e.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
+			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.1.12",
+					"version": "3.0.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.2.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/472deb922a426ddbc55084d8bce0a2d3.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "BSIPA",
-					"version": "4.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.2.0",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c401a3aa1dfd6235d6d9c5/universal/Small Menu-1.2.0.zip"
-			},
-			"requiredGameVersion": "~1.37.3",
-			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "SiraUtil",
-					"version": "3.1.11",
+					"version": "3.1.12",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

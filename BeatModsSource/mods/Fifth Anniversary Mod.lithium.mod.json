@@ -1,19 +1,19 @@
 {
 	"name": "Fifth Anniversary Mod",
-	"author": "Pink",
-	"description": "Auto Imports the correct Assets and Map Files for the 5th Anniversary! Adds the new Map Pack to the promo screen!",
+	"author": "BeatMods Import",
+	"description": "Auto Imports the correct Assets and Map Files for the 5th Anniversary! Adds the new Map Pack to...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6452f508b0c58c0150e60015/universal/Fifth Anniversary Mod-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/3a7e10521b5d674d4f6175330ad3d6be.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "Chroma",
-					"version": "2.7.7",
+					"version": "2.8.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Chroma.lithium.mod.json"
 				},
 				{
@@ -23,7 +23,7 @@
 				},
 				{
 					"id": "SongCore",
-					"version": "3.10.2",
+					"version": "3.11.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{

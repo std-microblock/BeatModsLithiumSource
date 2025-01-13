@@ -1,15 +1,15 @@
 {
 	"name": "Arcgap",
-	"author": "Kinsi55",
-	"description": "Fixes game softlock / crash on 1.20-1.23",
+	"author": "BeatMods Import",
+	"description": "Fixes game softlock / crash on 1.20.0",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.0.69",
+			"version": "0.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62d1e3282dcc1236fc0b5cfd/universal/Arcgap-v0.0.69.zip"
+				"universal": "https://beatmods.com/cdn/mod/d74d2e09e2efd11043143bad1d5ffcd9.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
@@ -21,7 +21,7 @@
 		{
 			"version": "0.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6235157c6f151827d5d77ddc/universal/Arcgap-0.0.3.zip"
+				"universal": "https://beatmods.com/cdn/mod/ca3d6dc0db5f0e35c90c7dfab28b6acb.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
@@ -31,6 +31,42 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
+		},
+		{
+			"version": "0.0.69",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/78d7fc0839ccea34db9940ec1d316bf5.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/f0bb33ea7b7b18dd69b1280171a4573a.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a1526c5ca4fa3695de0b89be8ccc6fd4.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": []
 		}
 	]
 }

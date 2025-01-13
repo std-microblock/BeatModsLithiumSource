@@ -1,0 +1,30 @@
+{
+	"name": "NoHealthAndSafety",
+	"author": "BeatMods Import",
+	"description": "Skips the health and safety warning at the beginning of the game. Do not use this mod if you ne...",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/c7ad92f6965a612c978acd0a304f690a.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "1.13.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/5d2b60211a4a036b78a3c3ffcfb5b102.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

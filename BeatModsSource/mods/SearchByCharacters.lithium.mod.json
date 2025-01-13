@@ -1,0 +1,22 @@
+{
+	"name": "SearchByCharacters",
+	"author": "BeatMods Import",
+	"description": "A different map searching approach for beat saber.\r\n",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "0.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/6fdbc61b03f30118d242340039a64a3f.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

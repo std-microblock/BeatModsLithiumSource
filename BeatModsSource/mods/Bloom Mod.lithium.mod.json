@@ -1,13 +1,13 @@
 {
 	"name": "Bloom Mod",
-	"author": "AkaRaiden",
-	"description": "Allows you to adjust the amount of bloom in game.\nOriginally Created by Ibodan\n*See the github for config info*",
+	"author": "BeatMods Import",
+	"description": "Allows you to adjust the amount of bloom in game.\nOriginally Created by Ibodan\n*See the github ...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e2c4e68e7c24e19d5cc7f12/universal/Bloom Mod-2.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/2a837e7f3460bd2240f38bd4f5f2ba31.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": []

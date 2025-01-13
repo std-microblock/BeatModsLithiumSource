@@ -1,13 +1,13 @@
 {
 	"name": "NoMoreThunder",
-	"author": "qqrz997",
+	"author": "BeatMods Import",
 	"description": "Removes the audio from the lightning in the Metallica main menu.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/675f811383bf311222e864ec/universal/NoMoreThunder-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/bf0e71e5c467889f709d942df7775964.zip"
 			},
 			"requiredGameVersion": "~1.40.0",
 			"dependencies": [

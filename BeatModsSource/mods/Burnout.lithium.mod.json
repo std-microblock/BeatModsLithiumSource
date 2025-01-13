@@ -1,37 +1,13 @@
 {
 	"name": "Burnout",
-	"author": "Raemien",
+	"author": "BeatMods Import",
 	"description": "A Beat Saber plugin for customizing saber burn marks.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/614fa72ef1166c468bfa22a3/universal/Burnout-1.0.2.zip"
-			},
-			"requiredGameVersion": "~1.18.0",
-			"dependencies": [
-				{
-					"id": "BS Utils",
-					"version": "1.11.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6130104d70a9464db367b7b8/universal/Burnout-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/d53caf011cfbe30df96ffd19ef35c309.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [

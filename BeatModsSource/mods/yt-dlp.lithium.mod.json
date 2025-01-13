@@ -1,63 +1,71 @@
 {
 	"name": "yt-dlp",
-	"author": "Dakari",
+	"author": "BeatMods Import",
 	"description": "A youtube-dl fork with additional features and fixes",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2024.10.7",
+			"version": "2021.9.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/670a742a9011dc298a9e865b/universal/yt-dlp-2024.10.7.zip"
+				"universal": "https://beatmods.com/cdn/mod/9cbc2289cc466badb4c372ec376649e2.zip"
 			},
-			"requiredGameVersion": "~1.38.0",
-			"dependencies": []
-		},
-		{
-			"version": "2023.11.16",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/658216715e029208799de5f0/universal/yt-dlp-2023.11.16.zip"
-			},
-			"requiredGameVersion": "~1.34.2",
-			"dependencies": []
-		},
-		{
-			"version": "2023.6.22",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/64aacb02ae38452e0c76ebb7/universal/yt-dlp-2023.6.22.zip"
-			},
-			"requiredGameVersion": "~1.31.0",
-			"dependencies": []
-		},
-		{
-			"version": "2023.2.17",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/63efc46c954cff3a178484f0/universal/yt-dlp-2023.2.17.zip"
-			},
-			"requiredGameVersion": "~1.27.0",
-			"dependencies": []
-		},
-		{
-			"version": "2022.8.19",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/630029a9fdabde6bb8311505/universal/yt-dlp-2022.8.19.zip"
-			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.18.0",
 			"dependencies": []
 		},
 		{
 			"version": "2022.2.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/622fd6c06f151827d5d77ca1/universal/yt-dlp-2022.2.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/dca42dbaa1c462134a90b380e0c50878.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
 			"dependencies": []
 		},
 		{
-			"version": "2021.9.2",
+			"version": "2022.8.19",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6150768ff1166c468bfa22b4/universal/yt-dlp-2021.9.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/0ad2502a88590c3d4002f8bf0c975bfd.zip"
 			},
-			"requiredGameVersion": "~1.18.0",
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": []
+		},
+		{
+			"version": "2022.4.8",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/e76d10b2ec70458e9f1297ff91edde7e.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": []
+		},
+		{
+			"version": "2023.2.17",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/f60eaddf8ef07653183665eb94cafedd.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": []
+		},
+		{
+			"version": "2023.6.22",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/6ac971719814b7bf86306397cee503f2.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": []
+		},
+		{
+			"version": "2023.11.16",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a03916a664a5503ef8dc356f87fdd350.zip"
+			},
+			"requiredGameVersion": "~1.34.2",
+			"dependencies": []
+		},
+		{
+			"version": "2024.10.7",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/1af2114d5d966bbad8de89db8abe9a7a.zip"
+			},
+			"requiredGameVersion": "~1.38.0",
 			"dependencies": []
 		}
 	]

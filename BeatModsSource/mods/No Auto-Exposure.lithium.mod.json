@@ -1,19 +1,19 @@
 {
 	"name": "No Auto-Exposure",
-	"author": "Bloodcloak",
+	"author": "BeatMods Import",
 	"description": "Turns off the auto-exposure added in 1.24.0, no configuration. Just install this plugin, and enjoy!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/642b5d70368d841027494ce5/universal/No Auto-Exposure-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/0bef825024997cfaa204fea8d827f67d.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.26.1",
 			"dependencies": [
 				{
 					"id": "SongCore",
-					"version": "3.10.1",
+					"version": "3.9.7",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{

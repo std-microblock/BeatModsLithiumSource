@@ -1,24 +1,24 @@
 {
 	"name": "Custom Exit",
-	"author": "Shoko84",
+	"author": "BeatMods Import",
 	"description": "Displays a panel to confirm that you really really want to exit Beat Saber.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e8064a003dce96ca6cf0d6b/universal/Custom Exit-1.2.3.zip"
+				"universal": "https://beatmods.com/cdn/mod/5f62e68a6e41e9a191e5ae87b118ec08.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.2.2",
+					"version": "1.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BS Utils",
-					"version": "1.4.4",
+					"version": "1.4.10",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				}
 			]
@@ -26,7 +26,7 @@
 		{
 			"version": "1.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e0a3f40c7db000caca5a666/universal/Custom Exit-1.2.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/586cc7c7e6b4a7358f28938118b5b18c.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
 			"dependencies": [

@@ -1,15 +1,15 @@
 {
 	"name": "CustomPillows",
-	"author": "Bloodcloak",
-	"description": "Adds pillows into the main menu",
+	"author": "BeatMods Import",
+	"description": "A mod that adds pillows into the main menu",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.0.10",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409d6a361b018134c1f43/universal/CustomPillows-0.0.10.zip"
+				"universal": "https://beatmods.com/cdn/mod/f333355bbec54baa3267bded26e00333.zip"
 			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -17,14 +17,14 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
 					"id": "AssetBundleLoadingTools",
 					"version": "1.1.9",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
@@ -36,9 +36,9 @@
 		{
 			"version": "0.0.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c40183aa1dfd6235d6d965/universal/CustomPillows-0.0.8.zip"
+				"universal": "https://beatmods.com/cdn/mod/0f3b6f61e68dec39eb2ff547109895ff.zip"
 			},
-			"requiredGameVersion": "~1.37.3",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
@@ -52,7 +52,7 @@
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -60,7 +60,7 @@
 		{
 			"version": "0.0.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/651b1d41a625381ed585f4a2/universal/CustomPillows-0.0.7.zip"
+				"universal": "https://beatmods.com/cdn/mod/284e33d9b9815f5aa2fa03e256631198.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [

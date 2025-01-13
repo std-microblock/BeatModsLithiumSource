@@ -1,70 +1,60 @@
 {
 	"name": "ImageCoverExpander",
-	"author": "Bloodcloak",
-	"description": "Expands the artwork cover of a song. ",
+	"author": "BeatMods Import",
+	"description": "Expands and customize the image cover container in the song selection!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "3.0.2",
+			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6758e0cd83bf311222e86420/universal/ImageCoverExpander-3.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/253354d3ccb5c6d253f575bb8a8a2dd3.zip"
 			},
-			"requiredGameVersion": "~1.40.0",
+			"requiredGameVersion": "~1.6.1",
 			"dependencies": [
 				{
-					"id": "SiraUtil",
-					"version": "3.1.14",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+					"id": "BS Utils",
+					"version": "1.4.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "3.0.0",
+			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65076b9aa625381ed585f3d4/universal/ImageCoverExpander-3.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/612bc5351bfe003f22ce4f22b156de79.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.8.0",
 			"dependencies": [
 				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+					"id": "BS Utils",
+					"version": "1.4.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "2.3.4",
+			"version": "2.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/614fa4f2f1166c468bfa22a0/universal/ImageCoverExpander-2.3.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/50e3f013f8430d7c022b1b084a7f87ba.zip"
 			},
-			"requiredGameVersion": "~1.18.0",
+			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.8",
+					"version": "1.5.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "2.5.8",
+					"version": "2.5.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},
 		{
 			"version": "2.3.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6136a58470a9464db367b8f3/universal/ImageCoverExpander-2.3.3.zip"
+				"universal": "https://beatmods.com/cdn/mod/8fe3c69cb502bd81afb43f7e7b8c793e.zip"
 			},
 			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
@@ -86,9 +76,66 @@
 			]
 		},
 		{
+			"version": "2.3.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/0e34099a9cf344ac42f6fa5d7472eb9d.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "2.5.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "3.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/4a8e799448a5c0e40f9986a28c696626.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "3.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/355e7e3cd9e1384189584df90238bb06.zip"
+			},
+			"requiredGameVersion": "~1.38.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "2.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/610302629fc0c8070c0e6525/universal/ImageCoverExpander-2.2.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/c445eca99c0fa5cd211323889a90da58.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
@@ -106,34 +153,6 @@
 					"id": "BSIPA",
 					"version": "4.2.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e8064a403dce96ca6cf0d71/universal/ImageCoverExpander-1.0.2.zip"
-			},
-			"requiredGameVersion": "~1.8.0",
-			"dependencies": [
-				{
-					"id": "BS Utils",
-					"version": "1.4.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.1",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e44345103dce96ca6cf0978/universal/ImageCoverExpander-1.0.1.zip"
-			},
-			"requiredGameVersion": "~1.6.1",
-			"dependencies": [
-				{
-					"id": "BS Utils",
-					"version": "1.4.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				}
 			]
 		}

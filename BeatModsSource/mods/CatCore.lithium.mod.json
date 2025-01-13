@@ -1,31 +1,31 @@
 {
 	"name": "CatCore",
-	"author": "Eris",
-	"description": "CatCore is a high-performance .NET Standard 2.0 library which provides a shared connection to mods for Twitch (and other future streaming platforms).",
+	"author": "BeatMods Import",
+	"description": "CatCore is a high-performance .NET Standard 2.0 library which provides a shared connection to m...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.1.0",
+			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/65ef887ddfb5962c5bb29b9f/universal/CatCore-1.1.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/cf8e73d1e3c83945e5606b8f245ba907.zip"
 			},
-			"requiredGameVersion": "~1.35.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": []
 		},
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63f160f6954cff3a1784850c/universal/CatCore-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/96e6a313c0e18b7f4bc498ec70ff7fe0.zip"
 			},
 			"requiredGameVersion": "~1.27.0",
 			"dependencies": []
 		},
 		{
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62756e75d384c3394fe535a7/universal/CatCore-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/2f3ea27ba320ac57596ba7816b67861f.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.35.0",
 			"dependencies": []
 		}
 	]

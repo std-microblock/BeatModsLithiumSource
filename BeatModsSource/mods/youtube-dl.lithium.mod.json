@@ -1,29 +1,37 @@
 {
 	"name": "youtube-dl",
-	"author": "Dakari",
+	"author": "BeatMods Import",
 	"description": "youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2021.6.6",
+			"version": "2021.4.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60f9e8cab1ad095176942dcf/universal/youtube-dl-2021.6.6.zip"
+				"universal": "https://beatmods.com/cdn/mod/359e8c675f4117877c87187a54b30ac1.zip"
 			},
-			"requiredGameVersion": "~1.16.3",
+			"requiredGameVersion": "~1.13.4",
 			"dependencies": []
 		},
 		{
 			"version": "2021.5.16",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60b1242c2d008b3daa41e8ce/universal/youtube-dl-2021.5.16.zip"
+				"universal": "https://beatmods.com/cdn/mod/f4fdce8c1e6d88aa12456a051035c84d.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": []
 		},
 		{
-			"version": "2021.4.1",
+			"version": "2021.6.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/606519b454bb0e1d077e2a6e/universal/youtube-dl-2021.4.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/eee6c6cc94096e11e7175060717b9382.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": []
+		},
+		{
+			"version": "2021.1.24",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/2e613cb13c7752ae444c09a2b7c0d203.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": []

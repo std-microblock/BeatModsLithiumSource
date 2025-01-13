@@ -1,48 +1,19 @@
 {
 	"name": "AccessAbility",
-	"author": "Bloodcloak",
-	"description": "A true one-hand and sitting-friendly mod. Play any map. With only the blocks in your color-choice in the original patterns. Turn off wall-damage. Remove crouch walls. Unbreakable bombs and more.",
+	"author": "BeatMods Import",
+	"description": "A true one-hand and sitting-friendly mod. Play any map. With only the blocks in your color-choi...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "7.1.1",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/656fb91ae105b40d53744af1/universal/AccessAbility-7.1.1.zip"
-			},
-			"requiredGameVersion": "~1.34.0",
-			"dependencies": [
-				{
-					"id": "BS Utils",
-					"version": "1.13.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "SiraUtil",
-					"version": "3.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.8.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "7.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64e242fc32846c29a72bd102/universal/AccessAbility-7.1.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/60d183b280723e131cb6e8ab657d8e30.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.9",
+					"version": "1.6.10",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
@@ -58,6 +29,35 @@
 				{
 					"id": "BSIPA",
 					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "7.1.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/2cab0a674886e4352535c7573babbeb7.zip"
+			},
+			"requiredGameVersion": "~1.31.0",
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.12.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.7.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

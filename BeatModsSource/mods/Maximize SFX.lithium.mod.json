@@ -1,0 +1,22 @@
+{
+	"name": "Maximize SFX",
+	"author": "BeatMods Import",
+	"description": "A plugin for turn cut note and miss SFX Volume to maximize in Beat Saber. No config UI.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/00001ca148ee2829dae72d2cb7c96c3b.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

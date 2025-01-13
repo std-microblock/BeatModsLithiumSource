@@ -1,0 +1,16 @@
+{
+	"name": "System.Net.Http",
+	"author": "BeatMods Import",
+	"description": "Unity 2018.3 build of System.Net.Http.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "4.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/897c0674073c7f49568ee2dc5c4e7b07.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		}
+	]
+}

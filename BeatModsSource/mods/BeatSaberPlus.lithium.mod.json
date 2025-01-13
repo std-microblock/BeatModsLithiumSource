@@ -1,0 +1,16 @@
+{
+	"name": "BeatSaberPlus",
+	"author": "BeatMods Import",
+	"description": "",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "5.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/abdfb9b0676826e545c14c144a700997.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": []
+		}
+	]
+}

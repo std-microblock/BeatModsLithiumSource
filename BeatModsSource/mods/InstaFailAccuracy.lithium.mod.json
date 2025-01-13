@@ -1,13 +1,13 @@
 {
 	"name": "InstaFailAccuracy",
-	"author": "Shoko84",
+	"author": "BeatMods Import",
 	"description": "Makes you fail if you're under a specific accuracy!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/600ce24f8384cf2e7ec726e7/universal/InstaFailAccuracy-1.2.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/26a27f14ab7b7ea7a23e0c78d67467d2.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
 			"dependencies": [
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "SiraUtil",
-					"version": "2.4.0",
+					"version": "2.5.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{

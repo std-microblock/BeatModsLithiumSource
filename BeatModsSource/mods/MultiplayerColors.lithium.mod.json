@@ -1,0 +1,32 @@
+{
+	"name": "MultiplayerColors",
+	"author": "BeatMods Import",
+	"description": "Shows the color scheme of other players in multiplayer. For players that also have the mod inst...",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/362dabd8b57b82674d9bd84458b03470.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": [
+				{
+					"id": "MultiplayerExtensions",
+					"version": "0.4.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerExtensions.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "3.1.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "2.5.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

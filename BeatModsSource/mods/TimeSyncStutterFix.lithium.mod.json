@@ -1,13 +1,13 @@
 {
 	"name": "TimeSyncStutterFix",
-	"author": "nicoco007",
+	"author": "BeatMods Import",
 	"description": "Fix note/bomb/wall stuttering caused by AudioTimeSyncController.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66bd35a888a93c0e38465654/universal/TimeSyncStutterFix-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/a01b033e9bdba9a3ee851b3565eddf01.zip"
 			},
 			"requiredGameVersion": "~1.37.2",
 			"dependencies": [

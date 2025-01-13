@@ -1,0 +1,16 @@
+{
+	"name": "ButtonLock",
+	"author": "BeatMods Import",
+	"description": "Temporarily disables the pause menu buttons when the game is paused. No more pressing Menu when...",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/122357369aff3cdaec786ab7da785eae.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": []
+		}
+	]
+}

@@ -1,29 +1,53 @@
 {
 	"name": "DrinkWater",
-	"author": "Sirspam",
-	"description": "A Beat Saber mod to remind you of the importance of hydration",
+	"author": "BeatMods Import",
+	"description": "Beat Saber mod to remind you of the importance of hydration",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.1.1",
+			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64ac3145ae38452e0c76ebd3/universal/DrinkWater-1.1.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/50307eb9f53035eae7462fc25f117275.zip"
 			},
-			"requiredGameVersion": "~1.31.0",
+			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.7.6",
+					"version": "1.6.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.1.3",
+					"version": "3.0.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.0",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/0735d48b708d2c0c6cbe827ba470d833.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -31,7 +55,7 @@
 		{
 			"version": "1.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6498ca4bd49b19506b03e23f/universal/DrinkWater-1.1.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/44d8f4544ee5d7672ac337ceab5f8ecb.zip"
 			},
 			"requiredGameVersion": "~1.30.2",
 			"dependencies": [
@@ -53,49 +77,25 @@
 			]
 		},
 		{
-			"version": "1.0.1",
+			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/624abd073f368d47b27e9896/universal/DrinkWater-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/2f409de7f14f0f050b50dbae2e0104d0.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.0.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.0",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/6232309f6f151827d5d77d53/universal/DrinkWater-1.0.0.zip"
-			},
-			"requiredGameVersion": "~1.20.0",
+			"requiredGameVersion": "~1.31.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.2",
+					"version": "1.7.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "3.0.5",
+					"version": "3.1.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.2",
+					"version": "4.3.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

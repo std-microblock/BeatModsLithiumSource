@@ -1,13 +1,13 @@
 {
 	"name": "BS-RefreshButtons",
-	"author": "Alppuccino",
-	"description": "Adds refresh buttons in the mods panel in game, to refresh your custom songs. Now for BS 1.6.0 and BSML.",
+	"author": "BeatMods Import",
+	"description": "Adds refresh buttons in the mods panel in game, to refresh your custom songs. Now for BS 1.6.0 ...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5df7fa5b0f965b56357f1e91/universal/BS-RefreshButtons-2.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/af0be4f9e1ad98310522ea113b5c8112.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
 			"dependencies": [
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.1.0",
+					"version": "1.1.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

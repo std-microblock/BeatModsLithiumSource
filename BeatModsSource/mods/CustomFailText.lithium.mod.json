@@ -11,6 +11,14 @@
 			},
 			"requiredGameVersion": "~0.13.2",
 			"dependencies": []
+		},
+		{
+			"version": "1.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/6b820b512a77551c34f7697f77f77c73.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": []
 		}
 	]
 }

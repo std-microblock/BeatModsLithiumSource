@@ -1,13 +1,51 @@
 {
 	"name": "PlaylistLoaderLite",
-	"author": "PixelBoom",
-	"description": "This plugin uses the official Playlist UI and loads custom playlist files in Beat Saber.",
+	"author": "BeatMods Import",
+	"description": "This plugin uses the official Playlist loader to load custom playlist files in Beat Saber.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.1.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/ba57f4d5693c11ae31eb145ef266275e.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "2.9.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/658dd5b9fc0590a3bbf448edf573f317.zip"
+			},
+			"requiredGameVersion": "~1.11.0",
+			"dependencies": [
+				{
+					"id": "SongCore",
+					"version": "2.9.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.2.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5f98bcc3df35a674dfeca640/universal/PlaylistLoaderLite-1.2.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/ce15de2876b55f49b95e859b41a200ca.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": [
@@ -18,50 +56,12 @@
 				},
 				{
 					"id": "SongCore",
-					"version": "3.0.0",
+					"version": "3.0.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.4.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.2.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5f607f20e9d3176fa1bf7960/universal/PlaylistLoaderLite-1.2.2.zip"
-			},
-			"requiredGameVersion": "~1.11.0",
-			"dependencies": [
-				{
-					"id": "SongCore",
-					"version": "2.9.10",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.3.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.1.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e7fc04603dce96ca6cf0d61/universal/PlaylistLoaderLite-1.1.2.zip"
-			},
-			"requiredGameVersion": "~1.8.0",
-			"dependencies": [
-				{
-					"id": "SongCore",
-					"version": "2.9.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.2.0",
+					"version": "1.4.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				}
 			]

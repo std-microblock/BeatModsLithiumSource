@@ -1,0 +1,16 @@
+{
+	"name": "BSNotes",
+	"author": "BeatMods Import",
+	"description": "A mod that allows you to create notes outside the game and view them inside it.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/4a1cdff8afcce0d17f2f869c5dfcea5a.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": []
+		}
+	]
+}

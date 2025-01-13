@@ -1,53 +1,53 @@
 {
 	"name": "MenuSaberColors",
-	"author": "Bloodcloak",
-	"description": "Allows your menu pointers to follow your selected color scheme!",
+	"author": "BeatMods Import",
+	"description": "Allows for your menu pointers to be the same color as your in-game sabers! ",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.11",
+			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd0513a68900bb0482692/universal/MenuSaberColors-1.0.11.zip"
+				"universal": "https://beatmods.com/cdn/mod/d0ba59043202197ee2e0203a7503492a.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.1.12",
+					"version": "3.0.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "1.0.10",
+			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c40186aa1dfd6235d6d977/universal/MenuSaberColors-1.0.10.zip"
+				"universal": "https://beatmods.com/cdn/mod/87892245a043ee8f459f99162643f450.zip"
 			},
-			"requiredGameVersion": "~1.37.3",
+			"requiredGameVersion": "~1.20.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.1.11",
+					"version": "3.0.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "1.0.8",
+			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/644567875d8cf14fb67916cd/universal/MenuSaberColors-1.0.8.zip"
+				"universal": "https://beatmods.com/cdn/mod/77b721cebdf114390389248d1ad96d40.zip"
 			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -64,9 +64,9 @@
 		{
 			"version": "1.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e8cfdb14f39fb57fc10/universal/MenuSaberColors-1.0.5.zip"
+				"universal": "https://beatmods.com/cdn/mod/0b7fcf3c4536d3480a46dae48ce1bad0.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
@@ -81,15 +81,15 @@
 			]
 		},
 		{
-			"version": "1.0.4",
+			"version": "1.0.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/62924a7ad384c3394fe53797/universal/MenuSaberColors-1.0.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/1d93578234047a3d35b8b34b3812f886.zip"
 			},
-			"requiredGameVersion": "~1.21.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.0.6",
+					"version": "3.1.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
@@ -100,20 +100,39 @@
 			]
 		},
 		{
-			"version": "1.0.2",
+			"version": "1.0.10",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/623ceef56f151827d5d77ece/universal/MenuSaberColors-1.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/b507b5eb3817a49886e4a944d55bbaf5.zip"
 			},
-			"requiredGameVersion": "~1.20.0",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.0.5",
+					"version": "3.1.10",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.2",
+					"version": "4.3.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.11",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/58838f1a1f26c0ef671aa449b6daae83.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

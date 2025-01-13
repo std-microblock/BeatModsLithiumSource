@@ -1,19 +1,19 @@
 {
 	"name": "Scribble",
-	"author": "Loloppe",
+	"author": "BeatMods Import",
 	"description": "A Beat Saber mod that allows you to draw in the scene",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.2.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/674a50970a9b316ba40a38cb/universal/Scribble-0.2.5.zip"
+				"universal": "https://beatmods.com/cdn/mod/276e1810cb97fdf38145681d9f88b2db.zip"
 			},
 			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
+					"version": "1.12.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

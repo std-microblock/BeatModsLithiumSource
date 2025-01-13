@@ -1,0 +1,22 @@
+{
+	"name": "CustomHapticFeedback",
+	"author": "BeatMods Import",
+	"description": "To gain the higher quality haptic experience, you don't need an expensive extra hardware. This ...",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "2.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/46869093e8f21dae182591dd3f1651b2.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

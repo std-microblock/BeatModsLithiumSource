@@ -5,11 +5,307 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "3.12.14",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/76c7f0f4098ac7460f7d447678d0b19b.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.13",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a74cb790d74014bf17a49fcff32dfdca.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.12",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/5abc8c34b76ed3debb1c868d2e60184a.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.11",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/4af377c875440ab47eb67219c515da60.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.10",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/31e003277e2132c983ab73918c1ce568.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.9",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/6dedb89640a1fdaa2aa096c06ec59d1e.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.8",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/947a80bccbc513b457583efed09b9910.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.15",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/b54af38e25f1a2f0f2686248ea98f76f.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.6",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/bbcc1477885a9fc6e899de4eaea201e9.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.19",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/0b6a5ec03b8b1088ea48a558bc74e383.zip"
+			},
+			"requiredGameVersion": "~1.0.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.22",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/5308e9dfbb404a7d7f56abc294e7ee01.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.3.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/ff100424a1dca0e67511d562620f597f.zip"
+			},
+			"requiredGameVersion": "~1.37.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.21",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/574dd7b1e312934ddfc471638fda1451.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.13.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/bbdedf322bd2f1ec6196494d31a59fee.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.13.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/0b9798e343afbda0f11c56bebf27815f.zip"
+			},
+			"requiredGameVersion": "~1.6.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.3.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/e2347760012f5312601c1b748d09c4c0.zip"
+			},
+			"requiredGameVersion": "~1.35.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.3.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/00df3bbdf425f1c750b7c35a02689f5b.zip"
+			},
+			"requiredGameVersion": "~1.33.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/c97b557ba74b805d9928c848599c5ccc.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": []
+		},
+		{
+			"version": "3.13.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/1d6deb22e198ddd3e52d28ae2a105ba4.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.3.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/65e49db6e116da6b80224077160b765a.zip"
+			},
+			"requiredGameVersion": "~1.37.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.24",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/24ce5e52f598ec3850165cbaf6204306.zip"
+			},
+			"requiredGameVersion": "~1.1.0p1",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.23",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/9a231c915509d641deaecb20ce4004fb.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.13.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/9fd2bc3bd693d45994b15ef34e02ca42.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.3.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/ce02e76969f38e3e0e670c39a8609cd3.zip"
+			},
+			"requiredGameVersion": "~1.29.4",
+			"dependencies": []
+		},
+		{
+			"version": "3.13.7",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/e7d9c71e0536a8000457df7d3b8b58f7.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": []
+		},
+		{
 			"version": "3.12.18",
 			"downloads": {
 				"universal": "https://beatmods.com/cdn/mod/143643dcb17ae66b7c45da866239ceb3.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.12.20",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/0c3fca880ead68da67a6823f45beddd5.zip"
+			},
+			"requiredGameVersion": "~1.0.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.13.6",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/58cdf93b45516563f01edd1dd2033aa1.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": []
+		},
+		{
+			"version": "4.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/184a1b9aafd83be992c4d06009a90be5.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/d0a40900b9dc35f8b4c6d30ae3cc4822.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.1.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/96ceac3b9c2744f1da04dac7104c9e28.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
+			"dependencies": []
+		},
+		{
+			"version": "4.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/2f5cbbc47f014c49d88b03aeb3465938.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/710e90261025fdd24894512b003299b6.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.1.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/5fd0bbe02e31450507ec054255349883.zip"
+			},
+			"requiredGameVersion": "~1.11.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.1.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/92698edd08b49da30b5fdc8ae128694d.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "4.1.6",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/c9b95b2aecd59e9cffc798c90ff7d873.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": []
+		},
+		{
+			"version": "4.2.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/4d3dbd5bb20c335ec5940c922c540908.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": []
+		},
+		{
+			"version": "4.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/45c3affc373470d9e62fb3c0dbce87ab.zip"
+			},
+			"requiredGameVersion": "~1.20.0",
 			"dependencies": []
 		}
 	]

@@ -1,19 +1,33 @@
 {
 	"name": "NoBuzz",
-	"author": "AuriRex",
+	"author": "BeatMods Import",
 	"description": "Removes the Beat Saber logo buzzing sound.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/604a1814fd8cd42a0cd12b2f/universal/NoBuzz-1.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/bd09b16cd2dfb85ff11a928b12976ff3.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.1.4",
+					"version": "4.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/b67468b89a24adf4d10742d62902af45.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

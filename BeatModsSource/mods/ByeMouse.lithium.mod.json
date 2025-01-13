@@ -1,0 +1,16 @@
+{
+	"name": "ByeMouse",
+	"author": "BeatMods Import",
+	"description": "Simple plugin that hides the mouse cursor after 3 seconds of inactivity. There is no config. It...",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "0.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/eed36e22aee829b26ebde4c139598a57.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": []
+		}
+	]
+}

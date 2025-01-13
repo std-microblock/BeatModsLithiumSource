@@ -1,69 +1,13 @@
 {
 	"name": "SongDetailsCache",
-	"author": "Kinsi55",
-	"description": "A library which provides access to the ScoreSaber and BeatSaver information of all Songs using a cached local database",
+	"author": "BeatMods Import",
+	"description": "A library which provides access to the ScoreSaber and BeatSaver information of all Songs using ...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.4.0",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/674e893a0a9b316ba40a3909/universal/SongDetailsCache-1.4.0.zip"
-			},
-			"requiredGameVersion": "~1.39.1",
-			"dependencies": [
-				{
-					"id": "protobuf-net",
-					"version": "3.0.102",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.2.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409a6a361b018134c1e8f/universal/SongDetailsCache-1.2.2.zip"
-			},
-			"requiredGameVersion": "~1.39.0",
-			"dependencies": [
-				{
-					"id": "protobuf-net",
-					"version": "3.0.102",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.2.1",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e7ffdb14f39fb57fbe3/universal/SongDetailsCache-1.2.1.zip"
-			},
-			"requiredGameVersion": "~1.28.0",
-			"dependencies": [
-				{
-					"id": "protobuf-net",
-					"version": "3.0.102",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.1.11",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/61c12cc47a2ef528fb65b85e/universal/SongDetailsCache-1.1.11.zip"
-			},
-			"requiredGameVersion": "~1.19.0",
-			"dependencies": [
-				{
-					"id": "protobuf-net",
-					"version": "3.0.102",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "1.1.8",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/614a9136d012e8328ad3182a/universal/SongDetailsCache-1.1.8.zip"
+				"universal": "https://beatmods.com/cdn/mod/7c28e191252330c315a9d6d55ca7b782.zip"
 			},
 			"requiredGameVersion": "~1.18.0",
 			"dependencies": [
@@ -75,11 +19,11 @@
 			]
 		},
 		{
-			"version": "1.1.5",
+			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6113dc939fc0c8070c0e666e/universal/SongDetailsCache-1.1.5.zip"
+				"universal": "https://beatmods.com/cdn/mod/1aeb1819958ab7b267eb5bc11e2e38f0.zip"
 			},
-			"requiredGameVersion": "~1.16.3",
+			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
 				{
 					"id": "protobuf-net",
@@ -91,9 +35,121 @@
 		{
 			"version": "1.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60d4e0aeaf1e3d4577e036e4/universal/SongDetailsCache-1.0.6.zip"
+				"universal": "https://beatmods.com/cdn/mod/9fc9a288840b5c97917811dcc25955c7.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
+			"dependencies": [
+				{
+					"id": "protobuf-net",
+					"version": "3.0.102",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/7680f8a219154191862ffa274aeeb4dc.zip"
+			},
+			"requiredGameVersion": "~1.16.1",
+			"dependencies": [
+				{
+					"id": "protobuf-net",
+					"version": "3.0.102",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.1.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/12659e3cf6bf328d0b607d6015ee72f9.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": [
+				{
+					"id": "protobuf-net",
+					"version": "3.0.102",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.8",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/7b0fee3ea013774ff6373df637f23ddc.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": [
+				{
+					"id": "protobuf-net",
+					"version": "3.0.102",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.1.11",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/f1a6320c86fb4da8d56ad4d3ee068407.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": [
+				{
+					"id": "protobuf-net",
+					"version": "3.0.102",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.2.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/b0f9920a0319844745fd02f97822cf09.zip"
+			},
+			"requiredGameVersion": "~1.20.0",
+			"dependencies": [
+				{
+					"id": "protobuf-net",
+					"version": "3.0.102",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.2.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/672755f2f805a6d73e95e2becd47071f.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": [
+				{
+					"id": "protobuf-net",
+					"version": "3.0.102",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.4.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/e1167b64cd3eff7e3651ec2dbbe50d81.zip"
+			},
+			"requiredGameVersion": "~1.39.1",
+			"dependencies": [
+				{
+					"id": "protobuf-net",
+					"version": "3.0.102",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/protobuf-net.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.1.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/1c952408777b341c95ebf2da70e40452.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
 				{
 					"id": "protobuf-net",

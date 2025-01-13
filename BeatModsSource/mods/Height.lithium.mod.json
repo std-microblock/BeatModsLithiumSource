@@ -1,13 +1,13 @@
 {
 	"name": "Height",
-	"author": "Loloppe",
-	"description": "Simple plugin that allow the player to select a specific Player Height between 0.01 and 2.5. Also make Room Offset increment by 0.01 and Rotation by 1 instead of their default value.",
+	"author": "BeatMods Import",
+	"description": "Simple plugin that allow the player to select a specific Player Height between 0.01 and 2.5.\r\nA...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "0.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66f472fe80755b61c5ab81f3/universal/Height-0.0.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/eca115bd3c8edd1b94d3cab85eb11986.zip"
 			},
 			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.0",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
@@ -31,7 +31,7 @@
 		{
 			"version": "0.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c8108baa1dfd6235d6dae9/universal/Height-0.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/632a4d964530f7552e679882f4da1cfd.zip"
 			},
 			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
@@ -39,6 +39,30 @@
 					"id": "BeatSaberMarkupLanguage",
 					"version": "1.11.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/c2f7c22ca851b8888ecfca705a4d3014.zip"
+			},
+			"requiredGameVersion": "~1.40.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.14.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

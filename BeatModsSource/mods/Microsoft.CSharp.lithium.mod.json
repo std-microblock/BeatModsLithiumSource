@@ -1,0 +1,16 @@
+{
+	"name": "Microsoft.CSharp",
+	"author": "BeatMods Import",
+	"description": "Needed to use the `dynamic` type",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "4.6.57-Unity2018.2.14",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/29e8b07c014795b863fae6ed82d2ee5d.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		}
+	]
+}

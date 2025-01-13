@@ -1,24 +1,24 @@
 {
 	"name": "Scoreboard Stylist",
-	"author": "Rolo",
+	"author": "BeatMods Import",
 	"description": "A plugin for managing styling on beat saber leaderboards",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d7a75a8be34f5432f209f54/universal/Scoreboard Stylist-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/f1aaffe623ddd4ed6efa3fd4b18cd6b2.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
 			"dependencies": [
 				{
 					"id": "BS Utils",
-					"version": "1.3.4",
+					"version": "1.3.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
 					"id": "CustomUI",
-					"version": "1.5.4",
+					"version": "1.6.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
 				}
 			]

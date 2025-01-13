@@ -1,0 +1,16 @@
+{
+	"name": "SiaUtil",
+	"author": "BeatMods Import",
+	"description": "Random useful utilities for Beat Saber. Does not do anything on its own.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/af7a1aa3c269f39f840ad25a2ab1e6e7.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": []
+		}
+	]
+}

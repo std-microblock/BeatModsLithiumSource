@@ -1,34 +1,29 @@
 {
 	"name": "JustRainbowLights",
-	"author": "Cycle",
-	"description": "Makes the background lighting rainbow, for a more colourful experience.",
+	"author": "BeatMods Import",
+	"description": "Randomizes the background colours, now with presets.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.7.5",
+			"version": "1.2.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e86968403dce96ca6cf0e59/universal/JustRainbowLights-1.7.5.zip"
+				"universal": "https://beatmods.com/cdn/mod/d6ac8550a079f98c63ea110898ef2734.zip"
 			},
-			"requiredGameVersion": "~1.8.0",
+			"requiredGameVersion": "~1.6.0",
 			"dependencies": [
 				{
-					"id": "BS Utils",
-					"version": "1.4.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				},
-				{
-					"id": "SongCore",
-					"version": "2.9.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.2.2",
+					"version": "1.1.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
+					"id": "BS Utils",
+					"version": "1.4.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
 					"id": "BSIPA",
-					"version": "4.0.2",
+					"version": "3.13.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -36,7 +31,7 @@
 		{
 			"version": "1.5.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e1a4409e7c24e19d5cc7dac/universal/JustRainbowLights-1.5.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/0520a1a77362877c09dda44183174090.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": [
@@ -52,21 +47,79 @@
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.1.2",
+					"version": "1.1.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "1.2.5",
+			"version": "1.7.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5df9919729530a6e1adfee31/universal/JustRainbowLights-1.2.5.zip"
+				"universal": "https://beatmods.com/cdn/mod/45aa72b6665a91231d5e733354112393.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.4.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.9.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.0.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.7.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/3d46af74795f1932b2f381703cb7ba3b.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": [
+				{
+					"id": "BS Utils",
+					"version": "1.4.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "SongCore",
+					"version": "2.9.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.0.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.4.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/8d3b1ebebc6ba9150a62ef15300eff76.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.1.0",
+					"version": "1.1.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

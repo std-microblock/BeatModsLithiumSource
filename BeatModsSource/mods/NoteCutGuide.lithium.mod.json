@@ -1,19 +1,24 @@
 {
 	"name": "NoteCutGuide",
-	"author": "Bloodcloak",
-	"description": "This plugin add a guide to each arrow note based on the direction of the note.",
+	"author": "BeatMods Import",
+	"description": "Add a guide to each arrow note based on the direction of the note.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.2.7",
+			"version": "0.2.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6758e0ac83bf311222e86399/universal/NoteCutGuide-0.2.7.zip"
+				"universal": "https://beatmods.com/cdn/mod/7be0072a6b297b6db7284cac5d656cf9.zip"
 			},
-			"requiredGameVersion": "~1.40.0",
+			"requiredGameVersion": "~1.37.1",
 			"dependencies": [
 				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.11.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
 					"id": "BS Utils",
-					"version": "1.14.2",
+					"version": "1.14.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{
@@ -22,13 +27,8 @@
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraUtils.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.3.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -36,7 +36,7 @@
 		{
 			"version": "0.2.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c5729eaa1dfd6235d6da43/universal/NoteCutGuide-0.2.6.zip"
+				"universal": "https://beatmods.com/cdn/mod/f434838cbbc852fd5738523d37925f8f.zip"
 			},
 			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
@@ -48,6 +48,35 @@
 				{
 					"id": "BS Utils",
 					"version": "1.14.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
+				},
+				{
+					"id": "CameraUtils",
+					"version": "1.0.7",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CameraUtils.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.2.7",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/329a2d5ee996c726188f2c03228ec298.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BS Utils",
+					"version": "1.14.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
 				},
 				{

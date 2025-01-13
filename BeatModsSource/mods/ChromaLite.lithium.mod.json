@@ -1,31 +1,31 @@
 {
 	"name": "ChromaLite",
-	"author": "Aeroluna",
-	"description": "A slimmed down version of Chroma that only handles maps that utilize Chroma events, such as Chroma's famous RGB lighting events.",
+	"author": "BeatMods Import",
+	"description": "A slimmed down version of Chroma that only handles maps that utilize Chroma events, such as Chr...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.6",
+			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e18d414e7c24e19d5cc7d72/universal/ChromaLite-1.0.6.zip"
+				"universal": "https://beatmods.com/cdn/mod/2f8a2cfee4898c62fd8ca7db1567f334.zip"
 			},
-			"requiredGameVersion": "~1.6.1",
+			"requiredGameVersion": "~1.3.0",
 			"dependencies": []
 		},
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5dff34f529530a6e1adfeea9/universal/ChromaLite-1.0.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/c77bc3bc1b4cf0463c93e5207a414f0b.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
 			"dependencies": []
 		},
 		{
-			"version": "1.0.2",
+			"version": "1.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d69cf1fbe34f5432f209e15/universal/Chromalite-1.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/a3a8bf7d56f03f152a78e2a8350215e4.zip"
 			},
-			"requiredGameVersion": "~1.3.0",
+			"requiredGameVersion": "~1.6.1",
 			"dependencies": []
 		}
 	]

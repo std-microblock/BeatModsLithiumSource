@@ -1,0 +1,16 @@
+{
+	"name": "CoreOSC",
+	"author": "BeatMods Import",
+	"description": "Full implementation of Open Sound Control in C# Converted to .NET Standard 2.0",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a7b7cd0ad0c173bc28783c870c13cd17.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": []
+		}
+	]
+}

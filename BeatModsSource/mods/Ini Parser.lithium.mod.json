@@ -5,11 +5,79 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "2.5.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/0e16f3c010400a3ef6f2ef208e81a35a.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "2.5.2-1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/510af37f14c605e745c2623b645080da.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "2.5.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/d687dbb08f30d7ba5968a6e342c69171.zip"
+			},
+			"requiredGameVersion": "~1.1.0p1",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "3.12.23",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.5.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/d0f83a4a71f49d97c1c5a8a2ff3aeed9.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "3.12.23",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.5.6",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/503ad63ad7320dd865b772700730b0b0.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": []
+		},
+		{
 			"version": "2.5.3",
 			"downloads": {
 				"universal": "https://beatmods.com/cdn/mod/b0ab59ae5e2bfc52552d0d016e4d73e8.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "2.5.7",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/d7f6d703b221e8828d56accdd5305e92.zip"
+			},
+			"requiredGameVersion": "~1.8.0",
+			"dependencies": []
+		},
+		{
+			"version": "2.5.9",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/5df74ad1c6b120fecdc615dd55f15b88.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
 			"dependencies": []
 		}
 	]

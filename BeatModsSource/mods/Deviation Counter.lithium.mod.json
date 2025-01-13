@@ -1,13 +1,13 @@
 {
 	"name": "Deviation Counter",
-	"author": "Steven 🎀",
+	"author": "BeatMods Import",
 	"description": "A counter to show how early/late you hit bloq.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d425a62c26f5e655671e8fb/universal/Deviation Counter-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/8b4e599b1cbeb286397cb822953b0ddf.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": []

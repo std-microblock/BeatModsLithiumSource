@@ -1,19 +1,33 @@
 {
 	"name": "OpenXR Feature Manager",
-	"author": "Bloodcloak",
+	"author": "BeatMods Import",
 	"description": "Manages adding OpenXR features at runtime.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6758e09983bf311222e8635a/universal/OpenXR Feature Manager-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/c9f128c949b4ac1e43f393e1f3ddd8fa.zip"
 			},
-			"requiredGameVersion": "~1.40.0",
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/1199ee6f7e47ab27c16d4adc9c39ed1d.zip"
+			},
+			"requiredGameVersion": "~1.35.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

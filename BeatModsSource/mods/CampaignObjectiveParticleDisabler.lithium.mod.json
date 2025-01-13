@@ -1,69 +1,21 @@
 {
 	"name": "CampaignObjectiveParticleDisabler",
-	"author": "PulseLane",
-	"description": "Removes the distracting particles that show up when you meet the requirements of an objective during a campaign mission.",
+	"author": "BeatMods Import",
+	"description": "Removes the distracting particles that show up when you meet the requirements of an objective d...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.5",
+			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/612fe5ea70a9464db367b785/universal/CampaignObjectiveParticleDisabler-1.0.5.zip"
+				"universal": "https://beatmods.com/cdn/mod/c7577f8d7b1aa18f04ed712db2644fe2.zip"
 			},
-			"requiredGameVersion": "~1.17.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.2.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.4",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/60b151302d008b3daa41e8e7/universal/CampaignObjectiveParticleDisabler-1.0.4.zip"
-			},
-			"requiredGameVersion": "~1.16.1",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.3",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/6048051ffd8cd42a0cd12a46/universal/CampaignObjectiveParticleDisabler-1.0.3.zip"
-			},
-			"requiredGameVersion": "~1.13.4",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/600b800b8384cf2e7ec72662/universal/CampaignObjectiveParticleDisabler-1.0.2.zip"
-			},
-			"requiredGameVersion": "~1.13.2",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"requiredGameVersion": "~1.11.0",
+			"dependencies": []
 		},
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5f90d043df35a674dfeca4d8/universal/CampaignObjectiveParticleDisabler-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/7a6b676774b2d049b29fc26636cb47c2.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": [
@@ -75,12 +27,60 @@
 			]
 		},
 		{
-			"version": "1.0.0",
+			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5f3add1f83fe22744157e9bb/universal/CampaignObjectiveParticleDisabler-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/ca6e762f3c9ad6ee873f5151c2de518a.zip"
 			},
-			"requiredGameVersion": "~1.11.0",
-			"dependencies": []
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/e7b1345f7cb1546768c422e52f227dda.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/fa76b088fbdd944cd74919bc43faec17.zip"
+			},
+			"requiredGameVersion": "~1.16.1",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.6",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/96f778f06a8301509453543ad30b5149.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
 		}
 	]
 }

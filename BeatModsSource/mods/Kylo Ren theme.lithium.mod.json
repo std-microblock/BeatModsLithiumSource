@@ -1,0 +1,16 @@
+{
+	"name": "Kylo Ren theme",
+	"author": "BeatMods Import",
+	"description": "",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/efc5c002506a20ca39e5b9efb3ce5f6f.zip"
+			},
+			"requiredGameVersion": "~1.17.0",
+			"dependencies": []
+		}
+	]
+}

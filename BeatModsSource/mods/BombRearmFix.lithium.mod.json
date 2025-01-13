@@ -1,0 +1,24 @@
+{
+	"name": "BombRearmFix",
+	"author": "BeatMods Import",
+	"description": "This plugin fix a longstanding bug where bombs removal in internal memory during gameplay rearm...",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/16bbffde55ec04cbd127bc689ee78d80.zip"
+			},
+			"requiredGameVersion": "~1.29.0",
+			"dependencies": []
+		},
+		{
+			"version": "1.0.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a0a8d79d7dc3f8add49753ca69bf0e1e.zip"
+			},
+			"requiredGameVersion": "~1.34.2",
+			"dependencies": []
+		}
+	]
+}

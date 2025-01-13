@@ -1,13 +1,13 @@
 {
 	"name": "ExtendedColorSchemes",
-	"author": "Meivyn",
+	"author": "BeatMods Import",
 	"description": "Adds additional custom slots to color schemes.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/608d769787d8056f159ecaaa/universal/ExtendedColorSchemes-1.0.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/cf2377be0620fad5fe24a39dc9e5312a.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
@@ -18,7 +18,7 @@
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.1.4",
+					"version": "4.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

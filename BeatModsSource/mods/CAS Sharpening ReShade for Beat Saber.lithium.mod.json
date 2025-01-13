@@ -1,0 +1,16 @@
+{
+	"name": "CAS Sharpening ReShade for Beat Saber",
+	"author": "BeatMods Import",
+	"description": "AMD's new Contrast Adaptive Sharpening tech makes Beat Saber look super sharp and clear even on...",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/101d1dddb062e93a86adff183c87e273.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": []
+		}
+	]
+}

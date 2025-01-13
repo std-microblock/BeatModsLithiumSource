@@ -1,19 +1,19 @@
 {
 	"name": "SaberHaptics",
-	"author": "GoldenGuy1000",
+	"author": "BeatMods Import",
 	"description": "Change the haptic feedback of slicing notes (& other collisions).",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63000fedfdabde6bb8311500/universal/SaberHaptics-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/b007dab8f4f95de2f48ddd53b5866a3c.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.6",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

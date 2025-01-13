@@ -1,16 +1,68 @@
 {
 	"name": "PiFix",
-	"author": "guppyexpress",
-	"description": "A simple fix needed to play beatsaber on a Pimax headset without having double vision. Or needing Parallel Projections. PiFix corrects the double vision error shown on Pimax and Xtal headsets in game",
+	"author": "BeatMods Import",
+	"description": "A simple fix needed to play beatsaber on a Pimax headset without having double vision. Or needi...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "2.31.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/baa5a292acab7139274a3133b75b7b68.zip"
+			},
+			"requiredGameVersion": "~1.20.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "2.37.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/624686c33f368d47b27e97c2/universal/PiFix-2.37.7.zip"
+				"universal": "https://beatmods.com/cdn/mod/a41372c87e2d8c206e6e1e92e5444421.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.49.12",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a5f2e1d5bb006891379313cb80d282ba.zip"
+			},
+			"requiredGameVersion": "~1.28.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "2.48.12",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/aadf2a7857858d8b9c47dc2fcb0d5c48.zip"
+			},
+			"requiredGameVersion": "~1.27.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.8",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
 				{
 					"id": "BSIPA",
 					"version": "4.2.2",

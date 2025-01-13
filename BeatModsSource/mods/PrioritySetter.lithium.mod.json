@@ -1,13 +1,13 @@
 {
 	"name": "PrioritySetter",
-	"author": "Arimodu",
-	"description": "The PrioritySetter mod allows you to automatically adjust the priority of the game process to optimize performance",
+	"author": "BeatMods Import",
+	"description": "The PrioritySetter mod allows you to automatically adjust the priority of the game process to o...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.2.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/64c0df1a32846c29a72bcff7/universal/PrioritySetter-1.2.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/2179eade82bc99ab394e9f69c8b6bc63.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [

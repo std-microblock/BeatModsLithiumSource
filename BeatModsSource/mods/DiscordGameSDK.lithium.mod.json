@@ -1,29 +1,45 @@
 {
 	"name": "DiscordGameSDK",
-	"author": "FizzyApple12",
-	"description": "Discord's Game SDK",
+	"author": "BeatMods Import",
+	"description": "SDK for interfacing with Discord.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "2.5.10",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61ca0b2e7a2ef528fb65ba16/universal/DiscordGameSDK-2.5.10.zip"
+				"universal": "https://beatmods.com/cdn/mod/1fbc454349a8f12c50f361441b9baec1.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": []
 		},
 		{
+			"version": "2.5.9",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a97855509f3d54fd746692acbc4d2777.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": []
+		},
+		{
 			"version": "2.5.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60b856cc2d008b3daa41ea93/universal/DiscordGameSDK-2.5.7.zip"
+				"universal": "https://beatmods.com/cdn/mod/298318d0fbde4d06e3df0ec915d1a722.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": []
 		},
 		{
+			"version": "3.2.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/1a5ff3ab7c71aea0d23e64ebeb063fa9.zip"
+			},
+			"requiredGameVersion": "~1.28.0",
+			"dependencies": []
+		},
+		{
 			"version": "2.5.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5f92a3b8df35a674dfeca570/universal/DiscordGameSDK-2.5.6.zip"
+				"universal": "https://beatmods.com/cdn/mod/3482666c5512dbacd2b55e2f726bf20f.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": []

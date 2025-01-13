@@ -1,63 +1,51 @@
 {
 	"name": "BeatTogether",
-	"author": "Bloodcloak",
-	"description": "A multiplayer private server for the modding community with support for crossplay between PC and Quest.",
+	"author": "BeatMods Import",
+	"description": "Alternative Multiplayer for BeatSaber. Credit belongs to Kevman95 and pythonology on GitHub. I ...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "2.2.1",
+			"version": "2020.12.21",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd0913a68900bb0482752/universal/BeatTogether-2.2.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/eac7001d524e9d76d58c7261d64fd640.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "1.1.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/929222a08a4746a05b84d8d9955fc3f7.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
 			"dependencies": [
 				{
-					"id": "MultiplayerCore",
-					"version": "1.5.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
+					"version": "1.4.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "SiraUtil",
-					"version": "3.1.12",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.1.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "2.2.0",
+			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66d21eddaa1dfd6235d6db2f/universal/BeatTogether-2.2.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/d1f83602c1dfd7c1b6ddbf5510ab99c4.zip"
 			},
-			"requiredGameVersion": "~1.37.3",
+			"requiredGameVersion": "~1.13.4",
 			"dependencies": [
 				{
-					"id": "MultiplayerCore",
-					"version": "1.5.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.11.4",
+					"version": "1.5.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "SiraUtil",
-					"version": "3.1.11",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -65,7 +53,7 @@
 		{
 			"version": "2.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/644e947fb0c58c0150e5fff6/universal/BeatTogether-2.1.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/d1bcf89d317856e6a9575bb1cac94c99.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
@@ -92,21 +80,21 @@
 			]
 		},
 		{
-			"version": "2.0.1",
+			"version": "2.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/636ae3d80c5c87297d5dac54/universal/BeatTogether-2.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/c4269837e5c5340587b3daa0d45e023d.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.6.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "MultiplayerCore",
+					"version": "1.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
 				},
 				{
-					"id": "MultiplayerCore",
-					"version": "1.1.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.6.10",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
@@ -121,58 +109,59 @@
 			]
 		},
 		{
-			"version": "1.1.3",
+			"version": "2.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60b236ec2d008b3daa41e9a0/universal/BeatTogether-1.1.13.zip"
+				"universal": "https://beatmods.com/cdn/mod/320f6f39149dfecdf76c0e59e4456240.zip"
 			},
-			"requiredGameVersion": "~1.16.1",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.3",
+					"version": "1.12.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
+					"id": "MultiplayerCore",
+					"version": "1.5.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
+				},
+				{
 					"id": "BSIPA",
-					"version": "4.1.6",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "1.1.2",
+			"version": "2.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60494a77fd8cd42a0cd12ae1/universal/BeatTogether-1.1.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/f3072f44bc3ddc26108069cfd51c7c34.zip"
 			},
-			"requiredGameVersion": "~1.13.4",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
+					"id": "SiraUtil",
+					"version": "3.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.1",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "BSIPA",
-					"version": "4.1.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.1.1",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/601494660eef816aa6d0c171/universal/BeatTogether-1.1.1.zip"
-			},
-			"requiredGameVersion": "~1.13.2",
-			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.4.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "MultiplayerCore",
+					"version": "1.1.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/MultiplayerCore.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.1.4",
+					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

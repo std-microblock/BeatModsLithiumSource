@@ -1,25 +1,25 @@
 {
 	"name": "IntroSkip",
-	"author": "Bloodcloak",
-	"description": "Allows you to skip intros and outros of songs that are longer than 5 seconds without any significant objects.",
+	"author": "BeatMods Import",
+	"description": "Allows you to skip intros and outros of songs that are longer than 5 seconds without any signif...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "4.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6758e0c383bf311222e863db/universal/IntroSkip-4.0.6.zip"
+				"universal": "https://beatmods.com/cdn/mod/596e2b18fbaa984f18888d7650c7e2ec.zip"
 			},
-			"requiredGameVersion": "~1.40.0",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
-					"id": "SiraUtil",
-					"version": "3.1.14",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",

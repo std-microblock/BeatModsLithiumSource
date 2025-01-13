@@ -1,15 +1,15 @@
 {
 	"name": "System.IO.Compression",
-	"author": "Bloodcloak",
+	"author": "BeatMods Import",
 	"description": "Contains classes that provide basic compression and decompression services for streams.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "4.6.57",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/648937a2d49b19506b03e0dc/universal/System.IO.Compression-4.6.57.zip"
+				"universal": "https://beatmods.com/cdn/mod/a4e9e26f61967e56168e08eecb01ab88.zip"
 			},
-			"requiredGameVersion": "~1.30.2",
+			"requiredGameVersion": "~1.29.4",
 			"dependencies": []
 		}
 	]

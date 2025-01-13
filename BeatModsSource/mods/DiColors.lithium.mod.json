@@ -1,53 +1,77 @@
 {
 	"name": "DiColors",
-	"author": "PixelBoom",
-	"description": "Allows you to change the colors various in the menu including the menu lights and menu sign!",
+	"author": "BeatMods Import",
+	"description": "Allows you to change the colors various in the menu and game including the menu lights, arrow g...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.6",
+			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6150fb4ff1166c468bfa22ea/universal/DiColors-1.0.6.zip"
+				"universal": "https://beatmods.com/cdn/mod/6bf3f030f0940bf25b6f25049bc11b26.zip"
 			},
-			"requiredGameVersion": "~1.18.0",
+			"requiredGameVersion": "~1.12.2",
 			"dependencies": [
 				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
 					"id": "SiraUtil",
-					"version": "2.5.8",
+					"version": "2.3.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.4.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
 					"id": "BSIPA",
-					"version": "4.2.0",
+					"version": "4.1.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "1.0.5",
+			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60f73f94b1ad095176942cf3/universal/DiColors-1.0.5.zip"
+				"universal": "https://beatmods.com/cdn/mod/58c8e8476cfd503bb7935a08e5cd5fd9.zip"
 			},
-			"requiredGameVersion": "~1.16.3",
+			"requiredGameVersion": "~1.13.2",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.4",
+					"version": "1.4.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "2.5.6",
+					"version": "2.5.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.0",
+					"version": "4.1.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a5be96b3e61547d4020ae7fe45b7f315.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "2.5.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -55,7 +79,7 @@
 		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60d28f93af1e3d4577e036c6/universal/DiColors-1.0.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/ccd16ef99f0f89ad99f224c08ad5eab5.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
@@ -77,73 +101,73 @@
 			]
 		},
 		{
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60485475fd8cd42a0cd12aad/universal/DiColors-1.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/b37723b13ee84e32181fc1c9207233ef.zip"
 			},
-			"requiredGameVersion": "~1.13.4",
+			"requiredGameVersion": "~1.16.1",
 			"dependencies": [
 				{
-					"id": "SiraUtil",
-					"version": "2.5.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.1",
+					"version": "1.5.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
+					"id": "SiraUtil",
+					"version": "2.5.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
 					"id": "BSIPA",
-					"version": "4.1.4",
+					"version": "4.1.6",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "1.0.1",
+			"version": "1.0.5",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/600a5f478384cf2e7ec72594/universal/DiColors-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/5e7eeb31f49480200318ccabaf5258dc.zip"
 			},
-			"requiredGameVersion": "~1.13.2",
+			"requiredGameVersion": "~1.16.3",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.4.5",
+					"version": "1.5.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "SiraUtil",
-					"version": "2.4.0",
+					"version": "2.5.7",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.1.4",
+					"version": "4.2.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "1.0.0",
+			"version": "1.0.6",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5fbe9f478384cf2e7ec72054/universal/DiColors-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/cb182404ebbcb8872bb9bdf101368672.zip"
 			},
-			"requiredGameVersion": "~1.12.2",
+			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "2.1.0",
+					"version": "2.5.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.4.1",
+					"version": "1.5.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.1.3",
+					"version": "4.2.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

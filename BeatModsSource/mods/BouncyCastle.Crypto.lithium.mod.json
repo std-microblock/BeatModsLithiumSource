@@ -1,0 +1,16 @@
+{
+	"name": "BouncyCastle.Crypto",
+	"author": "BeatMods Import",
+	"description": "Open-source C# cryptography API",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.8.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/02e10361e0c73e7842f327a5986e4b7d.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		}
+	]
+}

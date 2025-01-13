@@ -1,0 +1,36 @@
+{
+	"name": "No360HUD",
+	"author": "BeatMods Import",
+	"description": "Disables 360 HUD for maps that have no valid rotation events.",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.13.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/0c3818dd1080484ff3531dbd27c40eb6.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.13.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/f315452727f101a9aa512b17e540ed21.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.1.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		}
+	]
+}

@@ -1,13 +1,13 @@
 {
 	"name": "Note Cut Minimizer",
-	"author": "CircuitLord",
-	"description": "Tweaks the note debris to make it way less obtrusive on maps with lots of notes. Also makes debris fall in the direction you hit the note.",
+	"author": "BeatMods Import",
+	"description": "Tweaks the note debris to make it way less obtrusive on maps with lots of notes. Also makes deb...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e094d0dc7db000caca5a65a/universal/Note Cut Minimizer-1.1.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/ec3cf59275c41e840ecbfca1bf7e4793.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
 			"dependencies": [

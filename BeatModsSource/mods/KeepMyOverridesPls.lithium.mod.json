@@ -1,24 +1,38 @@
 {
 	"name": "KeepMyOverridesPls",
-	"author": "Bloodcloak",
+	"author": "BeatMods Import",
 	"description": "Stops the game from disabling your precious environment and colour scheme overrides.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.1.2",
+			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673fd06d3a68900bb04826dd/universal/KeepMyOverridesPls-1.1.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/e5b8daf9543afbb7cf21dcdd24807c9a.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.35.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/642d0c920528df2502ab3adb0dfa9053.zip"
+			},
+			"requiredGameVersion": "~1.36.2",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.1.12",
+					"version": "3.1.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.3.3",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -26,13 +40,13 @@
 		{
 			"version": "1.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66b2b05d88a93c0e384654c2/universal/KeepMyOverridesPls-1.1.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/0255ec58e9d19defe1e6189e8e392b9a.zip"
 			},
-			"requiredGameVersion": "~1.37.2",
+			"requiredGameVersion": "~1.37.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.1.11",
+					"version": "3.1.10",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
@@ -43,15 +57,20 @@
 			]
 		},
 		{
-			"version": "1.0.1",
+			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6615d1867413b61453107fe1/universal/KeepMyOverridesPls-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/62fdd6ededdc260ed80e777bf9723afc.zip"
 			},
-			"requiredGameVersion": "~1.36.0",
+			"requiredGameVersion": "~1.37.4",
 			"dependencies": [
 				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
 					"id": "BSIPA",
-					"version": "4.3.3",
+					"version": "4.3.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

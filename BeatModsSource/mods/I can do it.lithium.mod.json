@@ -1,0 +1,16 @@
+{
+	"name": "I can do it",
+	"author": "BeatMods Import",
+	"description": "this is fun?",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/797ce22ebb8433d394ae538b2f1e62c7.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": []
+		}
+	]
+}

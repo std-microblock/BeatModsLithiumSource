@@ -1,13 +1,13 @@
 {
 	"name": "Heck",
-	"author": "Aeroluna",
+	"author": "BeatMods Import",
 	"description": "Library for Aeroluna's mods.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.7.0+1.39.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/673d3c2ea361b018134c2097/universal/Heck-1.7.0_1.39.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/fec970f4b7d9792b5197a4d3865ce7af.zip"
 			},
 			"requiredGameVersion": "~1.39.0",
 			"dependencies": [

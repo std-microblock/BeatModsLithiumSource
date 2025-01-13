@@ -1,87 +1,143 @@
 {
 	"name": "BeatSaverSharp",
-	"author": "auros",
-	"description": "A .NET library to interact with the BeatSaver API.",
+	"author": "BeatMods Import",
+	"description": "Official C# Library to interact with the BeatSaver API",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "3.4.5",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/64f77f949374367c46c8c63a/universal/BeatSaverSharp-3.4.5.zip"
-			},
-			"requiredGameVersion": "~1.31.1",
-			"dependencies": []
-		},
-		{
-			"version": "3.4.4",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/62b5164e2dcc1236fc0b5bad/universal/BeatSaverSharp-3.4.4.zip"
-			},
-			"requiredGameVersion": "~1.21.0",
-			"dependencies": []
-		},
-		{
-			"version": "3.4.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/623b738b6f151827d5d77e90/universal/BeatSaverSharp-3.4.2.zip"
-			},
-			"requiredGameVersion": "~1.20.0",
-			"dependencies": []
-		},
-		{
 			"version": "3.3.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61f2d47f999a2d79d10aa1c3/universal/BeatSaverSharp-3.3.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/f9f6c4c554ab71a80b955e4e13ce6c6f.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
 			"dependencies": []
 		},
 		{
-			"version": "3.0.2",
+			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6130025470a9464db367b7ae/universal/BeatSaverSharp-3.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/eab92567cace5cdffa6ae565f7599a2f.zip"
 			},
-			"requiredGameVersion": "~1.17.0",
+			"requiredGameVersion": "~1.6.0",
 			"dependencies": []
 		},
 		{
-			"version": "3.0.1",
+			"version": "0.4.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61130fb49fc0c8070c0e6653/universal/BeatSaverSharp-3.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/6ec419150b2feb3928f59a392d620348.zip"
 			},
-			"requiredGameVersion": "~1.16.3",
+			"requiredGameVersion": "~1.6.0",
 			"dependencies": []
 		},
 		{
-			"version": "2.0.1",
+			"version": "1.2.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/600bff468384cf2e7ec72686/universal/BeatSaverSharp-2.0.1.zip"
-			},
-			"requiredGameVersion": "~1.13.2",
-			"dependencies": []
-		},
-		{
-			"version": "1.6.0",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5f3ad05583fe22744157e996/universal/BeatSaverSharp-1.6.0.zip"
-			},
-			"requiredGameVersion": "~1.11.0",
-			"dependencies": []
-		},
-		{
-			"version": "1.5.2",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e403d6403dce96ca6cf093b/universal/BeatSaverSharp-1.5.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/ffb0c4dd602b7796057decd924ad11f5.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
 			"dependencies": []
 		},
 		{
-			"version": "1.0.1",
+			"version": "1.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e07decf29530a6e1adfef3c/universal/BeatSaverSharp-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/d1cc21c8739a4bfa2d9486b1de13ca4c.zip"
 			},
-			"requiredGameVersion": "~1.6.0",
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": []
+		},
+		{
+			"version": "3.2.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/a3f611fb78e8e4fafdb76d090846b3db.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/ecb1c410f0c964412a26c1ec77164612.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.1.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/8db067e98a5e585204a63d54ed2b96f5.zip"
+			},
+			"requiredGameVersion": "~1.19.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.4.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/7478050e9e9e5f461c9067cd83c9237f.zip"
+			},
+			"requiredGameVersion": "~1.20.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.4.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/be37e13e93d9ac7da4efbdc3f514fa8f.zip"
+			},
+			"requiredGameVersion": "~1.31.1",
+			"dependencies": []
+		},
+		{
+			"version": "1.5.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/8babfa9261ad88a1d4cd16db49733064.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
+			"dependencies": []
+		},
+		{
+			"version": "1.6.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/5211a74c579bcdfe09f047387dc2a58c.zip"
+			},
+			"requiredGameVersion": "~1.11.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.0.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/e8efc503fc39916caea175ca21b3469d.zip"
+			},
+			"requiredGameVersion": "~1.17.0",
+			"dependencies": []
+		},
+		{
+			"version": "3.4.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/dbb0d8b1bef1baba220a0df8a19eedb7.zip"
+			},
+			"requiredGameVersion": "~1.20.0",
+			"dependencies": []
+		},
+		{
+			"version": "2.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/c2dcc9c6b87be62f7cf8229de256ad99.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "3.0.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/49d46aa788cf391e21eafa0004990e7e.zip"
+			},
+			"requiredGameVersion": "~1.16.3",
+			"dependencies": []
+		},
+		{
+			"version": "3.4.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/7394346288c947e353da9fdba1ef1a37.zip"
+			},
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": []
 		}
 	]

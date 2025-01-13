@@ -1,0 +1,16 @@
+{
+	"name": "MultyplayerExtension",
+	"author": "BeatMods Import",
+	"description": "",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "0.6.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/fb08d9d63fde3c426a3c217999b7cf61.zip"
+			},
+			"requiredGameVersion": "~1.17.0",
+			"dependencies": []
+		}
+	]
+}

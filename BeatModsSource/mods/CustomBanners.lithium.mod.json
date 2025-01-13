@@ -1,58 +1,29 @@
 {
 	"name": "CustomBanners",
-	"author": "Loloppe",
-	"description": "Add customs banners to your game.",
+	"author": "BeatMods Import",
+	"description": "Display images as banners or cycle through them automatically",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.2.0",
+			"version": "0.1.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/67492f643a68900bb048282c/universal/CustomBanners-0.2.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/b372646c0e3f2ce524fd63003d617d3b.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
-			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "SiraUtil",
-					"version": "3.1.14",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "0.1.9",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/673409d8a361b018134c1f46/universal/CustomBanners-0.1.9.zip"
-			},
-			"requiredGameVersion": "~1.39.0",
+			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
 				{
 					"id": "SiraUtil",
-					"version": "3.1.12",
+					"version": "2.5.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
 				},
 				{
-					"id": "AssetBundleLoadingTools",
-					"version": "1.1.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
-				},
-				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
+					"version": "1.5.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.3.5",
+					"version": "4.2.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
@@ -60,7 +31,7 @@
 		{
 			"version": "0.1.7",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/66c6651aaa1dfd6235d6da57/universal/CustomBanners-0.1.7.zip"
+				"universal": "https://beatmods.com/cdn/mod/33582631f1030d0db6b7f8f7b3deaf30.zip"
 			},
 			"requiredGameVersion": "~1.37.3",
 			"dependencies": [
@@ -87,9 +58,62 @@
 			]
 		},
 		{
+			"version": "0.1.9",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/8b320b4b313cacbc5da8ef01574da95f.zip"
+			},
+			"requiredGameVersion": "~1.37.4",
+			"dependencies": [
+				{
+					"id": "AssetBundleLoadingTools",
+					"version": "1.1.9",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/AssetBundleLoadingTools.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "0.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/ec9dc04bd9a15e2b72b605ac07eaa200.zip"
+			},
+			"requiredGameVersion": "~1.39.1",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.4",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "SiraUtil",
+					"version": "3.1.14",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "0.1.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6442a9c45d8cf14fb67916c0/universal/CustomBanners-0.1.3.zip"
+				"universal": "https://beatmods.com/cdn/mod/d6a3b5df8418876dd3838308e50df53f.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
@@ -106,30 +130,6 @@
 				{
 					"id": "BSIPA",
 					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "0.1.1",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/61350fef70a9464db367b898/universal/CustomBanners-0.1.1.zip"
-			},
-			"requiredGameVersion": "~1.17.0",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "2.5.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

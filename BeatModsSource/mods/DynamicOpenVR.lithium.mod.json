@@ -1,39 +1,47 @@
 {
 	"name": "DynamicOpenVR",
-	"author": "nicoco007",
-	"description": "Collection of Unity scripts that allow dynamic creation of OpenVR actions at runtime. Does nothing on its own.",
+	"author": "BeatMods Import",
+	"description": "Unity scripts to allow dynamic creation of OpenVR actions at runtime.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "0.4.0",
+			"version": "0.2.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/60482e9bfd8cd42a0cd12a8d/universal/DynamicOpenVR-0.4.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/fea2f8fca05aa96697e1a27f7e875305.zip"
 			},
-			"requiredGameVersion": "~1.13.4",
-			"dependencies": []
-		},
-		{
-			"version": "0.3.5",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/600a61e68384cf2e7ec725a3/universal/DynamicOpenVR-0.3.5.zip"
-			},
-			"requiredGameVersion": "~1.13.2",
-			"dependencies": []
-		},
-		{
-			"version": "0.3.3",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5f9733dedf35a674dfeca621/universal/DynamicOpenVR-0.3.3.zip"
-			},
-			"requiredGameVersion": "~1.12.2",
+			"requiredGameVersion": "~1.8.0",
 			"dependencies": []
 		},
 		{
 			"version": "0.3.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5f3b30fc83fe22744157ea3d/universal/DynamicOpenVR-0.3.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/4d36e0c19cd29e81c0f80787913be8d9.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
+			"dependencies": []
+		},
+		{
+			"version": "0.3.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/fb723e498b8293e15a765c5f661a2a5b.zip"
+			},
+			"requiredGameVersion": "~1.13.2",
+			"dependencies": []
+		},
+		{
+			"version": "0.4.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/897da570b1cb206783da8406ba962173.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": []
+		},
+		{
+			"version": "0.3.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/ac0d16b98da8564ebea0fb5e6295a710.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
 			"dependencies": []
 		}
 	]

@@ -1,31 +1,31 @@
 {
 	"name": "YamlDotNet",
-	"author": "lolpants",
+	"author": "BeatMods Import",
 	"description": "YamlDotNet is a .NET library for YAML",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "8.0.0",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/5e19d0dee7c24e19d5cc7d85/universal/YamlDotNet-8.0.0.zip"
-			},
-			"requiredGameVersion": "~1.6.1",
-			"dependencies": []
-		},
-		{
 			"version": "6.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5dce3b698ed3a56f6197bc33/universal/YamlDotNet-6.1.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/ceb2d7202b24045a560d3727a234ef81.zip"
 			},
-			"requiredGameVersion": "~1.5.0",
+			"requiredGameVersion": "~1.1.0p1",
 			"dependencies": []
 		},
 		{
 			"version": "6.1.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5d6bfc1abe34f5432f209e61/universal/YamlDotNet-1.3.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/6a7b6d77a87bd6752cc7e230c5659b7f.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
+			"dependencies": []
+		},
+		{
+			"version": "8.0.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/9129b8f89de9ebd4bf24a1744a95adbc.zip"
+			},
+			"requiredGameVersion": "~1.6.1",
 			"dependencies": []
 		}
 	]

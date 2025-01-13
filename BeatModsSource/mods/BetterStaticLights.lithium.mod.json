@@ -1,15 +1,34 @@
 {
 	"name": "BetterStaticLights",
-	"author": "Bloodcloak",
-	"description": "Choose which lights you want active when using 'Static Lights'!",
+	"author": "BeatMods Import",
+	"description": "Allows you to customize your lights when using Static Lights! You get to pick and choose which ...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "0.1.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/b65838a6b43e1e93368569c202bcabc7.zip"
+			},
+			"requiredGameVersion": "~1.18.0",
+			"dependencies": [
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.5.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.2.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
 			"version": "1.0.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63fe8e96fdb14f39fb57fc31/universal/BetterStaticLights-1.0.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/9495dea64e24206e9336a5509a5f096b.zip"
 			},
-			"requiredGameVersion": "~1.28.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
@@ -24,20 +43,20 @@
 			]
 		},
 		{
-			"version": "0.1.0",
+			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/61536ecbf1166c468bfa2349/universal/BetterStaticLights-0.1.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/0969fe91555a56e635db7e5b9149c582.zip"
 			},
-			"requiredGameVersion": "~1.18.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.5.9",
+					"version": "1.6.8",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
 					"id": "BSIPA",
-					"version": "4.2.0",
+					"version": "4.2.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

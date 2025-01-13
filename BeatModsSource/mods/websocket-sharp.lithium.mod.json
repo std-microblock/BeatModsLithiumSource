@@ -1,13 +1,21 @@
 {
 	"name": "websocket-sharp",
-	"author": "Eris",
+	"author": "BeatMods Import",
 	"description": "A C# implementation of the WebSocket protocol client and server",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.0.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/8c68e4c2e6fdfb93f527de4a53863634.zip"
+			},
+			"requiredGameVersion": "~1.12.2",
+			"dependencies": []
+		},
+		{
 			"version": "1.0.4",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5fc43b0a8384cf2e7ec720da/universal/websocket-sharp-1.0.4.zip"
+				"universal": "https://beatmods.com/cdn/mod/18968f984afdbc619727793739ef9caa.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
 			"dependencies": []

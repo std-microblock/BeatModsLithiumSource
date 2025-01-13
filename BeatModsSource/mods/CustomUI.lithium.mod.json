@@ -5,6 +5,150 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
+			"version": "1.5.3",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/94673bfc903857685f0bd2b403d78359.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.5.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/d6b663419c1cb3da12416e8013fd1a77.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.4.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/0c641628146959350434492f2dd349bd.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.5.5",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/8590f78c78940c978efd57c8ea5bae5c.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.5.4",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/6b26b08c1267625972056a8266ee1acb.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.4.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/2f178f850698d8fc053e51c26e39e8c3.zip"
+			},
+			"requiredGameVersion": "~0.13.2",
+			"dependencies": [
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.5.8",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/4501b4fb909719f1920b873c8dbf22f8.zip"
+			},
+			"requiredGameVersion": "~1.0.0",
+			"dependencies": [
+				{
+					"id": "Harmony",
+					"version": "1.2.1",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.5.10",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/23bc577b194f7df2a572d1d8bdc4df9e.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": []
+		},
+		{
+			"version": "1.5.11",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/0f1ea1000b164b3b13378d41d579841c.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": []
+		},
+		{
+			"version": "1.5.9",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/9510e3cfe9313f44f3fb00de8f6481cd.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": []
+		},
+		{
+			"version": "1.6.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/2531babe02bc7504f1da59a2217fd914.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "3.13.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.7.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/f0f82cf39ae327fc5f91828d040acf8c.zip"
+			},
+			"requiredGameVersion": "~1.5.0",
+			"dependencies": []
+		},
+		{
 			"version": "1.5.6",
 			"downloads": {
 				"universal": "https://beatmods.com/cdn/mod/8a80d90422a274d5d8ddfe57a2fe47ce.zip"
@@ -15,6 +159,20 @@
 					"id": "Harmony",
 					"version": "1.2.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.7.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/47b1386c7e8850931dc81dc741605153.zip"
+			},
+			"requiredGameVersion": "~1.3.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "3.13.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		}

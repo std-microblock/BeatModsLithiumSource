@@ -1,13 +1,21 @@
 {
 	"name": "FFmpeg",
-	"author": "Dakari",
-	"description": "FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created.",
+	"author": "BeatMods Import",
+	"description": "FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stre...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "4.3.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6049ebc7fd8cd42a0cd12b09/universal/FFmpeg-4.3.3.zip"
+				"universal": "https://beatmods.com/cdn/mod/65b5f23bce0e8e6ea1b7942a2f970edf.zip"
+			},
+			"requiredGameVersion": "~1.13.4",
+			"dependencies": []
+		},
+		{
+			"version": "4.3.2",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/4e7f69379ddcd171c7ff07ca85563b90.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
 			"dependencies": []

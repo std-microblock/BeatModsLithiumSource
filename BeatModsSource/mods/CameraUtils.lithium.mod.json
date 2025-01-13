@@ -1,43 +1,15 @@
 {
 	"name": "CameraUtils",
-	"author": "Bloodcloak",
-	"description": "Library that standardizes the use of GameObject layers and provides tools for easier rendering pipeline modifications",
+	"author": "BeatMods Import",
+	"description": "Library that standardizes the use of GameObject layers and provides tools for easier rendering ...",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.7",
+			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6758e09983bf311222e8635d/universal/CameraUtils-1.0.7.zip"
+				"universal": "https://beatmods.com/cdn/mod/d9b82acaf3fcdae809dce046054fa4ec.zip"
 			},
-			"requiredGameVersion": "~1.40.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.6",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/64f6047c9374367c46c8c5bd/universal/CameraUtils-1.0.6.zip"
-			},
-			"requiredGameVersion": "~1.31.1",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.3.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.0.3",
-			"downloads": {
-				"universal": "https://beatmods.com/uploads/644a11ddb0c58c0150e5ffb8/universal/CameraUtils-1.0.3.zip"
-			},
-			"requiredGameVersion": "~1.29.0",
+			"requiredGameVersion": "~1.21.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
@@ -49,7 +21,7 @@
 		{
 			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/639abd480505da399146f15d/universal/CameraUtils-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/11ec3a0a13dacf498ab51c046fe88b7f.zip"
 			},
 			"requiredGameVersion": "~1.27.0",
 			"dependencies": [
@@ -61,15 +33,43 @@
 			]
 		},
 		{
-			"version": "1.0.0",
+			"version": "1.0.3",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6378a64d4aaa530242e16369/universal/CameraUtils-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/048fb78570e9cdf91869c35defea37cc.zip"
 			},
-			"requiredGameVersion": "~1.26.0",
+			"requiredGameVersion": "~1.29.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
 					"version": "4.2.2",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.6",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/7341996614245530231fbf2cbe4bc366.zip"
+			},
+			"requiredGameVersion": "~1.30.2",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.0",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.7",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/471d40a9a5c951f4e7f5520096f00bdb.zip"
+			},
+			"requiredGameVersion": "~1.33.0",
+			"dependencies": [
+				{
+					"id": "BSIPA",
+					"version": "4.3.2",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

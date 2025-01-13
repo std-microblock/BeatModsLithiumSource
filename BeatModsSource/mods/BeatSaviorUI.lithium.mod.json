@@ -1,19 +1,43 @@
 {
 	"name": "BeatSaviorUI",
-	"author": "qqrz997",
+	"author": "BeatMods Import",
 	"description": "Adds a score graph and various statistics to the level results screen",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.1",
+			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/67608c2583bf311222e864f4/universal/BeatSaviorUI-1.0.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/72d597c1a6d8b400fe86eafbff8bf1fa.zip"
 			},
-			"requiredGameVersion": "~1.40.0",
+			"requiredGameVersion": "~1.39.0",
+			"dependencies": [
+				{
+					"id": "SiraUtil",
+					"version": "3.1.12",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
+				},
+				{
+					"id": "BeatSaberMarkupLanguage",
+					"version": "1.12.3",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
+				},
+				{
+					"id": "BSIPA",
+					"version": "4.3.5",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.0.1+1.39.1",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/3aceebd60a96022dab62366c360c3d02.zip"
+			},
+			"requiredGameVersion": "~1.39.1",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.5",
+					"version": "1.12.4",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{
@@ -29,15 +53,15 @@
 			]
 		},
 		{
-			"version": "1.0.1+1.39.1",
+			"version": "1.0.1",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/6760a7f183bf311222e864fa/universal/BeatSaviorUI-1.0.1_1.39.1.zip"
+				"universal": "https://beatmods.com/cdn/mod/1f66ca8fcf8639fc5ff22a604aa00c5e.zip"
 			},
-			"requiredGameVersion": "~1.39.1",
+			"requiredGameVersion": "~1.40.0",
 			"dependencies": [
 				{
 					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.3",
+					"version": "1.12.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
 				},
 				{

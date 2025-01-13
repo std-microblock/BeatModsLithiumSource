@@ -1,33 +1,33 @@
 {
 	"name": "SearchFixes",
-	"author": "Bloodcloak",
+	"author": "BeatMods Import",
 	"description": "An improved search algorithm for Beat Saber.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.0",
+			"version": "0.1.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/63990e030505da399146efe4/universal/SearchFixes-1.0.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/5bc92f7227a14ac5be8b257df76dc84c.zip"
 			},
-			"requiredGameVersion": "~1.27.0",
+			"requiredGameVersion": "~1.17.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.2.2",
+					"version": "4.2.0",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]
 		},
 		{
-			"version": "0.1.0",
+			"version": "1.0.0",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/614e9907d012e8328ad318a9/universal/SearchFixes-0.1.0.zip"
+				"universal": "https://beatmods.com/cdn/mod/3b2d4ff4fd58461f27bb5c0dc221194f.zip"
 			},
-			"requiredGameVersion": "~1.18.0",
+			"requiredGameVersion": "~1.19.0",
 			"dependencies": [
 				{
 					"id": "BSIPA",
-					"version": "4.2.0",
+					"version": "4.2.1",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
 				}
 			]

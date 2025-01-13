@@ -1,13 +1,13 @@
 {
 	"name": "TwitchPlus",
-	"author": "auros",
+	"author": "BeatMods Import",
 	"description": "Adds various Twitch-related functions to Beat Saber. Read the mod info readme.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
 			"version": "1.1.2",
 			"downloads": {
-				"universal": "https://beatmods.com/uploads/5ce4afafb29eb364ff1e99ea/universal/TwitchPlus-1.1.2.zip"
+				"universal": "https://beatmods.com/cdn/mod/66e8770a39b249162909f922d811dae7.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
 			"dependencies": [
@@ -18,8 +18,22 @@
 				},
 				{
 					"id": "Stream Core",
-					"version": "1.0.4",
+					"version": "1.0.5",
 					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Stream Core.lithium.mod.json"
+				}
+			]
+		},
+		{
+			"version": "1.2.0",
+			"downloads": {
+				"universal": "https://beatmods.com/cdn/mod/b9bbc80a23c846949740ab5d54750646.zip"
+			},
+			"requiredGameVersion": "~1.1.0",
+			"dependencies": [
+				{
+					"id": "CustomUI",
+					"version": "1.5.11",
+					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
 				}
 			]
 		}

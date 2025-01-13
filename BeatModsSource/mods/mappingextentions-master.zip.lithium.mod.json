@@ -1,0 +1,24 @@
+{
+	"name": "mappingextentions-master.zip",
+	"author": "BeatMods Import",
+	"description": "",
+	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
+	"versions": [
+		{
+			"version": "1.17.1",
+			"downloads": {
+				"steam": "https://beatmods.com/cdn/mod/ebfde3fc7e119e415c80429d4a40414d.zip"
+			},
+			"requiredGameVersion": "~1.17.0",
+			"dependencies": []
+		},
+		{
+			"version": "1.17.1",
+			"downloads": {
+				"oculus": "https://beatmods.com/cdn/mod/aba3ab76897ada3752df296f1997bf34.zip"
+			},
+			"requiredGameVersion": "~1.17.0",
+			"dependencies": []
+		}
+	]
+}
