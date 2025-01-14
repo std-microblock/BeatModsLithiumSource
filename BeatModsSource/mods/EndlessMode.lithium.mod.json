@@ -10,33 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/b3f09d1aac00f4f6d18f1a98973c530f.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.5.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "SongLoader",
-					"version": "7.0.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongLoader.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "3.12.20",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "SongCore",
-					"version": "1.0.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "0.1.0",
@@ -44,28 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/1458ddb79cdbefd2fbf6662302320657.zip"
 			},
 			"requiredGameVersion": "~1.1.0p1",
-			"dependencies": [
-				{
-					"id": "SongCore",
-					"version": "2.0.11",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
-					"id": "CustomUI",
-					"version": "1.5.11",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "3.12.23",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "0.1.1",
@@ -73,28 +26,7 @@
 				"universal": "https://beatmods.com/cdn/mod/740a4551def741ceb608c76e593cfd96.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
-			"dependencies": [
-				{
-					"id": "SongCore",
-					"version": "2.4.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SongCore.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "3.13.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "CustomUI",
-					"version": "1.6.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

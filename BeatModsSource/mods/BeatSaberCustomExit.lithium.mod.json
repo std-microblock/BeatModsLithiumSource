@@ -10,18 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/780d0a8dbc28e10d54e1177cda0b9837.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.5.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "Harmony",
-					"version": "1.2.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

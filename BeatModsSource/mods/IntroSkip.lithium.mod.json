@@ -10,23 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/596e2b18fbaa984f18888d7650c7e2ec.zip"
 			},
 			"requiredGameVersion": "~1.37.4",
-			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.12.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "SiraUtil",
-					"version": "3.1.12",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

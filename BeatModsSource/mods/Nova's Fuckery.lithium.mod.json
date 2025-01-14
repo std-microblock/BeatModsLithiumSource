@@ -5,61 +5,12 @@
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
-			"version": "1.0.0",
-			"downloads": {
-				"universal": "https://beatmods.com/cdn/mod/c65ef8496bbf91bfb810ccb1e3f36a3f.zip"
-			},
-			"requiredGameVersion": "~0.13.2",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.5.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.1.2",
-			"downloads": {
-				"universal": "https://beatmods.com/cdn/mod/b5e9488596355ff3b261d1ce4da860d2.zip"
-			},
-			"requiredGameVersion": "~1.3.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.6.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
-		},
-		{
 			"version": "1.1.1",
 			"downloads": {
 				"universal": "https://beatmods.com/cdn/mod/7b01b7dfe77843032a2a5476300a067f.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.6.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

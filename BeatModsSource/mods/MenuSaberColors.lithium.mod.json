@@ -10,18 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/d0ba59043202197ee2e0203a7503492a.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.0.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.2",
@@ -29,18 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/87892245a043ee8f459f99162643f450.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.0.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.4",
@@ -48,18 +26,7 @@
 				"universal": "https://beatmods.com/cdn/mod/77b721cebdf114390389248d1ad96d40.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.5",
@@ -67,18 +34,7 @@
 				"universal": "https://beatmods.com/cdn/mod/0b7fcf3c4536d3480a46dae48ce1bad0.zip"
 			},
 			"requiredGameVersion": "~1.27.0",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.8",
@@ -86,18 +42,7 @@
 				"universal": "https://beatmods.com/cdn/mod/1d93578234047a3d35b8b34b3812f886.zip"
 			},
 			"requiredGameVersion": "~1.29.0",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.10",
@@ -105,18 +50,7 @@
 				"universal": "https://beatmods.com/cdn/mod/b507b5eb3817a49886e4a944d55bbaf5.zip"
 			},
 			"requiredGameVersion": "~1.37.0",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.10",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.11",
@@ -124,18 +58,7 @@
 				"universal": "https://beatmods.com/cdn/mod/58838f1a1f26c0ef671aa449b6daae83.zip"
 			},
 			"requiredGameVersion": "~1.37.4",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "3.1.12",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

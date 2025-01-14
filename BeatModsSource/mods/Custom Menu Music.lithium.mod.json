@@ -10,18 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/750766eee96a714f87e6d852a485cf9f.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "3.12.20",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.0",
@@ -29,32 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/2f8859aaa32a8b9687d0199bb459ef37.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "BS Utils",
-					"version": "1.3.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.5.3",
-			"downloads": {
-				"universal": "https://beatmods.com/cdn/mod/5abe78c27ec32f207271ca7602fc4c0d.zip"
-			},
-			"requiredGameVersion": "~1.3.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "3.13.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.3.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.6.0",
@@ -62,18 +26,7 @@
 				"universal": "https://beatmods.com/cdn/mod/0087e2e375179726a279624b3875a329.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": [
-				{
-					"id": "BeatSaberMarkupLanguage",
-					"version": "1.3.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BeatSaberMarkupLanguage.lithium.mod.json"
-				},
-				{
-					"id": "BS Utils",
-					"version": "1.4.10",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BS Utils.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

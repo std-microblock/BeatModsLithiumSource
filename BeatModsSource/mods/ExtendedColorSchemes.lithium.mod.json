@@ -10,18 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/cf2377be0620fad5fe24a39dc9e5312a.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": [
-				{
-					"id": "SiraUtil",
-					"version": "2.5.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/SiraUtil.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

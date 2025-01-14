@@ -18,13 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/7a6b676774b2d049b29fc26636cb47c2.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.2",
@@ -32,13 +26,7 @@
 				"universal": "https://beatmods.com/cdn/mod/ca6e762f3c9ad6ee873f5151c2de518a.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.3",
@@ -46,13 +34,7 @@
 				"universal": "https://beatmods.com/cdn/mod/e7b1345f7cb1546768c422e52f227dda.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.4",
@@ -60,13 +42,7 @@
 				"universal": "https://beatmods.com/cdn/mod/fa76b088fbdd944cd74919bc43faec17.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.5",
@@ -74,13 +50,7 @@
 				"universal": "https://beatmods.com/cdn/mod/96f778f06a8301509453543ad30b5149.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.2.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

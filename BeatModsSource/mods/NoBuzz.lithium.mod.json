@@ -10,13 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/bd09b16cd2dfb85ff11a928b12976ff3.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.1",
@@ -24,13 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/b67468b89a24adf4d10742d62902af45.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

@@ -10,18 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/b6889d6af84a68ef959889c6dcde86ce.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
-			"dependencies": [
-				{
-					"id": "bHaptics",
-					"version": "1.4.17",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHaptics.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.1.2",
@@ -29,18 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/25012f953d130064f0752626113ff4d9.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": [
-				{
-					"id": "bHaptics",
-					"version": "1.4.18",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHaptics.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.1.3",
@@ -48,18 +26,7 @@
 				"universal": "https://beatmods.com/cdn/mod/8fed71b36585f6494c3debfa13bf4e06.zip"
 			},
 			"requiredGameVersion": "~1.21.0",
-			"dependencies": [
-				{
-					"id": "bHaptics",
-					"version": "1.4.18",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHaptics.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.1.5",
@@ -67,18 +34,7 @@
 				"universal": "https://beatmods.com/cdn/mod/c326d0eddf415dcd6d6a9649a5067853.zip"
 			},
 			"requiredGameVersion": "~1.34.2",
-			"dependencies": [
-				{
-					"id": "bHaptics",
-					"version": "1.4.18",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHaptics.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.1.6",
@@ -86,18 +42,7 @@
 				"universal": "https://beatmods.com/cdn/mod/de7dcf589413e445faf97eae235b2c42.zip"
 			},
 			"requiredGameVersion": "~1.36.0",
-			"dependencies": [
-				{
-					"id": "bHaptics",
-					"version": "1.4.18",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/bHaptics.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

@@ -10,13 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/1c571b430cae77d0c30038549c0d1998.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.3.0",
@@ -24,13 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/43b8cf73a05b0e69fadabb3da41b082a.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.2.3",
@@ -38,13 +26,7 @@
 				"universal": "https://beatmods.com/cdn/mod/f71bef93a4f36250412a75ed606888f6.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.2.2",
@@ -52,13 +34,7 @@
 				"universal": "https://beatmods.com/cdn/mod/d5f855aa864c407d6e3e7657a515133d.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.3.4",
@@ -66,13 +42,7 @@
 				"universal": "https://beatmods.com/cdn/mod/ad4c4642a76f1d5acc3c4b0e8237b104.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.3.3",
@@ -80,13 +50,7 @@
 				"universal": "https://beatmods.com/cdn/mod/6e420c10f70fcac5f8271c9c672b48ca.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.3.2",
@@ -94,13 +58,7 @@
 				"universal": "https://beatmods.com/cdn/mod/090e8cb00fa4c1414f8a0e06155bf943.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.3.6",
@@ -108,13 +66,7 @@
 				"universal": "https://beatmods.com/cdn/mod/51c96ff6a8282b651b2b38a03fa06f84.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.3.5",
@@ -122,13 +74,7 @@
 				"universal": "https://beatmods.com/cdn/mod/e6ce7cbce7593be3a5d82267bcd5c805.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.3.7",
@@ -136,13 +82,7 @@
 				"universal": "https://beatmods.com/cdn/mod/6c3bf58200c469908608a988e063273d.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.11.2",
@@ -150,18 +90,7 @@
 				"universal": "https://beatmods.com/cdn/mod/ed410fd66abca5cf2a61fb25ffb33946.zip"
 			},
 			"requiredGameVersion": "~1.19.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.0",
@@ -169,27 +98,7 @@
 				"universal": "https://beatmods.com/cdn/mod/16147375a107e40fb51852d4d16546db.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.4.3",
-			"downloads": {
-				"universal": "https://beatmods.com/cdn/mod/a79d2ab37ee1378df5a93b9e61eea3f0.zip"
-			},
-			"requiredGameVersion": "~1.6.1",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.1",
@@ -197,13 +106,7 @@
 				"universal": "https://beatmods.com/cdn/mod/12a2c1ae50c609856d105ae5d6bb5672.zip"
 			},
 			"requiredGameVersion": "~1.6.1",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.10",
@@ -211,13 +114,7 @@
 				"universal": "https://beatmods.com/cdn/mod/3dc79f254bfe1148366f48edb364e5d0.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.9",
@@ -225,32 +122,7 @@
 				"universal": "https://beatmods.com/cdn/mod/c2a13314e84b418c2a9493f7fae8bde4.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.11.1",
-			"downloads": {
-				"universal": "https://beatmods.com/cdn/mod/8ca338a0eb44b2deebd6625c7adf5866.zip"
-			},
-			"requiredGameVersion": "~1.18.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.6",
@@ -258,13 +130,7 @@
 				"universal": "https://beatmods.com/cdn/mod/bd0b1bdc8e91dcb1c3de71b6e3e01daa.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.7",
@@ -272,13 +138,7 @@
 				"universal": "https://beatmods.com/cdn/mod/6c226936d123fb73a071e190d017dc22.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.8",
@@ -286,13 +146,7 @@
 				"universal": "https://beatmods.com/cdn/mod/62b3cde2c59577468293931206bc3030.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.4",
@@ -300,13 +154,7 @@
 				"universal": "https://beatmods.com/cdn/mod/eb279e40c04a6ae4d462faece5f8b471.zip"
 			},
 			"requiredGameVersion": "~1.8.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.11",
@@ -314,13 +162,7 @@
 				"universal": "https://beatmods.com/cdn/mod/8ed16ab981653534729ecb77696d5c98.zip"
 			},
 			"requiredGameVersion": "~1.11.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.6.2",
@@ -328,18 +170,7 @@
 				"universal": "https://beatmods.com/cdn/mod/9394dcd1cd23d03626fc5eaffacb213d.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.6.3",
@@ -347,18 +178,7 @@
 				"universal": "https://beatmods.com/cdn/mod/18f1b45b908d1c6fc622875c250ec56d.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.6.0",
@@ -366,18 +186,7 @@
 				"universal": "https://beatmods.com/cdn/mod/2bd738487f462b3f8d824f1ae5ceff7d.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.6.1",
@@ -385,18 +194,7 @@
 				"universal": "https://beatmods.com/cdn/mod/4f6a8494f0662c37a624a75f8fc81dac.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.6.5",
@@ -404,18 +202,7 @@
 				"universal": "https://beatmods.com/cdn/mod/107ddd22c82f9b643b977bd167d752d8.zip"
 			},
 			"requiredGameVersion": "~1.12.2",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.7.0",
@@ -423,18 +210,7 @@
 				"universal": "https://beatmods.com/cdn/mod/bb44de30358d337fdbc5636bef701414.zip"
 			},
 			"requiredGameVersion": "~1.13.2",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.1.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.8.0",
@@ -442,18 +218,7 @@
 				"universal": "https://beatmods.com/cdn/mod/6ae1187fecd7793a47011f5cbbd9b3c4.zip"
 			},
 			"requiredGameVersion": "~1.13.4",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.10.0",
@@ -461,18 +226,7 @@
 				"universal": "https://beatmods.com/cdn/mod/f45f4f3a68ba5d2b5922320069c66ce5.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.1.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.11.0",
@@ -480,18 +234,7 @@
 				"universal": "https://beatmods.com/cdn/mod/898472ea862d90c63479c4fc3824cac6.zip"
 			},
 			"requiredGameVersion": "~1.16.3",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.7",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.12.0",
@@ -499,18 +242,7 @@
 				"universal": "https://beatmods.com/cdn/mod/641f4aed8ea7dee5685047a2b36caf5f.zip"
 			},
 			"requiredGameVersion": "~1.20.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.12.1",
@@ -518,18 +250,7 @@
 				"universal": "https://beatmods.com/cdn/mod/8830085eba92333893544bffb4699052.zip"
 			},
 			"requiredGameVersion": "~1.26.2",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.12.2",
@@ -537,18 +258,7 @@
 				"universal": "https://beatmods.com/cdn/mod/0e19fb5a18ed1107e3c6c5b9d02211d9.zip"
 			},
 			"requiredGameVersion": "~1.28.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.12.3",
@@ -556,18 +266,7 @@
 				"universal": "https://beatmods.com/cdn/mod/e36dd32163ccb237f35740e179437051.zip"
 			},
 			"requiredGameVersion": "~1.30.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.12.4",
@@ -575,18 +274,7 @@
 				"universal": "https://beatmods.com/cdn/mod/85f0ad478793e9bed98aa44949362c17.zip"
 			},
 			"requiredGameVersion": "~1.31.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.13.0",
@@ -594,18 +282,7 @@
 				"universal": "https://beatmods.com/cdn/mod/01c9d6445852f6690b6619fc2b71931e.zip"
 			},
 			"requiredGameVersion": "~1.33.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.3.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.14.0",
@@ -613,18 +290,7 @@
 				"universal": "https://beatmods.com/cdn/mod/79b6856d66761221162d631ca1ca7511.zip"
 			},
 			"requiredGameVersion": "~1.35.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "4.3.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.14.1",
@@ -632,18 +298,7 @@
 				"universal": "https://beatmods.com/cdn/mod/2cab4ebed41c77aba3c185c1e9af4f92.zip"
 			},
 			"requiredGameVersion": "~1.37.4",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.14.2",
@@ -651,18 +306,7 @@
 				"universal": "https://beatmods.com/cdn/mod/b8245da532d16147d15daab5fc735c46.zip"
 			},
 			"requiredGameVersion": "~1.39.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.9",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				},
-				{
-					"id": "BSIPA",
-					"version": "4.3.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

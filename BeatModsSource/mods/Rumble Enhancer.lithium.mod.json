@@ -10,13 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/c1950c1edcecc39de333052b8bb328b5.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.5.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.0",
@@ -24,13 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/a2a9f9c9cd85dab0ffbea01e0c4ce654.zip"
 			},
 			"requiredGameVersion": "~0.13.2",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.5.6",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.4.3",
@@ -38,32 +26,7 @@
 				"universal": "https://beatmods.com/cdn/mod/633940e7f8d192d86e40132b90ab88f5.zip"
 			},
 			"requiredGameVersion": "~1.0.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.5.8",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				},
-				{
-					"id": "Harmony",
-					"version": "1.2.1",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Harmony.lithium.mod.json"
-				}
-			]
-		},
-		{
-			"version": "1.4.4",
-			"downloads": {
-				"universal": "https://beatmods.com/cdn/mod/707b6ec4450de16295d00d141346be79.zip"
-			},
-			"requiredGameVersion": "~1.1.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.5.11",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

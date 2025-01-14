@@ -10,18 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/5a92e076fd2981eb388a23498973db12.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
-			"dependencies": [
-				{
-					"id": "Custom Sabers",
-					"version": "3.2.2",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Custom Sabers.lithium.mod.json"
-				},
-				{
-					"id": "CustomUI",
-					"version": "1.6.0",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.1.6",
@@ -29,13 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/7897389c936bd5454cabb970cc3a1de7.zip"
 			},
 			"requiredGameVersion": "~1.1.0",
-			"dependencies": [
-				{
-					"id": "CustomUI",
-					"version": "1.5.11",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/CustomUI.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

@@ -10,13 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/e19f6fd395d54de7bfcbbbe3084dea28.zip"
 			},
 			"requiredGameVersion": "~1.29.4",
-			"dependencies": [
-				{
-					"id": "System.IO.Compression",
-					"version": "4.6.57",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/System.IO.Compression.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

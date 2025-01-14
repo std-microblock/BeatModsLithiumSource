@@ -13,27 +13,11 @@
 			"dependencies": []
 		},
 		{
-			"version": "2.5.9",
-			"downloads": {
-				"universal": "https://beatmods.com/cdn/mod/a97855509f3d54fd746692acbc4d2777.zip"
-			},
-			"requiredGameVersion": "~1.18.0",
-			"dependencies": []
-		},
-		{
 			"version": "2.5.7",
 			"downloads": {
 				"universal": "https://beatmods.com/cdn/mod/298318d0fbde4d06e3df0ec915d1a722.zip"
 			},
 			"requiredGameVersion": "~1.16.1",
-			"dependencies": []
-		},
-		{
-			"version": "3.2.1",
-			"downloads": {
-				"universal": "https://beatmods.com/cdn/mod/1a5ff3ab7c71aea0d23e64ebeb063fa9.zip"
-			},
-			"requiredGameVersion": "~1.28.0",
 			"dependencies": []
 		},
 		{

@@ -10,13 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/ec3cf59275c41e840ecbfca1bf7e4793.zip"
 			},
 			"requiredGameVersion": "~1.6.0",
-			"dependencies": [
-				{
-					"id": "BSIPA",
-					"version": "3.13.4",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/BSIPA.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }

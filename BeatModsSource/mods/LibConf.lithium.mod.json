@@ -10,18 +10,7 @@
 				"universal": "https://beatmods.com/cdn/mod/3b15612c97dbd3ac0fd480175cbb071a.zip"
 			},
 			"requiredGameVersion": "~1.3.0",
-			"dependencies": [
-				{
-					"id": "YamlDotNet",
-					"version": "6.1.3",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/YamlDotNet.lithium.mod.json"
-				},
-				{
-					"id": "Ini Parser",
-					"version": "2.5.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		},
 		{
 			"version": "1.0.1",
@@ -29,13 +18,7 @@
 				"universal": "https://beatmods.com/cdn/mod/6b897a6535b74f66229ccd6f748e52e3.zip"
 			},
 			"requiredGameVersion": "~1.5.0",
-			"dependencies": [
-				{
-					"id": "Ini Parser",
-					"version": "2.5.5",
-					"url": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/mods/Ini Parser.lithium.mod.json"
-				}
-			]
+			"dependencies": []
 		}
 	]
 }
