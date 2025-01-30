@@ -1,7 +1,7 @@
 {
 	"name": "PlaylistManager",
 	"author": "BeatMods Import",
-	"description": "Load, Create, Edit and Download Songs of Playlists in Beat Saber",
+	"description": "Load, create, edit and download songs of playlists in Beat Saber.",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{

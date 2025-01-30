@@ -1,7 +1,7 @@
 {
 	"name": "SongPlayHistory",
 	"author": "BeatMods Import",
-	"description": "Track all your scores.",
+	"description": "Track all your scores and song votes. Now comes with ScorePercentage included!",
 	"subscribeUrl": "https://raw.githubusercontent.com/MicroCBer/BeatModsLithiumSource/main/BeatModsSource/beatmods.lithium.source.json",
 	"versions": [
 		{
